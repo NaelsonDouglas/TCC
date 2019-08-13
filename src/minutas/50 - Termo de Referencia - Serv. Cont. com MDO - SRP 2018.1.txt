@@ -1,0 +1,275 @@
+﻿MODELO DE TERMO DE REFERÊNCIA – SERVIÇOS CONTINUADOS SEM MDO EXCLUSIVA 
+
+SISTEMA DE REGISTRO DE PREÇOS
+PREGÃO ELETRÔNICO Nº (...)/(20...)
+Processo Administrativo n° (...)
+
+
+    1. DO OBJETO
+        1.1. Contratação dos serviços de (...), conforme condições, quantidades, exigências e estimativas, inclusive as encaminhadas pelos órgãos e entidades participantes, estabelecidas neste instrumento:
+
+Item
+Especificação
+Unidade
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+Notas explicativas:
+• A tabela acima é meramente ilustrativa; o órgão ou entidade deve elaborá-la da forma que melhor aprouver ao certame licitatório.
+• A regra a ser observada pela Administração nas licitações é a do parcelamento do objeto, conforme disposto no § 1º do art. 23 da Lei nº 8.666, de 1993, mas é imprescindível que a divisão do objeto seja técnica e economicamente viável e não represente perda de economia de escala (Súmula 247 do TCU). Por ser o parcelamento a regra, deve haver justificativa quando este não for adotado.
+• Nos termos do art. 48, inciso I da Lei Complementar n. 123, de 2006 (atualizada pela LC n. 147/2014), a Administração deverá realizar processo licitatório destinado exclusivamente à participação de microempresas e empresas de pequeno porte nos itens de contratação cujo valor seja de até R$ 80.000,00 (oitenta mil reais).
+• Descrever detalhadamente o objeto a ser contratado, com todas as especificações necessárias e suficientes para garantir a qualidade da contração. Deve-se levar em consideração as normas técnicas eventualmente existentes, elaboradas pela Associação Brasileira de Normas Técnicas – ABNT, quanto a requisitos mínimos de qualidade, utilidade, resistência e segurança, nos termos da Lei n° 4.150, de 1962, justificada nos autos a necessidade de sua observância.
+• Limpeza, Conservação e Vigilância: O preço máximo aceitável nos contratos de limpeza, conservação e vigilância deverá estar limitado aos valores máximos indicados pela SLTI/MPOG, em portarias específicas, de acordo com a região onde serão prestados os serviços.
+• Na definição do serviço a ser contratado, são vedadas as especificações que: sejam restritivas, limitando a competitividade do certame, exceto quando necessárias e justificadas pelo órgão contratante; direcionem ou favoreçam a contratação de um prestador específico; não representem a real demanda de desempenho do órgão ou entidade, não se admitindo especificações que não agreguem valor ao resultado da contratação ou sejam superiores às necessidades do órgão; e estejam defasadas tecnológica e/ou metodologicamente ou com preços superiores aos de serviços com melhor desempenho.
+
+        1.2. Estimativas de consumo individualizadas, do órgão gerenciador e órgão(s) e entidade(s) participante(s):
+
+Item (...)
+Órgãos Participantes
+Unidade
+Requisição mínima
+Requisição máxima
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+Quantidade total do Item: (...)
+
+Item (...)
+Órgãos Participantes
+Unidade
+Requisição mínima
+Requisição máxima
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+Quantidade total do Item: (...)
+
+    2. JUSTIFICATIVA E OBJETIVO DA CONTRATAÇÃO
+        2.1. (...)
+
+Nota Explicativa: Deve a Administração justificar:
+a) a necessidade da contratação do serviço;
+b) as especificações técnicas do serviço;
+c) o quantitativo de serviço demandado, que deve se pautar no histórico de utilização do serviço pelo órgão. 
+Quando o serviço possuir características técnicas especializadas, deve o órgão requisitante solicitar à unidade técnica competente a definição das especificações do objeto, e, se for o caso, do quantitativo a ser adquirido.
+
+    3. DA CLASSIFICAÇÃO DOS SERVIÇOS
+        3.1. (...)
+
+Nota Explicativa: deve a Administração definir se a natureza do objeto a ser contratado é comum nos termos do parágrafo único, do art. 1°, da Lei 10.520, de 2002.  
+
+        3.2. Os serviços a serem contratados constituem-se em atividades materiais acessórias, instrumentais ou complementares à área de competência legal do órgão licitante, não inerentes às categorias funcionais abrangidas por seu respectivo plano de cargos.
+        3.3.  A prestação dos serviços não gera vínculo empregatício entre os empregados da Contratada e a Administração, vedando-se qualquer relação entre estes que caracterize pessoalidade e subordinação direta.
+
+    4. FORMA DE PRESTAÇÃO DOS SERVIÇOS
+        4.1. Os serviços serão executados conforme discriminado abaixo:
+            4.1.1. (...)
+            4.1.2. (...)
+
+Nota Explicativa: A descrição das tarefas básicas depende das atribuições específicas do serviço contratado e da realidade de cada órgão. Devem ser detalhadas de forma minuciosa as tarefas a serem desenvolvidas pela Contratada, vez que a Administração só poderá, no momento da fiscalização do contrato, exigir o cumprimento das atividades que tenham sido expressamente arroladas no Termo de Referência.
+ 
+    5. INFORMAÇÕES RELEVANTES PARA O DIMENSIONAMENTO DA PROPOSTA
+        5.1. A demanda do órgão gerenciador e dos participantes tem como base as seguintes características:
+            5.1.1. (...);
+            5.1.2. (...);
+            5.1.3.  (...).
+
+Nota explicativa: Vale lembrar que, sem o conhecimento preciso das particularidades e das necessidades do órgão ou entidade, o licitante terá dificuldade para dimensionar perfeitamente sua proposta, o que poderá acarretar sérios problemas futuros na execução contratual.
+
+    6. METODOLOGIA DE AVALIAÇÃO DA EXECUÇÃO DOS SERVIÇOS
+        6.1. Os serviços deverão ser executados com base nos parâmetros mínimos a seguir estabelecidos:
+            6.1.1. (...);
+            6.1.2. (...);
+            6.1.3. (...).
+
+Nota explicativa: O órgão deve definir, quando cabível, de acordo com cada serviço, a produtividade de referência, ou seja, aquela considerada aceitável para a execução do serviço, sendo expressa pelo quantitativo físico do serviço na unidade de medida adotada.
+
+    7. UNIFORMES
+        7.1. Os uniformes a serem fornecidos pela Contratada a seus empregados deverão ser condizentes com a atividade a ser desempenhada no órgão Contratante, sem qualquer repasse do custo para o empregado, observando o disposto nos itens seguintes:
+        7.2. O uniforme deverá compreender as seguintes peças do vestuário:
+            7.2.1. (...);
+            7.2.2. (...);
+            7.2.3. (...);
+        7.3. As peças devem ser confeccionadas com tecido e material de qualidade, seguindo os seguintes parâmetros mínimos: 
+            7.3.1. (...);
+            7.3.2. (...);
+            7.3.3. (...);
+
+Nota explicativa: É imprescindível que o Termo de Referência traga a descrição detalhada do uniforme a ser utilizado pelos empregados, inclusive quanto aos quantitativos necessários para a prestação do serviço, levando-se em consideração o padrão mantido pelo órgão. Caso se exija padrão de tecido ou material específico, também deve ser descrito em detalhes. Sem tal detalhamento, inviabiliza-se a exigência de padrões mínimos por parte do Pregoeiro, na fase de aceitação da proposta, ou no decorrer da execução do contrato.
+
+        7.4.  O fornecimento dos uniformes deverá ser efetivado da seguinte forma:
+            7.4.1. (...) conjuntos completos ao empregado no início da execução do contrato, devendo ser substituído 01 (um) conjunto completo de uniforme a cada 06 (seis) meses, ou a qualquer época, no prazo máximo de (...) (...) horas, após comunicação escrita da Contratante, sempre que não atendam as condições mínimas de apresentação;
+            7.4.2. No caso de empregada gestante, os uniformes deverão ser apropriados para a situação, substituindo-os sempre que estiverem apertados;
+
+Nota explicativa: O órgão deve adaptar este item de acordo com as especificidades do serviço e do local de prestação.
+
+        7.5.  Os uniformes deverão ser entregues mediante recibo, cuja cópia, devidamente acompanhada do original para conferência, deverá ser enviada ao servidor responsável pela fiscalização do contrato 
+
+    8. MATERIAIS A SEREM DISPONIBILIZADOS
+        8.1. Para a perfeita execução dos serviços, a Contratada deverá disponibilizar os materiais, equipamentos, ferramentas e utensílios necessários, nas quantidades estimadas e qualidades a seguir estabelecidas, promovendo sua substituição quando necessário:
+            8.1.1. (...);
+            8.1.2. (...);
+            8.1.3. (...).
+
+Nota explicativa: Este item só deverá constar no Termo de Referência caso os serviços englobem também a disponibilização de material de consumo e de uso duradouro em favor da Administração, devendo, nesse caso, ser fixada a previsão da estimativa de consumo e de padrões mínimos de qualidade.
+
+    9. EXECUÇÃO DOS SERVIÇOS E SEU RECEBIMENTO 
+        9.1.  A execução dos serviços será iniciada a partir do recebimento da Ordem de Execução.
+        9.2.  Os serviços serão recebidos provisoriamente no prazo de (...) dias, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes neste Termo de Referência e na proposta. 
+        9.3.  Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, devendo ser corrigidos, refeitos ou substituídos no prazo fixado pelo fiscal do contrato, às custas da Contratada, sem prejuízo da aplicação de penalidades.
+        9.4.  Os serviços serão recebidos definitivamente no prazo de (...) dias, contados do recebimento provisório, após a verificação da qualidade e quantidade do serviço executado e materiais empregados, com a consequente aceitação mediante termo circunstanciado.
+            9.4.1.  Na hipótese de não se proceder à verificação a que se refere o subitem anterior dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do esgotamento do prazo.
+        9.5.  O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da Contratada pelos prejuízos resultantes da incorreta execução do contrato.
+
+    10. DA VISTORIA
+        10.1. A licitante poderá realizar vistoria nas instalações do local de execução do serviço, acompanhado por servidor designado para esse fim, de segunda a sexta-feira, das (...) horas às (...) horas, devendo o agendamento ser efetuado previamente pelo telefone (...);
+                    8.1.1.1.1. O prazo para vistoria iniciar-se-á no dia útil seguinte ao da publicação do Edital, estendendo-se até o dia útil anterior à data prevista para a abertura da sessão pública.
+                    8.1.1.1.2. Para a vistoria, o licitante, ou o seu representante, deverá estar devidamente identificado.
+
+    11. OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+        11.1. São obrigações da Contratante:
+            11.1.1. Exigir o cumprimento de todas as obrigações assumidas pela Contratada, de acordo com as cláusulas contratuais e os termos de sua proposta;
+            11.1.2. Exercer o acompanhamento e a fiscalização dos serviços, por servidor especialmente designado, anotando em registro próprio as falhas detectadas, indicando dia, mês e ano, bem como o nome dos empregados eventualmente envolvidos, e encaminhando os apontamentos à autoridade competente para as providências cabíveis;
+            11.1.3. Notificar a Contratada por escrito da ocorrência de eventuais imperfeições no curso da execução dos serviços, fixando prazo para a sua correção;
+            11.1.4. Não permitir que os empregados da Contratada realizem horas extras, exceto em caso de comprovada necessidade de serviço, formalmente justificada pela autoridade do órgão para o qual o trabalho seja prestado e desde que observado o limite da legislação trabalhista;
+            11.1.5. Pagar à Contratada o valor resultante da prestação do serviço, no prazo e condições estabelecidas no Edital e seus anexos;
+            11.1.6. Efetuar as retenções tributárias devidas sobre o valor da Nota Fiscal/Fatura fornecida pela contratada;
+            11.1.7. Não praticar atos de ingerência na administração da Contratada, tais como:
+                11.1.7.1. Exercer o poder de mando sobre os empregados da Contratada, devendo reportar-se somente aos prepostos ou responsáveis por ela indicados, exceto quando o objeto da contratação previr o atendimento direto, tais como nos serviços de recepção e apoio ao usuário;
+                11.1.7.2. Direcionar a contratação de pessoas para trabalhar nas empresas Contratadas;
+                11.1.7.3. Promover ou aceitar o desvio de funções dos trabalhadores da Contratada, mediante a utilização destes em atividades distintas daquelas previstas no objeto da contratação e em relação à função específica para a qual o trabalhador foi contratado; 
+                11.1.7.4. Considerar os trabalhadores da Contratada como colaboradores eventuais do próprio órgão ou entidade responsável pela contratação, especialmente para efeito de concessão de diárias e passagens.
+            11.1.8. Analisar os termos de rescisão dos contratos de trabalho do pessoal empregado na prestação dos serviços no prazo de 30 (trinta) dias, prorrogável por igual período, após a extinção ou rescisão do contrato.
+        11.2. São obrigações da Contratada:
+            11.2.1. Executar os serviços conforme especificações deste Termo de Referência e de sua proposta, com a alocação dos empregados necessários ao perfeito cumprimento das cláusulas contratuais, além de fornecer os materiais e equipamentos, ferramentas e utensílios necessários, na qualidade e quantidade especificadas neste Termo de Referência e em sua proposta;
+            11.2.2. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo fixado pelo fiscal do contrato, os serviços efetuados em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou dos materiais empregados;
+            11.2.3. Manter o empregado nos horários predeterminados pela Administração;
+            11.2.4. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo com os artigos 14 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990), ficando a Contratante autorizada a descontar da garantia, caso exigida no edital, ou dos pagamentos devidos à Contratada, o valor correspondente aos danos sofridos;
+            11.2.5. Utilizar empregados habilitados e com conhecimentos básicos dos serviços a serem executados, em conformidade com as normas e determinações em vigor;
+            11.2.6. Vedar a utilização, na execução dos serviços, de empregado que seja familiar de agente público ocupante de cargo em comissão ou função de confiança no órgão Contratante;
+            11.2.7. Apresentar os empregados devidamente uniformizados e identificados por meio de crachá, além de provê-los com os Equipamentos de Proteção Individual - EPI, quando for o caso;
+            11.2.8. Apresentar, no primeiro mês de prestação dos serviços, a seguinte documentação:
+                11.2.8.1. Relação dos empregados, contendo nome completo, cargo ou função, horário do posto de trabalho, números da carteira de identidade (RG) e da inscrição no Cadastro de Pessoas Físicas (CPF), com indicação dos responsáveis técnicos pela execução dos serviços, quando for o caso;
+                11.2.8.2. Carteira de Trabalho e Previdência Social (CTPS) dos empregados admitidos e dos responsáveis técnicos pela execução dos serviços, quando for o caso, devidamente assinada pela contratada;
+                11.2.8.3. Exames médicos admissionais dos empregados da contratada que prestarão os serviços.
+                11.2.8.4. Os documentos acima mencionados deverão ser apresentados para cada novo empregado que se vincule à prestação do contrato administrativo. De igual modo, o desligamento de empregados no curso do contrato de prestação de serviços deve ser devidamente comunicado, com toda a documentação pertinente ao empregado dispensado, à semelhança do que se exige quando do encerramento do contrato administrativo.
+            11.2.9. Quando não for possível a verificação da regularidade no Sistema de Cadastro de Fornecedores – SICAF, entregar ao setor responsável pela fiscalização do contrato, até o dia trinta do mês seguinte ao da prestação dos serviços, os seguintes documentos: 1) prova de regularidade relativa à Seguridade Social; 2) certidão conjunta relativa aos tributos federais e à Dívida Ativa da União; 3) certidões que comprovem a regularidade perante as Fazendas Estadual, Distrital e Municipal do domicílio ou sede do contratado; 4) Certidão de Regularidade do FGTS – CRF; e 5) Certidão Negativa de Débitos Trabalhistas – CNDT;
+            11.2.10. Substituir, no prazo de (...horas...), em caso de eventual ausência, tais como, faltas, férias e licenças, o empregado posto a serviço da Contratante, devendo identificar previamente o respectivo substituto ao Fiscal do Contrato;
+            11.2.11. Responsabilizar-se por todas as obrigações trabalhistas, sociais, previdenciárias, tributárias e as demais previstas na legislação específica, cuja inadimplência não transfere responsabilidade à Contratante;
+            11.2.12. Efetuar o pagamento dos salários dos empregados alocados na execução contratual mediante depósito na conta bancária de titularidade do trabalhador, em agência situada na localidade ou região metropolitana em que ocorre a prestação dos serviços, de modo a possibilitar a conferência do pagamento por parte da Contratante;
+                11.2.12.1. Em caso de impossibilidade de cumprimento desta disposição, a contratada deverá apresentar justificativa, a fim de que a Administração analise sua plausibilidade e possa verificar a realização do pagamento.
+            11.2.13. Autorizar a Administração contratante, no momento da assinatura do contrato, a fazer o desconto nas faturas e realizar os pagamentos dos salários e demais verbas trabalhistas diretamente aos trabalhadores, bem como das contribuições previdenciárias e do FGTS, quando não demonstrado o cumprimento tempestivo e regular dessas obrigações, até o momento da regularização, sem prejuízo das sanções cabíveis.
+                11.2.13.1. Quando não for possível a realização desses pagamentos pela própria Administração (ex.: por falta da documentação pertinente, tais como folha de pagamento, rescisões dos contratos e guias de recolhimento), os valores retidos cautelarmente serão depositados junto à Justiça do Trabalho, com o objetivo de serem utilizados exclusivamente no pagamento de salários e das demais verbas trabalhistas, bem como das contribuições sociais e FGTS decorrentes;
+            11.2.14. Autorizar o provisionamento de valores para o pagamento das férias, 13º salário e rescisão contratual dos trabalhadores da contratada, bem como de suas repercussões trabalhistas, fundiárias e previdenciárias, que serão depositados pela contratante em conta-depósito vinculada específica, em nome do prestador dos serviços, bloqueada para movimentação os quais somente serão liberados para o pagamento direto dessas verbas aos trabalhadores;
+            11.2.15. Atender as solicitações da Contratante quanto à substituição dos empregados alocados, no prazo fixado pelo fiscal do contrato, nos casos em que ficar constatado descumprimento das obrigações relativas à execução do serviço, conforme descrito neste Termo de Referência;
+            11.2.16. Instruir seus empregados quanto à necessidade de acatar as normas internas da Administração;
+            11.2.17. Instruir seus empregados a respeito das atividades a serem desempenhadas, alertando-os a não executar atividades não abrangidas pelo contrato, devendo a Contratada relatar à Contratante toda e qualquer ocorrência neste sentido, a fim de evitar desvio de função;
+            11.2.18. Instruir seus empregados, no início da execução contratual, quanto à obtenção das informações de seus interesses junto aos órgãos públicos, relativas ao contrato de trabalho e obrigações a ele inerentes, adotando, entre outras, as seguintes medidas:
+                11.2.18.1. Viabilizar o acesso de seus empregados via internet, por meio de senha própria, aos sistemas da Previdência Social e da Receita do Brasil, com o objetivo de verificar se as suas contribuições previdenciárias foram recolhidas, no prazo máximo de 60 (sessenta) dias, contados do início da prestação dos serviços ou da admissão do empregado;
+                11.2.18.2. Viabilizar a emissão do cartão cidadão pela Caixa Econômica Federal para todos os empregados, no prazo máximo de 60 (sessenta) dias, contados do início da prestação dos serviços ou da admissão do empregado;
+                11.2.18.3. Oferecer todos os meios necessários aos seus empregados para a obtenção de extratos de recolhimentos de seus direitos sociais, preferencialmente por meio eletrônico, quando disponível.
+            11.2.19. Deter instalações, aparelhamento e pessoal técnico adequados e disponíveis para a realização do objeto da licitação;
+            11.2.20. Manter preposto nos locais de prestação de serviço, aceito pela Administração, para representá-la na execução do contrato;
+            11.2.21. Relatar à Contratante toda e qualquer irregularidade verificada no decorrer da prestação dos serviços;
+            11.2.22. Fornecer, sempre que solicitados pela Contratante, os comprovantes do cumprimento das obrigações previdenciárias, do Fundo de Garantia do Tempo de Serviço - FGTS, e do pagamento dos salários e demais benefícios trabalhistas dos empregados colocados à disposição da Contratante;
+            11.2.23. Não permitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na condição de aprendiz para os maiores de quatorze anos; nem permitir a utilização do trabalho do menor de dezoito anos em trabalho noturno, perigoso ou insalubre;
+            11.2.24. Manter durante toda a vigência do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+            11.2.25. Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do contrato;
+            11.2.26. Não beneficiar-se da condição de optante pelo Simples Nacional, salvo as exceções previstas no § 5º-C do art. 18 da Lei Complementar no 123, de 14 de dezembro de 2006;
+            11.2.27. Comunicar formalmente à Receita Federal a assinatura do contrato de prestação de serviços mediante cessão de mão de obra, salvo as exceções previstas no § 5º-C do art. 18 da Lei Complementar no 123, de 14 de dezembro de 2006, para fins de exclusão obrigatória do Simples Nacional a contar do mês seguinte ao da contratação, conforme previsão do art.17, XII, art.30, §1º, II e do art. 31, II, todos da LC 123, de 2006;
+                11.2.27.1. Para efeito de comprovação da comunicação, a contratada deverá apresentar cópia do ofício enviado à Receita Federal do Brasil, com comprovante de entrega e recebimento, comunicando a assinatura do contrato de prestação de serviços mediante cessão de mão de obra, até o último dia útil do mês subsequente ao da ocorrência da situação de vedação.
+            11.2.28. Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos de sua proposta, devendo complementá-los, caso o previsto inicialmente em sua proposta não seja satisfatório para o atendimento ao objeto da licitação, exceto quando ocorrer algum dos eventos arrolados nos incisos do § 1º do art. 57 da Lei nº 8.666, de 1993;
+            11.2.29. Sujeitar-se à retenção da garantia prestada e dos valores das faturas correspondentes a 1 (um) mês de serviços, por ocasião do encerramento da prestação dos serviços contratados, podendo a Administração Contratante utilizá-los para o pagamento direto aos trabalhadores vinculados ao contrato no caso da não comprovação (1) do pagamento das respectivas verbas rescisórias ou (2) da realocação dos trabalhadores em outra atividade de prestação de serviços.
+
+Nota explicativa: Os itens acima são o mínimo necessário; as peculiaridades da contratação podem recomendar a adoção de outras obrigações.
+
+    12. DA SUBCONTRATAÇÃO
+        12.1. Não será admitida a subcontratação do objeto licitatório.
+
+    13. ALTERAÇÃO SUBJETIVA
+        13.1.  É admissível a fusão, cisão ou incorporação da contratada com ou em outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da Administração à continuidade do contrato.
+
+    14. CONTROLE E FISCALIZAÇÃO DA EXECUÇÃO
+        14.1. O acompanhamento e a fiscalização da execução do contrato consistem na verificação da conformidade da prestação dos serviços e da alocação dos recursos necessários, de forma a assegurar o perfeito cumprimento do ajuste, devendo ser exercidos por um ou mais representantes da Contratante, especialmente designados, na forma dos arts. 67 e 73 da Lei nº 8.666, de 1993.
+        14.2. O representante da Contratante deverá ter a experiência necessária para o acompanhamento e controle da execução dos serviços e do contrato.
+        14.3. A verificação da adequação da prestação do serviço deverá ser realizada com base nos critérios previstos neste Termo de Referência.
+        14.4. A execução dos contratos deverá ser acompanhada e fiscalizada por meio de instrumentos de controle, que compreendam a mensuração dos seguintes aspectos:
+            14.4.1. Os resultados alcançados em relação ao objeto contratado, com a verificação dos prazos de execução e da qualidade demandada; 
+            14.4.2.  Os recursos humanos empregados, em função da quantidade e da formação profissional exigidas;
+            14.4.3.  A qualidade e quantidade dos recursos materiais, equipamentos e utensílios utilizados;
+            14.4.4.  A adequação dos serviços prestados à rotina de execução estabelecida;
+            14.4.5.  O cumprimento das demais obrigações decorrentes do contrato; 
+            14.4.6.  A satisfação da Administração usuária.
+        14.5.  O fiscal do contrato, ao verificar que houve subdimensionamento da produtividade pactuada, sem perda da qualidade na execução do serviço, deverá comunicar à autoridade responsável para que esta promova a adequação contratual à produtividade efetivamente realizada, respeitando-se os limites de alteração dos valores contratuais previstos no § 1º do artigo 65 da Lei nº 8.666, de 1993.
+        14.6. A conformidade do material a ser utilizado na execução dos serviços deverá ser verificada juntamente com o documento da Contratada que contenha a relação detalhada dos mesmos, de acordo com o estabelecido neste Termo de Referência e na proposta, informando as respectivas quantidades e especificações técnicas, tais como: marca, qualidade e forma de uso.
+        14.7. O representante da Contratante deverá promover o registro das ocorrências verificadas, adotando as providências necessárias ao fiel cumprimento das cláusulas contratuais, conforme o disposto nos §§ 1º e 2º do art. 67 da Lei nº 8.666, de 1993.
+        14.8. O descumprimento total ou parcial das demais obrigações e responsabilidades assumidas pela Contratada ensejará a aplicação de sanções administrativas, previstas neste Termo de Referência e na legislação vigente, podendo culminar em rescisão contratual, conforme disposto nos artigos 77 e 80 da Lei nº 8.666, de 1993.
+        14.9.  A fiscalização da execução dos serviços abrange, ainda, as seguintes rotinas:
+            14.9.1. (...);
+            14.9.2. (...);
+            14.9.3.  (...).
+
+Nota explicativa: Caso as especificidades do serviço demandem uma rotina de fiscalização própria, o órgão deve descrevê-la neste item.
+
+        14.10.  A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade da Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas, vícios redibitórios, ou emprego de material inadequado ou de qualidade inferior e, na ocorrência desta, não implica corresponsabilidade da Contratante ou de seus agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de 1993.
+
+    15. DAS SANÇÕES ADMINISTRATIVAS
+        15.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei 12.846, de 2013, a Contratada que:
+            15.1.1. Inexecutar total ou parcialmente qualquer das obrigações assumidas em decorrência da contratação;
+            15.1.2. Ensejar o retardamento da execução do objeto;
+            15.1.3. Fraudar na execução do contrato;
+            15.1.4. Comportar-se de modo inidôneo;
+            15.1.5. Cometer fraude fiscal;
+            15.1.6. Não mantiver a proposta;
+            15.1.7. Criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar contrato administrativo;
+            15.1.8. Obtiver vantagem ou benefício indevido, de modo fraudulento, de modificações ou prorrogações de contratos celebrados com a administração pública, sem autorização em lei, no ato convocatório da licitação pública ou nos respectivos instrumentos contratuais;
+            15.1.9. Manipular ou fraudar o equilíbrio econômico-financeiro dos contratos celebrados com a administração pública;
+        15.2.  A Contratada que cometer qualquer das infrações discriminadas no subitem acima ficará sujeita, sem prejuízo da responsabilidade civil e criminal, às sanções previstas Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei 12.846, de 2013, observado o Decreto nº 4.054, de 19 de setembro de 2008.
+        15.3. Também ficam sujeitas às penalidades do art. 87, III e IV da Lei nº 8.666, de 1993, a Contratada que:
+            15.3.1. Tenha sofrido condenação definitiva por praticar, por meio dolosos, fraude fiscal no recolhimento de quaisquer tributos;
+            15.3.2. Tenha praticado atos ilícitos visando a frustrar os objetivos da licitação;
+            15.3.3. Demonstre não possuir idoneidade para contratar com a Administração em virtude de atos ilícitos praticados.
+        15.4. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa à Contratada, observando-se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+        15.5. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano causado à Administração, observado o princípio da proporcionalidade.
+
+Maceió (AL), (...) de (...) de (20...).
+
+
+Identificação e assinatura do servidor (ou equipe) responsável

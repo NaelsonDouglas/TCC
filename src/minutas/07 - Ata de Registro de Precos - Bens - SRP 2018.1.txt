@@ -1,0 +1,167 @@
+﻿Os itens deste modelo destacados em vermelho devem ser preenchidos, adotados ou substituídos pelo órgão ou entidade pública licitante, de acordo com as peculiaridades do objeto da licitação e critérios de oportunidade e conveniência, cuidando-se para que sejam reproduzidas as mesmas definições nos demais instrumentos da licitação, para que não conflitem.
+Alguns itens receberão notas explicativas, destacadas para compreensão do agente ou setor responsável pela elaboração do Termo de Referência, as quais deverão ser devidamente suprimidas ao se finalizar o documento na versão original.
+Os órgãos assessorados deverão manter as notas de rodapé dos modelos utilizados para a elaboração das minutas e demais anexos, a fim de que os órgãos consultivos, ao examinarem os documentos, estejam certos de que os modelos são os corretos. A versão final do texto, após aprovada pelo órgão consultivo, deverá excluir a referida nota.
+
+MODELO DE ATA DE REGISTRO DE PREÇOS – BENS – SRP
+
+ATA DE REGISTRO DE PREÇOS
+Processo Administrativo n° (...)
+
+A Agência de Modernização da Gestão de Processos – AMGESP, com sede na (...endereço...), inscrita no CNPJ/MF sob o nº (...), neste ato representada pelo seu Diretor Presidente, nomeado pela Portaria nº (...)/(...), publicada no Diário Oficial do Estado de Alagoas de (...)/(...)/(...), inscrito no CPF sob o nº (...), considerando o julgamento da licitação na modalidade de pregão, na forma eletrônica, para REGISTRO DE PREÇOS nº (...)/(20...), publicado no Diário Oficial do Estado de Alagoas de (...)/(...)/(...), RESOLVE registrar os preços da(s) empresa(s) indicada(s) e qualificada(s) nesta ATA, de acordo com a classificação por ela(s) alcançada(s) e na(s)  quantidade(s)  cotada(s), atendendo as condições previstas no Edital, sujeitando-se as partes às normas constantes na Lei nº 8.666, de 21 de junho de 1993 e suas alterações, no Decreto nº 29.342, de 28 de novembro de 2013, e em conformidade com as disposições a seguir:
+
+    1. OBJETO
+        1.1. A presente Ata tem por objeto o registro de preços para a futura e eventual aquisição de (...), especificado(s) no(s) item(ns) (...), (...) e (...) do Termo de Referência anexo do Edital de Pregão, que é parte integrante desta Ata, assim como a proposta vencedora, independentemente de transcrição.
+
+    2. PREÇOS, ESPECIFICAÇÕES E QUANTITATIVOS
+        2.1. O preço registrado, as especificações do objeto, a quantidade, fornecedor(es) e as demais condições ofertadas na(s) proposta(s) são as que seguem:
+FORNECEDOR: (...razão social, CNPJ/MF, endereço, endereço eletrônico, telefone(s), representante do fornecedor...)
+Item do
+TR
+Especificação
+Marca
+Modelo
+Unidade de Medida
+Quantidade
+Valor unitário
+Prazo de garantia/ Validade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+    3. ÓRGÃOS PARTICIPANTES
+        3.1. São órgãos e entidades públicas participantes do registro de preços:
+Item (...)
+Órgãos Participantes
+Unidade
+Requisição mínima
+Requisição máxima
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+Quantidade total do Item: (...)
+
+Item (...)
+Órgãos Participantes
+Unidade
+Requisição mínima
+Requisição máxima
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+Quantidade total do Item: (...)
+
+Item (...)
+Órgãos Participantes
+Unidade
+Requisição mínima
+Requisição máxima
+Quantidade
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+(...)
+
+(...)
+(...)
+(...)
+Quantidade total do Item: (...)
+
+    4. VALIDADE DA ATA
+        4.1. A validade da Ata de Registro de Preços será de 12 meses, a partir da data de publicação do seu extrato no Diário Oficial do Estado, não podendo ser prorrogada.
+
+    5. REVISÃO E CANCELAMENTO
+        5.1. A Administração realizará pesquisa de mercado periodicamente, em intervalos não superiores a 180 (cento e oitenta) dias, a fim de verificar a vantajosidade dos preços registrados nesta Ata.
+        5.2. Os preços registrados poderão ser revistos em decorrência de eventual redução dos preços praticados no mercado ou de fato que eleve o custo do objeto registrado, cabendo à Administração promover as negociações junto ao(s) fornecedor(es).
+        5.3. Quando o preço registrado tornar-se superior ao preço praticado no mercado por motivo superveniente, a Administração convocará o(s) fornecedor(es) para negociar(em) a redução dos preços aos valores praticados pelo mercado.
+        5.4. O fornecedor que não aceitar reduzir seu preço ao valor praticado pelo mercado será liberado do compromisso assumido, sem aplicação de penalidade.
+            5.4.1. A ordem de classificação dos fornecedores que aceitarem reduzir seus preços aos valores de mercado observará a classificação original.
+        5.5. Quando o preço de mercado tornar-se superior aos preços registrados e o fornecedor não puder cumprir o compromisso, o órgão gerenciador poderá:
+            5.5.1. Liberar o fornecedor do compromisso assumido, caso a comunicação ocorra antes do pedido de fornecimento, e sem aplicação da penalidade se confirmada a veracidade dos motivos e comprovantes apresentados; e
+            5.5.2. Convocar os demais fornecedores para assegurar igual oportunidade de negociação.
+        5.6. Não havendo êxito nas negociações, o órgão gerenciador deverá proceder à revogação desta ata de registro de preços, adotando as medidas cabíveis para obtenção da contratação mais vantajosa.
+        5.7. O registro do fornecedor será cancelado quando:
+            5.7.1. Descumprir as condições da ata de registro de preços;
+            5.7.2. Não retirar a nota de empenho ou instrumento equivalente no prazo estabelecido pela Administração, sem justificativa aceitável;
+            5.7.3. Não aceitar reduzir o seu preço registrado, na hipótese deste se tornar superior àqueles praticados no mercado; ou
+            5.7.4. Sofrer sanção administrativa cujo efeito torne-o proibido de celebrar contrato administrativo, alcançando o órgão gerenciador e órgão(s) participante(s).
+        5.8. O cancelamento de registros nas hipóteses previstas nos itens 5.7.1, 5.7.2 e 5.7.4 será formalizado por despacho do órgão gerenciador, assegurado o contraditório e a ampla defesa.
+        5.9. O cancelamento do registro de preços poderá ocorrer por fato superveniente, decorrente de caso fortuito ou força maior, que prejudique o cumprimento da ata, devidamente comprovados e justificados:
+            5.9.1. Por razão de interesse público; ou
+            5.9.2. A pedido do fornecedor. 
+
+    6. CONDIÇÕES GERAIS
+        6.1. As condições gerais do fornecimento, tais como os prazos para entrega e recebimento do objeto, as obrigações da Administração e do fornecedor registrado, penalidades e demais condições do ajuste, encontram-se definidos no Termo de Contrato ou Termo de Referência.
+        6.2. É vedado efetuar acréscimos nos quantitativos fixados nesta ata de registro de preços, inclusive o acréscimo de que trata o § 1º do art. 65 da Lei nº 8.666/93.
+        6.3. A ata de realização da sessão pública do Pregão que contenha a relação dos licitantes integrantes do cadastro de reserva, que aceitaram cotar o objeto com preços iguais ao do licitante vencedor do certame, será anexada à Ata de Registro de Preços, nos termos do art. 10, inciso I, do Decreto nº 29.342, de 2013.
+
+Para firmeza e validade do pactuado, a presente Ata foi lavrada em 02 (duas) vias de igual teor, a qual, depois de lida e achada em ordem, vai assinada pelas partes, encaminhada cópia aos órgãos participantes. 
+
+Maceió (AL), (...) de (...) de (20...).
+
+
+___________________________________________
+ÓRGÃO GERENCIADOR
+
+___________________________________________
+FORNECEDOR REGISTRADO
+
+___________________________________________
+TESTEMUNHA - CPF Nº
+
+___________________________________________
+TESTEMUNHA - CPF Nº
+

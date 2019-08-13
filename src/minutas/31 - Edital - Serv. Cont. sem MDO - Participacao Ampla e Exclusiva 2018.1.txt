@@ -1,0 +1,337 @@
+﻿	MODELO DE EDITAL – SERVIÇOS CONTINUADOS SEM MDO EXCLUSIVA
+
+PREGÃO ELETRÔNICO Nº (...)/(20...)
+Processo Administrativo n.° (...)
+
+Torna-se público, para conhecimento dos interessados, que o(a) (...órgão/entidade pública...), por meio do Pregoeiro e equipe de apoio designados pela Portaria n° (...)/(...), publicada no Diário Oficial de Alagoas de (...)/(...)/(...), sediado(a) na (...endereço...), realizará licitação, na modalidade PREGÃO, na forma ELETRÔNICA, do tipo menor preço  (...por item/por lote de itens/global...), nos termos da Lei nº 10.520, de 17 de julho de 2002, do Decreto nº 1.424, de 22 de agosto de 2003, da Lei Complementar n° 123, de 14 de dezembro de 2006, da Lei nº 11.488, de 15 de junho de 2007, aplicando-se, subsidiariamente, a Lei nº 8.666, de 21 de junho de 1993, e as exigências estabelecidas neste Edital. 
+
+Data da sessão: (...)
+Horário: (...)
+Local: (...provedor do sistema...)
+
+    1. DO OBJETO
+        1.1. O objeto da presente licitação é a escolha da proposta mais vantajosa para a contratação dos serviços de (...), conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+
+    2. DOS RECURSOS ORÇAMENTÁRIOS
+        2.1. As despesas para atender a esta licitação estão programadas em dotação orçamentária própria, prevista no orçamento do Estado de Alagoas para o exercício de (20...), na classificação abaixo:
+Gestão/Unidade:  
+Fonte: 
+Programa de Trabalho:  
+Elemento de Despesa:  
+PI:
+
+    3. DO CREDENCIAMENTO
+        3.1. O credenciamento junto ao provedor do sistema implica a responsabilidade do licitante ou de seu representante legal e a presunção de sua capacidade técnica para realização das transações inerentes a este Pregão.
+        3.2. O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema, ou ao órgão ou entidade responsável por esta licitação, responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros.
+        3.3. A perda da senha ou a quebra de sigilo deverá ser comunicada imediatamente ao provedor do sistema para imediato bloqueio de acesso.
+
+    4. DA PARTICIPAÇÃO NO PREGÃO
+        4.1. Poderão participar deste Pregão interessados cujo ramo de atividade seja compatível com o objeto desta licitação, e que estejam previamente credenciados perante o provedor do sistema eletrônico no prazo mínimo de 03 (três) dias úteis antes da data de realização da sessão, nos termos do caput do art. 4º, Anexo II, do Decreto Estadual nº 1.424/2003.
+        4.2. Em relação aos itens (...), (...), (...) a participação é exclusiva a microempresas e empresas de pequeno porte.
+        4.3. Não poderão participar desta licitação os interessados:
+            4.3.1. Proibidos de participar de licitações e celebrar contratos administrativos, na forma da legislação vigente;
+            4.3.2. Estrangeiros que não tenham representação legal no Brasil com poderes expressos para receber citação e responder administrativa ou judicialmente;
+            4.3.3. Que se enquadrem nas vedações previstas no artigo 9º da Lei nº 8.666, de 1993;
+            4.3.4. Que estejam sob falência, em recuperação judicial ou extrajudicial, concurso de credores, concordata ou insolvência, em processo de dissolução ou liquidação;
+            4.3.5. Que estejam reunidos em consórcio.
+        4.4. Será permitida a participação de cooperativas, desde que apresentem modelo de gestão operacional adequado ao objeto desta licitação, com compartilhamento ou rodízio das atividades de coordenação e supervisão da execução dos serviços, e desde que os serviços contratados sejam executados obrigatoriamente pelos cooperados, vedando-se qualquer intermediação ou subcontratação.
+
+Nota explicativa: O item acima deverá ser incluído no edital apenas quando as tarefas a serem executadas pelos cooperados forem passíveis de execução autônoma, sem relação de subordinação, seja entre a cooperativa e os cooperados, seja entre estes e a Administração. Não incluído esse subitem, as demais disposições do Edital devem ser adaptadas a esta nova condição.
+
+        4.5. Como condição para participação no Pregão, a licitante registrará, em campo próprio do sistema eletrônico, as seguintes declarações:
+            4.5.1. Que cumpre os requisitos estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006, estando apta a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49;
+4.4.2. Que está ciente e concorda com as condições contidas no Edital e seus anexos, bem como de que cumpre plenamente os requisitos de habilitação definidos no Edital;
+            4.4.3. Que inexistem fatos impeditivos para sua habilitação no certame, ciente da obrigatoriedade de declarar ocorrências posteriores; 
+            4.4.4. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, XXXIII, da Constituição.
+
+    5. DO ENVIO DA PROPOSTA
+        5.1. O licitante deverá encaminhar a proposta por meio do sistema eletrônico até a data e horário marcados para abertura da sessão, quando, então, encerrar-se-á automaticamente a fase de recebimento de propostas.
+        5.2. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de Brasília – DF.
+        5.3. O licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas e lances. 
+        5.4. Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios, diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão.
+            5.4.1. Se a desconexão do sistema perdurar por tempo superior a 15 (quinze) minutos, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido no Aviso de Licitação original, desde o ponto em que foi interrompida.
+        5.5. Até a abertura da sessão, os licitantes poderão retirar ou substituir as propostas apresentadas.  
+        5.6. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes campos:
+            5.6.1. Valor mensal e total do objeto; 
+            5.6.2. Descrição detalhada do objeto, indicando, quando for o caso, o quantitativo e as especificações dos materiais e equipamentos que serão utilizados na execução dos serviços; 
+        5.7. Todas as especificações do objeto contidas na proposta vinculam a Contratada. 
+        5.8. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na prestação dos serviços.
+        5.9. Quando se tratar de cooperativa de serviço, o licitante preencherá, no campo condições da proposta do sistema eletrônico, o valor correspondente ao percentual de que trata o art. 22, inciso IV, da Lei nº 8.212, de 24.07.91, com a redação da Lei nº 9.876, de 26.11.99, também referido no art. 72 da Instrução Normativa/RFB Nº 971, de 13 de novembro de 2009 (DOU 17.11.2009).
+
+Nota explicativa: Esse item acima deve constar no Edital somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        5.10. O prazo de validade da proposta não será inferior 60 (sessenta) dias, a contar da data de sua apresentação. 
+
+    6. DAS PROPOSTAS E FORMULAÇÃO DE LANCES
+        6.1. A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema eletrônico, na data, horário e local indicados neste Edital.
+            6.1.1. A não realização da sessão pública na data, horário e local indicados neste Edital exigirá nova divulgação do Aviso de Licitação, pela mesma forma em que se deu o texto original, reabrindo-se o prazo inicialmente estabelecido.  
+        6.2. O Pregoeiro verificará as propostas apresentadas, desclassificando desde logo aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital, contenham vícios insanáveis ou não apresentem as especificações técnicas exigidas no Termo de Referência. 
+            6.2.1. A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por todos os participantes.
+        6.3. O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas participarão da fase de lances.
+        6.4. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+        6.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro. 
+            6.5.1. O lance deverá ser ofertado pelo valor total do objeto. 
+        6.6. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as regras estabelecidas no Edital.
+        6.7. O licitante somente poderá oferecer lance inferior ao último por ele ofertado e registrado pelo sistema. 	
+        6.8. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em primeiro lugar. 
+        6.9. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do licitante. 
+        6.10. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances. 
+        6.11. A etapa de lances da sessão pública será encerrada por decisão do Pregoeiro. O sistema eletrônico encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá período de tempo de até 30 (trinta) minutos, aleatoriamente determinado pelo sistema, findo o qual será automaticamente encerrada a recepção de lances. 
+        6.12. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta e, na hipótese de desistência de apresentar outros lances, valerá o último lance por ele ofertado, para efeito de ordenação das propostas.
+        6.13. Em relação aos itens não exclusivos a microempresas e empresas de pequeno porte, encerrada a etapa de lances, o sistema identificará em coluna própria as microempresas, empresas de pequeno porte e sociedades cooperativas participantes, procedendo à comparação com os valores da primeira colocada, se esta for empresa de maior porte, assim como das demais classificadas, para o fim de se aplicar o disposto nos arts. 44 e 45 da LC nº 123, de 2006.
+        6.14. Nessas condições, as propostas de microempresas, empresas de pequeno porte e sociedades cooperativas que se encontrarem na faixa de até 5% (cinco por cento) acima da proposta ou lance de menor preço serão consideradas empatadas com a primeira colocada.
+        6.15. A melhor classificada nos termos do item anterior terá o direito de encaminhar uma última oferta para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos controlados pelo sistema, contados após a comunicação automática para tanto.
+        6.16. Caso a microempresa, empresa de pequeno porte ou sociedade cooperativa melhor classificada desista ou não se manifeste no prazo estabelecido, serão convocadas as demais licitantes microempresa, empresa de pequeno porte e sociedade cooperativa que se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo direito, no prazo estabelecido no subitem anterior.
+        6.17. No caso de equivalência dos valores apresentados pela microempresa, empresa de pequeno porte e sociedade cooperativa que se encontrem em situação de empate, será realizado sorteio para que se identifique a primeira que poderá apresentar melhor oferta.
+
+Nota explicativa: A referência às Sociedades Cooperativas deve constar nos itens acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        6.18. Eventual empate entre propostas, o critério de desempate será aquele previsto no art. 3º, § 2º, da Lei nº 8.666, de 1993, assegurando-se a preferência, sucessivamente, aos serviços:
+            6.18.1. Prestados por empresas brasileiras; 
+            6.18.2. Prestados por empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País.
+        6.19. Persistindo o empate, o critério de desempate será o sorteio, em ato público para o qual os licitantes serão convocados, vedado qualquer outro processo.
+
+    7. DA ACEITABILIDADE DA PROPOSTA VENCEDORA
+        7.1. Encerrada a etapa de lances e depois da verificação de possível empate, o Pregoeiro examinará a proposta classificada em primeiro lugar quanto ao preço e exeqüibilidade.
+        7.2. Não será aceita a proposta ou lance vencedor cujo preço seja incompatível com o estimado pela Administração ou manifestamente inexequível.
+        7.3. Considera-se inexequível a proposta de preços ou menor lance que, comprovadamente, for insuficiente para a cobertura dos custos da contratação, apresente preços global ou unitários simbólicos, irrisórios ou de valor zero, incompatíveis com os preços dos insumos e salários de mercado, acrescidos dos respectivos encargos, ainda que o ato convocatório da licitação não tenha estabelecido limites mínimos, exceto quando se referirem a materiais e instalações de propriedade do próprio licitante, para os quais ele renuncie a parcela ou à totalidade da remuneração.
+        7.4. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de esclarecimentos complementares, serão efetuadas diligências na forma do § 3° do artigo 43 da Lei n° 8.666, de 1993, a exemplo de:
+            7.4.1. Questionamentos junto à proponente para a apresentação de justificativas e comprovações em relação aos custos com indícios de inexequibilidade;
+            7.4.2. Verificação de acordos coletivos, convenções coletivas ou sentenças normativas em dissídios coletivos de trabalho;
+            7.4.3. Levantamento de informações junto ao Ministério do Trabalho e Emprego, e junto ao Ministério da Previdência Social;
+            7.4.4 Consultas a entidades ou conselhos de classe, sindicatos ou similares;
+            7.4.5. Pesquisas em órgãos públicos ou empresas privadas;
+            7.4.6. Verificação de outros contratos que o proponente mantenha com a Administração ou com a iniciativa privada;
+            7.4.7. Pesquisa de preço com fornecedores dos insumos utilizados, tais como: atacadistas, lojas de suprimentos, supermercados e fabricantes;
+            7.4.8. Verificação de notas fiscais dos produtos adquiridos pelo proponente;
+            7.4.9. Levantamento de indicadores salariais ou trabalhistas publicados por órgãos de pesquisa;
+            7.4.10. Estudos setoriais;
+            7.4.11. Consultas às Secretarias de Fazenda Federal, Distrital, Estadual ou Municipal;
+            7.4.12. Análise de soluções técnicas escolhidas e/ou condições excepcionalmente favoráveis que o proponente disponha para a prestação dos serviços;
+            7.4.13. Demais verificações que porventura se fizerem necessárias.
+        7.5. Qualquer interessado poderá requerer que se realizem diligências para aferir a exequibilidade e a legalidade das propostas, devendo apresentar as provas ou os indícios que fundamentam a suspeita.
+        7.6. O Pregoeiro poderá convocar o licitante para enviar documento digital, estabelecendo no “chat” prazo razoável para tanto, sob pena de não aceitação da proposta.
+            7.6.1. O prazo estabelecido pelo Pregoeiro poderá ser prorrogado por solicitação escrita e justificada do licitante, formulada antes de findo o prazo estabelecido, e formalmente aceita pelo Pregoeiro. 
+        7.7. Se a proposta ou lance vencedor for desclassificado, o Pregoeiro examinará a proposta ou lance subsequente, e, assim sucessivamente, na ordem de classificação.
+        7.8. Havendo necessidade, o Pregoeiro suspenderá a sessão, informando no “chat” a nova data e horário para a continuidade da mesma.
+            7.8.1. Não havendo sido informada data e horário, ou não continuada a sessão na data e horário informados, o reinício da sessão exigirá divulgação de aviso no Diário Oficial do Estado, com antecedência mínima de 03 (três) dias úteis.
+        7.9. O Pregoeiro poderá encaminhar, por meio do sistema eletrônico, contraproposta ao licitante que apresentou o lance mais vantajoso, com o fim de negociar a obtenção de melhor preço, vedada a negociação em condições diversas das previstas neste Edital.
+            7.9.1. Também nas hipóteses em que o Pregoeiro não aceitar a proposta e passar à subsequente, poderá negociar com o licitante para que seja obtido preço melhor.
+            7.9.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes.
+        7.10. Em relação aos itens não exclusivos a microempresas e empresas de pequeno porte, sempre que a proposta não for aceita, e antes de o Pregoeiro passar à subsequente, haverá nova verificação, pelo sistema, da eventual ocorrência do empate ficto, previsto nos artigos 44 e 45 da LC nº 123, de 2006, seguindo-se a disciplina antes estabelecida, se for o caso.
+
+    8. DA HABILITAÇÃO 
+8.1. Como condição prévia ao exame da documentação de habilitação do licitante detentor da proposta classificada em primeiro lugar, o Pregoeiro verificará o eventual descumprimento das condições de participação, especialmente quanto à existência de sanção que impeça a participação no certame ou a futura contratação, mediante a consulta aos seguintes cadastros:
+            8.1.1. SICAF;
+            8.1.2. Cadastro Nacional de Empresas Inidôneas e Suspensas – CEIS, mantido pela Controladoria-Geral da União (www.portaldatransparencia.gov.br/ceis);
+            8.1.3. Cadastro das Empresas Inidôneas e Suspensas do Estado de Alagoas – CEIS, mantido pela Controladoria-Geral do Estado de Alagoas (www.controladoria.al.gov.br/superintendencia/correicao/ceis-al/superintendencia/correicao/ceis-al);
+            8.1.4. Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido pelo Conselho Nacional de Justiça (www.cnj.jus.br/improbidade_adm/consultar_requerido.php);
+            8.1.5. Lista de Inidôneos, mantida pelo Tribunal de Contas da União – TCU.
+        8.2. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário, por força do artigo 12 da Lei n° 8.429, de 1992, que prevê, dentre as sanções impostas ao responsável pela prática de ato de improbidade administrativa, a proibição de contratar com o Poder Público, inclusive por intermédio de pessoa jurídica da qual seja sócio majoritário.
+        8.3. Constatada a existência de sanção, o Pregoeiro reputará o licitante inabilitado, por falta de condição de participação.
+        8.4. O Pregoeiro, então, consultará o Sistema de Cadastro Unificado de Fornecedores – SICAF, em relação à habilitação jurídica, à regularidade fiscal e trabalhista e à qualificação econômico-financeira.
+            8.4.1. Também poderão ser consultados os sítios oficiais emissores de certidões, especialmente quando o licitante esteja com alguma documentação vencida junto ao SICAF.
+            8.4.2. Caso o Pregoeiro não logre êxito em obter a certidão correspondente através do sítio oficial, ou na hipótese de se encontrar vencida no referido sistema, o licitante será convocado a encaminhar, no prazo de 1 (uma) hora, documento válido que comprove o atendimento das exigências deste Edital, sob pena de inabilitação, ressalvado o disposto quanto à comprovação da regularidade fiscal das microempresas, empresas de pequeno porte e sociedades cooperativas, conforme estatui o art. 43, § 1º da LC nº 123, de 2006.
+
+Nota Explicativa: A referência às Sociedades Cooperativas deve constar no item acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        8.5. Os licitantes que não estiverem cadastrados nos níveis habilitação jurídica, regularidade fiscal e trabalhista e qualificação econômico-financeira do Sistema de Cadastro Unificado de Fornecedores – SICAF deverão apresentar ou complementar a documentação a eles relativa.
+        8.6. Habilitação jurídica: 
+            8.6.1. No caso de empresário individual, inscrição no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da respectiva sede;
+            8.6.2. No caso de sociedade empresária ou empresa individual de responsabilidade limitada - EIRELI: ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta Comercial da respectiva sede, acompanhado de documento comprobatório de seus administradores;
+            8.6.3. Inscrição no Registro Público de Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz, no caso de ser o participante sucursal, filial ou agência;
+            8.6.4. No caso de sociedade simples: inscrição do ato constitutivo no Registro Civil das Pessoas Jurídicas do local de sua sede, acompanhada de prova da indicação dos seus administradores;
+            8.6.5. No caso de microempresa ou empresa de pequeno porte: certidão expedida pela Junta Comercial ou pelo Registro Civil das Pessoas Jurídicas, conforme o caso, que comprove a condição de microempresa ou empresa de pequeno porte, nos termos do artigo 8° da Instrução Normativa n° 103, de 30/04/2007, do Departamento Nacional de Registro do Comércio – DNRC;
+            8.6.6. No caso de sociedade cooperativa: ata de fundação e estatuto social em vigor, com a ata da assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede.
+
+Nota explicativa: Este item deve constar no Edital somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+            8.6.7. No caso de empresa ou sociedade estrangeira em funcionamento no País: decreto de autorização;
+            8.6.8. No caso de exercício de atividade de (...): ato de registro ou autorização para funcionamento expedido pelo (...órgão competente...), nos termos do artigo (...) da(o) (...Lei/Decreto...) n° (...)/(...).
+
+Nota explicativa: Cabe ao órgão analisar se a atividade relativa ao objeto licitado exige registro ou autorização para funcionamento, em razão de previsão normativa (ANVISA, ANP, Polícia Federal, Ministério da Agricultura, IBAMA, etc.), especificando o documento a ser apresentado e o órgão competente para expedi-lo, além do fundamento legal.
+
+        8.7. Os documentos acima deverão estar acompanhados de todas as alterações ou da consolidação respectiva.
+        8.8. Regularidade fiscal e trabalhista:
+            8.8.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas;
+            8.8.2. Prova de regularidade com a Fazenda Nacional (certidão conjunta, emitida pela Secretaria da Receita Federal do Brasil e Procuradoria-Geral da Fazenda Nacional, quanto aos demais tributos federais e à Dívida Ativa da União, por elas administrados); 
+            8.8.3. Prova de regularidade com a Seguridade Social (INSS);
+            8.8.4. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+            8.8.5. Prova de inexistência de débitos inadimplidos perante a justiça do trabalho, mediante a apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A da consolidação das leis do trabalho, aprovada pelo decreto-lei nº 5.452, de 1º de maio de 1943;
+            8.8.6. Prova de inscrição no cadastro de contribuintes municipal, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual; 
+            8.8.7. Prova de regularidade com a Fazenda Municipal do domicílio ou sede do licitante; 
+                8.8.7.1. Caso o fornecedor seja considerado isento dos tributos municipais relacionados ao objeto licitatório, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Municipal do domicílio ou sede do fornecedor, ou outra equivalente, na forma da lei; 
+            8.8.8. Caso o licitante detentor do menor preço seja microempresa, empresa de pequeno porte ou sociedade cooperativa, deverá apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição, sob pena de inabilitação.
+
+Nota explicativa: A referência às Sociedades Cooperativas deve constar no item acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        8.9. Qualificação Econômico-financeira:
+            8.9.1. Certidão negativa de falência ou recuperação judicial expedida pelo distribuidor da sede da pessoa jurídica;
+            8.9.2. Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da empresa, vedada a sua substituição por balancetes ou balanços provisórios, podendo ser atualizados por índices oficiais quando encerrado há mais de 3 (três) meses da data de apresentação da proposta;
+                8.9.2.1. No caso de licitação para locação de materiais, não será exigido da microempresa, empresa de pequeno porte, nem da sociedade cooperativa enquadrada no artigo 34 da Lei nº 11.488, de 2007, a apresentação de balanço patrimonial do último exercício financeiro;
+Nota explicativa: A referência às Sociedades Cooperativas deve constar no item acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+                8.9.2.2. No caso de empresa constituída no exercício social vigente, admite-se a apresentação de balanço patrimonial e demonstrações contábeis referentes ao período de existência da sociedade;
+        8.10. As empresas cadastradas ou não no SICAF deverão comprovar, ainda, a qualificação técnica, por meio de:
+            8.10.1. Registro ou inscrição da empresa licitante no(a) (...entidade profissional...), em plena validade;
+
+Nota explicativa: Tal exigência só deve ser formulada quando, por determinação legal, o exercício de determinada atividade afeta ao objeto contratual esteja sujeita à fiscalização da entidade profissional competente, a ser indicada expressamente no edital.
+
+            8.10.2. Comprovação de aptidão para a prestação de serviços em características, quantidades e prazos compatíveis com o objeto desta licitação, por meio da apresentação de atestados fornecidos por pessoas jurídicas de direito público ou privado.
+                8.10.2.1. Os atestados referir-se-ão a contratos já concluídos ou já decorrido no mínimo um ano do início de sua execução, exceto se houver sido firmado para ser executado em prazo inferior.
+                8.10.2.2. Os atestados deverão referir-se a serviços prestados no âmbito de sua atividade econômica principal ou secundária especificadas no contrato social vigente;
+                8.10.2.3. Sempre que solicitado, o licitante disponibilizará todas as informações necessárias à comprovação da legitimidade dos atestados apresentados, inclusive, dentre outros documentos, cópia do contrato que dá suporte ao atestado, endereço atual da contratante e local em que foram prestados os serviços.
+            8.10.3. Declaração de que tem pleno conhecimento das condições e peculiaridades inerentes à natureza do serviço e ao local de sua execução, que assume total responsabilidade por esse fato e que não o utilizará para quaisquer questionamentos futuros que ensejem avenças técnicas ou financeiras com a contratante.
+                8.10.3.1. A licitante poderá realizar vistoria nas instalações do local de execução do serviço, acompanhado por servidor designado para esse fim, de segunda a sexta-feira, das (...) horas às (...) horas, devendo o agendamento ser efetuado previamente pelo telefone (...);
+                    8.10.3.1.1. O prazo para vistoria iniciar-se-á no dia útil seguinte ao da publicação do Edital, estendendo-se até o dia útil anterior à data prevista para a abertura da sessão pública.
+                    8.10.3.1.2. Para a vistoria, o licitante, ou o seu representante, deverá estar devidamente identificado.
+            8.10.4. Prova de atendimento aos requisitos previstos na Lei n° (...)/(...): (...)
+
+Nota Explicativa: Em havendo legislação especial incidente sobre a matéria, que preveja requisitos de qualificação técnica específicos, estes podem ser mencionados neste item do Edital.
+
+        8.11. Em relação às licitantes cooperativas será, ainda, exigida a seguinte documentação:
+            8.11.1. A relação dos cooperados que atendem aos requisitos técnicos exigidos para a contratação e que executarão o contrato, com as respectivas atas de inscrição e a comprovação de que estão domiciliados na localidade da sede da cooperativa, respeitado o disposto nos arts. 4º, inciso XI, 21, inciso I e 42, §§2º a 6º da Lei n. 5.764 de 1971;
+            8.11.2. A declaração de regularidade de situação do contribuinte individual – DRSCI;
+            8.11.3. A comprovação do capital social proporcional ao número de cooperados necessários à prestação do serviço;
+            8.11.4. O registro previsto na Lei n. 5.764/71, art. 107;
+            8.11.5. A comprovação de integração das respectivas quotas-partes por parte dos cooperados que executarão o contrato;
+            8.11.6. Os seguintes documentos para a comprovação da regularidade jurídica da cooperativa: a) regimento dos fundos instituídos pelos cooperados, com a ata da assembleia; b) editais de convocação das três últimas assembleias gerais extraordinárias; c) três registros de presença dos cooperados que executarão o contrato em assembleias gerais ou nas reuniões seccionais; e d) ata da sessão que os cooperados autorizaram a cooperativa a contratar o objeto da licitação;
+            8.11.7. A última auditoria contábil-financeira da cooperativa, conforme dispõe o art. 112 da Lei n. 5.764/71 ou uma declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo órgão fiscalizador.
+
+Nota explicativa: Estes itens devem constar no Edital somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        8.12.  Os documentos exigidos para habilitação relacionados nos subitens acima, deverão ser apresentados pelos licitantes, via fac-símile (fax) número (...), ou via e-mail (...), no prazo de 2 (duas) horas, após solicitação do Pregoeiro no sistema eletrônico.  Posteriormente, serão remetidos em original, por qualquer processo de cópia reprográfica, autenticada por tabelião de notas, ou por servidor da Administração, desde que conferido(s) com o original, ou publicação em órgão da imprensa oficial, para análise, no prazo de 5 (cinco) dias, após encerrado o prazo para o encaminhamento via fac-símile (fax) ou e-mail;
+        8.13.  Se a menor proposta ofertada for de microempresa, empresa de pequeno porte ou sociedade cooperativa e uma vez constatada a existência de alguma restrição no que tange à regularidade fiscal, a mesma será convocada para, no prazo de 5 (cinco) dias úteis, após solicitação do Pregoeiro no sistema eletrônico, comprovar a regularização. O prazo poderá ser prorrogado por igual período.
+            8.13.1. A não regularização fiscal no prazo previsto no subitem anterior acarretará a inabilitação do licitante, sem prejuízo das sanções previstas neste Edital, sendo facultada a convocação dos licitantes remanescentes, na ordem de classificação. Se, na ordem de classificação, seguir-se outra microempresa, empresa de pequeno porte ou sociedade cooperativa com alguma restrição na documentação fiscal, será concedido o mesmo prazo para regularização.
+ 
+Nota explicativa: A referência às Sociedades Cooperativas deve constar nos itens acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        8.14. Havendo necessidade de analisar minuciosamente os documentos exigidos, o Pregoeiro suspenderá a sessão, informando no “chat” a nova data e horário para a continuidade da mesma.
+            8.14.1. Não havendo sido informada data e horário, ou não continuada a sessão na data e horário informados, o reinício da sessão exigirá divulgação de aviso no Diário Oficial do Estado, com antecedência mínima de 03 (três) dias úteis.
+        8.15.  Será inabilitado o licitante que não comprovar sua habilitação, seja por não apresentar quaisquer dos documentos exigidos, ou apresentá-los em desacordo com o estabelecido neste Edital.
+        8.16.  No caso de inabilitação, haverá nova verificação, pelo sistema, da eventual ocorrência de empate ficto, previsto nos artigos 44 e 45 da LC n°123, de 2006, seguindo-se a disciplina antes estabelecida para aceitação da proposta subsequente.
+        8.17.  Da sessão pública do Pregão divulgar-se-á Ata no sistema eletrônico.
+
+    9. DO ENCAMINHAMENTO DA PROPOSTA VENCEDORA
+        9.1. A proposta final do licitante declarado vencedor deverá ser encaminhada no prazo de 30 (trinta) minutos, a contar da solicitação do Pregoeiro no sistema eletrônico e deverá:
+            9.1.1. ser redigida em língua portuguesa, datilografada ou digitada, em uma via, sem emendas, rasuras, entrelinhas ou ressalvas, devendo a última folha ser assinada e as demais rubricadas pelo licitante ou seu representante legal.
+            9.1.2. conter a indicação do banco, número da conta e agência do licitante vencedor, para fins de pagamento.
+        9.2. A proposta final deverá ser documentada nos autos e será levada em consideração no decorrer da execução do contrato e aplicação de eventual sanção à Contratada, se for o caso.
+            9.2.1. Todas as especificações do objeto contidas na proposta vinculam a Contratada.
+
+    10. DOS RECURSOS
+        10.1. Declarado o vencedor e decorrida a fase de regularização fiscal de microempresa, empresa de pequeno porte ou sociedade cooperativa, se for o caso, será concedido o prazo de no mínimo trinta minutos, para que qualquer licitante manifeste a intenção de recorrer, de forma motivada, isto é, indicando contra qual(is) decisão(ões) pretende recorrer e por quais motivos, em campo próprio do sistema.
+
+Nota explicativa: A referência às Sociedades Cooperativas deve constar no item acima somente quando legítima a admissão de sociedades cooperativas na licitação.
+
+        10.2.  Havendo quem se manifeste, caberá ao Pregoeiro verificar a tempestividade e a existência de motivação da intenção de recorrer, para decidir se admite ou não o recurso, fundamentadamente.
+            10.2.1. Nesse momento o Pregoeiro não adentrará no mérito recursal, mas apenas verificará as condições de admissibilidade do recurso.
+            10.2.2. A falta de manifestação motivada do licitante quanto à intenção de recorrer importará a decadência desse direito.
+            10.2.3. Uma vez admitido o recurso, o recorrente terá, a partir de então, o prazo de três dias úteis para apresentar as razões, pelo sistema eletrônico, ficando os demais licitantes, desde logo, intimados para, querendo, apresentarem contrarrazões também pelo sistema eletrônico, em outros três dias úteis, que começarão a contar do término do prazo do recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa de seus interesses.
+        10.3. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento. 
+        10.4. Os autos do processo permanecerão com vista franqueada aos interessados, no endereço constante neste Edital.
+
+    11. DA ADJUDICAÇÃO E HOMOLOGAÇÃO
+        11.1. O objeto da licitação será adjudicado ao licitante declarado vencedor, por ato do Pregoeiro, caso não haja interposição de recurso, ou pela autoridade competente, após a regular decisão dos recursos apresentados.
+        11.2. Após a fase recursal, constatada a regularidade dos atos praticados, a autoridade competente homologará o procedimento licitatório. 
+
+    12. DA GARANTIA DE EXECUÇÃO
+        12.1. O adjudicatário, como condição para assinatura do Termo de Contrato, prestará garantia no valor correspondente a (...)% do valor do Contrato, que será liberada de acordo com as condições previstas neste Edital, conforme disposto no art. 56 da Lei nº 8.666, de 1993, desde que cumpridas as obrigações contratuais.
+        12.2. A garantia assegurará, qualquer que seja a modalidade escolhida, o pagamento de: 
+            12.2.1. Prejuízo advindo do não cumprimento do objeto do contrato e do não adimplemento das demais obrigações nele previstas; 
+            12.2.2. Prejuízos causados à Contratante ou a terceiro, decorrentes de culpa ou dolo durante a execução do contrato; 
+            12.2.3. As multas moratórias e punitivas aplicadas pela Contratante à Contratada;  
+            12.2.4. Obrigações trabalhistas, fiscais e previdenciárias de qualquer natureza, não adimplidas pela contratada;
+        12.3. A garantia em dinheiro deverá ser efetuada em favor da Contratante, na Caixa Econômica Federal, com correção monetária.
+        12.4. A modalidade seguro-garantia somente será aceita se contemplar todos os eventos indicados acima;
+        12.5. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser readequada ou renovada nas mesmas condições.
+        12.6. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, a Contratada obriga-se a fazer a respectiva reposição no prazo máximo de (...) dias úteis, contados da data em que for notificada.
+        12.7. A Contratante não executará a garantia na ocorrência de uma ou mais das seguintes hipóteses: 
+            12.7.1. Caso fortuito ou força maior; 
+            12.7.2. Alteração, sem prévia anuência da seguradora, das obrigações contratuais; 
+            12.7.3. Descumprimento das obrigações pelo contratado decorrentes de atos ou fatos praticados pela Contratante; 
+            12.7.4. Atos ilícitos dolosos praticados por servidores da Contratante.
+        12.8. Não serão aceitas garantias que incluam outras isenções de responsabilidade que não as previstas neste item.
+        12.9. Será considerada extinta a garantia:
+            12.9.1.  Com a devolução da apólice, carta fiança ou autorização para o levantamento de importâncias depositadas em dinheiro a título de garantia, acompanhada de declaração da Contratante, mediante termo circunstanciado, de que a Contratada cumpriu todas as cláusulas do contrato;
+            12.9.2.  No prazo de três meses após o término da vigência, caso a Contratante não comunique a ocorrência de sinistros.
+
+Nota explicativa: Os subitens acima, destacados em vermelho, deverão ser incluídos no edital apenas quando se pretenda exigir a garantia. O percentual da garantia não poderá exceder a 5% do valor do contrato.
+
+    13. DO TERMO DE CONTRATO
+        13.1. Após a homologação da licitação, será firmado Termo de Contrato. O prazo de vigência e execução da contratação é de (...) meses, contados da data de publicação do extrato contratual no Diário Oficial do Estado, prorrogável na forma do art. 57 da Lei n° 8.666/93.
+        13.2. O adjudicatário terá o prazo de 5 (cinco) dias úteis, contados a partir da data de sua convocação, para assinar o Termo de Contrato, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas neste Edital. 
+            13.2.1. Alternativamente à convocação para comparecer perante o órgão ou entidade para a assinatura do Termo de Contrato, a Administração poderá encaminhá-lo para assinatura ou aceite do adjudicatário, mediante correspondência postal com aviso de recebimento (AR) ou meio eletrônico, para que seja assinado no prazo de 15 (quinze) dias, a contar da data de seu recebimento.
+        13.3. Os prazos previstos no subitem anterior poderão ser prorrogados, por igual período, por solicitação justificada do adjudicatário e aceita pela Administração.
+        13.4.  Antes da assinatura do Termo de Contrato, a Administração realizará consulta “online” ao SICAF, cujos resultados serão anexados aos autos do processo.
+            13.4.1. Não estando o contratado cadastrado no SICAF, deverão ser consultados os sítios oficiais emissores de certidões ou convocado o contratado a encaminhar documento válido que comprove o atendimento das exigências de habilitação.
+            13.4.2. Na hipótese de irregularidade, o contratado deverá regularizar a sua situação no prazo de até 05 (cinco) dias, sob pena de aplicação das penalidades previstas no edital e anexos.
+        13.5. Se o adjudicatário, no ato da assinatura do Termo de Contrato, não comprovar que mantém as mesmas condições de habilitação, ou quando, injustificadamente, recusar-se à assinatura, poderá ser convocado outro licitante, desde que respeitada a ordem de classificação, para, após a verificação da aceitabilidade da proposta, negociação e comprovados os requisitos de habilitação, celebrar a contratação, sem prejuízo das sanções previstas neste Edital e das demais cominações legais
+
+    14. DO REAJUSTE
+        14.1. O preço consignado no contrato será corrigido anualmente, observado o interregno mínimo de um ano, contado a partir da data limite para a apresentação da proposta, pela variação do (...índice...).
+        14.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+        14.3. Competirá à Contratada exercer, perante a Contratante, seu direito ao reajuste, sendo que, se não o fizer de forma tempestiva e, por via de consequência, prorrogar o contrato ou deixar expirar o prazo de vigência, ocorrerá a preclusão do seu direito ao reajuste.
+
+    15. DA ENTREGA E DO RECEBIMENTO DO OBJETO E DA FISCALIZAÇÃO
+        15.1. Os critérios de recebimento e aceitação do objeto e de fiscalização estão previstos no Termo de Contrato.
+
+    16. DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+        16.1. As obrigações da Contratante e da Contratada são as estabelecidas no Termo de Contrato.
+
+    17. DO PAGAMENTO
+        17.1. O pagamento será efetuado pela Contratante no prazo de até 30 dias, contados da apresentação da Nota Fiscal/Fatura contendo o detalhamento dos serviços executados e os materiais empregados, através de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo contratado.
+        17.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal/Fatura, nos termos do art. 5º, § 3º, da Lei nº 8.666, de 1993.
+        17.3. A apresentação da Nota Fiscal/Fatura deverá ocorrer no prazo de (...) dias, contado da data final do período de adimplemento da parcela da contratação a que aquela se referir.
+        17.4. O pagamento somente será autorizado depois de efetuado o “atesto” pelo servidor competente, condicionado este ato à verificação da conformidade da Nota Fiscal/Fatura apresentada em relação aos serviços efetivamente prestados e aos materiais empregados.
+        17.5. Havendo erro na apresentação da Nota Fiscal/Fatura ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como por exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para a Contratante.
+        17.6. Será efetuada a retenção ou glosa no pagamento, proporcional à irregularidade verificada, sem prejuízo das sanções cabíveis, caso se constate que a Contratada:
+            17.6.1. Não produziu os resultados acordados;
+            17.6.2. Deixou de executar as atividades contratadas, ou não as executou com a qualidade mínima exigida;
+            17.6.3. Deixou de utilizar os materiais e recursos humanos exigidos para a execução do serviço, ou utilizou-os com qualidade ou quantidade inferior à demandada.
+        17.7. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+        17.8. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a manutenção das condições de habilitação exigidas no edital. Não estando o contratado cadastrado no SICAF, deverão ser consultados os sítios oficiais emissores de certidões ou convocado o contratado a encaminhar documento válido que comprove o atendimento das exigências de habilitação.
+        17.9. Constatando-se a situação de irregularidade da contratada, será providenciada sua notificação, por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou, no mesmo prazo, apresente sua defesa.
+        17.10. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.  
+        17.11. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada à contratada a ampla defesa. 
+        17.12. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a contratada não regularize sua situação.  
+        17.13. Somente por motivo de economicidade, segurança nacional ou outro interesse público de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da contratante, não será rescindido o contrato em execução com a contratada inadimplente.
+        17.14. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+            17.14.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na Lei Complementar nº 123, de 2006.
+
+    18. DAS SANÇÕES ADMINISTRATIVAS
+        18.1. O licitante ou adjudicatário que cometer qualquer das infrações administrativas previstas na Lei nº 10.520, de 2002, e na Lei nº 12.846, de 2013, ficará sujeito, sem prejuízo da responsabilidade civil e criminal, às sanções nelas previstas, observado o Decreto nº 4.054, de 19 de setembro de 2008.
+        18.2. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa ao licitante ou adjudicatário, observando-se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente na Lei nº 6.161, de 2000.
+        18.3. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano causado à Administração, observado o princípio da proporcionalidade.
+        18.4. As sanções por atos praticados no decorrer da contratação estão previstas no Termo de Contrato.
+
+    19.   DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+        19.1. Até 02 (dois) dias úteis antes da data designada para a abertura da sessão pública, qualquer pessoa poderá impugnar este Edital.
+        19.2. A impugnação poderá ser realizada por forma eletrônica, pelo e-mail (...), pelo fax (...), ou por petição dirigida ou protocolada na (...endereço...).
+        19.3. Caberá ao Pregoeiro decidir sobre a impugnação no prazo de até vinte e quatro horas.
+        19.4. Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+        19.5. Os pedidos de esclarecimentos referentes a este processo licitatório deverão ser enviados ao Pregoeiro, até 03 (três) dias úteis anteriores à data designada para abertura da sessão pública, exclusivamente por meio eletrônico via internet, no endereço indicado no Edital.
+        19.6. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+        19.7. As respostas às impugnações e os esclarecimentos prestados pelo Pregoeiro serão entranhados nos autos do processo licitatório e estarão disponíveis para consulta por qualquer interessado.
+
+    20. DAS DISPOSIÇÕES GERAIS
+        20.1. No julgamento das propostas e da habilitação, o Pregoeiro poderá, mediante a promoção de diligência, sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação.
+        20.2. A homologação do resultado desta licitação não implicará direito à contratação.
+        20.3. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa entre os interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a segurança da contratação. 
+        20.4. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório.
+        20.5. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+        20.6. O desatendimento de exigências formais não essenciais não importará o afastamento do licitante, desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse público.
+        20.7. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que compõem o processo, prevalecerão as deste Edital.
+        20.8. O Edital está disponibilizado, na íntegra, no endereço eletrônico (...), e também poderá ser lido ou obtido na (...endereço...), nos dias úteis, no horário das (...) horas às (...) horas, mesmo endereço e período no qual os autos do processo administrativo permanecerão com vista franqueada aos interessados.
+        20.9. Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+            20.9.1. ANEXO I - Termo de Referência;
+            20.9.2. ANEXO II – Minuta de Termo de Contrato;
+            20.9.3. ANEXO III – Minuta de termo de vistoria; (quando for o caso)
+            20.9.4. ANEXO IV – Modelo do Acordo de Níveis de Serviço – ANS;
+            20.9.5. ANEXO V – (....)
+
+
+Maceió (AL), (...) de (...) de (20...).
+
+
+Assinatura do Pregoeiro

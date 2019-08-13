@@ -1,0 +1,53 @@
+﻿Os itens deste modelo destacados em vermelho devem ser preenchidos, adotados ou substituídos pelo Órgão Gerenciador ou pelo Órgão Participante, de acordo com as peculiaridades do objeto da licitação e critérios de oportunidade e conveniência, cuidando-se para que sejam reproduzidas as mesmas definições nos demais instrumentos da licitação, para que não conflitem.
+Alguns itens receberão notas explicativas, destacadas para compreensão do agente ou setor responsável pela elaboração do Plano de Suprimentos, as quais deverão ser devidamente suprimidas ao se finalizar o documento na versão original.
+Os órgãos assessorados deverão manter as notas de rodapé dos modelos utilizados para a elaboração das minutas e demais anexos, a fim de que os órgãos consultivos, ao examinarem os documentos, estejam certos de que os modelos são os corretos. A versão final do texto, após aprovada pelo órgão consultivo, deverá excluir a referida nota.
+
+MODELO DE PLANO DE SUPRIMENTOS – BENS
+
+PLANO DE SUPRIMENTOS PLS AMGESP Nº (...)/(20...)
+(...objeto...)
+Processo Administrativo SRP nº (...)
+
+ÓRGÃO PARTICIPANTE: (...nome...)
+LOCAL(IS) DE ENTREGA: (...endereço(s)...)
+Item
+Especificação
+Unidade de Medida
+Demanda Anual
+Requisição mínima
+Requisição máxima
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+JUSTIFICATIVA: 
+
+NOTA EXPLICATIVA: O Órgão Participante deve justificar sua participação neste registro, contemplando a) a razão da necessidade da aquisição; e b) o quantitativo de bens demandado no ano. As quantidades a serem adquiridas devem ser justificadas em função do consumo do órgão e provável utilização no ano, devendo a estimativa ser obtida a partir de fatos concretos (ex: consumo do exercício anterior, necessidade de substituição dos bens atualmente disponíveis, implantação de setor novo, acréscimo de atividades, etc).
+
+
+OBSERVAÇÕES:
+1. O Órgão Participante deve preencher o PLS com as seguintes informações: seu nome, local(is) de entrega dos bens, o quantitativo das suas demandas anuais dos bens e os quantitativos mínimo e máximo de cada requisição;
+2. Após devidamente preenchido, o PLS deve ser impresso, assinado pelo ordenador de despesas do Órgão Participante e entregue à Superintendência de Licitação e Controle de Registro de Preços da AMGESP;
+3. A data final para a entrega deste PLS é (...data...); a não entrega, no prazo estipulado, do PLS devidamente preenchido, ou de ofício informando a não participação no registro sujeitará a eventual auditoria conjunta da AMGESP e da Controladoria Geral do Estado – CGE/AL;
+4. Quaisquer dúvidas podem ser esclarecidas junto à Superintendência de Licitação e Controle de Registro de Preços da AMGESP, através do telefone (82) (...), ou do e-mail oficial (...)@(...).al.gov.br.
+
+Maceió (AL), (...) de (...) de (20...).
+
+Autorizo a inclusão das demandas anuais dos bens acima informadas no presente Registro de Preços.
+
+
+Assinatura do ordenador de despesas do Órgão Participante

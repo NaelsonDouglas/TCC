@@ -1,0 +1,195 @@
+﻿	Os itens deste modelo destacados em vermelho devem ser preenchidos, adotados ou substituídos pelo órgão ou entidade pública licitante, de acordo com as peculiaridades do objeto da licitação e critérios de oportunidade e conveniência, cuidando-se para que sejam reproduzidas as mesmas definições nos demais instrumentos da licitação, para que não conflitem.
+Alguns itens receberão notas explicativas, destacadas para compreensão do agente ou setor responsável pela elaboração do Edital, as quais deverão ser devidamente suprimidas ao se finalizar o documento na versão original.
+Os órgãos assessorados deverão manter as notas de rodapé dos modelos utilizados para a elaboração das minutas e demais anexos, a fim de que os órgãos consultivos, ao examinarem os documentos, estejam certos de que os modelos são os corretos. A versão final do texto, após aprovada pelo órgão consultivo, deverá excluir a referida nota.
+
+MINUTA DE TERMO DE CONTRATO – BENS
+
+TERMO DE CONTRATO (...) Nº (...)/(20...), QUE ENTRE SI CELEBRAM O ESTADO DE ALAGOAS, POR INTERMÉDIO DA(O) (...ÓRGÃO...), E A EMPRESA (...) PARA A AQUISIÇÃO DE BENS.
+
+CONTRATANTE: O Estado de Alagoas, por intermédio da(o) (...órgão...), inscrita(o) no CNPJ sob o nº (...) e com sede na (...endereço...), representado pelo (...cargo do ordenador de despesas...), Sr. (...nome...), inscrito no CPF sob o nº (...), conforme autorização governamental publicada no Diário Oficial do Estado de Alagoas de (...)/(...)/(...);
+NOTA EXPLICATIVA: a autorização governamental é necessária apenas nas contratações acima de R$ 350.000,00.
+
+CONTRATADA: A empresa (...nome...), inscrita no CNPJ sob o nº (...), estabelecida na (...endereço...) e endereço eletrônico (...@...) , representada pelo seu (...cargo do representante legal...), Sr. (...nome...), inscrito no CPF sob o nº (...), de acordo com a representação legal que lhe é outorgada por (...procuração/contrato social/estatuto social...);
+
+Os CONTRATANTES, nos termos do Processo nº (...), inclusive Parecer PGE-PLIC nº (...), aprovado pelos Despachos PGE-PLIC-CD nº (...) e PGE-GAB nº (...), e em observância às disposições da Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei nº 8.078, de 1990 – Código de Defesa do Consumidor, celebram o presente Termo de Contrato, mediante as cláusulas e condições a seguir enunciadas.
+
+    1. CLÁUSULA PRIMEIRA – OBJETO
+        1.1. O objeto do presente Termo de Contrato é a aquisição de (...), conforme especificações e quantitativos estabelecidos no Edital do Pregão Eletrônico (...) nº (...)/(20...) e na proposta nele vencedora, os quais integram este instrumento, independente de transcrição.
+        1.2. Discriminação do objeto:
+Item
+Especificação
+Unidade de Medida
+Quantidade
+Requisição mínima
+Requisição máxima
+Preço Unitário
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+NOTAS EXPLICATIVAS:
+• A tabela acima é meramente ilustrativa, devendo compatibilizar-se com as especificações dos bens estabelecidas no Termo de Referência e reproduzir o preço e demais condições ofertadas na proposta vencedora.
+• Quando houver a previsão de entregas parceladas, inclusive em decorrência do SRP, a tabela acima deverá indicar os quantitativos mínimos e máximos por demanda.
+
+    2. CLÁUSULA SEGUNDA – VIGÊNCIA
+        2.1. Este Termo de Contrato tem prazo de vigência até 31 de dezembro do corrente ano, contado da data de publicação do extrato contratual no Diário Oficial do Estado, a partir de quando as obrigações assumidas pelas partes serão exigíveis, sendo prorrogável na forma do art. 57, §1º, da Lei nº 8.666, de 1993.
+NOTA EXPLICATIVA: Deve-se observar que a vigência do contrato poderá ultrapassar o exercício financeiro, desde que as despesas referentes à contratação sejam integralmente empenhadas até 31 de dezembro, para fins de inscrição em restos a paga. Atente-se, ainda, que os prazos utilizados no contrato deverão estar em harmonia com aqueles estipulados no Edital.
+
+    3. CLÁUSULA TERCEIRA – PREÇO
+        3.1. O valor do presente Termo de Contrato é de R$ (...) (...por extenso...).
+        3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da execução contratual, inclusive tributos ou impostos, encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros necessários ao cumprimento integral do objeto da contratação.
+
+    4. CLÁUSULA QUARTA – DOTAÇÃO ORÇAMENTÁRIA
+        4.1. As despesas decorrentes desta contratação estão programadas em dotação orçamentária própria, prevista no orçamento do Estado de Alagoas, para o exercício de (20...), na classificação abaixo:
+Gestão/Unidade:  
+Fonte: 
+Programa de Trabalho:  
+Elemento de Despesa:  
+PI:
+
+    5. CLÁUSULA QUINTA – PAGAMENTO
+        5.1. O pagamento será realizado no prazo máximo de até 30 (trinta) dias, contados a partir da data final do período de adimplemento a que se referir, através de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo contratado.
+        5.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, § 3º, da Lei nº 8.666, de 1993.
+        5.3. O pagamento somente será autorizado depois de efetuado o “atesto” pelo servidor competente na nota fiscal apresentada. 
+        5.4. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para a Contratante.
+        5.5. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+        5.6. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a manutenção das condições de habilitação exigidas no edital. Não estando o contratado cadastrado no SICAF, deverão ser consultados os sítios oficiais emissores de certidões ou convocado o contratado a encaminhar documento válido que comprove o atendimento das exigências de habilitação.
+        5.7. Constatando-se a situação de irregularidade da Contratada, será providenciada sua notificação, por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou, no mesmo prazo, apresente sua defesa.
+        5.8. Não havendo regularização ou sendo a defesa considerada improcedente, a Contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência da Contratada, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.  
+        5.9. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada à Contratada a ampla defesa. 
+        5.10. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a Contratada não regularize sua situação.  
+        5.11. Somente por motivo de economicidade, segurança nacional ou outro interesse público de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da Contratante, não será rescindido o contrato em execução com a Contratada inadimplente. 
+        5.12. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+            5.12.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na Lei Complementar nº 123, de 2006.
+
+    6. CLÁUSULA SEXTA – REAJUSTE E ALTERAÇÕES
+        6.1. O preço contratado é fixo e irreajustável no prazo de um ano, contado da data limite para a apresentação das propostas.
+            6.1.1. Dentro do prazo de vigência do contrato e mediante solicitação da contratada, os preços contratados poderão sofrer reajuste após o interregno de um ano, aplicando-se o índice (...), exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+OU
+        6.1. O preço contratado é fixo e irreajustável.
+NOTAS EXPLICATIVAS: 
+• A adoção de uma ou outra redação para o subitem 6.1. dependerá de o contrato decorrer ou de Pregão tradicional, ou de Pregão para registro de preços.
+• Na hipótese de o contrato decorrer de Pregão tradicional, a Administração deverá atentar para que o índice utilizado seja o indicador mais próximo da efetiva variação dos preços dos bens a serem fornecidos, “...o qual deverá ser preferencialmente um índice setorial ou específico, e, apenas na ausência de tal índice, um índice geral, o qual deverá ser o mais conservador possível de forma a não onerar injustificadamente a administração...”. A Administração poderá, ainda, utilizar índices diferenciados, de forma justificada, de acordo com as peculiaridades envolvidas em cada um dos fornecimentos.
+        6.2. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de 1993.
+        6.3. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+        6.4. As supressões resultantes de acordo celebrado entre as partes Contratantes poderão exceder o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+
+    7. CLÁUSULA SÉTIMA – GARANTIA DE EXECUÇÃO
+        7.1. A Contratada, na assinatura deste Termo de Contrato, prestou garantia no valor de R$ (...) (...por extenso...), na modalidade de (...), correspondente a (...)% de seu valor total, observadas as condições previstas no Edital.
+        7.2. As condições relativas à garantia prestada são as estabelecidas no Edital.
+NOTA EXPLICATIVA: A cláusula acima deve ser incluída no contrato apenas quando, no Edital e na forma nele estipulada, tiver sido exigida garantia de execução.
+
+    8. CLÁUSULA OITAVA - ENTREGA E RECEBIMENTO DO OBJETO
+        8.1. O prazo de entrega dos bens é de (...) dias, contados do efetivo recebimento da Ordem de Fornecimento, em remessa (...única ou parcelada...), na (...endereço...).
+NOTA EXPLICATIVA: Em caso de remessa parcelada, discriminar as respectivas parcelas, prazos e condições em subitens.
+        8.2. No caso de produtos perecíveis, o prazo de validade na data da entrega não poderá ser inferior a 75% (setenta e cinco por cento) do prazo total recomendado pelo fabricante.
+        8.3. Os bens serão recebidos provisoriamente no prazo de 5 (cinco) dias úteis, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes neste Termo de Referência.
+NOTA EXPLICATIVA: Nos termos do art. 74 da Lei n° 8.666, de 1993, poderá ser dispensado o recebimento provisório nos casos de gêneros perecíveis e alimentação preparada
+        8.4. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência, devendo ser substituídos no prazo de até 15 (quinze) dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+        8.5. Os bens serão recebidos definitivamente no prazo de 10 (dez) dias úteis, contados do recebimento provisório, após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo circunstanciado.
+            8.5.1. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do esgotamento do prazo.
+        8.6. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta execução do contrato.
+
+    9. CLÁUSULA NONA - FISCALIZAÇÃO
+        9.1. Nos termos do art. 67 da Lei nº 8.666, de 1993, será designado representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as ocorrências relacionadas com a execução e determinando o que for necessário à regularização de falhas ou defeitos observados.
+            9.1.1. O recebimento de material de valor superior a R$ 80.000,00 (oitenta mil reais) será confiado a uma comissão de, no mínimo, 3 (três) membros, designados pela autoridade competente.
+NOTA EXPLICATIVA: A fiscalização da execução contratual deve ser realizada de forma adequada por profissional com experiência na área.
+        9.2. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em co-responsabilidade da Administração ou de seus agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de 1993.
+        9.3. O representante da Administração anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o nome dos funcionários eventualmente envolvidos, determinando o que for necessário à regularização das falhas ou defeitos observados e encaminhando os apontamentos à autoridade competente para as providências cabíveis.
+
+    10. CLÁUSULA DEZ – OBRIGAÇÕES DA CONTRATANTE
+        10.1. São obrigações da contratante:
+            10.1.1. Receber o objeto no prazo e condições estabelecidas no Edital e seus anexos;
+            10.1.2. Verificar minuciosamente, no prazo fixado, a conformidade dos bens recebidos provisoriamente com as especificações constantes do Edital e da proposta, para fins de aceitação e recebimento definitivo;
+            10.1.3. Comunicar à contratada, por escrito, sobre imperfeições, falhas ou irregularidades verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido;
+            10.1.4. Acompanhar e fiscalizar o cumprimento das obrigações da contratada, através de comissão/servidor especialmente designado;
+            10.1.5. Efetuar o pagamento à contratada no valor correspondente ao fornecimento do objeto, no prazo e forma estabelecidos noEdital e seus anexos;
+        10.2. A Administração não responderá por quaisquer compromissos assumidos pela contratada com terceiros, ainda que vinculados à execução do presente Termo de Contrato, bem como por qualquer dano causado a terceiros em decorrência de ato da contratada, de seus empregados, prepostos ou subordinados.
+
+    11. OBRIGAÇÕES DA CONTRATADA
+        11.1. A contratada deve cumprir todas as obrigações constantes no Edital, seus anexos e sua proposta, assumindo como exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita execução do objeto e, ainda:
+            11.1.1. Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local constantes no Edital e seus anexos, acompanhado da respectiva nota fiscal, na qual constarão as indicações referentes a: marca, fabricante, modelo, procedência e prazo de garantia ou validade;
+                11.1.1.1. O objeto deve estar acompanhado do manual do usuário, com uma versão em português e da relação da rede de assistência técnica autorizada, quando for o caso;
+            11.1.2. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+            11.1.3. Substituir, reparar ou corrigir, às suas expensas, no prazo fixado neste Termo de Referência, o objeto com avarias ou defeitos;
+            11.1.4. Comunicar à contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo previsto, com a devida comprovação;
+            11.1.5. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+            11.1.6. Indicar preposto para representá-la durante a execução do contrato.
+NOTA EXPLICATIVA: As cláusulas acima elencadas são as mínimas necessárias; as peculiaridades da contratação podem recomendar a adoção de outras obrigações.
+
+    12. CLÁUSULA ONZE – SANÇÕES ADMINISTRATIVAS
+        12.1. Comete infração administrativa, nos termos da Lei nº 8.666, de 1993, e do art. 7º da Lei nº 10.520, de 2002, quem:
+            12.1.1. Inexecutar total ou parcialmente qualquer das obrigações assumidas em decorrência da contratação;
+            12.1.2. Convocado dentro do prazo de validade da sua proposta, não celebrar o contrato;
+            12.1.3. Deixar de entregar ou apresentar documentação falsa exigida para o certame;
+            12.1.4. Ensejar o retardamento da execução do objeto;
+            12.1.5. Não mantiver a proposta;
+            12.1.6. Falhar ou fraudar na execução do contrato;
+            12.1.7. Comportar-se de modo inidôneo;
+            12.1.8. Cometer fraude fiscal.
+        12.2. A licitante ou a contratada que cometer qualquer das infrações discriminadas no subitem acima ficará sujeita, sem prejuízo da responsabilidade civil e criminal, às seguintes sanções:
+            12.2.1. Advertência;
+            12.2.2. Multa, nos termos da legislação estadual de regência;
+            12.2.3. Impedimento de licitar e contratar com o Estado de Alagoas e descredenciamento ou proibição de credenciamento no sistema de cadastramento de fornecedores do Estado de Alagoas, pelo prazo de até cinco anos;
+            12.2.4. Suspensão temporária de participação em licitação e impedimento de contratar com órgão ou entidade do Estado de Alagoas, por prazo não superior a 2 (dois) anos;
+            12.2.5. Declaração de inidoneidade para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a contratada ressarcir a contratante pelos prejuízos causados;
+        12.3. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa à contratada, observando-se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+        12.4. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano causado à Administração, observado o princípio da proporcionalidade.
+
+    13. CLÁUSULA DOZE – RESCISÃO
+        12.1. O presente Termo de Contrato poderá ser rescindido nas hipóteses previstas no art. 78 da Lei nº 8.666, de 1993, com as consequências indicadas no art. 80 da mesma Lei, sem prejuízo das sanções aplicáveis.
+        12.2. É admissível a fusão, cisão ou incorporação da Contratada com ou em outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da Administração à continuidade do contrato.
+        12.3. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à Contratada o direito à prévia e ampla defesa.
+        12.4. A Contratada reconhece os direitos da Contratante em caso de rescisão administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+        12.5. O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos, conforme o caso:
+            12.5.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+            12.5.2. Relação dos pagamentos já efetuados e ainda devidos;
+            12.5.3. Indenizações e multas.
+
+    13. CLÁUSULA TREZE – VEDAÇÕES
+        13.1. É vedado à Contratada:
+            13.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação financeira;
+            13.1.2. Interromper a execução contratualsob alegação de inadimplemento por parte da Contratante, salvo nos casos previstos em lei.
+
+    14. CLÁUSULA QUATORZE – DOS CASOS OMISSOS.
+        14.1. Os casos omissos serão decididos pela Contratante segundo as disposições contidas na Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, e nas demais normas de licitações e contratos administrativos, além de, subsidiariamente, as disposições contidas na Lei nº 8.078, de 1990 – Código de Defesa do Consumidor, e normas e princípios gerais dos contratos.
+
+    15. CLÁUSULA QUINZE – PUBLICAÇÃO
+        15.1. Incumbirá à Contratante providenciar a publicação deste instrumento, por extrato, no Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+
+    16. CLÁUSULA DEZESSEIS – FORO
+        16.1. O Foro para solucionar os litígios que decorrerem da execução deste Termo de Contrato será o da Comarca de Maceió – AL.
+
+Para firmeza e validade do pactuado, o presente Termo Aditivo foi lavrado em 02 (duas) vias de igual teor, o qual, depois de lido e achado em ordem, vai assinado pelos contratantes. 
+
+Maceió (AL), em (...) de (...) de (...).
+
+
+___________________________________________
+CONTRATANTE
+
+___________________________________________
+CONTRATADA
+
+___________________________________________
+TESTEMUNHA		CPF Nº
+
+___________________________________________
+TESTEMUNHA		CPF Nº
