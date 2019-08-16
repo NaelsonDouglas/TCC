@@ -1,5 +1,6 @@
 import os
 from spacy import displacy
+import spacy
 import pt_core_news_sm
 
 
@@ -12,7 +13,7 @@ nlp = spacy.load('pt')
 os.chdir(source_dir)
 
 
-def list_files(dir=contracts_dir):
+def list_texts(dir=contracts_dir):
     r = []
     for root, dirs, files in os.walk(dir):
         for name in files:
@@ -21,7 +22,8 @@ def list_files(dir=contracts_dir):
                 r.append(f)            
     return r
 
-def get_entities(text_path):
+def get_entities_unformated(text_path):
+    directory = os.path.dirname(text_path)
     f = open(text_path,"r")
     raw_text = f.read()
     f.close()
@@ -29,12 +31,13 @@ def get_entities(text_path):
     entities = [(i, i.label_, i.label) for i in doc.ents]
     return entities
 
-x=get_entities(texts[1])
-
-for i in x:
-    print(i)
-
-
-
-
-texts = list_files()
+def get_entities_dict(text_path):
+    ents = get_entities_unformated(text_path)
+    dic_ents = {}
+    for e in ents: #e is an specific entity in the list of entities
+        if "\n" not in e[0].text:
+            if e[1] in dic_ents:  #Check if it's alreary listed an entity of the same class e = (lemma, class, a number)
+                dic_ents[e[1]].add(e[0])
+            else:
+                dic_ents[e[1]] = {e[0]}
+    return dic_ents
