@@ -8,6 +8,7 @@ source_dir = "/home/ndc/repos/TCC/src/"
 contracts_dir = "/home/ndc/repos/TCC/src/contracts/"
 
 
+#nlp = spacy.load('/home/ndc/repos/TCC/src/leNER-BR/model/leNERBR')
 nlp = spacy.load('pt')
 
 os.chdir(source_dir)
