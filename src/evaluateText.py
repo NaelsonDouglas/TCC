@@ -84,6 +84,7 @@ def get_fileEntities(filename):
 
     for sentence in sentences:
         words = word_tokenize(sentence, language='portuguese')
+        words = [x.lower() for x in words]
         
         preds = model.predict(words)    
         for index, word in enumerate(words):

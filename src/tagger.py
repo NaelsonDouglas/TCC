@@ -2,22 +2,24 @@ import os
 from evaluateText import get_fileEntities
 import json
 
-#source_dir = "/home/ndc/repos/TCC/src/"
+source_dir = "/home/ndc/repos/TCC/src/"
+os.chdir(source_dir)
 contracts_dir = "./contracts/"
 
 
 #nlp = spacy.load('/home/ndc/repos/TCC/src/leNER-BR/model/leNERBR')
-#os.chdir(source_dir)
 
 
-def list_texts(dir=contracts_dir):
+
+def list_texts(d=contracts_dir):
     r = []
-    for root, dirs, files in os.walk(dir):
+    for root, dirs, files in os.walk(d):
         for name in files:
             f = os.path.join(root, name)
             if f.endswith("txt"):
                 r.append(f)            
     return r
+
 
 def get_entities(text_path):
     directory = os.path.dirname(text_path)    
