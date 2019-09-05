@@ -25,7 +25,7 @@ Code entirely written by the authors of leNER-Br paper
 #      }      
 
 
-#os.chdir("/home/ndc/repos/TCC/src/LeNER-BR/LeNER-Br/model")
+
 
 
 from model.ner_model import NERModel
@@ -46,8 +46,6 @@ bcolors = {
     "O": ""
 }
 
-
-
 # create instance of config
 config = Config()
 
@@ -56,63 +54,22 @@ model = NERModel(config)
 model.build()
 model.restore_session(config.dir_model)
 
-#filename = sys.argv[1]
+filename = sys.argv[1]
 
-def get_fileEntities(filename):
-    tokenizer = PunktSentenceTokenizer()
+tokenizer = PunktSentenceTokenizer()
 
-    with open(filename, 'r') as file:
-        text = file.read()
+with open(filename, 'r') as file:
+    text = file.read()
 
-    tokenizer.train(text)
-    sentences = tokenizer.tokenize(text)
+tokenizer.train(text)
+sentences = tokenizer.tokenize(text)
 
-
-    loading_word = False
-    acumulator = ""
-    pred_acumulator = ""
-
-
-    tags = {
-        "PESSOA": [],
-        "TEMPO": [],
-        "LOCAL": [],
-        "ORGANIZACAO": [],
-        "JURISPRUDENCIA": [],
-        "LEGISLACAO": [],    
-    }
-
-    for sentence in sentences:
-        words = word_tokenize(sentence, language='portuguese')
-        
-        preds = model.predict(words)    
-        for index, word in enumerate(words):
-
-            if preds[index][0:2] in ['B-', 'I-', 'E-', 'S-']:
-                if preds[index][0:2] == 'B-':
-                    if loading_word:
-                        #print(acumulator)
-                        #print(pred_acumulator)
-
-                        tags[pred_acumulator].append(acumulator)
-                        #print("--------")
-                        acumulator = word
-                    else:
-                        loading_word = True
-                if preds[index][0:2] == 'I-':
-                    acumulator = acumulator+" "+word
-
-
-                preds[index] = preds[index][2:]
-                pred_acumulator = preds[index]
-                #print(preds[index]+"\n")
-
-
-
-
-            #print(bcolors[preds[index]] + 
-                #word + bcolors["ENDC"], end=' ')
-        #print('\n')
-
-    #print(tags)
-    return tags
+for sentence in sentences:
+    words = word_tokenize(sentence, language='portuguese')
+    preds = model.predict(words)
+    for index, word in enumerate(words):
+        if preds[index][0:2] in ['B-', 'I-', 'E-', 'S-']:
+            preds[index] = preds[index][2:]
+        print(bcolors[preds[index]] +
+              word + bcolors["ENDC"], end=' ')
+    print('\n')
