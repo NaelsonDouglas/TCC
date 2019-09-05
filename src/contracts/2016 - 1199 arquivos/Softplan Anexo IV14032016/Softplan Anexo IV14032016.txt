@@ -1,0 +1,245 @@
+280
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+ANEXO V
+Periféricos homologados
+HARDWARE
+1) Plataforma tecnológica mínima sugerida para desktop
+2)
+Processador Intel Core 2 duo 2Ghz;
+Memória RAM 4 GB;
+Unidade de Disco Rígido 160 Gb, Serial ATA, 7.200 RPM;
+Placa de Rede Padrão PCI, plug & play 10/100/1000 Mbps;
+Placa de Vídeo padrão SVGA de 128 MB de memóiia de vídeo;
+Monitor LCD de 19";
+Teclado padrão AT com 107 teclas, ABNT-2;
+Mouse;
+: Microsoft Windows 7, ou superior;
+Portas USB 2.0 (ou superior);
+Padronizar o mesmo antivírus em todas as máquinas.
+Especificação de Servidores para implantação do SAJ
+Procuradorias na PGE/AL
+a
+Servidor de Banco de Dados de Produção (01 unidade) Virtual:
+08 VCPUs
+64 GB de memória RAM
+01 disco de 50GB (Sistema Operacional)
+01 disco de 100GB (SGBD)
+01 disco de 500GB (Bases de Dados)
+Software: Oracle Linux Enterprise 7 64 bits
+Software: Orácle 11g Standard R2 64Bits ou superior
+Servidor de Banco de Dados de Homologação e Teste (01
+unidade) Virtual:
+04 VCPUs
+16 GB de memória RAM
+01 disco de 50GB (Sistema Operacional)
+01 disco de 100GB (SGBD)
+01 disco de 500GB (Bases de Dados)
+Software: Oracle Linux Enterprise 7 64 bits
+Software: Oracle 11g Standard R2 64Bits ou superior
+    
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1c.
+281
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Backups da Base de Dados de Produção
+Solicitamos que sejam realizados backups da Base de Dados, bem
+como dos Archives, com a periodicidade e retenção necessárias para:
+d.
+e.
+f
+g
+Permitir a restauração do Banco de Dados de Produção em caso
+de crash. até o momento anterior ao crash;
+Possibilitar a utilização do backup mais recente para
+criação/recriação do Banco de Dados de -Homologação;
+Possibilitar a utilização do backup mais recente para
+criação/recriação do Banco de Dados de Teste:
+Possibilitar a restauração de backups dos últimos 6 meses para
+validação de dados.
+Servidores Virtuais de Aplicação Delphi de Produção (02
+unidades)*
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidade C:1e 70 GB na
+unidade E:1
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+Servidores Virtuais de Aplicação Delphi apoio SAJAT (01
+unidade)* '
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidade C:l e 70 GB na
+unidade E:1
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+Servidores Virtuais de Aplicação Delphi Web Connection (01
+unidade)*
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidáde CA e 70 GB na
+unidade EX
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+Servidores Virtuais de Aplicação Web de Produção (02
+unidades)
+04 vCPU . ,
+08 GB de memória RAM
+100 GB de área útil X
+01 Interface de rede 100/1000mbps
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1h.
+j
+k.
+282
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Software: Linux Ubuntu Server 14.04 ou superior, em inglês
+Servidor Virtual de Aplicação Delphi de Homologação (01
+unidade)*
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidade C:1 e 70 GB na
+unidade E:1
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+Servidor Virtual de Aplicação Web de Homologação e Teste (01
+unidades)
+04 vCPU
+08 GB de memória RAM
+100 GB de área útil
+01 Interface.de rede 100/1000mbps
+Software: Linux Ubuntu Server 14.04 ou superior, em inglês
+Servidor Virtual de Aplicação Delphi de Teste (01 unidade)*
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidade C:Xe 70 GB na
+unidade E:1
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+Servidor Virtual de Aplicação Delphi de Treinamento (01
+unidade)*
+04 vCPU
+04 GB de memória RAM
+100 GB de área útil, divididos em 30 GB na unidade Cie 70 GB na
+unidade E;%
+01 Interface de rede 100/1000mbps
+Software: Windows Server 2012, em inglês
+Software: WinRAR
+(*) IMPORTANTE: Para servidores de aplicação Delphi liberar inicialmente
+apenas um servídor virtual, para ser confiqurado como Modelo, qi
+será clonado para gerar os demais servidores.
+V
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1ESTADO DE
+PROCURADORIA Gi
+3) Scanners
+4) Leitores de código de barras - Requisitos mínimos
+ALAGOAS
+ERAL DO ESTADO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fabricante:. , “ Modelo.
+HP Scanjet 3570c
+11200 Series Scanner
+Kodak i2600, i2800
+Lexmark X646e
+Panasonic KV-S1045C
+Epson GT-S55 e GT-S85
+Fujitsu Fi-7160
+Fujitsu Fi-8230
+Fujitsu Fi-6240
+Samsung CLX-92x1 93x1 Series
+Samsung SCX-6x55 Series PS
+SCX-5835 5935
+Samsung Series PCL6
+E-SIGNPAD MSP-
+AKYIAMA 3200
+Signatura Gem 4x5 -
+Topaz T-S751-HS
+WACOM SVCAD - FT-203-U
+ 
+ 
+Leitora óptica - Leitora de código de barra;
+Fonte de luz Diodo de luz visível 6550 nm+++ 10 nm;
+Potência do Laser 0,96 mW (pico);
+Profundidade de campo O a 203 mm para códigos de barras de 13
+miis;
+Largura de campo 64 mm na face e 249 mm a 203 mm de distância;
+Velocidade de varredura 60 varreduras por segundo (bidirecional);
+Padrão de varredura: Uma linha;
+Barra minima de leitura: 5 mils;
+Ativação por infravermelho: Longa distância: O a 279 mm / Curta
+distância: O a 102 m;
+Auto-discrimina todos os padrões de Codificação;
+Interfaceamento: RS232C, Teclado PC/AT, Teclado Stand Alone,
+USB;
+Light Pen;
+Contraste: 35% míinimo de reflectância;
+Número de caracteres a ser lido: Até 80 caracteres; —
+Roll, Pitch, Yaw: 42º, 68º, 52º;
+Sinal sonoro: 1 tons ou sem sinal; e
+   
+25 - Contrato - Serviços f Continuados
+Versão 2015.1
+2ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Code 32, Code 39 ASCII, Code 128, EAN-8, EAN-13, Interv;alado 2
+de5.
+ 
+ 
+ 
+ 
+ 
+ 
+““Fabricante Modelo
+Metrologic MS5145 Eclipse
+SOFTWARE
+1. Servidores de aplicação Web
+Tomcat versão 6;
+Tomcat versão 7;
+JBoss versão 4;
+JBoss versão 7.
+2. Sistema gerenciador de banco de dados (SGBD)
+Oracle versão 10.2;
+Oracle versão 11.2;
+Oracle versão 12c;
+Microsoft SQLServer 2008 R2;
+3. Sistemas operacionais
+3.1.Para Servidores de Aplicação Delphi
+Microsoft Windows Server 2008;
+Microsoft Windows Server 2012
+3.2. Para estações de usuário Delphi
+Windows 7 32/64 bits;
+Windows 8 64 bits;
+Windows 8.1 64 bits;
+Windows 10 32 bits;
+Windows 10 64 bits.
+   
+ 
+25 - Contrato - Serviços fi Continuados
+Versão 2015,1

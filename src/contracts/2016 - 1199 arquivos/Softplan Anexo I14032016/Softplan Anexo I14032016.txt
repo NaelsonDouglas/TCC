@@ -1,0 +1,463 @@
+250
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+: ANEXO |
+REQUISITOS NECESSÁRIOS DO SISTEMA
+1. Módulo Básico
+11.
+1.2.
+13.
+Cadastro de Pessoas:
+As partes de cada processo, bem como os devedores das CDAs, são cadastradas
+como pessoas no sistema. O sistema tem. controles que permitem que as
+alterações das características de uma pessoa em um processo não resultem em
+alterações nesta pessoa para os demais processos, pois é necessário manter-se a
+fidelidade com o cádastro do processo junto ao judiciário. Por outro lado, o sistema
+reconhece que se trata da mesma pessoa, mesmo que com atríbutos distintos nos
+dois processos. Entretanto, algumas pessoas possuem elevada ocorrência de
+processos, mas reduzida necessidade de alteração em seus atributos. Nestes
+casos o sistema permite o gerenciamento destes cadastros de forma unificada.
+O cadastro de pessoas poderá ser formado a partir dos dados de pessoas físicas e
+jurídicas, sendo neste úÚltimo caso, possível a criação de vínculo entre as
+sociedades empresariais e os sócios e corresponsáveis (uma vez identificada a
+empresa, os sócios são identificados e vice-versa).
+As pesquisas por nome das partes são realizadas com base em rotinas de busca
+fonética. i
+Cadastro de Processos:
+Disponibiliza facilidades para o registro dos dados básicos do processo, partes que
+o compõem, assuntos e valores associados. Possui elevado conjunto de regras
+que auxiliam o cadastramento, agilizando a atividade e evitando erros.
+Todos os processos recebidos de outros órgãos externos ou originados pela
+Procuradoria serão cadastrados, convertidos e/ou recepcionados em formato
+eletrônico, assim tramitando durante todo o ciclo de vida do processo;
+Gerenciamento Eletrônico de Documentos — GED:
+O sistema dispõe de recursos de GED - Gerenciamento Eletrônico de Documentos,
+que permitem a incorporação de peças processuais produzidas nativamente no
+sistema ou digitalizadas. Estas funcionalidades são parte integrada da aplicação,
+dispensando a necessidade de aquisição de outras licenças ou suítes de GED .de
+terceiros. Os recursos de GED da aplicação permitem:
+* Combinação de arquivos digitalizados e documentos —nativamente
+eletrônicos na composição do processo digital;
+« Pesquisa e localização das imagens através das consultas aos metadados
+associados;
+« Utilização de algoritmos .de compressão das imagens para economia de
+espaço ocupado no banco de dados; : /z?
+25 - Contrato - Serviços À Continuados
+Versão 2015.114
+1.5.
+ 
+251
+A 7,
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Possibilidade de salvamento das imagens em banco de dados e/ou sistema
+de arquivos;
+Assinatura digital das peças nativamente digitais ou digitalizadas;
+A digitalização, indexação, visualização e impressão de documentos;
+Utilização de scânners padrão de mercado.
+Permite fazer anotações nos documentos (post-it)
+Permite a configuração de sigilo de documentos.
+Distribuição de Processos:
+Permite a distribuição de processos nas modalidades dirigida e automática, através
+de regras pré-estabelecidas por tipo de processo, devedor, tipo de tributo, dentre
+outros, podendo estas regras serem configuradas de forma flexível na aplicação.
+As rotinas de distribuição permitem:
+Equilíbrio da carga de trabalho entre os procuradores;
+Ajustes do equilíbrio de carga para situações especiais, como redução da -
+carga de trabalho para que o procurador atue em outras atividades de
+interesse da Procuradoria;
+Gerenciamento dos períodos de afastamentos temporários e definitivos, com
+a definição das respostas do sistema quando ocorrer o registro do
+andamento processual de processos vinculados a estes procuradores. Por
+exemplo, ao chegar uma intimação de um processo cujo procurador
+responsável esteja afastado, o sistema poderá encaminhar tal intimação
+para o procurador chefe, ou para um procurador substituto, um grupo de
+procuradores específicos ou ainda distribuir entre os demais procuradores
+da mesma especializada;
+Gerenciamento do conhecimento especializado dos . procuradores em
+determinados assuntos;
+Administrar os impedimentos de determinados procuradores para certos
+assuntos, partes ou advogados da parte contrária;
+Solicitações de redistribuições definitivas ou provisórias envolvendo todos os
+atores do fluxo e permitindo a exposição de motivos para solicitação,
+acolhimento e recusa;
+No caso específico de Execução Fiscal ou processos tributários, permite a
+vinculação automática do devedor a um procurador, de modo que o
+procurador seja responsável por todos os processos de um mesmo devedor,
+obtendo com isso o conhecimento do histórico deste.
+Trâmite Processual:
+O registro do andamento processual é realizado segundo a visão da Procuradoria,
+possibilitando movimentar processos e seus incidentes e recursos. O registro de—-
+andamento processual apresenta regras bem definidas, que auxiliam o opeÉ_d,or.
+ 
+e
+— “
+25 - Contrato - S&FYIGoS f Continuados
+Versão 2015.11.6.
+177.
+2 5d
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+modo a impedir lançamentos inadequados, como tipos de movimentação
+incompatíveis com a fase processual, tipo de processo ou assunto.
+Fluxo do Procurador:
+A notificação de pendências é gerada automaticamente no fluxo do procurador
+responsável pelo processo com sugestão das manifestações aplicáveis a cada
+caso acompanhado de seu respectivo prazo. Para os casos onde o procurador do
+processo estiver afastado temporária ou definitivamente, o sistema permite que a
+notificação seja enviada ao procurador chefe responsável : ou distribuída
+automaticamente aos demais procuradores segundo critérios pré-estabelecidos no
+momento do registro do afastamento;
+Os procuradores são notificados dos eventos ocorridos em processos de sua
+responsabilidade, podendo realizar análise completa do processo, bem como
+produção da manifestação de forma prática e segura a partir de modelos e teses já
+existentes.
+Permite pesquisas para localização dos processos em andamento ou arquivados,
+por número, nomes (por semelhança fonética), datas, assuntos e outros atributos;
+Permite o controle e a supervisão dos prazos pelas chefias;
+Permite o gerenciamento integrado de todas as atividades desenvolvidas pelos
+procuradores;
+Permite o gerenciamento dos pedidos de dispensa de interposição de recursos;
+Workfiow:
+Dispõe dos seguintes recursos:
+* Controles de fluxos de trabalho, responsáveis pela coordenação da
+execução das atividades e tarefas configuradas.
+« Permite realizar o gerenciamento da execução das tarefas programadas,
+incluindo o controle de estado de tarefas com intervenção humana ou
+executadas mediante ações automáticas do sistema.
+e Permite ao usuário visualizar em quali ponto/atividade o processo se
+encontra no momento,
+« Permite ao usuário efetuar pesquisas utilizando diversos tipos de filtros,
+possibilitando a identificação do status de seu trabalho.
+* A composição dos fluxos contempla os seguintes tipoê de elementos:
+atividades/tarefas, transições de tarefas, temporizadores, sequência de
+execução e disparo de eventos/operações.
+« O sistema possibilta que o usuário realize. as atividades/tarefas e
+intervenções manuais de forma unitária e de múltipla seleção.
+e Permite que os processos sejam inseridos em mais de umia fila de trabalho,
+para atender situações em que atividades distintas precisam ser
+desenvolvidas simultaneamente. ?
+N
+25 - Contrato - Serviços À Continuados
+Versão 2015.11.8.
+1.9.
+253
+te :
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Disponibiliza funcionalidade para que os processos sejam bloqueados por
+usuário, evitando que dois ou mais usuários realizem simultaneamente a
+mesma ação para o mesmo processo.
+* Disponibiliza fluxos de trabalho especializados e destinados para o controle
+dos documentos produzidos.
+e Permite a transferência direta de pendências entre procuradores,
+Editor de Textos:
+Tendo em vista a natureza da atividade-fim da Procuradoria, cuja principal
+característica é a produção documental, e dado o elevado volume de peças
+produzidas, o Sistema de Gestão da Procuradoria dispõe de editor de' textos
+nativamente integrado para a produção de documentos, incluindo os seguintes
+recursos principais:
+* Criação de textos com diferentes fontes e formatações (alinhamentos,
+tabulações, numeração e marcadores);
+« Inclusão de figuras e imagens no corpo do texto;
+* Campos de mesclagem com informações do banco de dados;
+* Criaçãoe formatação de tabelas;
+* Correção ortográfica online;
+e Localização e substituição de palavras; partículas e trechos;
+« Salvamento em formato RTF;
+* Paginação, cabeçalhos, rodapéâ e quebras de seção;
+* Criaçãodetemplates por usuário e grupo de trabalho;
+« Recursos de auto-texto por usuário e grupo de trabalho;
+e Hifenização;
+e Estilos;
+« Visualização em tela e impressão dos documentos utilizando impressoras
+compatíveis com ambientes Windows.
+* Permite a finalização de documentos em lote.
+Banco de Teses:
+Permite a criação e manutenção de banco de teses da instituição, a partir dos
+documentos produzidos dentro do sistema (pareceres, petições, recursos e demais
+documentos produzidos). O banco de teses aceita também a inserção de textos
+obtidos em fontes externas ao sistema (internet, e-mail, documentos icos,
+eto);
+  
+25 - Contrato - Serviços fi Continuados
+Versão 2015.11,10.
+ 
+2 54
+ESTADO DE ALAGOAS Rn
+PROCURADORIA GERAL DO ESTADO :
+Relatórios Gerenciais:
+Disponibilizar relatórios gerehciais claros e precisos que subsidiem tomadas de
+decisões proativas como:
+* — Acompanhamento da produtividade de cada procurador;
+* Acompanhamento da aloócação dos procuradores em cada procuradoria
+especializada de acordo com a quantidade de processos distribuídos;
+« Acompanhamento da evolução de processos em cada especializada;
+* — Acompanhamento dos maiores devedores;
+* Acompanhamento da distribuição das dívidas por procurador;
+1.11. Principais cadastros e configurações:
+1.11.1.
+1.11.2.
+1.11.8.
+1.11.4.
+1.11.5.
+1.11.6.
+Tipos de Movimentação:
+Permite a configuração dos possíveis tipos de movimentação, incluindo as
+situações em que são aplicáveis, bem como as manifestações adequadas e
+respectivos prazos considerando ainda instâncias e tipos de ação. Os tipos de
+movimentação indicam ao sistema que rotinas devem ser executadas
+automaticamente quando do seu lançamento no processo. Permitem ainda
+prazos diferenciados para os diferentes ritos (justiçga comum e juizado especial).
+Assuntos:
+A classificação dos processos quanto ao assunto é realizada a partir de tabela
+pré-definida. Os assuntos são associados às áreas de atuação da procuradoria,
+de forma e impedir a utilização indevida.
+Configurações para Distribuição:
+Permite ajustar probabilidades de recebimento para tratamento das situações
+onde o procurador deva receber mais ou menos processos que 08 demais.
+Também permite a rápida configuração dos afastamentos temporários e
+definitivos, bem como o comportamento esperado ao movimentar processos
+vinculados a estes procuradores.
+Tipos de Ação/Recursos:
+Permite a configuração dos Tipos de Ação e Recursos dos processos, bem
+como sua classificação em grupos de equilíbrio de distribuição e ainda as
+instâncias onde se aplica. Os tipos de ação são associados às áreas de
+atuação da procuradoria, de forma a impedir a utilização indevida.
+Usuários:
+Identificação do usuário quanto a suas atribuições, lotação e permissões em
+relação ao sistema.
+Modelos de documentos:
+Cadastramento dos modelos da instituição, grupo de trabalho ou de um
+procurador específico, possibilitando a organização por assunto de-forma a
+25- G to - Serviços À Continuados
+Versão 2015.11.99.7.
+1.11.8.
+ass
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+permitir a produção de documentos de forma automatizada a partir da junção
+dos dados do processo com o modelo selecionado.
+Fluxo de Trabalho:
+Criação dinâmica de fluxos de trabalho para cada tipo de processo e/ou
+assunto, criando fases adequadas e definindo os usuários que atuarão em cada
+fase. As fases disponibilizam rotinas adequadas para cada situação, sendo
+automatizadas sempre que possível.
+Gerenciamento de pendências cadastrais dos devedores:
+Permite a fácil manutenção dos cadastros dos devedores que:.,ggs_sw alguma
+pendência, como ausência de documento ou endereço. :
+ES
+25 - Contrato - Serviços fj Continuados
+Versão 2015.1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+2. Módulo de Administração e Segurança do Sistema
+Este módutlo permite as principais configurações e parametrizações do sistema.
+Características:
+a. Cadagtro de usuários e perfis de usuários: utilizado para a inclusão de novos
+usuários do sistema, e de grupos de usuários com os mesmos níveis de acesso.
+b. Autorizações e restrições de acesso por usuário ou perfil. Restringe o acesso ao
+usuário para uso somente das funções a ele permitidas.
+c. Auditoria do sistema: todas as interações no sistema que geram alterações no
+banco de dados (inclusão, exclusão e alteração) geram registros de data, hora e
+usuário de alteração para fins de auditoria.
+d. Cadastro de tipos de movimentação: utilizado para inclusão das situações em que
+a movimentação é aplicável, bem como as manifestações adequadas e respectivos
+prazos considerando ainda instâncias e tipos de ação. Os tipos de movimentação
+indicam ao sistema que rotinas devem ser executadas automaticamente quando do
+seu lançamento no processo.
+e. Cadastro de assuntos: A classificação dos processos quanto ao assunto é
+realizada a partir deste cadastro,y onde estarão associadas informações
+relacionadas à litispendência e permissão para distribuição, bem como informações
+adicionais opcionais ou obrigatórias. Os assuntos são associados às áreas de
+atuação da procuradoria, de forma e impedir a utilização indevida.
+f. Cadastro de tipos de documentos digitais: permite a descrição que será
+apresentada, na pasta digital do processo, para documentos digitalizados (ex:
+anexos, subsídios, alvará, etc.).
+g. Outras configurações de apoio: permite a manutenção dos cadastros básicos e
+parâmetros do sistema, tais como: municípios, órgãos judiciais, setores, situações
+cadastrais de devedores, fases de processo, dentre outros itens que subsidiam no
+controle total dos processos.
+h. Configurações do workflow: permite a criação dinâmica de fluxos de trabalho para
+cada tipo de processo e/ou assunto, além dos fluxos previamente configurados na
+fase de implantação do sistema, criando fases adequadas e definindo os usuários
+que atuarão em cada fase. As fases disponibilizam atividades adequadas para
+cada situação, automatizando sempre que possível as roti W
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1257
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+3. Módulo Contencioso Judicial
+o módulp do Contencioso permite à Procuradoria gerenciar todos os processos judiciais
+que se diferem da Execução Fiscal.
+Características e funcionalidades:
+a. O SAJ Procuradorias pode ser integrado aos sistemas dos Tribunais que operem o
+SAJ/Tribunais, o que permite à Procuradoria o recebimento de citações e
+intimações eletrônicas, além de visualizar, atuar e monitorar -todos os seus
+processos eletronicamente e em tempo real. Essa integração simpiífica também as
+tarefas de peticionamento e acompanhamento processual. O procurador poderá
+elaborar suas peças processuais, assiná-las digitalmente e encaminhá-las para o
+Tribunal sem a necessidade de acesso ao portal de peticionamento ou uso de
+quaisquer ferramentas externas ao sistema.
+b. Os documentos juntados ao processo no sistema dos Tribunais são apresentados
+automaticamente na pasta digital do processo no SAJ Procuradorias, e passa a
+operar dentro dos padrões e regras de negócio definidas pela Procuradoria.
+c. Para os casos onde a citação é recebida por oficial de justiça, o sistema dispõe de
+recursos para cadastramento simplificado do processo, quando o sistema está
+integrado com os Tribunais. Os dados do processo são recuperados e podem ser
+reaproveitados do judiciário evitando redigitação e erros. Além disso, conta com
+recursos nativos de digitalização dos documentos recebidos, permitindo que
+mesmo nos casos onde os processos tramitem fisicamente no judiciário se tenha a
+tramitação eletrônica no âmbito da procuradoria.
+d. Os processos são eletronicamente enviados às especializadas de acordo com a
+matéria. Nas procuradorias estaduais, os processos podem ser enviados. às
+procuradorias regionais, quando o processo tramíitar em juízo do interior do Estado,
+ou ainda para unidade de Brasília quando tratar-se de processo que tramite nos
+tribunais superiores.
+e. Antes de distribuir os processos, quando necessário a especializada pode emitir
+ofícios para obtenção de subsídios para defesa. Estes podem também ser emitidos
+diretamente pelo procurador ou ainda solicitados aos assessores ou mesmo a
+equipe de apoio da especializada. Os ofícios emitidos são gerenciados quanto às
+respostas.
+f. Os processos distribuídos para o procurador são apresentados em forma de lista
+de tarefas, também chamadas de pendências, em uma fila de trabalho específica
+do workflow (Módulo Básico). Além de novos processos, esta fila também
+apresenta pendências geradas a partir das movimentações de prooesÍÉm
+tramitação no judiciário e já vinculados ao procurador. ” oc
+ 
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+g. Tarefas como: a definição de assessor, solicitação de redistribuição de processos
+ou pendências, transferência de pendências, dentre outras estarão disponíveis
+conforme configurações realizadas no módulo.
+h. O sistema sugere automaticamente uma ou mais manifestações a serem
+elaboradas pelo procurador, para cada andamento registrado no processo. O
+procurador pode, caso assim deseje, utilizar o modelo de documento a ser
+elaborado a partir da manifestação selecionada. Os modelos pré-configurados
+apresentam, além da tese, as informações básicas. do processo já preenchidas,
+obtidas do banco de dados do Sistema. O procurador poderá então complementar
+o documento com os argumentos de defesa, finalizálo e peticioná-lo
+eletronicamente no Tribunal de Justiça através do próprio SAJ.
+i. A partir do recebimento de uma intimação ou notificação, o sistema calcula
+automaticamente o prazo para atendimento, de acordo com a movimentação
+associada (citação, decisão, sentença, etc.), com base nos prazos previstos nos
+Códigos Processuais: Civil, Trabalhista e Tributário.
+j O módulo realiza buscas automatizadas no banco de dados de processos
+cadastrados e efetua comparações objetivando localizar ocorrências de possíveis
+litispendências ou conexões. A busca automática também inclui processos
+encerrados (coisa julgada). As suspeitas são apresentadas ao procurador. Dessa
+forma, o procurador poderá evitar a duplicidade de processos de uma mesma parte
+(e com o mesmo objeto), tomando as medidas cabíveis junto ao judiciário.
+k. Para os processos que ainda tramitam em meio físico no judiciário, o sistema
+dispõe de mecanismos para apoiar na solicitação, busca e tramitação dos autos.
+|. Para conferências de cálculos, o sistema dispõe de fluxos que permitem ao
+procurador o envio de solicitações aos setores responsáveis, registrando os laudos
+diretamente na “pasta digital do processo”.
+Sempre que necessário, o procurador pode acionar a chefia imediata para solicit I?
+dispensas.
+ 
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1259
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+4. Módulo Execução Fiscal Eletrônica
+Este módulo estabelece, quando possível, uma via eletrônica de comunicação,
+dependente de integração, entre a Vara de Execuções Fiscais do Judiciário, a Secretaria
+de Fazenda e a Procuradoria.
+Solicitação Solicitação
+(serviço Iservice
+request)
+DÍVIDA
+ENA
+Resposta
+(service [service
+responsej response)
+ 
+Serviços disponibilizados pelo módulo:
+a. Ajuizamento de CDA's:
+No momento em que uma Certidão de Dívida Ativa (CDA) é emiítida pela
+Secretaria de Fazenda, esta é enviada automaticamente (via integração) ao
+SAJ, como documento digital. .A integração elimina a etapa de
+cadastramento das ações, através do reaproveitamento dos dados relativos
+às certidões, contidos no sistema da Secretaria de Fazenda. Caso a
+Procuradoria opte pela cobrança judicial, o usuário poderá, através do SAJ,
+irá gerar um “Kit de ajuizamento” — documento composto pela Petição lInicial,
+CDA, auto de infração, e demais documentos recebidos pelo sistema de
+dívida ativa. Este kit é remetido eletronicamente para o sistema do Tribunal
+de Justiça.
+b. Os processos de execução fiscal são automaticamente distribuídos entre os
+procuradores.
+c. As CDA's que possuem o mesmo CNPJ podem ser vinculadas a um mesmo
+procurador. '
+d. O Sistema permite o agrupamento de CDA's de um mesmo devedor,
+possibiltando o ajuizamento de ações de execução fiscal em lote. O
+agrupamento de CDA's também p ssibilita a identificação e meihor gestã
+dos grandes devedores.
+ 
+   
+e. Movimentações eletrônicas:
+25 - Contrato - Serviços f Continuados
+Versão 2015,1ato
+Re-:
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Os procuradores também são intimados de forma eletrônica pelo sistema,
+recebendo as notificações do Judiciário diretamente em seus fluxos de
+trabalho, que ainda oferecem controle de prazos e pendências que
+aguardam manifestação.
+Peticionamento eletrônico:
+Os executados poderão protocolar ao processo digital seus meios de defesa
+(petições, comprovantes de pagamentos e parcelamentos), enviando-os em *
+meio eletrônico através do portal do Judiciário. Estes documentos serão
+incorporados aos autos do processo digital. A Procuradoria acompanha
+esses trâmites processuais em tempo real, dengro do SAJ Procuradoriás
+ 
+ 
+ 
+25 - Contrato - Serviços À Continuados
+Versão 2015.126)
+ESTADO DE ALAGOAS &- .
+PROCURADORIA GERAL DO ESTADO
+ 
+6. Módulo de Integração — SDA - Sistema de Dívida Ativa
+Este módulo estabelece uma via eletrônica de comunicação entre o SAJ Procuradorias e
+o sistema de dívida do Estado ou Município.
+A integração entre os sistemas pode ser realizada através de serviços de integração de
+sistemas, utilizando tecnologias padronizadas e de amplo conhecimento e aceitação por
+parte do mercado (XML/SOAP e Web Services), utilizando o padrão de integração já
+específicado pela Softplan, ou através da troca de arquivos nos formátos (XML ou TXT).
+  
+  
+Solicitação (service
+request) / Arquivo XML
+ou TXT
+SISTEMA DE —— SAJ
+DÍVIDA ATIVA PROCURADORIAS
+ 
+   
+   
+ 
+   
+  
+Resposta (service
+response) / Arquivo
+XML ou TXT
+ 
+   
+ 
+A partir da implantação deste módulo serão disponibilizados os seguintes serviços:
+a. Recepção, cadastramento e atualização automática dos dados das CDAs e dos
+devedores, no Sistema da Procuradoria;
+b. Atualização  automática da situação da CDA (parcelamento, perda de
+parcelamento, quitação, dentre outras);
+c. Atualização dos valores devidos. T 4;7
+ 
+25 - Contrato - Serviços f Continuados
+Versão 2015,1

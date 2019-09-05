@@ -1,0 +1,68 @@
+ESTADO DE ALAGOAS
+DEPARTAMENTO DE ESTRADAS DE RODAGEM
+ 
+CORREIO(
+Pág. 3/4
+ 
+ 
+ 
+MODELO DE LAYOUT PADRÃO DE ARQUIVO DE POSTAGEM - APENSO !!
+Arquivo de Postagem de Objetos (Campo “Conteúdo” com 16 caracteres)
+Apresentação de layout do arquivo de “Postagem de Objetos”, com data no formato
+de 8(oito) posições.
+Origem : Cliente
+Tamanho do Registro : 180
+(Padrão STM400)
+Nome do Arquivo: fHt1ddmmX.SD1, onde:
+f . SigladoCliente (Identificador do Cliente - literal definida pela ECT);
+1 Numeral 1 (Fixo);
+dd Data (Indica o dia do mês: de 01 a 31 ) zonado, com zeros à esquerda
+para dias de 01 a O9;
+mm Data (Indica o mês: de 01 a 12) Com zeros à esquerda para meses
+entre 01 a OS9;
+Xx Sequência de Remessa no mesmo dia e mês (variando de "0" a "" e
+de "A" a"Z");
+.SD1 Extensão do arquivo-texto (Fixo).
+Registro Header
+Descrição do 1º Tipo de Regwstro
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Nome doCampo — |DE WA |[Comp. |Descrição do Campo [Tipo |
+| Tipo-de-Registro lo1 joi o1 | Conteúdo = 8 |Num
+| Código-do-Cliente o2 |o5 04 A ser definido pela ECT | Num
+Filler o6 20 15 Preencher com Zeros JAlfa ==
+| Nome-do-Cliente >. 60 |40 Alfa —
+|Data-Geração 61 68 jos Data — geração — do|Num |
+| arquivo formato | |
+| “aaaammdd” | |
+| Atde-de-Registro |69 74 *oe Qtde. de Registro do|Num |
+— JArquivo(Obs.) —— —
+Filler 75 168 94 Preencher com Zeros Alfa ==
+| Número-Sequencial- [169 /173 os | Número de Remessa — Num |
+| Arquivo | | | —
+Número Sequencial- |174 180 o7 Sequencial de Registro! Num | ?
+Registro | W a iniciar-se em |
+| | 0000001 : o |
+Obs.: Quantidade de Registro do arquivo inclui o Registro Header.
+Contrato Múltiplo ECT x DER/AL — Anexo 002 - AR Digita! [—N//
+DIRETORIA REGIONAL DE ALAGOAS - GERÊNCIA DE VENDAS
+Endereço: RUA ANTENOR GOMES DE OLIVEIRA, Nº. 144, FAROL. CEP: 57.055-265 — MACEIÓ/AL
+Telefone: (82)-3216-7952 — Fax: (82)-3216-7970 — e-mail: geven-al&correios.com.br
+CONTRATO Nº 9912325299 — (DLC - 018/2013)

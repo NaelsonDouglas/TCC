@@ -1,0 +1,100 @@
+SOFTPLAN
+poligraph
+Termo de licença de uso
+223
+PARTES e -
+Peilo presente instrumento, Softplan Planejamento e Sistemas Ltda , com sede à Rodovia SC 401 Km
+01 nº 10 ParaTec Alfa, Centro de Tecnologia I!lhaSoft, Bairro João Paulo, Florianópolis — SC, inscrita
+no CNPJ nº 82.845.322/0001-04 e inscrição Municipal nº 0713759, por intermédio de seu
+representante legal, o Sr. ILSON APARECIDO STABILE, aqui doravante denominada simplesmente
+LICENCIANTE e Procuradoria Geral do Estado Alagoas, sediada à Av., Assis Chateaubriand,
+2.578, Prado - Maceió — AL - CEP: 57.010-070, inscrita no CNPJ] No 08.629.065/0001-
+02, representada neste ato pelo Procurador Geral, Sr. FRANCISCO MALAQUIAS DE
+ALMEIDA JÚNIOR, aqui doravante denominada simplesmente LICENCIADA, resolvem firmar o
+presente termo, mediante as seguintes condições:
+OBJETO
+A LICENCIANTE, detentora dos direitos de propriedade intelectual do software objeto deste termo,
+neste ato e pela melhor forma de direito, outorga à LICENCIADA uma LICENÇA DE USO, em caráter
+não exclusivo e não transferível, por prazo indeterminado e para usuários ilimitados, dos módulos do
+sistema SAJ/Procuradorias, referente ao Contrato, doravante denominado "SOFTWARE",
+disponibilizado à LICENCIADA para que o utilize, respeitando as condições constantes deste termo.
+Os módulos componentes do sistema SAJ/Procuradorias, referente ao contrato supracitado, são:
+= — MóduloBásico;
+* — Módulo de Administração e Segurança do Sistema;
+* — Módulo integrador SAJ Tribunais;
+* Módulointegrador SDA;
+« —Módulode Execução Fiscal Eletrônica;
++ — Módulo Contencioso Judicial.
+O sistema SAJ/Procuradorias está protegido pela legislação brasileira pertinente à propriedade
+intelectual, consubstanciada no direito autoral, patrimonial e comercial, sobre o sistema fornecido,
+seus componentes de software, suas adaptações, derivações e customizações, bem como protegido
+pelos tratados internacionais de propriedade intelectual.
+VEDAÇÃO
+É vedado à LICENCIADA: Vender, transferir ou ceder, onerosa ou não, copiar, sublicenciar!
+compartilhar, arrendar, modificar, alugar, transmítir o sistema SAJ/Procuradorias, por qualquer meio
+de telecomunicações existente ou que venha a ser criado, bem como deixá-lo disponível em qualquer
+tipo de serviço online que não seja o previsto para a execução das atividades constantes do referido
+contrato, bem como disponibilizá-lo a qualquer outro órgão que não a LICENCIADA, sem a prévia -—--
+autorização por escrito da LICENCIANTE. Da mesma forma é vedada a reprodução e distribuição a
+   
+  
+ 
+TRod. Jose Cárlos Daux | km 01 | nºe 10 | Parafec Alfa | João Payíb | 88030 000 | Florianópolis;SE”
+Fone +55 49/f027 8000 | wana.sofuetaT comdsr224
+e SOFTPLAN
+poligraph
+terceiros do manual e/ou de outros materiais de caráter instrucional ou promocional que acompanham
+o SOFTWARE e a este estão relacionados.
+As concessões manifestadas neste instrumento não implicam, em hipótese alguma, em renúncia ou
+transferência de quaiquer dos direitos da LICENCIANTE à LICENCIADA. :
+MODIFICAÇÕES E PRODUTOS
+Todas as modificações, melhorias e correções efetuadas no sistema SAJ/Procuradorias, mesmo que
+informadas, solicitadas, e eventualmente custeadas pela LICENCIADA, ficam incorporadas ao
+sistema e sujeitas aos termos desta LICENÇA DE USO, podendo inclusive serem disponibilizadas
+pela LICENCIANTE a outras LICENCIADAS, assim como a LICENCIADA pode eventualmente
+receber melhorias de funcionamento, correções e novos recursos solicitados pelos demais clientes da
+LICENCIANTE.
+O presente instruménto não inclui o fornecimento de quaisquer outros produtos, tecnologias ou
+componentes de terceiros que porventura sejam necessários à implantação e operacionalização do
+SOFTWARE, além daqueles previstiss em instrumento contratual, ficando sob inteira
+responsabilidade da LICENCIADA o iicenciamento ou aquisição destes itens de acordo com os
+termos e condições específicos.
+RESTRIÇÕES
+A utilização e alteração dos códigos fontes ficarão limitados à ocorrência de um dos seguintes
+eventos: recuperação judicial, falência, dissolução total ou liquidação e descontinuidade na prestação
+do serviço de suporte ao produto licenciado pela LICENCIANTE.
+À utilização indevida dos códigos fontes implicará automática violação dos direitos autorais da
+LICENCIANTE, obrigando a LICENCIADA a indenizar todas as perdas e danos sofridos, na forma da
+Lei.
+RESPONSABILIDADES
+O não cumprimento de quaisquer condições deste termo implicará na responsabilidade cívil e criminal
+dos que estiverem envolvidos na violação das regras estabelécidas e fórmalizadas por meio deste
+termo.
+CONFIDENCIALIDADE
+Deve ser preservada, por ambas as partes, a confidencialidade das informações que venham a ser
+trocadas no curso das suas relações, notadamente aquelas provenientes da operação e utilização do
+SOFTWARE, especificamente aquelas que guardam relação com a execução do objeto do contrato e
+ao sigilo das regras de negócios.
+PRAZO
+O presente termo é firmado por prazo indeterminado, sem prejuízo às condições e delerminaçás_
+expressas no Contrato.
+Rod. José Carlos Daux | km 01 [ ne 10 | Parafec Alfa | Joao Paulo | 88030 000 | Fiorianópotis/sC
+Fone +55 48 2027 8000 | www.softplan.com.br225
+w&e-" — GQPSAFTPLAN
+poligraph
+FORO
+As partes de comum acordo elegem o Foro da Comarca da Capital de Alagoas, para nele dirimirem
+todas as dúvidas oriundas do presente termo, renunciando expressamente a qualquer outro, por mais
+privilegiado que seja.
+LICENCIANTE e LICENCIADA, por estarem de acordo, aceitam o presente termo, em duas vias,
+para um só efeito, através da assinatura abaixo firmada.
+Florianópolis, 30 de setembro de 2015.
+  
+ 
+       
+LICENCIANTE: &
+e Sistemas Ltda.
+LICENCIADA:
+Procuradoria do Eftado de Alagoas
+Rod. José Carlos Caux | Km 01 | nº 10 | Parqiec Atfo | Jogo Paulo | 88030 0D0 | Florianepels/S€
+Fonec +55 48 3027 8000 | www.softplan.com.br

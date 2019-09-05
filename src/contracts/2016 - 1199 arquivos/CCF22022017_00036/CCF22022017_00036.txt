@@ -1,0 +1,79 @@
+DE ALAGOA:
+TADO s
+DEPARTAMENTO DE ESTRADAS DE RODAGEM
+ 
+CORREIO(
+Pág. 4/4
+ 
+ 
+ 
+ 
+MODELO DE LAYOUT PADRÃO DE ARQUIVO DE POSTAGEM - APENSO |l
+Registro Detalhe (Dados): Descrição do 2º Tipo de Registro:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nome do Campo |DE A Comp. |Descrição do Campo Tipo
+Tipo-de-Registro — = O1 o1 o1 Conteúdo = 9 — #Nunlf —
+Código-do-Cliente |02 os5 o4 A ser definido pela ECT Num —
+Identif Cliente 1 os o7 02 Identificador do cliente (Literal|Alfa
+fornecido pela ECT) o
+| Sigla-do-Objeto o8 o9 o2 Sigia do objeto (Tipo Postal), Alfa ]
+| ] rconforme faixa numérica do objeto |
+Í | |fornecida pela ECT.
+Número-do-Objeto | 10 18 os |Número do Objeto (Faixas Num
+| fornecidas pela ECT sem o DV) Zonado
+] jObs: Gerar o DV (Dígito!
+Venflcador) | ——
+Pals de-Origem — |19 20 02 País (Fixo = BR) iAfa —
+| Codlgo da- 21 24 04 Vide observação abaixo
+| Operação | -
+Conteúdo 25 40 16 Livre para o usuário
+Nome-destinatário |41 80 40 —
+| Endereço- 81 120 40 | |
+| destinatário | j J
+Cidade 121 |150 30 — - —
+UF 151 |152 jo2 |
+CEP 153 160 jo8 —
+[Filler 161 . j168 |O8 | Preencher com Zeros —
+*Número— 169 173 jo5 Número de Remessa de Arquwox |
+| Sequencial- | j (Sequencial de Remessa de |
+| Arquivo Arquivo) | |
+| Número- 174 180 O7 WSequenctaI de registro, a partir de "
+, Sequencial- | 0000002 í
+| Registro d o | — | —
+Obs.:
+1101 - Inclusão de dados da Encomenda.
+1102 - Exclusão de objeto informado em arquivo anterior e que não será postado.
+a
+Contrato Múltiplo ECT x DER/AL — Anexo 002 - AR Digital
+DIRETORIA REGIONAL DE ALAGOAS - GERÊNCIA DE VENDAS
+Endereço: RUA ANTENOR GOMES DE OLIVEIRA, Nº. 144, FAROL. CEP: 57.055-265 - MACEIÓ/AL
+Telefone: (82)-3216-7952 — Fax: (82)-3216-7970 — e-mail: geven-al&correios.com.br
+CONTRATO Nº 9912325299
+(DLC - 018/2013)

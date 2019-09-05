@@ -1,0 +1,39 @@
+ESTADO DE ALAGOAS
+DEPARTAMENTO DE ESTRADAS DE RODAGEM
+2.2.3 Capturar as informações dos “códigos de barras” contidos nos ARs
+ 
+ 
+ 
+DIGITAIS, bem como os dados de localização física dos documentos no arquivo
+físico, formando Banco de Dados a ser relacionado com as respectivas imagens
+digitalizadas, permitindo a localização de qualquer documento(imagem), tendo por
+base o número do AR DIGITAL;
+2.2.4 Colher assinatura e preencher campos do AR conforme norma prevista,
+atentando para as informações relativas ao recebedor (nome e nº de identidade
+legíveis);
+2.2.5 Acompanhar e controlar o retorno dos ARs DIGITAIS que saíram para
+entrega, juntamente com os respectivos objetos;
+2.2.6 Efetuar o recondicionamento dos ARs DIGITAIS danificados (rasgados ou
+amassados), bem como, se necessário for, emitir AR DIGITAL subsidiário (segunda
+via) para regularização;
+2.2.7 Efetuar a digitalização com alto padrão de qualidade, contraste, brilho e
+enquadramento da imagem na tela, de modo a garantir a transmissão via fax/linha
+de dados e impressão em equipamento convencional a jato de tinta;
+2.2.8 Disponibilizar, no Sistema de Gerenciamento Eletrônico de Documentos -
+SGD, para acesso via Internet, as imagens dos objetos digitalizados, no prazo de até
+OS (cinco) dias úteis após a entrega do objeto ao recebedor;
+2.2.9 Efetuar a indexação dos dados e imagens para consulta pela
+CONTRATANTE:;
+2.2.10 Transmitir diariamente para o Sistema de Gerenciamento Eletrônico de
+Documentos — SGD, em até 48(quarenta e oito) horas após a entrega dos objetos ao
+recebedor, os arquivos com as informações da entrega para disponibilização à
+CONTRATANTE;
+2.2.11 Devolver os objetos, depois de digitalizados, desde que o cliente não
+tenha contratado serviços de armazenamento, por meio de SEDEX de Serviço;
+2.212 Manter todas as informações e imagens em sistemas seguros e
+criptografados;
+Contrato Múltiplo ECT x DER/AL — Anexo 002 - AR Digital
+DIRETORIA REGIONAL DE ALAGOAS — GERÊNCIA DE VENDAS
+Endereço: RUA ANTENOR GOMES DE OLIVEIRA, Nº. 144, FAROL. CEP 57.055-265 — MACEIÓ/AL
+Telefone: (82)-3216-7952 — Fax: (82)-3216-7970 — e-mail:
+CONTRATO Nº 9912325299 — (DLC - 018/2013)

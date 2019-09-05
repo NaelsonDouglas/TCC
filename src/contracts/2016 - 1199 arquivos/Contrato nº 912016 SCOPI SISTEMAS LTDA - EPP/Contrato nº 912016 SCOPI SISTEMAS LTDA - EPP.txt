@@ -1,0 +1,171 @@
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CONTRATO Nº 91/2016 - CASAL
+CONTRATO DE AQUISIÇÃO QUE ENTRE SI
+CELEBRAM A COMPANHIA DE SANEAMENTO
+DE ALAGOAS - CASAL E A EMPRESA SCOPI
+SISTEMAS LTDA -EPP.
+PREÂMBULO - DAS PARTES E DO FUNDAMENTO:
+1) CONTRATANTE: COMPANHIA DE SANEAMENTO DE ALAGOAS - CASAL, Sociedade de Economia Mista Estadual,
+vinculada à Secretaria de Estado da Infraestrutura, sediada na Rua Barão de Atalaia, nº. 200, Centro, Maceió/AL,
+doravante, denominada simplesmente CASAL, inscrita no CNPJ/MF sob o nº. 12.294.708/0001-81; neste ato,
+representada por seu Diretor Presidente WILDE CLÉCIO FALCÃO DE ALENCAR, brasileiro, casado, engenheiro
+civil, inscrito no CPF/MF sob o nº 091.578.673-72, RG 153.218-SSP/AL,, e pelo seu Vice Presidente de Gestão
+Corporativa JORGE SILVIO LUENGO GALVÃO, brasileiro, solteiro, advogado, inscrito no CPF/MF sob o nº
+032.981.054-57, ambos residentes e domiciliados nesta Capital;
+2) CONTRATADA: SCOPI SISTEMAS LTDA - EPP, estabelecida na Rua Tristão Monteiro, nº 1645, Taquara/RS,
+inscrita no CNPJ/MF sob o nº 21.122.489/0001-44, doravante, denominada simplesmente CONTRATADA; neste
+ato, representada por MARCOS KAYSER, brasileiro, inscrito no CPF/MF sob o nº 436.542.150-68, residente e
+domiciliado à Rua Arnaldo da Costa Bard, nº 3129/ 601 , Taquara/RS.
+3) FUNDAMENTO LEGAL DA ADJUDICAÇÃO: A presente adjudicação decorre da dispensa de licitação, com base
+no caput do art. 24, inciso 1I, da Lei nº 8.666/1993, devidamente autorizado pelo Diretor Presidente da CASAL, no
+Processo Administrativo protocolo nº 13728/2016; CI nº 031/2016 - SUDEO e S.C. nº 18030, em estrita
+observância à Lei nº 8.666/93, obrigando as partes de acordo com as cláusulas e condições a Sseguir expressas:
+CLÁUSULA PRIMEIRA — DO OBJETO: O presente contrato tem por objeto o fornecimento de um software
+desenvolvido no conceito de computação na nuvem (cloud computing), com a finalidade de auxiliar na
+Sistematização e acompanhamento do planejamento estratégico da CASAL, incluindo diagnóstico com análise de
+cenários, mapa estratégico, indicadores, metas, projetos, processos e tarefas.
+CLÁUSULA SEGUNDA — DO VALOR E DOS RECURSOS: O presente contrato tem valor total fixado em R$
+11.940,00 (onze mil, novecentos e quarenta reais).
+PARÁGRAFO PRIMEIRO: Os preços contratados são fixos e irreajustáveis.
+PARÁGRAFO SEGUNDO: Fica expressamente estabelecido que os preço propostos pela CONTRATADA, incluem
+todos os custos diretos e indiretos, requeridos para execução dos serviços, objeto deste instrumento.
+PARÁGRAFO TERCEIRO: As despesas decorrentes deste Contrato terão a seguinte classificação:
+Unidade Orçamentária. 11.8000 - SUDEO.
+Grupo de Despesa .. 1000000- Ativo Intangível.
+Rubrica.... -..1100000- Software.
+   
+ 
+CLÁUSULA TERCEIRA - DO PAGAMENTO: O valor da Nota Fiscal Fatura deverá corresponder aos serviços
+executados durante o mês, conforme o quantitativo apurado pelo Gestor do Contrato e Cronograma Físico e
+Financeiro, Anexo | deste Contrato.
+PARÁGRAFO PRIMEIRO: O pagamento será procedido após apresentação da Nota Fiscal Fatura protocolada e
+devidamente conferida e atestada pelo gestor do Contrato, contando-se o prazo de 30 (trinta) dias a partir do
+seu lançamento no sistema de controle de pagamento da CASAL.
+PARÁGRAFO SEGUNDO: A CONTRATADA quando do faturamento deverá apresentar, ao gestor do Contrato, os
+seguintes documentos, com data de validade atualizada:
+* —Certidão Negativa de Débito do INSS;
+* — Certidão Negativa de Débito do FGTS;
+*  Certidão Negativa atualizada de Débito junto as Fazendas Federal, Estadual e Municipal.
+* — Certidão Negativa de Débitos Trabalhistas - CNDT
+1
+NTRATO Nº 91/2016-CASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO TERCEIRO: A não apresentação dos documentos acima elencados no prazo de 30 (trinta) dias, não
+causará a retenção de pagamento, contudo, ensejará a rescisão deste Contrato.
+PARÁGRAFO QUARTO: Nenhum pagamento será feito sem que a CONTRATADA tenha recolhido o valor da multa
+eventualmente aplicada.
+PARÁGRAFO QUINTO: A emissão antecipada do documento fiscal não implicará adiantamento para pagamento
+da obrigação. Havendo erro na Nota Fiscal a mesma será devolvida à CONTRATADA.
+PARÁGRAFO SEXTO: Qualquer irregularidade que impeça a liquidação da despesa será comunicada à contratada,
+ficando o pagamento pendente até que se providenciem as medidas saneadoras, não acarretando ônus para a
+CASAL.
+PARÁGRAFO SÉTIMO: Os pagamentos serão efetuados através de depósito bancário em conta corrente da
+CONTRATADA: Banco do Brasil; Agência : 0416-2; C/C : 36204-2.
+PARÁGRAFO OITAVO: No caso de pagamento não efetuado no prazo estabelecido no Parágrafo Primeiro o valor
+em atraso será corrigido pelo Índice Nacional de Preços ao Consumidor Amplo — IPCA, desde do inadimplemento
+até a data do efetivo pagamento.
+CLÁUSULA QUARTA — DA VIGÊNCIA: O prazo de vigência do Contrato será de 12 (doze) meses a contar da data
+de sua assinatura, podendo ser prorrogado por igual período até o limite de 48 meses.
+CLÁUSULA QUINTA — DA GESTÃO: A gestão do contrato será exercida pelo empregado RICARDO DE CASTRO
+MARTINS VIEIRA, matrícula nº 1518, CPF nº 194,971.216-87, doravante denominado GESTOR.
+PARÁGRAFO ÚNICO: Na ausência ou substituição do funcionário acima citado, por qualquer motivo, a gestão
+deverá ser feita por substituto imediatamente.
+CLÁUSULA SEXTA — DAS SANÇÕES ADMINISTRATIVAS: Pela inexecução total, parcial ou inadequada das
+obrigações assumidas pela CONTRATADA, poderão ser aplicadas as seguintes sanções, não cumulativas,
+assegurado o direito de defesa prévia por O5 (cinco) dias úteis:
+a) ADVERTÊNCIA, por escrito, pela inexecução parcial do contrato, pelo cumprimento irregular das
+cláusulas contratuais, pela paralisação da prestação dos serviços;
+b) MULTA de 2% (dois por cento) sobre o valor da fatura mensal, limitada, por sua vez de incidência, a 10%
+(dez por cento) do valor global do contrato;
+c) IMPEDIMENTO DE CONTRATAR com a Administração, por prazo não superior a 02 (dois) anos.
+PARÁGRAFO ÚNICO: Na hipótese de a proponente incorrer em multa, esta deverá ser paga dentro do prazo
+máximo de 15 (quinze) dias a contar do recebimento da notificação ou do não acolhimento da defesa, sob pena
+de a CASAL descontar o respectivo valor nos pagamentos vincendo.
+   
+IMA — DA RESCIS, A CONTRATANTE poderá considerar rescindido o presente Contrato, de
+pleno direito, independentemente de interpelação judicial ou extrajudicial, sem que assista à CONTRATADA
+direito a qualquer indenização, nos seguintes casos e formas:
+PARÁGRAFO PRIMEIRO: Ocorrendo:
+a) Onãocumprimento de cláusulas contratuais, especificações;
+b) Ocumprimento irregular de cláusulas contratuais;
+c) Alentidão do seu cumprimento, levando a CONTRATANTE a comprovar a impossibilidade da conclusão
+do fornecimento, nos prazos estipulados;
+d) Oatrasoinjustificado no início do fornecimento;
+€) A ocorrência de caso fortuito ou de força maior, regularmente comprovada, impeditiva da execução
+deste contrato.
+PARÁGRAFO SEGUNDO: A rescisão das obrigações decorrentes do presente instrumento processar-se-á de
+acordo com o que estabelece a Lei n.º 8.666/1993, em seus artigos 77 a 80.
+CLÁUSULA OITAVA — DOS CASOS OMISSOS: Os casos omissos ou Ssituações não explicitadas serão decididos
+pelas partes, segundo as disposições contidas na Lei 8.666/1993 e suas alterações e demais regulamentos e
+normas administrativas, federais e estaduais, que fazem parte integrante deste Contrato independentemente de
+Ssuas transcrições.
+ 
+   
+;ONTRATO Nº 91/2016-CASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CLÁUSULA NONA — DAS DISPOSIÇÕES GERAIS: A CONTRATADA e a CONTRATANTE respondem integralmente,
+sem qualquer ordem de preferência, pela perfeita execução das cláusulas ajustadas, até o fiel cumprimento do
+presente contrato.
+PARÁGRAFO PRIMEIRO: Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento dos
+termos e condições deste contrato ou ao exercer qualquer prerrogativa dele decorrente, não constituirá
+renovação ou renúncia e nem afetará o direito das partes de exercê-lo a qualquer tempo.
+PARÁGRAFO SEGUNDO: A CONTRATADA reconhece todos os direitos da CONTRATANTE em caso de eventual
+rescisão contratual.
+ 
+CLÁUSULA DÉCIMA — DO FORO: As partes elegem o Foro da Comarca de Maceió - AL, que prevalecerá sobre
+qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas oriundas do presente Contrato,
+das testemunhas.
+E, por estarem assim justos e contratados, firmam o presente contrato em 02 (duas) vias de igual teor e forma na
+presença das testemunhas, que subscrevem depois de lido e achado conforme para a produção dos seus
+jurídicos e legais efeitos.
+ 
+Maceió, |o dep&%vâ;.e de 2016
+  
+TESTEM.ÉI N A%
+ 
+NS
+PE sm MARDOS UGA
+ 
+ 
+ 
+comm
+N ATADA
+À D
+CONTRATO Nº 91/2016-CASAL 3ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ANEXO |
+CRONOGRAMA FISICO FINANCEIRO
+CONTRATO Nº 91/2016
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRATO Nº 91/2016-CASAL
+ltem Mês 1 Mês 2 Mês3 Mês 4 Mês 5 Mês 6
+Capacitação 300,00 300,00 300,00
+Mensal 920,00 920,00 920,00 920,00 920,00 920,00
+Total 1.220,00 1.220,00 1.220,00 920,00 920,00 920,00
+Acumulado 1.220,00 2.440,00 3.660,00 4.580,00 5.500,00 6.420,00
+Item Mês7 Mês 8 Mês9 Mês 10 Mês 11 Mês 12
+Capacitação
+Mensal 920,00 920,00 920,00 920,00 920,00 920,00
+Total 920,00 920,00 920,00 920,00 920,00 920,00
+Acumulado 7.340,00 8.260,00 9.180,00 10.100,00 11.020,00 11.940,00
+)
+LR

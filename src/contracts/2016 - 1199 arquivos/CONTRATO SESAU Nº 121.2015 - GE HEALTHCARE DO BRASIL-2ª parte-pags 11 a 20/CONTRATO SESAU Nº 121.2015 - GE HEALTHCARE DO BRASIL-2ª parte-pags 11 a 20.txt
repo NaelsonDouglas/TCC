@@ -1,0 +1,616 @@
+ESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ou seja, a dose de radiação
+é calculada com base no
+peso e estatura da criança.
+Dessa forma, os protocolos
+são diferenciados por cores.
+Esse sistema de seleção de
+parâmetros de "scan" está
+incorporado no console de
+operação &, foi
+desenvolvido para facilitar o | |
+tratamento — pediátrico de
+emergência e reduz erros
+médicos.
+| e CROSSBEAM"" algorítmo de
+reconstrução — desenvolvido
+para minimizar os artefatos
+de "Cone Beam".
+* SMARTTRACK"", software e
+hardware avançados para o |
+monitoramento dos feixes
+de Raios-X para minimizar
+a dose no paciente.
+eSMARTBEAM"" : conjunto
+de hardware e software que
+otimizam a filtragem dos
+feixes de Raios-X,
+independentemente do tipo
+de exame, corpo ou cabeça.
+| eSMARTPREP"", sistema de
+monitoração do pico de
+contraste. Provê “maior
+acuracidade no momento
+exato do início da aquisição
+helicoidal e reduz a
+repetição de exames devido
+a não visualização das
+estruturas anatômicas
+contrastadas
+adequadamente.
+e VIEW/EDIT WIZARD""
+| ajusta intuitiva e
+automaticamente
+parâmetros de aquisição
+dependentes conforme as |
+alterações realizadas pelo Í
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-: -19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESALL/AL.ESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+operador destacando-as
+para uma facil e rapida
+conferencia. —“Possui um
+mecanismo de alerta de
+inconsistencias geradas
+pelas alterrações e que
+requerem a intervenção do
+operador.
+e DYNAPLAN PLUS"" informa
+em tempo real o “status” da
+aquisição em curso.
+e CONNECT PRO
+s EXAM SPLIT
+3. PRINCIPAIS
+COMPONENTES DO OPTIMA
+CT660
+3.1. DETECTORES
+A consolidada qualidade de
+| imagem obtida através do
+material — HILIGHT, uma
+| cerâmica cintiladora
+patenteada pela GE,
+desenvolvida
+especificamente para |
+aplicações em tomografia e
+| que, vem permitindo a
+produção dos DETECTORES
+HILIGHT GE.
+3.1.1.SISTEMA DE
+UISIÇÃO DIGITAL
+VOLARA"" XT (DAS):
+O Volara XT é um sistema
+de aquisição digital de
+dados desenvolvida para
+aumentar a eficiência do
+detector permitindo
+aquisições com 64cortes
+com uma dramática
+redução no ruído eletrônico
+aumentando a qualidade da |
+imagem enquanto reduz a
+dose e ainda sendo capaz
+de uma amostragem de
+dados mais rápida.
+3.1.2.SISTEMA DE
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-: -19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-| -017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL,
+UESTADO DE ALAGOAS ——
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+AQUISIÇÃO DE DADOS:
+Y 58,368 Canais de entrada
+de dados
+Y Taxa Máxima de
+Amostragem de 2,460 Hz
+v 99% de eficiencia de
+absorvção (a 120kV)
+3.1.3. BACKLIT DIODE:
+Tecnologia Inovadora que
+possibilitou o
+desenvolvimento da
+tomograrfia volumétrica de
+64 cortes. O  conceito
+inovador pode ser
+considerado uma “quebra”
+no paradigma de aquisição
+Multi-slice atual.
+3.2. GANTRY
+Gantry Slipp Ring com
+desenho “avançado  gira
+continuamente o gerador,
+tubo, detector e sistema de
+aquisição de dados em
+| volta do paciente.
+eAbertura: 70 cm
+eInclinação:+/-30 graus
+eVelocidade de angulação:
+1 grau/segundo
+«Distância do foco ao
+detector: 95 cm
+«Distância do foco ao
+isocentro: 54 cm
+«SFOV máximo de 50cm
+(corpo);
+eVelocidades de rotação:
+360 graus em 0,40,
+0.425, 0.45, 0.475, 0.50,
+0.60, 0.70, 0.80, 0.90,
+1.0 e 2.0 segundos
+*O Controle de inclinação
+do Gantry, além de estar no
+console de operação, está
+localizado em ambos os
+lados do gantry.
+* SMARTSTART"":
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-: -19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-! -017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESAU/AL
+t
+la €
+aa ,ESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+Dispositivo —instalado — no |
+| gantry, que permite ao
+operador dar início àao
+exame e vizualizar quantos
+segundo faltam para
+começar o  "scanning". |
+Facilita o trabalho de
+operadores que trabalham |
+sozinhos no equipamento.
+eControle de início de
+aquisição também
+localizado nas laterais e
+atrás do gantry;
+*Luz de “respiração” e um
+contador sinalizam ao
+paciente que deve manter-
+se em apnéia o tempo
+restante; |
+3.3. TUBO DE  RAIO-X
+PERFORMIX"" 40
+ 
+Tubo especialmente
+| desenhado e otimizado para
+| realizar exames que
+requerem um grande
+número de cortes sem
+pausa para resfriamento.
+e Capacidade de
+armazenamento de calor:
+6.3 MHU com uma
+equivalência calórica de
+| 8.0MHU quando
+configurado com ASIR"",
+* Dissipação de calor:
+vAnôdo (máxima) 840
+KHU/Minuto |
+| Y Carcaça (contínua) 300 |
+KHU/Minuto
+* Possui dois pontos focais:
+Y Ponto focal pequeno:
+0.7* 0.6 IEC 60336: 1993
+Y Ponto focal grande:
+0.9* 0.9 IEC 60336: 1993
+3.4. GERADOR DE RAIO-X
+* Gerador contínuo de raio-X
+de alta frequência de 72 kW
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-: 19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESAU/AL
+alESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+“on board” e equwalenCIaJ
+de 120KW com ASIR.
+eVariação de mA de 10mA |
+a 560mA em incrementos
+de 5mA e com
+equivalência de 800mA
+max quando configurado
+com ASIR"",
+*Faixas de kVp: 80, 100,
+120 e 140
+eMáximo mA para cada
+| seleção de kVp:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+kVp Ponto Ponto
+Focal Focal
+| Pequeno | Grandé
+80 300 400
+100 240 480
+120 200 600
+140 170 515
+| Parâmetros de Qualidade
+, de imagem:
+Detectabilidade de baixo
+contraste (LCD)
+ 
+jelCD estatístio - em
+fantoma CATPHAN de 8
+polegadas
+5 mm €O 0.3% at 15.5
+| mGy
+3 mm & 0.3% at 44.3
+mGy
+eRuído em fantoma de água
+|AAPM ou em fantoma de
+controle de Qualidade GE
+0.43% +/- 0.05% at
+|1 19,9 mGy com algoritimo
+de reconstrução padrão
+0.43% +/- 0.05% at
+1 11,1 mMGy com algoritimo
+| de reconstrução padrão e
+ASIR
+eResolução de alto
+contraste espacial em
+| fantoma de desempenho GE
+| Algorítmo Padrão - 13.5
+l/o&m QE 10%  MTF
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-: 19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU- -017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL.ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+| Algorítmo de alta resolução -
+19.7 Ip/cm & 0% MTF
+3.5. MESA DO PACIENTE
+Mesa com um leito largo,
+1em fibra de carbono, sem
+encaixes metálicos
+eVariação vertical: 43 cm a
+99.1 cm
+eVariação exploratória
+vertical: 79.1 cm a 99.1 cm |
+eVelocidade de elevação da
+mesa: 22 segundos e 45
+| , segundos
+| eVariação exploratória
+* horizontal: 160 cm
+à eFaixa de varredura
+|
+helicoidal: 158 cm
+eVelocidade horizontal: até
+150 mm/segundos
+«*eCapacidade de  carga:
+227kg com +/- 0,25 mm
+de precisão posicional
+3.6. CONSOLE:
+O console do operador do
+OPTIMA CT660 é
+composto pelas seguintes
+| características:
+eComputador com sistema
+1 operacional LINUX
+| eCPU composto por dois
+| processadores Quad Core
+Xeon de 2.53GHz cada
+* Memória RAM de 24.0GB
+“ePossui um total de
+1.792GB de capacidade de
+armazenamento de
+imagens, dados e
+aplicativos de sistema.
+eO OPTIMA CT660 arquiva
+ijum total de 250.000
+imagens em matriz
+512x512.
+02 monitores LCD de 19
+polegadas, com resolução
+| de 1280 x 1024 cada;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL...
+E )ESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+eSistema de
+| intercomunicação. Possui
+controles de microfone e
+volume;
+e“Mouse” com três botões
+e“Trackball”
+*Duas amplas superfícies
+de trabalho no console |
+ DVD-R disponível no |
+Console )
+1eO arquivamento é no
+formato DICOM 3.0
+| proporcionando |
+compartilhamento de dados
+e comunicação inter-rede.
+| ePossui Auto- configuração
+Ethernet 1000/100/10 Base |
+T |
+«Conexão direta em rede
+eProtocolos suportados:
+Y InSite Ponto-a-Ponto
+Y TCP/IP (para
+administração do sistema) .
+O  arquivamento é no
+formato DICOM 3.0
+proporcionando
+compartilhamento de dados
+e comunicação inter-rede.
+eConformidade com as
+seguintes Categorias
+DICOM:
+Y DICOM 3.0 Storage |
+| Service Class
+| Y Service lass User (SCU)
+para enviar imagens | |
+vY Service Class Provider
+(SCP) para receber imagens
+ 
+ 
+| / DICOM 3.0
+Query/Retrieve Service | |
+| Class ' |
+Y DICOM 3.0 Storage
+Commitment Class Push
+Y DICOM 3.0 Modality
+| Worklist |
+| Y DICOM 30 Modality | J
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-017/2014. R
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL. /J(
+VESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+| Performed Procedure Step
+Y DICOM 3.0 Print
+3.7. INTERFACE DE
+UsuáRIO
+eAlto grau de
+automatização, permitindo
+| alterações de parâmetros
+] de exames.
+| e Auto-explicativo tanto
+| quanto possível, com
+acesso direto a programas
+| tutoriais sempre que
+| necessário
+* «Preparação do exame com
+|
+apenas dois passos
+eFunções como
+processamento de imagem
+rem tempo real, MIP, MPR,
+MPVR, Volume Viewer 3.1
+são padrões na
+configuração — básica do
+OPTIMA CT 660.
+ 
+3.8. SOFTWARE DE
+| OPERAÇÃO — DO  OPTIMA
+| CT660
+Virtualmente, todas as
+operações — clínicas —são
+gerenciadas através de três
+“Desktops — Virtuais” — ou
+| Gerenciadores de
+] Aplicações: EXAME DE RX,
+TRABALHOS DE IMAGEM e
+SOLUÇÕES DE APRENDIZADO.
+EXAME DE RX:
+O Ambiente de trabalho
+Exame de Rx fornece
+ 
+Í | ferramentas clínicas
+| necessárias para um
+| controle eficiente e
+confortável dos estudos dos
+] pacientes. Estas
+i ferramentas incluem
+agendamento e entrada dos |
+dados do paciente,
+ 
+ 
+, protocolo de exames,
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000- -19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-! -017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESAU/AL
+B6ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+|edição e visualização de)|
+| protocolos, reconstrução de
+* imagens, exibição de
+| imagens e analise de rotina, |
+1AUtoFilm —ou  filmagem|
+manual e transferência |
+automática. |
+TRABALHOS DEIMAGEM : |
+O Ambiente de TRABALHOS
+| DE IMAGEM foi concebido
+para aproveitar o sistema
+| computacional e o |
+processador de imagem do |
+OPTIMACT660. Suas diversas
+funcionalidades padrões
+incluem arquivamento,
+controle manual e em rede
+de filme, como também
+aplicações avançadas multi-
+planar reformatting (MPR) e
+multi-projection volume
+rendering (MPVR).
+SoLUÇÕES DE APRENDIZADO
+ 
+(O Optima CT660 possui |
+uma ferramenta de |
+aprendizado multimedia on-
+line via o CD-ROM/DVD
+integrado ao console do
+operador. Esta solução de
+aprendizado pode ser
+também visualizada em um
+PC convencional permitindo
+flexibilidade e produtividade
+no aprendizado.
+AQUISIÇÕES HELICOIDAIS
+Reconstrução
+| Prospectiva Multiplas | |
+Espessuras
+O OPTIMA CT660 permite
+reconstruções prospectivas
+em múltiplas espessuras.
+| Para todos os modos de
+aquisição helicoidal
+| disponíveis o operador pode
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000- 19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU- -017/2014. .
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESAU/AL.
+/M SESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+selecionar reconstruções
+prospectivas utilizando
+qualquer uma das sete
+| espessuras nominais
+(0.625, 1.25, 2.5, 3.75,
+5.0, 7.5e€ 10mm), isto
+em adição à espessura já
+selecionada no protocolo de
+aquisição. Isto quer dizer
+que, o operador tem total
+liberdade para utilizar o
+conjunto de dados brutos
+para —reconstruir —novas
+imagens em — espessuras
+diferentes. Esta é uma
+maneira eficiente para
+facilitar a manipulação das
+imagens durante a análise
+mais detalhada do exame
+sem a necessidade de
+|: refazer a série, eliminando
+ 
+jassim a exposição do
+paciente a nova dose de
+radiação.
+DECOMPOSIÇÃO DA IMAGEM
+HELICOIDAL
+* Decomposição da
+imagem retrospectiva: O
+operador tem a opção de
+decompor de forma
+retrospectiva os  dados
+brutos originais e
+reconstruir imagens
+radicionaiso em — qualquer
+espessura — de  imagem
+nominal definida disponível
+para uma dada velocidade
+de mesa e modo varredura.
+* Tempo de
+reconstrução de
+imagem: 16 imagens por
+segundo / 35 imagens
+por segundo  quando
+configurado com ASIR"".
+* Tempo —“máximo  de
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE — SESAU/AL
+&& &

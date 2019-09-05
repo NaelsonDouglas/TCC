@@ -1,0 +1,621 @@
+ESTADO DEALAGOAS —
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+varredura em uma única
+aquisição: 60 segundos.
+* Tempo máximo de |
+Í ntatina |
+| varredura em  aquisições
+| múltiplas: As varreduras
+| múltiplas podem ser obtidas
+* em uma série para produzir
+|
+ 
+ 
+até 3.000 imagens
+helicoidais.
+| ALGORÍTMOS DE |
+RECONSTRUÇÃO | |
+DISPONÍVEIS:
+Soft Tissue, Standard,
+Detail, Chest, Bone, Bone
+Plus, Lung e Edge
+MATRIZ DE RECONSTRUÇÃO:
+512 x 512
+| 3.9. AcCESSÓRIOS
+e Acessórios para
+posicionamento e conforto
+ido paciente -  Faixas
+Imobilizadoras
+eFantomas de calibração e
+aferição de qualidade de |
+imagem
+Componentes do sistema:
+1 - S7660BR: Optima
+ 
+CT660 64 Slices com 02
+anos de garantia;
+1 - B7877BR: Teclado para
+console - Português;
+1 - B7660AD: Kit de cabos
+- Sstandard para optima
+CT660;
+| 1 - B75002CD: mesa para
+console;
+1 - B/7660At: mesa GT1700
+com capacidade para 227
+l
+ 
+kg;
+1 - B/900WA: Pacote
+cardíaco avançado.
+PACOTE PARA AQUISIÇÃO
+ 
+CARDÍACA = CARDIQ
+SNAPSHOT
+ 
+ 
+ 
+Sistema — específico para
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE QS o &
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014. ”
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL.ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+aquisições de  imagens
+cardíacas, o qual provê
+imagens com  resolução
+temporal variando entre
+200 a 50 milisegundos. O
+programa . permite — uma
+variação de parâmetros em
+ifunção das condições do
+paciente.
+Três diferentes formas de
+aquisição estão disponíveis
+para a  aquisição de
+imagens:
+SnapShot
+utilizado para aquisição em
+setor único, provendo uma
+resolução temporal de 200
+ms.
+SnapShot Burst:
+| Disponibiliza a técnica de
+multi setores, resultando
+em uma resolução temporal
+de 100 ms.
+| Burst Plus: Disponibiliza a
+técnica de aquisição de
+multi setores, resultando
+em uma resolução
+temporal de 50 ms.
+Monitor ECG  incluso
+neste pacote.
+1 - B7500LN: Connect pro;
+; B77292CA: É Service
+Cabinet
+3 - ESO16AZ: Capa
+protetora para mesa de
+paciente;
+1 - ESO16BA: Capa
+protetora para pedal de
+mesa;
+1 - ESOO4FN: Almofada
+para mesa de paciente;
+1 - ESOO4FR: Almofada
+para extensor da mesa;
+1 “ ESO004GD: Faixa
+imobilizadora para paciente
+Segment:
+|
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+. CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MEÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL:
+S &R
+>
+ 
+ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+estreita - 540mm,
+1060mm;
+1 -  ESOD4GE: Faixa
+| imobilizadora para paciente
+média - 540mm, 1060mm;
+1 -  ESOO4GF: Faixa
+imobilizadora para paciente
+larga - 540mm, 1060mm;
+1 - B78502CA: Gantry
+Dolly;
+1 - B77472AD: GT Dolly;
+1 - B75022BS: Kit de
+interface para o Gantry;
+1 - W8013CT/W8021CT:
+Treinamento operacional 10
+dias ministrado por
+especialista de aplicação
+para tomografia
+computadorizada e
+advantage Workstation;
+1 -  NLOOO!: Bomba
+injetora de contraste de
+idupla infusão  (Medrad
+ 
+Stellant D) - Fornecimento
+local;
+1 - NLOOO2: Sistema de
+impressão à seco (Dry)
+(AGFA Drystar 5302) -
+Fornecimento local;
+1 b NLOOO3: Laudo
+Radiológico do ambiente
+realizado por empresa
+local; -
+ESTAÇÃO DE TRABALHO
+PAREA PÓS-
+PROCESSAMENTO
+“ADVANTAGE
+WORKSTATION VOLUME
+SHARE V”
+1- MS81531FF/M81521VG:
+ESTAÇÃO DE TRABALHO MODELO
+“ADVANTAGE — WORKSTATION”
+COM SOFTWARE VERSÃO
+VOLUMESHARE V
+Estação de trabalho que
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE “o. €
+. CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014. Ax
+AQUISIÇÃO DE EQUIPAMENTOS MEÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL:
+ 
+NAAESTADO DE ALAGOAS —
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+permite a revisão de
+imagens multi modalidade
+através de um computador
+tipo " Red Hat Linux 7.3",
+com funções de análise e
+pós-processamento de
+imagens adquiridas através
+de Tomografia
+Computadorizada,
+Ressonância Magnética,
+Raios X  Vascular 3D,
+| equipamentos de Raio-X
+digital! bem como todo
+sistema que suporte formato
+DICOM.
+Dotado dos seguintes
+aplicativos:
+Volume Analysis 2:
+Visualizador de volume
+Volume Rendering 2:
+Renderização de volume,
+reconstrução 4D
+Navigator 2: Endoscopia
+virtual
+Filmer que permite criar de
+forma flexível quanto a
+edição, filmes em formato
+DICOM SR podendo ser
+salvo no banco de dados da
+Estação de trabalho,
+exportado para um sistema
+PACS ou mesmo, ser
+exportado em formato fora
+do ambiente DICOM (PDF,
+HTML, JPEG, PNG, MPEG,
+ 
+AVI).
+Funções:
+- Lista de Pacientes:
+Fornece todas as
+ferramentas necessárias
+para gerenciar o
+armazenamento de imagens
+no banco de dados da
+Estação de trabalho ou em
+| sistemas remotos.
+ 
+]
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE 3 PE Lia
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/ALp
+>
+ 
+ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+- Gerenciamento de Fluxo de
+Trabalho: A Estação de
+| trabalho oferece avançada
+| capacidade —de  gerenciar
+Ifluxo de trabalho em
+| formato DICOM com
+habilidade de efetuar
+query/retrieve.
+- DICOM CD-ROM: Qualquer
+formato de dado (exame,
+série, imagem) pode ser
+gravado com um simples
+“arraste e solte” para uma
+janela pré-definida. Dados
+fora do ambiente DICOM
+podem ser também
+gravados no CD utilizando o
+aplicativo Filmer.
+- Gerenciador de
+Preferências: Com auxílilo
+de senhas é  possível
+customizar as telas de
+operação para cada usuário
+trazendo a personalização e
+| produtividade ao uso dos
+| protocolos e /ayouts.
+. -Revisão de Imagem: 4
+métodos de ajuste de janela
+e nível para atender diversas
+aplicações clínicas e
+preferências do usuário.
+- Capacidade de obter de
+forma flexível a análise da
+região de interesse
+(retangular, elíptico e
+irregular) Apresentação em
+forma estatística, conforme
+a região de interesse se
+| altera, dos valores de área,
+| média e desvio padrão.
+| Medidas de distância e
+| ângulo também são obtidas
+| da área de interesse.
+| - Visualização de imagens de
+iCT e MR na mesma tela.
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+. CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014. '
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL..,
+a e=
+ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+Í Inversão de posição de
+| imagens (top/botton-
+left/right)
+|-Cine paging, pan/zoom e
+| anotações nas imagens
+W Hardware:
+e HP Z800 Workstation with
+|Intel x5550 Quad Core
+| Xeon 2.66 GHz CPU com
+| 8MB Shared L2 Cache /
+| 1333 MHz Dual FSB
+/e6GB de Memoria RAM
+| (DDR-3 1333 ECC DIMM)
+jeHD de 300GB para
+| sistema operacional e
+Aplicativos (SAD 15,000
+| rpm)
+. HD de 600GB para
+| Imagens (SAS 15,000rpm)
+2 Monitores NEC de 19"
+com resolução de 1280 x
+1 1024
+eCD-ROM 48x usado por
+serviços e para gravação e
+leitura de imagens DICOM
+eImpressão conforme
+padrão DICOM 3.0 Print SCU
+* Mouse com três botões
+Interface de rede TCP/IP
+01- M81501PA: CABO DE
+FORÇA PADRÃO BRASILEIRO
+01- M81501RR: AW 46
+| 6GB to 12GB RAM Add
+On
+01- MSO5O1KP: TECLADO
+EM PORTUGUÊS PARA AW
+01- M81521PG: PACOTE DE
+PRODUTIVIDADE COM 12GB
+DE MEMÓRIA RAM
+01- B79821FC: CARDIQ
+FUNCTION XPRESS
+CARDIQ FUNCTION XPRESS
+= EXCLUSIVO GE
+Conjunto de  Aplicativos
+desenvolvidos para a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL.27
+Ê
+ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAUDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+ 
+ 
+| análise funcional de
+| imagens cardíacas através
+|da Advantage Workstation
+| Volume Share V.
+The CardIQTM Function
+Xpress permite ao clínico
+| quantificar os volumes,)
+dos ventrículos esquerdo
+e direito e fração de
+ejeção, assim como a
+massa — miocardial. O
+software detecta
+automaticamente os
+contornos endocardial e
+epicardial do ventrículo
+esquerdo para avaliação
+dos parâmetros
+funcionais dos
+| ventrículos esquerdo e
+| direito.
+CardIQ Function Xpress
+possui funções como:
+-Seleção automática de
+cada câmara do coração
+para uma análise de
+volume individual
+-O processamento dos
+dados funcionais
+acontecem
+simultaneamente à
+execução do aplicativo
+principal — possibilitando
+uma revisão em tempo
+real da fração de ejeção,
+| análises de volumes e
+| análises do miocardio
+| -Seleção automática do
+epicárdio e endocárdio
+para análise miocárdica.
+-Análise volumétrica de
+todas as câmaras do
+coração
+| -Cálculo  automático do
+volume do átrio
+esquerdo com exclusão
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+. CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL. .”ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+| da veia pulmonar |
+-Análise miocárdica com
+função da parede,
+| espessura da parede e
+cálculo da massa |
+-Visualização do
+movimento da parede
+com apenas 1 (um)
+clique, com imagens do
+eixo curto nas
+orientações basal, média
+e distal, junto com a
+"vista das duas câmaras
+| de eixo longo
+-Ferramenta de relatório |
+flexível com
+| representações gráficas.
+01- B79871RA: CARDIQ
+XPRESS 2.0 REVEAL
+| CARDIQ XPRESS 2.0 REVEAL
+XCLUSIVO GE
+Tomografia Cardiovascular
+utilizando a  tecnologia
+multislice é uma aplicação
+nova e “excitante” que trará
+um impacto significativo no
+tratamento das doenças
+coronárias por ser um
+método não-invasivo.
+O detector multislice, que
+foi rapidamente adotado
+pela comunidade médica, |
+tem a vantagem se ser |
+| acessível, confiável e fácil |
+de utilizar quando
+comparado aos outros
+métodos invasivos ou não- |
+invasivos — disponíveis no
+mercado.
+| Um dos componentes mais
+críticos para se obter uma
+aplicação cardíaca eficiente
+| é a integração de todas as
+| | ferramentas de pós-
+processamento — com à
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+— CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL.
+Í /ESTADO DE ALAGOAS =
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+limagem — clínica — obtida|
+durante a aquisição.
+O CardIQ Xpress 2.0 Elite
+foi desenvolvido para |
+fornecer uma fácil |
+manipulação da imagem
+cardiovascular com a
+preocupação de otimizar o
+tempo do operador.
+As aplicações clínicas
+incluem:
+- Imagem da Morfologia
+| Cardíaca;
+- Imagem das Artérias |
+| Coronárias e avaliação de
+| , perfusão relativa;
+| - Visualização e análise de
+|
+|
+|
+ 
+“ponte” cirúrgica;
+-Acompanhamento pós-
+intervenção;
+| - Avaliação Funcional;
+-Dados qualitativos s
+quantitativos da anatomia
+| cardíaca;
+| -Renderização de volume
+* das —artériass coronárias
+| (juntas ou isoladas);
+| -Estenose pode ser em %
+1 ou milímetros, a critério do
+| | usuário;
+-Imagens — cardíacas em
+* perspectiva — bidimensional |
+| (2D) ou  tridimensional
+(3D);
+- Planejamento de
+implantação de "Stent”
+-Auto launch é outra
+exclusividade do aplicativo
+de cárdio GE.
+| Ele começa a ser
+processado antes mesmo
+| do operador solicitar sua
+reconstrução, isto otimiza |
+muito a rotina e reduz o
+tempo de  reconstrução
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/2012 - SECRETARIA DE ESTADO DA SAÚDE
+CONTRATO Nº 121/2015 — PREGÃO ELETRÔNICO Nº SESAU-017/2014.
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL:
+te 41ESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SAÚDE
+GERENCIA DE LOGISTICA
+SETOR DE CONTRATOS
+ 
+consideravelmente
+Benefícios para o paciente:
+-Alternativa — minimamente
+invasiva no diagnóstico de
+doenças das artérias
+coronárias
+-O tempo para se obter o
+diagnóstico — da — doença
+coronariana é
+significativamente menor
+| quando comparado a um
+arteriograma;
+-Custo menor do que um
+procedimento de
+arteriograma;
+-Otima opção para
+pacientes que se recusam a
+fazer um procedimento de
+Arteriograma das
+Coronárias
+| -Angiografia das artérias
+coronárias tem um valor |
+| predictivo negativo entre 93
+m 99% de acordo com |
+casos já publicados;
+01- B79821VV: CoLON
+VCAR (CoLONOSCOPIA
+VIRTUAL)
+| Colon VCAR é um avançado
+pacote de software para a
+análise do cólon ê
+| estruturas adjacentes
+utilizando dados de
+| aquisição helicoidal.
+Sincronizadamente, revisão
+jem 2D, 3D e dissecção
+| fornecem uma análise
+rápida e completa.
+Os principais recursos
+| incluem:
+«Dissecção 360 Graus;
+| eRevisão de velocidade e
+| análise;
+eRevisão de imagem
+sincronizada;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º. 2000-19686/201% - SECRETARIA DE ESTADO DA SAÚDE
+. CONTRATO Nº 121/2015 - PREGÃO ELETRÔNICO Nº SESAU-017/2014. Q A
+AQUISIÇÃO DE EQUIPAMENTOS MÉDICO-HOSPITALARES DESTINADOS AO HGE - SESAU/AL.
+ESA

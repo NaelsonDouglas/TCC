@@ -1,0 +1,389 @@
+ESTADO DE ALAGOAS
+ 
+2L
+PROCURADORIA GERAL DO ESTADO
+RELAÇÃO DOS SISTEMA;
+ANEXO II!
+S E DAS FUNCIONALIDADES CRÍTICAS E
+CONDIÇÕES PARA NÍVEL DE SEVERIDADE ZERO E UM
+1) Nos casos em que todos os usuários da CONTRATANTE ficarem
+impossibilitados de efetuar login ou no caso de total inoperância de seus
+módulos e funcionalidade:
+, independente de versão do Sistema, são
+considerados como SEVERIDADE ZERO.
+2)
+Para as ações elencadas abaixo serão consideradas como nível de
+S
+EVERIDADE UM as que atenderem as seguintes condições:
+2.1) Erro ou falha que impossibilite a operação de todos os processos
+e/ou documentos, segundo os critérios apresentados na Tabela de
+Funcionalidades Críticas do item abaixo. '
+3) Relação de funcionalidades críticas do sistema e condições para nível de
+SEVERIDADE UM:
+ 
+ 
+ 
+ 
+onalidáde:
+ 
+ 
+  
+  
+ 
+ 
+Câáastro de .Procésêos
+ 
+Impossibilidade — de cadastro - de Processos,
+incidentes ou recursos, incluíndo os processos com
+distribuição excepcional
+ 
+ 
+ 
+Digitalização Impossibilidade de inclusão/exclusão de pPáginas
+Nhas pastas digitais
+Revisão Impossibilidade — de registrtar a revisão do
+cadastramento de processos
+Validação Impossibilidade  de registrar a validação de
+processos
+ 
+Distribuição/Redistribuição de
+Processos '
+Impossibilidade de distribuição e/ou a redistribuição
+de processos
+ 
+Lançamento de
+movimentações via cadastro
+de processos
+Impossibilidade de lançamento de Movimentações
+nos .processos ou ainda não geração de
+pendências aos procuradores quando configurada
+no tipo de movimentação.
+ 
+Classificação de Publicações
+Impossibilidade' de realizar à classificação das
+Publicações (lançamento das movimentações,
+cadastramento de incidente, descarte)
+ 
+Produção de documentos via
+Editor
+Impossibilidade de geração de documentos através
+do Editor de Textos integrado.
+ 
+ 
+ 
+Assinatura digital de Impossibilidade. de assinar digitalmente
+documentos documentos, em  todas as  possibilidades
+disponíveis no sistema onde a operação pode Ser] >
+realizada.
+ 
+a n
+25 - Contrato - Serviços À Continuados
+Versão 2015.1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+Consulta de Pprocessos
+Impossibilidade de consulta aos dados Processuais
+ 
+Agenda dos Procuradores
+Impossibilidade de acesso as pendências
+ 
+Pasta digital
+Impossibilidade de visualização da pasta digital do
+processo
+ 
+Citação Eletrônica
+Impossibilidade de receber citações eletrônicas dos
+processos eletrônicos do TJ
+ 
+Intimação Eletrônica
+Impossibilidade de receber intimações. eletrônicas
+dos processos eletrônicos do TJ
+ 
+Protocolo Eletrônico
+Impossibilidade de realizar o protocolo eletrônico
+de documentos em processos eletrônicos.
+ 
+Encaminhamento entre
+chefias
+Impossibilidade de realizar o encaminhamento de
+Processos entre chefias
+ 
+ 
+Busca de Autos
+ 
+Impossibilidade de realizar a solicitação de autos.
+Impossibilidade de realizar a consulta de autos
+solicitadós. — Impossibilidade de . registrar àa
+indisponibilidade. Impossibilidade de realizar a
+remessa dos autos aos procuradores Solicitant
+ 
+25 - Contrato - Serviços f Continuados
+Versão 2015,1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+ANEXO |V
+DA ABERTURA DE CHAMADOS TÉCNICOS
+1. AÀ CONTRATADA deverá disponibilizar os meios para abertura e
+acompanhamento de chamados técnicos, nos termos que seguem abaixo:
+1.1. Portal do Cliente, no regime de 24 (vinte e quatro) horas diárias e 7 (sete) dias
+Por semana.
+1.2. Número de telefone, no Brasil, para suporte, quando da indisponibilidade do
+Portal do Cliente, dentro do horário padrão do CONTRATANTE:
+1.3. Conta de correio eletrônico para os casos de indisponibilidade do Portal.
+2. O registto e o monitoramento on-line dos chamados serão realizados no
+Portal do Cliente, o qual cConterá as características elencadas neste
+documento. De comum acordo, as informações e funcionalidades listadas
+poderão ser alteradas em função de adequações e evolução do Portal do
+Cliente.
+2.1. Registro de todos os chamados técnicos contendo no minimo as seguintes
+informações:
+2.1.1. Número de ordem do chamado técnico.
+2.1.2. Data e hora da abertura do chamado técnico.
+2.1.3. Tipo do chamado técnico.
+2.14, Situação do chamado técnico
+2.1.5. O encerramento de todo e qualquer chamado técnico constitui
+atribuição exclusiva da equipe técnica do CONTRATANTE.
+2.15.1. Caso a equipe. técnica do CONTRATANTE . constate o
+encerramento indevido do chamado, notificará, por correio
+&letrônico, a CONTRATADA para que retorne o chamado à
+situação imediatamente anterior.
+2.1.5.2. Os lapsos temporais . decorridos entre o encerramento do
+chamado e o retorno à situação anterior serão computados,
+para todos os fins, como decurso do prazo de solução.
+21.6. Registros das atividades desenvolvidas.
+2.1.7.  Descrição do problema e da solução
+2171. A descrição do problema será substituída pelo DIR em
+chamados do serviço de aperfeiçoamento do Sistema e
+serviço de empreitada Por preço unitário.
+2.1.7,2. Para os casos acima descritos, a solução do problema é a
+EPD relacionada, ou a indicação de inviabilidade no
+atendimento do chamado técnico. í
+2.1.8. Aceite ou rejeite da solução apresentada, bem como inserção de
+observações.
+25 - Contrato - Serviços fi Continuados
+Versão 2015.1
+QHESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+21.98. Dataehorário efetivos do início do atendimento.
+2.1.10. Data é horário previstos para entrega da demanda, conforme níveis
+mínimos de serviços estabelecidos,
+2.1.11. Data e horário da efetiva entrega da demanda no ambiente de
+homologação.
+2.1.12.Data e horário do aceite definitivo por parte do CONTRATANTE,
+2.1.13. Mecanismo de cômputo automático, descontados os períodos de
+Suspensão, que informe:
+21131.0 lapso temporal decorrido para. a solução do problema em
+dias, horas e minutos.
+2.1.13.2.O lapso temporal restante para a solução do problema em
+dias, horas e minutos.
+211330 lapso temporal extrapolado para a solução do problema em
+dias, horas e minutos, .
+2.1.14. Identificação do usuário do CONTRATANTE que abriu e que encerrou o
+chamado técnico.
+2.1.15.Endereço de correio eletrônico do CONTRATANTE para o qua! serão
+encaminhadas as comunicações, :
+2.2. Registro de todos os eventos de gerenciamento do chamado técnico.
+2.3. Comunicação, por correio eletrônico, sempre que for aberto um chamado
+técnico e sempre que a situação de um chamado for modificada.
+2.4. Capacidade de busca com filtragem para cada chamado.
+2.4.1. Interface para extração (exportação). dos dados acima correspondentes
+aos chamados cadastrados, no mínimo em formato de planitlha eletrônica,
+para utilização interna desta.
+2.4.2. Consulttas on-line e relatórios pré-formatados que subsidiem a
+apuração, por parte do CONTRATANTE, do cumprimento dos chamados
+pela CONTRATADA nos pPrazos e condições previstos.
+2.5. Priorização de EPD para a elaboração das ERS.
+2.6. Priorização das ERS para o desenvolvimento ha próxima versão ordiriária ou
+em projeto paralelo de desenvolvimento.
+2.7. Capacidade de .busca de EPD em elaboração, aprovadas e priorizadas para
+elaboração da ERS,
+2.8. Capacidade de busca de ERS em elaboração, aprovadas e priorizadas para
+desenvolvimento.
+receber as comunicações.
+2.10.O Portal do Cliente estará acessivel na internet e será hospedado no
+ambiente da CONTRATADA.
+2.10.1.0 Portal do Cliente poderá ser hospedado no ambiente do
+CONTRATANTE, mediante integração e Sincronização em tempo reál,
+desde que mutuamente acordado : entre CONTRATANTE
+CONTRATADA.
+25 - Contrato - Serviços f Continuados
+Versão 2015.1
+2Ys2.11.Fica assegurado ao CON
+ 
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+aferição da integridade dos dados dos relatórios.
+Da Situação dos Chamados
+'TRATANTE o direito de realizar auditoria para
+ 
+ 
+  
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Z
+Ag. Roteaúento Pendente O chamado foi regiistÉado' no Portal do Ihfcio do Decurso
+Cliente, dando início a contagem do
+prazo de atendimento.
+Ag. Cliente Ag. Cliente A  CONTRATADA fez —algum Suspenso
+questionamento . que necessita de
+esclarecimento do usuário que abriu o
+chamado.
+Ag. Avaliação Em andamento | & Chamado passa a ser atendido pela | Em Decurso
+equipe técnica da CONTRATADA,
+Ag. Aceite - Ag. Aceite — [A solução proposta pela | Suspenso
+Homologação Homologação CONTRATADA está em análise pela
+CONTRATANTE no ambiente de
+homologação.
+Ag. Aceite — Ag. Aceite — |A solução proposta pela | Suspenso
+Definitivo Definitivo CONTRATADA está em análise pela
+CONTRATANTE,
+Ag. Avaliação — Ag. Avaliação — [A solução broposta Pela | Em Decurso
+Rejeite Rejeite CONTRATADA foj rejeitada pela
+solução não atender a Necessidade
+da CONTRATANTE.
+Ag. Aceite — Ag. Aceite -/A CONTRATADA solicitou | Suspenso
+Pedido de Pedido de | prorrogação do prazo de atendimento
+prorrogação prorrogação do chamado à CONTRATANTE.
+Ag. Aceite — Ag. Aceite - [A CONTRATADA, de  forma Suspenso
+Pedido de Pedido de | justificada, solícitou cancelamento do
+cancelamento cancelamento — | chamado à CONTRATANTE. e
+Ag. Aceite — Ag. Aceite — [A CONTRATADA, wde  forma Suspenso 2
+ 
+ 
+ 
+— N
+25 - Contrato - Serviços f Continuados
+Versão 2015.1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+   
+2
+[
+ 
+ 
+Pedido de
+recategorização
+Aceite Defi
+- Decurso de
+Prazo
+     
+  
+    
+Pedido de Justificada, solicitou recategorização
+recategorização | do chamado à CONTRATANTE,
+Encerrado PporjO prazo para encerramento após Encerrado *
+tempo notificação da solução proposta pela
+decorrido CONTRATADA decorreu sem o
+nitivo
+  
+ 
+   
+ 
+ 
+ 
+ 
+encerramento formal da
+CONTRATANTE.
+Encerrado Encerrado pelo | O usuário encerrou o chamado. Encerrado
+ 
+Usuário
+ 
+ 
+ 
+Da abertura, acompanhamento e encerramento dos chamados do serviço de
+manutenção adagtativa_e evolutiva
+Este procedimento descreve as atividades e os responsáveis pelas rotinas
+relacionadas à abertura, acompanhamento. e encerramento de chamados de
+manutenção adaptativa e evolutiva, relacionados à manutenção das soluções
+contratadas e das configurações do ambiente computacional em que estas sejam
+executadas.
+O flixo abaixo detalha o procedimento de Solicitações de chamado técnico,
+considerando as interações necessárias entre as equipes do CONTRATANTE e da
+CONTRATADA.
+1 Cadastro da demanda: o CONTRATANTE registrará o chamado no Portal do
+Cliente, contendo as informações necessárias para a abertura de chamados técnicos,
+& anexando arquivos que Possam ajudar na avaliação e entendimento por parte da
+CONTRATADA.
+3 Execução da demanda: a CONTRATADA deverá executar a solicitação nos
+prazos e condições definidas.
+4 Entrega da solução: a CONTRATADA deverá entregar a demanda ao
+CONTRATANTE, via comunicação formal a este, disponibilizando novas versões da
+solução (quando pertinente) e os artefatos definidos no Projeto Básico.
+B. Homologação da solução: o CONTRATANTE verificará se a solução
+proposta pela CONTRATADA atende Suas necessidades e conferirá os artefato:
+25 - Contrato - Seíviços f Continuados
+Versão 2015.1ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+êentregues, realizando testes em seu ambiente de homologação. Estando de acordo
+com a proposta entregue e verificando que a versão se encontra livre de falhas e
+funcional o CONTRATANTE emitirá o aceite parcial.. Caso constate que as
+necessidades não foram atendidas, o CONTRATANTE deverá comunicar formalmente
+a CONTRATADA, considerando para efeitos de prazo o disposto no Projeto Básico.
+8. Emissão do Aceite: Após a validação da proposta no ambiente de
+homologação, a equipe técnica do CONTRATANTE dará o aceite da solução
+Da abertura. acompanhamento e encerramento dos chamados do Serviço sob
+demanda
+Fste procedimento descreve as atividades e os responsáveis pelas rotinas
+relacionadas à abertura, acompanhamento e encerramento de chamados de
+desenvolvimento sob demanda.
+O fluxo abaixo detalha o procedimento das solicitações de chamado técnico,
+considerando as interações necessárias entre as equipes do CONTRATANTE e da
+CONTRATADA,
+1. Cadastro da demanda: o CONTRATANTE registrará o chamado junto ao
+no registro do chamado, solicitar uma reunião entre as partes, sugerindo data
+€ local. À solicitação será pPriorizada pelo CONTRATANTE, avaliando-a em
+relação aos demais chamados que eventualmente estejam em andamento.
+2. Avaliação da demanda: de posse do descritivo da necessidade, a
+. CONTRATADA fará uma avaliação da solução a ser proposta.
+3. Elaboração da Específicação de Requisitos do Sistema: sendo viável o
+atendimento da demanda, a CONTRATADA deverá elaborar e entregar a ERS,
+juntamente com os demais artefatos previstos no Projeto Básico.
+4. Análise da ERS: o CONTRATANTE de posse da ERS analisará &
+necessidade de complementação ou revisão do conteúdo.
+25 - Contrato - Serviços À Continuados
+Versão 2015.1
+2378ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+- Emissão da Ordem de Serviço: Aprovada a ERS o CONTRATANTE
+autorizará a emissão da Ordem de Serviço, devendo neste caso aprovar o
+Orçamento Estimado. Após a aprovação, deverá ser feito o cadastro da Ordem
+vinculando a SALT que originou a demanda.
+Desenvolvimento  da Demanda: de posse da Ordem de Serviço a
+CONTRATADA dará início ao desenvolvimento das funcionalidades descritas
+na ERS.
+Homologação da solução: a CONTRATADA deverá disponibilizar versão e
+— todos os artefatos descritos no Projeto Básico, de acordo com as demandas
+solicitadas pelo CONTRATANTE, incluindo o Orçamento Definitivo e os
+artefatos utilizados em sua confecção.
+- O CONTRATATANTE irá testar a versão em seu ambiente de homologação,
+verificando se o proposto está de acordo com os artefatos definidos, funciona!
+€ livre de falhas. Caso constate que as necessidades não estão de.acordo com
+o definido nos artefatos ou apresentam falhas, o CONTRATANTE deverá
+comunicar formalmente a CONTRATADA,
+Emissão do Termo de Homologação: estando de acordo com o Orçamento
+Definitivo, com os artefatos é com a solução recebida e testada em seu
+ambiente de homologação, o CONTRATANTE formalizará 0 aceite para
+CONTRATADA,.
+25 - Contrato - Serviços f Continuados
+Versão 2015.1
+ 
+JATI
+-.

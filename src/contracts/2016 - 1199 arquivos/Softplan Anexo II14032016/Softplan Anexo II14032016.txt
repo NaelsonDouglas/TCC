@@ -1,0 +1,471 @@
+263 :
+ANEXO |l o en
+Da garantia de suporte técnico remoto
+1.1. Entende-se como garantia de suporte técnico remoto as atividades realizadas
+pela CONTRATADA, com o objetivo de esclarecimento de dúvidas sobre o
+ambiente operacional e sobrê a utilização do Sistema, bem como corrigir
+eventuais erros do Sistema.
+1.2. Entende-se por erros:
+1.21. Problemas provocados pela operação do Sistema, sejam de
+processamento ou implementação, decorrentes de erros lógicos e de
+codificação;
+1.2.2. Comportamentos que estejam em desacordo com os requisitos
+funcionais descritos no Anexo |.
+1.221. Não se caracteriza como erro os comportamêntos
+necessários à utilização do Sistema, mesmo . que. não
+previstos no Anexo | ou em documentação existente que
+comprove o funcionamento do Sistema.
+1.3. Detalhamento da garantia:
+1.8381. Orientação sobre o'ambiente operacional compreende:
+1.311. Orientação à instalação e à configuração de atualizações do
+Sistema no ambiente dé servidores de aplicação e Sistema
+Gerenciador de Banico de Dados — SGBD.
+1.381.2. Orientações técnicas. ao CONTRATANTE — quando
+identificadas situações que exijam ajustes e otimizações no
+ambiente operacional, rêde, acessibilidade, domínio e grupos
+de usuários.
+1.3.1.3.  Orientação sobre configurações: do  Sistema «que não
+disponham. de interface específica para utilização pelo
+CONTRATANTE.
+1.3.2. —Orientação sobre a utilização do Sistema compreende:
+1.3.21. Atendimento às .dúvidas das equipes . técnicas. do
+CONTRATANTE, : - responsáveis —por.  definições . de
+operacionalização-e pelãà administração do sistema; sobre as
+características e a utilização do Sistema. :
+1.3.3. * A correção de erros relativos ao Sistema compreende:
+1.3.3.1. Diagnóstico;
+1.3.3.2. Análise;
+1.3.3.3: Disponibilização de solução de contorno, quando. aplicáve!;
+1.3.34. Disponibilização de nova versão, quando aplicável
+1.4. Chamados de suporte técnico remoto
+14.1. Osníveisde severidade dos chamados de suporte técnico remoto serão
+indicados pelo. CONTRATANTE no momento da abertura do chamado,
+baseado no impacto da funcionalidade afetada no Anéxo u
+1.42. A abertura de chamaádos de SEVERIDADE ZERO e UM será feita por.
+grupo —de — servidores . do CONTRATANTE, — credenciado:
+especificamente para esta finalidade; selecionados dentre aqueles que.264
+detém conhecimentos técnicos é do Sistema que lhes permitam,.o e
+registro, o acompanhamento, à avaliação e o encerramento dos.
+chamados, limitado em até 3 (três) servidores.
+1.4.21. No prazo de 5 (cinco) dias, contados a partir da data da
+assinatura do contrato, o CONTRATANTE informará à
+CONTRATADA os dados dos servidores supracitados para a
+adoção das providências necessárias ao seu cadastramento.
+1.5. Dos prazos de solução
+1.51. Os prazos de solução da garantia de suporte técnico serão aplicáveis
+exclusivamente em ambiente de produção do CONTRATANTE.
+1.5.1.1. / Os prazos de solução da garantia previstos neste item não se
+áplicam aos ambientes de treinamento, teste e homotlogação.
+1.5.2. O atendimento aos chamados para correção de erros deverá seguir os
+prazos estabelecidos na tabéla abaixo:
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: razo:de Solução. :
+Zero Em até 4 (quatro) horas corridas.
+Um Em até 24 (vinte e quatro) horas corridas.
+Dois Em até 3 (três) dias úteis.
+Três Em até 10 (dez) dias úteis.
+Quatro Em até 30 (trinta) dias úteis.
+ 
+ 
+1.53. O atendimento aos chamados de orientações sobre . o,ambiente
+operacional e orientações de segundo nível sobre a utilização . do
+Sistema deverá seguir os prázos éstabelecidos na tabela abaixo, nas
+condições inidicadas:
+ 
+ 
+     
+'Brazoí
+Em até 15 (quinze) dias úteis.
+ 
+olação
+ 
+ 
+ 
+ntação s o ambiente
+operaciorial do Sistema
+Orientação sobre utilização do -
+Sistema
+ 
+ 
+ 
+ 
+ 
+Em até 5 (cinco) dias úteis.
+ 
+1.54. Considera-se prazo de solução o tempo líquido, sob tutela da
+CONTRATADA, decorrido entre a data e o horário de abertura do
+chamado pelo CONTRATANTE, conforme Anexo |V, e a data e.o horário
+do aceite definitivo da solução apresentada pela CONTRATADA.
+71.6. Detalhamento dos níveis de severidade para chamados
+161. SEVERIDADE ZERO - Corresporide a um problema que acarrete a
+paralisação total do Sistema, cabendo à CONTRATADA mobilizar
+recursos nos prázos fixados e alocar todos os seus esforços para
+restaurar a condição de operação.
+1.62. . SEVERIDADE UM - Corresponde.a um problema que acarrete a
+paralisação ou impossibilidade utilização de qualquer funcionalidade
+crítica- do Anexo Ill, para o qual não exista solução de contorno, cabendo
+à CONTRATADA mobilizar recursos nos prazos fixados e alocar todos
+os séus esforços pára restauirar a condição de operação.
+1.6.3.º — SEVERIDADE DOIS — Correspónde a um problema que acarrete a
+paralisação ou impossibilidade utilização de qualquer funcionalidade-
+crítica: prevista no Anexo Ill, pára o qual exista solução de contorcabendo à CONTRATADA mobilizar recursos nos prazos fixados'—e
+alocar todos os seus esforços para restaurar a condição de operação:
+ 
+265
+Rm
+1.64. SEVERIDADE TRÊS — Corresponde a um problema: que acarrete a — ,
+paralisação ou impossibilidade utilização de qualquer funcionalidade
+não prevista no Anexo |ll, para o qual não exista solução de contorno,
+cabendo à CONTRATADA analisar a situação reportada e encaminhar
+a solução definitiva, para restaurar a condição de opéração, nos prazos
+fixados.
+1.6.5./. SEVERIDADE QUATRO - Corresponde a um problema que acarrete a
+paralisação: ou impossibilidade utilização de qualquer funcionalidade
+não prevista no Anexo Ill, para o qual exista solução de contorno,
+cabendo à CONTRATADA analisar a situação reportada e encaminhar
+a solução ou esclarecimento.
+1.7. Recategorização dos chamados
+1.71. Caso a CONTRATADA constate que o chamado de suporte técnico
+remoto foi enquadrado de forma equivocada em determinado nível de
+severidade, : solicitará — formalmente ao CONTRATANTE àa
+recategorização do chamado, de acordo com o nível de severidade que
+entende adequado, apresentando justificativa pormenorizada do
+pedido. :
+1.7.1.1. - O decurso do prãzo de solução será suspenso a partir da data
+e do horário em que à CONTRATADA formalizar o pedido de
+recategorização do nível de severidade do chamado . de *
+suporte técnico remoto, e voltará a fluir a partir da data e do
+horário em que-o CONTRATANTE formalizar sua decisão.
+1.7.2º O CONTRATANTE, de forma. fundamentada no : contrato, poderá
+indeferir os pedidos de recategorização, dentro do prazo previsto.
+1.7.21. Caso a CONTRATADA não concorde com a justificativa
+apresentada pelo CONTRATANTE, poderá solicitar que a
+divergência possa ser apreciada pelos gestorés do contrato
+de ambos. NNEA '
+1.8. Cancelamento dos chamados
+1.81. Casoa CONTRATADA constate que o chamado de suporte técnico
+remoto extrapola . suas responsabilidades ou ainda por falta de
+elementos que não permita à CONTRATADA o entendimento do
+chamado técnico, solicitará formalmente ao CONTRATANTE que o
+chamádo seja cancelado, apresentando justificativa do pedido.
+1.8.1.1. O decurso do prazo de solução previsto será suspenso a
+partir da data e do horário em que a CONTRATADA
+formalizar o pedido de cancelamento do chamado de suporte
+técnico remoto, e voltará a fluir a partir da data e do hórário
+em que o CONTRATANTE formalizar sua decisão.
+182. O CONTRATANTE, de forma fundáâmentada nó contrato, poderá
+indeferir os pedidos de cancelamento, dentro do prazo previsto.
+1.82.1. Caso a CONTRATADA não concorde com a justificativa
+apresentada pelo CONTRATANTE, poderá solicitar que à
+divergência possa ser apreciada pelos gestores do contrato
+de ambos.
+1.9. Da homologação das soluções *1.9.1.
+1.9.2,
+1.9.3.
+1.9.4.
+1.10.
+1.10.1.
+1.10.2.
+1.10.3.
+1.11.
+1111.
+Entende-se por homologação a validação no ambiente computacional 7
+de homologação, pela equipe técnica do CONTRATANTE, da solução, —
+apresentada para o chamado de suporte técnico remoto.
+Para as versões de correção disponibilizadas pela CONTRATADA no
+ambiente computacional de homotogação do CONTRATANTE;, caberá
+ao CONTRATANTE se manifestar no prazo máximo equivalente a 5
+(cinco) vezes o prazo fixado para os chamados de severidade ZERO e
+UM entregues na versão de correção.
+1.9.2.1.  Decorrido o prazo estabelecido sem que haja manifestação
+do CONTRATANTE, o chamado respectivo será considerado
+aceito parcialmente por decurso de prazo.
+Após a homologação, a equipe técnica do CONTRATANTE dará o
+aceite para a CONTRATADA, desde que o Sistema esteja funcional e
+livre de novos erros, no ambiente de homologação.
+1.9,3.1.  Entende-se por novos érros, aqueles que não existiam na
+versão atual em produção no ambiente do CONTRATANTE.
+O decurso do prazo de solução será suspenso na data e no horário em
+que a equipe técnica do CONTRATANTE for .notificada pela
+CONTRATADA de que à solução demandada .no chamado de suporte
+técnico remoto encontra-se disponível para homólogação.
+Da validação das soluções
+Após a validação da solução apresentada no ambiente. de pródução, -a
+equipe técnica do CONTRATANTE dará o acêite definitivo dà solução
+apresentada pela CONTRATADA e encerrará o chamado.
+O encerramento do chamado de suporte técnico remoto pelo
+CONTRATANTE fica condicionado ao detalhamento pela
+CONTRATADA, por meio do Portal do Cliente, das informações
+técnicas acerca da solução do problema.
+Para as versões de correção homologadas, quando houver o aceite em
+homologação de todos os chamados vinculados nessa versão e não
+constatados novos chamados técnicos que impeçam a instalação em
+ambiente de produção, caberá ao CONTRATANTE, no prazo máximo
+de até 10 (dez) dias corridos, encerrar os chamados técnicos entregues
+na versão de correção.
+1.10.3.1. Decorrido o prazo estabelecido neste item sem que hnhaja
+manifestação do CONTRATANTE, o chamado respectivo
+será corisiderado aceito definitivamente por decurso de
+prazo. '
+Documentação comprobatória
+A CONTRATADA deverá fornecer, mensalmente, até o 10º (décimo)
+dia útil do mês subseguente ao mês de referência, relatório contendo o
+descritivo de todos ós chamados técnicos encerrados no mês de
+referência e de todos os chamados técnicos cujo encerramento estava
+programado para o Mês, no que tange à garantia de suporte técnico
+remoto, que permita. ao CONTRATANTE avaliar a efetividade das
+atividades realizadas, compreendendo, em colunas .distintas as
+seguintes informações:
+1.11:1.1. Número do chamado de suporte técnico remoto;
+1.11.1.2. A data e o hórário de abertura do chamado;1.11.1.3. A classificação da ocorrência (nível de severidade. ou
+orientações sobre infraestrutura.ou sobre a utilização d
+Sistema) para cada chamado; '
+. Adata e o horário do aceite definitivo do CONTRATANTE;
+. Onome do usuário do CONTRATANTE que abriu o chamado
+e que emitiu os aceites em homologação e definitivo da
+solução apresentada;
+1.11:1.6. A quantidade de horas e de dias extrapolados no
+cumprimento dos prazos de solução para cada ocorrência;
+1.11.1.7. A situação do chamado.
+——
+NS
+==
+==
+Us
+2. Da garantia de manútenção adaptativa
+21.
+2.2.
+Entende-se como garantia de manutenção adaptativa as modificações no
+Sistema para mantê-lo compatível com o ambiente compúutacional do
+CONTRATANTE e suas eventuais atuálizações, descrito e caracterizado no
+Anexo V, garantindo seu funcionamento adequado.
+2.11. Nãoserão objeto desta garantiá a manutehção de Sistemaá Gereniciador
+de Banco de Dados (SGBD), servidores: de. aplicação e: soffwares
+básicos (browsers, sistemas operacionais, etc.), cujo suporte tenha sido
+descontinuado pelo respectivo fornecedor. ,
+A garantia de manutenção adaptativa assegura o CONTRATANTE o direito de
+receéber, as modificações ou adequações realizadás no Sistema, conforme itens
+relacionados abaixo:
+2.21. Homologação do Sistemá para as novas versões .do Sistema
+Gerenciador de Banco de Dados (SGBD) e dos Servidores de Aplicação
+do CONTRATANTE;, descritos no Anexo V.
+22.2. Homologação do Sistema para funcionamento com novas versões dos
+softwares básicos (browsers, sistemas operacionais, etc.), clientes e
+servidor, utilizados pelo CONTRATANTE, descritos no Anexo V.
+2.2.3. — Implementação no Sistema de novos algoritmos de hash e cifragem,
+sempre que os utilizados sejam ' declarados inadequádos, não
+recomendados ou -vulneráveis pela acádemia .e/ou-instituições -de
+referência na área de segurança digital.
+2.24. Desenvolvimento de rotinas de migração de dados entre versões do
+Sistema.
+2.25. Análisede viabilidade de adequação do Sistema. para novas versões
+dos periféricos, cujos modelos já foram homologados no sistema no
+momento da contratação, descritos no Anexo V;
+225.1. OCONTRATANTE enviará o exemplar do periférico que será
+avaliado pela CONTRATADA, munido de todos os manuais
+de funcionamento e softwares de instalação. '
+2.26. Adequaçãoe homologação do Sistema para funcionamento com novas
+versões dos periféricos descritos no Anexo V, conforme parecer de
+viabilidade do item anterior;
+227. Disponibilização de funcionalidades para uso de recursos da
+infraestrutura de chaves públicas, em conformidade com. os padrões
+definidos pela ICP Brasil e ITI (assinatura digital, protocolação e carimbo
+do tempo), e suas eventuais alterações.
+22.8. Para as atualizações motivadas por descontinuidade de. suporte, à
+CONTRATADA deverá portar seu sistema para às novas versões dos
+softwares independente do estudo de viabilidade, sendo acata:
+justificativa somente no caso dos servidores de aplicação quando da
+não existência de conformidade da nova versão do servidor d
+í
+“2.3. Dos prazos de solução
+2.3.1.
+aplicação com a plataforma Java Enterprise Edition (EE) (versão
+certificada no “profile full”).
+Para apuração do cumprimento dos prazos da garantia de manutenção
+adaptativa serão considerados os seguintes prazos a partir da data da
+abertura do chamado técnico pelo CONTRATANTE:
+2.31.1. . Compatibilização com novo major release de SGBD: 120
+(cento e vinte) dias corridos.
+2.3.1.2. . Novas versões de servidores de aplicação e balanceadores
+de carga de aplicação: 120 (cento e vinte) dias corridos.
+2.3.1.3. - Novas vérsões de navegadores (browsers) (Firefox; Google
+Chrome e Internet Explorer): 90 (noventa) dias corridos para
+as aplicações acessadas publicamente.
+2.3.1.4.  Novas versões de navegadores (browsers) (Firefox, Google
+Chrome e Internet Explorer): 120 (cento e vinte) dias corridos
+para as aplicações de uso interno do CONTRATANTE.
+2.31.5. Novas versões de sistemas operacionais de servidores de
+rede: 120 (cento e vinte) dias corridos:
+231.6. Novas versões de sistemas operacionais de estações de
+trabalho: 180 (cento e oitenta) dias corridos.
+231.7. Implementação .no Sistema de novos algoritmos de hash e
+cifragem: 180 (cento e oitenta) dias corridos.
+23.1.8.  Relatório de viabilidade.para homologação do Sistema para
+novas versõês dos periféricos já homologados no sistema: 45
+(quarenta e cinco) dias corridos.
+2.3.1.9.  Novas versões dos padrões definidos -pela ICP.Brasil ou ITI
+para o uso de recursos da infraestrutura de chaves públicas:
+no prazo constarite da publicação da nova versão, ou em 180
+(cento e oitenta) dias corridos caso não haja prazo definido.
+2.3.1.10. Atualização mótivada por descontinuidade de suporte. a
+versões de softwares utilizados no ambiente de produção do
+CONTRATANTE — (browser,  sistemas — Operacionais,
+servidores de aplicação e SGBD): 180 (cento e oitenta) dias
+corridos. i
+2.3.1.11. Adequação e homologação do Sistema pafa funcionamento
+com novas versões dos -periféricos já homologados . pela
+CONTRATADA: 180 (cento e oitentá) dias corridos.
+2.3.1.12. Desernivolvimento de rotinas de migração entre versões do
+Sistema: junto com a nova versão do Sistema.
+2.4. Da homologação das soluções
+2.41,
+2.4.2.
+243.
+O decurso dos prazos de solução será suspenso na data e no horário
+em que a equipe técnica. do CONTRATANTE for. notifícada: pela
+CONTRATADA de que a solução demandada: no chamado de
+manutenção adaptativa encontra-se. disponível para homologação.
+Entende-se por homologação a validação no ambiente computacional
+de homologação, péla equipe técnica do CONTRATANTE, da solução
+apresentada para o chamado de manutenção adaptativa. .
+Após a homologação, a equipe técnica do CONTRATANTE qara o
+aceite para' a CONTRATADA, desde que o Sistema esteja funqmnal e
+adequado à solicitação do chamado de manutenção adaptativa,
+ambiente de homologação.
+268
+e244 Casoasolução oferecida pela CONTRATADA seja rejeitada, o decurso
+dos prazos voltará à transcorrer, considerando-se apenas o lápso
+temporal remanescente na data e no horário ém que a equipe técnicá
+do CONTRATANTE foi formalmente informada pela CONTRATADA de
+que a solução demandada no chamado de rianutenção adaptativa
+encontrava-se disponível para homologação.
+. Da garantia de manutenção evolutiva
+31.
+3.2.
+33.
+34,
+3.5.
+3.6.
+a7
+3.8.
+Entende-se como garantia de manutenção evolutiva as atividades abaixo
+descritas, que impliquem em modificações nos requisitos funcionais do Sistema,
+com a adição de novas funcionalidades óu.alteração naquelas já existentes,
+desde que dentro dos módulos contratados, dando o direito de receber:
+3.1.1.  Asimplementações demandas pelos demais clientes excetuando-se os
+atos de caráter normativo de Lei Federal.
+3.1.2. Testes é homologação das demandas originadas dos demais clientes,
+no ambiente do CONTRATANTE.
+O CONTRATANTE poderá recusar as demandas recebidas dos demais clientes.
+3.2.1. º Não será objeto de recusa as adequações de requisitos não funcionais
+implementados pela CONTRATADA, tais como frameworks, padrões
+de construção e usabilidade, mas hão limitados a estes, sobre os quais
+o sistema é desenvolvido.
+As demandas especificadas e aprovadas. pelos demais clientes serão
+encaminhadas para a análise do CONTRATANTE, que terá o prazo de 10 (dez)
+dias para se manifestar pelo aceite óu recusa dessas funcionalidades.
+A entrega da demanda aceita pelo CONTRATANTE dependerá da priorização
+do cliente que originalmente a demandou, independentemente se houve ou não
+pedidos de adequações.na demanda original. '
+O CONTRATANTE receberá a cada 90 (noventa) dias, conforme calendário
+anual da CONTRATADA, versão que contempla as implementações descritas
+nesta garantia. '
+Após a entrega da versão com as demandas dos demais clientes, a
+CONTRATADA deverá, em até 15 (quinze) diás instalar a versão mais recente,
+em ambiente dé homologação do CONTRATANTE.
+versão disponibilizada, decorrido o prazo, entender-se-á pela sua aceitação.
+Para cada entrega da garantia de manutenção evolutiva, deverão ser gerados
+artefatos que comprovem o início e término de determinada atividade, conforme
+tabela abaixo: :
+ 
+ 
+ 
+: das 15 dias antes Até 90 dias após
+Desenvolvimento demandas do.início da Versão . | data do início do
+da Versão pelos demais versão desenvolvimento.
+clientes
+Priorização
+ 
+ 
+ 
+ 
+ 
+ 
+O CONTRATANTE terá o prazo de 15 (quinze) dias corridos para homologar aHomologação da
+Versão
+ 
+ 
+Relatório de Até 15dias -
+Atualização Ú Aceite da | corridos, após
+de Versão | AParirda | versão | disponibilização
+disponibilização da Versão
+(RAV) e 2
+Roteiro de do Relatório de
+Homeologacão Atualização de | Plano de
+de Ve?sãç Versão (RAV) | mudança e | Após o aceite do |.
+º Liberação | CONTRATANTE
+(RAV) (PML)
+ 
+ 
+ 
+ 
+3.9. As novas funcionalidades desenvolvidas serão automaticamente incorporadas
+nas garantias prestados ao CONTRATANTE.
+4. Suporte ao usuário interno:
+41.10.
+4.1.11.
+4.1.42.
+Atendimento dos chamados registrados por meio do Portal do Cliente;
+Avaliação ínicial do chamado e registro de complementações, se
+necessário;
+Repasse das orientações aos usuários sobre dúvidas.operacionais do
+Sistema;
+Controle dos chamados;
+Registro das Solicitações de Ateridimento;
+Apoio em ajustes de configuração dos fluxos de trabalho existentes no
+Sistema;
+Apoio nas homologações das versões do Sistema;
+Redistro de sugéstões e avaliações. solicitadas. pelos usuários do
+CONTRATANTE, quánto a melhoria na usabilidade do Sistema.
+Repasse para a equipé de segundo nível (sede da CONTRATADA), dos
+chamados queê demandem avaliação mais aprofundada sob a ótica das
+regras de negócio, alterações nas configurações, comportamento do
+sistema, novas implementações e correção de erros;
+Retorno aos usuários e féchamento dos chamados.
+Informar ao CONTRATANTE sobre pedidos de prorrogação, alterações
+de tipos e severidades e outras solicitações pertinentes aos chamados
+encaminhados ao suporte de segundo nível.
+A CONTRATADA deverá entregar os relatórios de execução do serviço
+o final de cada mês.
+5. Da apuração de cumprimento da garantia
+5.1.A apuração do percentual de cumprimento da ' garantia será realizada
+anualmente, após a entrega da documentação que comprove a execução das.
+atividades previstas para as garantias de funcionamento do Sistema, que poderá
+ter periodicidade mensal, para fins de acompanhamento.
+5.2. Decorridos 12 (doze) meses:de vigência contratual, a CONTRATADA deverá
+apresentar relatório final das atividades executadas e indicar dia em que ocorreu
+atraso no cumprimento de prazo, com base nas definições indicadas abaixo:
+5.2.1.
+Para cada dia de atraso apurado no relatório, a CONTRATADA estará
+sujeita a redução de 0,02% (dóis centésimos. por cento) do valor total
+do contrato.
+a29 :5.2.2. A eventual incidência de aplicação de redução, terá seu abatlménto
+realizado na prestação de garantia que a -CONTRATADA devera
+prestar, consoante previsto no Contrato.
+5.2.3. — Ao final da garantia a CONTRATANTE deverá confrontar os dados
+apresentados nos relatórios entregues pela CONTRATADA  para
+apuração dos níveis mínimos de serviços.
+5.3. O total de redução está adstrita ao valor da garantia prestada pela
+CONTRATADA, ressalvadas as hipóteses de descumprimento contratual, el
+que a CONTRATANTE fará a apuração por meio do competente processo
+administrativo.
+   
+2F

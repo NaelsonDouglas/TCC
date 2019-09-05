@@ -1,0 +1,47 @@
+& EBE corREIOS
+ESTADO DE ALAGOAS
+DEPARTAMENTO DE ESTRADAS DE RODAGEM
+ 
+ 
+ 
+as mensagens de Fax Post destinadas à transmissão para o Fax da
+CONTRATANTE, contendo os dados necessários com clareza;
+2.1.2. Observar as normas e condições gerais de aceitação prevista na Lei
+6.538 de 22.06.1978 — Artigo 29;
+2.1.3. Obedecer às condições previstas neste Anexo, estabelecidas para os
+canais de acesso utilizados, conforme descrito a seguir:
+2.1.3.1. Condições específicas para utilização do Canal Internet para
+transmissão de Telegramas e Cartas:
+2.1.3.1.1. Possuir acesso à Rede Internet;
+2.1.3.1.2. Informar o código de acesso (corresponde ao(s) número(s) do(s)
+cartão(ões) de postagem), quando da utilização do(s) serviço(s);
+2.1.3.1.3. Instalar aplicativos Sistema de Postagem Eletrônica - SPE,
+Escritório ou Corporativo, fornecidos gratuitamente pela ECT, para transmissão do
+Telegrama e Carta via internet, em sua estação de trabalho ou em seu servidor, não
+sendo autorizado à CONTRATANTE, efetuar alterações nos referidos sistemas, nem
+disponibilização a terceiros;
+2.1.3.1.4. Para os serviços adicionais Cópias de Telegrama — (CC) e Pedidos
+de Confirmação de Entrega (PC), conforme descrito no subitem 1.1. deste Contrato,
+a CONTRATANTE, deverá instalar o ACROBAT - Reader 5.0 ou superior, em suas
+estações de trabalho, para o recebimento eletrônico;
+2.1.83.1.4.1. Utilizar nos Telegramas destinados ao âmbito nacional, imagens
+personalizadas obedecendo à formatação, conforme especificações e dimensões:
+Cor: monocromática (preto ou tons de cinza);
+Fundo: transparente;
+Formato do arquivo: JPG ou JPEG;
+Tamanho: máximo de 60 K;
+Dimensão:
+3 linhas: 425 x 43 pixels (150 x 15mm);
+5 linhas: 425 x 70 pixels (150 x 25mm).
+2.1.3.1.42. Submeter a imagem personalizada para aprovação e
+cadastramento da ECT;
+ 
+2.1.3.1.5. Independentemente da fonte utilizada pela CONTRATANTE, no ato
+Contrato Múltipio ECT x DER/AL — Ar — Serviço Telemático — SPE 24-09-08
+DIRETORIA REGIONAL DE ALAGOAS — GERÊNCIA DE VENDAS
+da transmissão, a impressão no formulário de entrega do Telegrama será sempre na
+fonte Helvética, tamanho 12;
+Endereço: RUA ANTENOR GOMES DE OLIVEIRA, Nº. 144, FAROL. CEP: 57.055-265 — MACEIÓ/AL
+Telefone: (82)-3216-7952 — Fax: (82)-3216-7970 — e-mail:
+CONTRATO Nº 9912325299 (DLC -018/2013) í [(x/
+2

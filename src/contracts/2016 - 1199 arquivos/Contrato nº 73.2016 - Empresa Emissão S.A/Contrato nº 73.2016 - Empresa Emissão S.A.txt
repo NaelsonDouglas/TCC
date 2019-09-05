@@ -1,0 +1,722 @@
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CONTRATO Nº 73/2016 — CASAL
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS QUE ENTRE Si
+CELEBRAM A COMPANHIA DE SANEAMENTO DE
+ALAGOAS — CASAL E A EMPRESA EMISSÃO 5.A.
+PREÂMBULO — DAS PARTES E DO FUNDAMENTO
+1) CONTRATANTE: COMPANHIA DE SANEAMENTO DE ALAGOAS - CASAL, Sociedade de Economia Mista Estadual,
+vinculada à Secretaria Coordenadora de Infraestrutura e Serviços, sediada na Rua Barão de Atalaia, nº. 200, Centro,
+Maceió/AL, doravante, denominada simplesmente CASAL, inscrita no CNPJ/MF sob o nº. 12.294.708/0001-81;
+neste ato, representada por seu Diretor Presidente WILDE CLÉCIO FALCÃO DE ALENCAR, brasileiro, casado,
+engenheiro civil, inscrito no CPF/MF sob o nº 091.578.673-72, RG 153.218-SSP/AL., e pelo seu Vice Presidente de
+Gestão Operacional FRANCISCO LUIZ BELTRÃO DE AZEVEDO CAVALCANTI, brasileiro, casado, engenheiro civil,
+inscrito no CPF/MF sob o nº 185.381.854-20, ambos residentes e domiciliados nesta Capital.
+2) CONTRATADA: EMISSÃO S.A,, estabelecida na Av. Pastor Martin Luther King Jr., nº 126, 4º andar, Grupo 432, Del
+Castilho, Rio de Janeiro/RI, inscrita no CNPJ/MF sob o nº 39.110.879/0001-60, doravante, denominada
+simplesmente CONTRATADA, neste ato, representada por JUAN FERNANDO ESCOBAR REMON, colombiano,
+solteiro, engenheiro, inscrito no CPF/MF sob o nº 063.508.297-78, portador do Registro Nacional de Estrangeiros
+nº G222.446-|, e DIOGO PACHECO GOMES, brasileiro, advogado, inscrito no CPF/MF sob o nº 077.321.757-60 e RG
+nº 110.540.
+3) FUNDAMENTO LEGAL DA ADJUDICAÇÃO: A presente adjudicação, decorre da dispensa de licitação,
+devidamente com base no Art. 24 inciso IV da Lei Federal nº 8.666/1993 devidamente ratificada pelo Diretor
+Presidente da CASAL tudo conforme consta na C.!. nº 44/2016 e S.C. nº 17990, obrigando as partes de acordo com
+as cláusulas e condições, a seguir expressas:
+CLÁUSULA PRIMEIRA — DO OBJETO: Constitui objeto do presente instrumento a contratação de empresa para a
+execução dos serviços de leitura de medidores de consumo de agua com faturamento, emissão e entrega
+simultânea de contas. e as respectivas notificações e/ou comunicados decorrentes de leitura, a serem executadas
+de conformidade com o Termo de referencia, parte integrante do presente instrumento.
+ 
+CLÁUSULA SEGUNDA — DA ABRANGÊNCIA: Os trabalhos a serem desenvolvidos pela CONTRATADA abrangerão os
+municípios operados pela CONTRATANTE, compreendendo as áreas urbana e rural, obedecendo às divisões por
+Unidades de Negócio existentes, para efeito de planejamento, execução, medição dos resultados, apresentação de
+relatórios de acompanhamento e demais atividades previstas, conforme ANEXO |.
+CLÁUSULA TERCEIRA — DO VALOR E DOS RECURSOS: O Presente Contrato tem seu valor total estimado em R$
+3.565.281,92 (três milhões, quinhentos e sessenta e cinco mil, duzentos e oitenta e um reais e noventa e dois
+centavos).
+PARÁGRAFO PRIMEIRO: Os preços contratados são fixos e irreajustáveis pelo prazo do Contrato.
+PARÁGRAFO SEGUNDO: Fica expressamente estabelecido que os preços propostos pela CONTRATADA incluem
+todos os custos diretos e indiretos, requeridos para execução dos serviços previstos na Cláusula Primeira deste
+instrumento.
+PARÁGRAFO TERCEIRO: As despesas decorrentes deste contrato terão a seguinte classificação orçamentária:
+ 
+- Unidade Orçamentária ...
+- Grupo de Despesa
+- Rubrica:..
+.. 134.200 — GEROC
+300.00 — Serviços de Terceiros
+307.306 — Serviços de Leitura e Entrega de Contas
+CLÁUSULA QUARTA — DO PRAZO: O prazo de execução do Contrato será de 180 (cento e oitenta) dias contados a
+partir da assinatura da Ordem de Serviço emitida pela CASAL. /x
+CLÁUSULA QUINTA — CARACTERÍSTICAS DOS SERVICOS: A execução dos serviços obedecerá às especXí ições:
+Contrato nº 73/2016 ã L á
+e AÓÁRIS reira
+Ad“'º CABIAL 2051
+MAt.: 1749/GASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO PRIMEIRO: Os serviços técnicos especializados deverão ser desenvolvidos através de um sistema de
+gerenciamento e apoio técnico e operacional sobre todas as atividades, e deverão conter as interfaces e todos os
+subsistemas de comunicação com o sistema comercial da CONTRATANTE.
+PARÁGRAFO SEGUNDO: A interface para troca de informações deverá ocorrer, obrigatoriamente, por via digital e
+ser desenvolvida em plataforma de banco de dados relacional, possuindo compatibilidade técnica com os
+softwares de apoio utilizados nos serviços.
+PARÁGRAFO TERCEIRO: Para permitir a análise e o tratamento a nível gerencial, as informações deverão ser
+agrupadas em telas e relatórios.
+PARÁGRAFO QUARTO: A coleta de dados ocorrerá por meio de equipamento microcoletor, dotado de software
+capacitado a realizar críticas de consistência ou de anormalidades de leituras e registro das leituras e de todas as
+ocorrências da não leitura, a emissão e disponibilidade da conta e de todos os dados complementares necessários
+à análise e monitoramento.
+PARÁGRAFO QUINTO: A CONTRATANTE disponibilizará com antecedência de 24 (vinte e quatro) horas, o arquivo
+contendo os dados de leitura para o carregamento dos microcoletores, conforme programação de faturamento
+previamente definida.
+PARÁGRAFO SEXTO: A CONTRATADA deverá retornar o arquivo acima referido com o mesmo número de registros
+que recebeu à medida que a coleta dos grupos de faturamento seja realizada, ou seja, 24 horas depois de execução
+das coletas, guardando uma cópia por um prazo mínimo de 60 dias.
+PARÁGRAFO SÉTIMO: As leituras deverão ser extraídas diretamente dos medidores de água instalados nos imóveis
+cadastrados nos locais abrangidos por este Contrato, sendo que, no ato da leitura, deverão ser considerados os
+seguintes dados:
+2) Indicativo de Categoria, Número de economias e Número do imóvel, com apontamento no microcoletor;
+b) Indicativo de construções, independente se o lote na quadra, esteja ou não incluído no arquivo de leituras,
+com apontamento no microcoletor;
+c) Conferência do número do hidrômetro, caso esteja errado informar no microcoletor.
+PARÁGRAFO OITAVO: As informações a respeito dos itens mencionados acima deverão ser memorizadas nos
+equipamentos microcoletores, para posterior repasse a CONTRATANTE, obrigatoriamente por transferência digital,
+em até no máximo 48 horas, se off-line.
+PARÁGRAFO NONO: Na impossibilidade de obtenção das leituras, o leiturista deverá informar o código da
+ocorrência de leitura, conforme especificações constantes no quadro abaixo, o qual descreve os motivos que
+impediram sua execução, bem como, a prestar as informações complementares necessárias a cada tipo de
+ocorrência.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código | Descrição Cobrança
+3 Hidrômetro quebrado Média
+2 Hidrômetro embaçado Média
+3 Hidrômetro sem lacre Informativa
+4 Hidrômetro invertido Média
+5 Imóvel demolido Informativa
+6 Imóvel fechado Média
+7 Hidrômetro de difícil acesso Média
+8 Imóvel não localizado Média
+s Hidrômetro não localizado Média
+10 Tampa pesada Média
+11 Vazamento antes do hidrômetro Informativa
+12 Vazamento após hidrômetro Informativa
+13 Vazamento no hidrômetro Informativa
+14 By-pass Informativa
+15 Bomba ligada à rede Informativa
+16 Fornecimento indevido Informativa
+17 Virada de leitura Informativa
+ 
+ 
+   
+2 .
+Contrato nº 73/2016 ó
+ 
+ 
+f Pereira
+OABIAL 2051
+Miat.; 1748/CASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ 
+ 
+ 
+ 
+ 
+ 
+18 Hidrômetro substituído Informativa
+19 Imóve! abandonado Informativa
+20 Leitura fornecida pelo usuário Informativa
+21 Animal de guarda Média
+22 Leitura não permitida Média
+23 Fatura a média e acata a leitura Média
+ 
+ 
+ 
+ 
+ 
+PARÁGRAFO DÉCIMO: Serão considerados “erros de leitura” ou “erros nas informações sobre medidores” aqueles
+apurados pela área comercial de cada UN de Negócio, depois de confirmadas no campo pela fiscalização da
+Unidade.
+PARÁGRAFO DÉCIMO PRIMEIRO: A CONTRATANTE poderá apurar os erros de leitura ou de impressão a qualquer
+tempo após a entrega dos arquivos pela contratada, e incidirá sobre a contratada as sanções previstas neste
+termo.
+PARÁGRAFO DÉCIMO SEGUNDO: A impressão da fatura é imediata, executado por meio da impressora acoplada
+ao microcoletor. Após a execução da leitura dos imóveis, o cálculo do faturamento será processado, e a fatura será
+disponibilizada ao cliente apresentando as seguintes características:
+a) Código de barras no padrão FEBRABAN em consonância com as instruções da CONTRATANTE e rejeição
+não superior a 1% (um por cento) do total de emissões;
+b) Impressão de layout definido pela CONTRATANTE;
+c) Impressão em papel monolúcido ou similar de gramatura 75 a 80 Gr/m?;
+d) Manterlegível o conteúdo por um período de05 (cinco) anos.
+PARÁGRAFO DÉCIMO TERCEIRO: A utilização do espaço no verso da conta é de direito da CONTRATANTE, cabendo
+a contratada arcar com os custos de impressão, em até 02 (duas) cores, do layout definido pela CASAL.
+PARÁGRAFO DÉCIMO QUARTO: A CONTRATADA deverá efetuar gratuitamente a distribuição de material de
+interesse da contratante, tais como folders, panfletos, ou qualquer outra mala direta não endereçada desde que
+dentro da rota de serviços.
+CLÁUSULA SEXTA — DAS ESPECIFICAÇÕES E REQUISITOS DO MICROCOLETOR: Aspectos obrigatórios:
+a) Ter capacidade para comunicação de dados e voz, com acesso à internet e GPS integrado;
+b) Possuir câmera digital integrada com resolução mínima de 5.0 Megapixels;
+c) Dispor de unidade central de processamento com microprocessador de no mínimo 16 Bits e Clock de 20 Mhz;
+d) Dispor de memória RAM de 512 Kbytes, ou superior com capacidade de armazenar a leitura de, no mínimo, 300
+(trezentas) unidades consumidoras e também dos dados necessários às críticas, consistências e registro das
+ocorrências das não leituras, bem como, dos dados complementares necessários à análise das “não leituras”;
+e) Dispor de relógio em tempo real para horário das leituras com data;
+f) Ter autonomia de uso para, no mínimo, 8 horas de trabalho;
+&g) Dispor de visor que permita a visualização dos dados de forma clara;
+h) Permitir comunicação serial, por link ótico ou USB;
+i) Dispor de teclado alfanumérico e de funções com teclas de avanço e retrocesso, com número máximo de duas
+funções por tecla;
+j) Dispor de sinalizador para indicação de erro por ele coletado;
+k) Dispor de indicador do nível da bateria, com aviso luminoso e/ou sonoro que sinalize possível queda da mesma;
+1) Dispor de função liga/desliga por teclado e com temporizador, ou seja, desligamento automático do display
+após ser excedido um determinado tempo sem que alguma tecla tenha sido apertada;
+m) Dispor de tecla de ativação/desativação com proteção, mantendo a posição de execução do último registro a
+fim de não perder a referência da unidade consumidora, caso desligue por descuido;
+n) Ter proteção contra penetração de poeira e água segundo a classificação IP54 da NBR-6146;
+0) Permitir a proteção dos dados na substituição ou carregamento das pilhas/baterias;
+p) Permitir bloqueio à distância, recuperação de dados e/ou “reset”, para apagar dados;
+q) Ter capacidade para armazenar arquivos de fotografias;
+ 
+Contrato nº 73/2016ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CLÁUSULA SÉTIMA — DAS ESPECIFICAÇÕES E REQUISITOS DA IMPRESSORA: Aspectos Obrigatórios:
+a) Possuir adaptador para bobina de papel termo sensível com gramatura de 82 gr/m?, com 235 mm de
+comprimento e 111 mm de largura, incluíndo canhoto com 45 mm de comprimento, acoplado ao corpo na
+fatura por micro serrilha;
+b) Deverá permitir impressão por transferência térmica, capacítada a imprimir o código de barras no padrão
+FEBRABAN;
+€) Executar impressão vertical/horizontal com densidade de O8 pontos/mm;
+d) Possuir detector de papel que permita a sincronização automática das faturas;
+e) Os microcoletores com impressora a serem empregados nos serviços e os sistemas desenvolvidos, deverão
+antes de sua utilização, serem aprovados e homologados pela área de Tecnologia da Informação da
+CONTRATANTE, devendo a CONTRATADA disponibilizar os manuais de operação, catálogos técnicos, bem
+como qualquer documentação complementar disponível para cada modelo de microcoletor e impressora.
+Quando houver necessidade, no caso de haver alteração e/ou atualização do programa ou do arquivo de
+dados que serão processados, no prazo a ser definido pelo gestor do contrato, a contratada deverá
+providenciar o ajuste na capacidade de memória dos equipamentos.
+f) O aproveitamento dos campos em aberto no lay-out da fatura é de exclusividade da CONTRATANTE.
+CLÁUSULA OITAVA — DA INFRAESTRUTURA PARA GESTÃO DOS SERVIÇOS: A CONTRATADA disporá de um período
+de 30 (trinta) dias, após assinatura deste Contrato, para instalação da Base Operacional e Escritórios conforme
+descrito abaixo:
+a) Base Operacional em Maceió, com suporte necessário de pessoal e equipamentos, além de veículos,
+incluindo motos.
+b) Escritórios Operacionais nas sedes das Unidades de Negócio, Rio Largo, Arapiraca, Palmeira dos Índios,
+Delmiro Gouveia e Santana do Ipanema, com suporte necessário de pessoal e equipamentos, além de
+veículos, incluindo motos.
+c) 1(um) Coordenador do Contrato em Maceió;
+d) 1(um) Supervisor para Maceió;
+e) 5(cinco) Supervisores, sendo 1 (um) para cada sede de Unidade de Negócio do interior;
+f) 2(dois)Programadores de serviço em Maceió;
+g) 2ídois)Revisores/Inspetores de qualidade em Maceió;
+PARÁGRAFO PRIMEIRO: Dentro de sua Base Operacional em Maceió, a Contratada deverá instalar o Centro de
+Informática, composto de pessoal, equipamentos, material de expediente e suprimentos de informática, para dar
+suporte às atividades necessárias a perfeita operacionalização das rotinas que compõem o sistema informatizado
+de apoio, incluindo linha privativa dedicada — LPCD, com velocidade mínima de 512kbps e “backup dial” para
+transferência de dados entre os escritórios regionais e o CPD da CASAL.
+PARÁGRAFO SEGUNDO: A Coordenação Geral dos serviços será feita sob o comando de um profissional de nível
+superior, baseado em Maceió. Deverá contar ainda, obrigatoriamente, com uma estrutura para fiscalização própria
+dos serviços que estão sendo executados por seus funcionários no campo, sob a responsabilidade dos
+Supervisores, em Maceió e nas Sedes das Unidades de Negócio.
+PARÁGRAFO TERCEIRO: A CONTRATADA deverá apresentar um “Plano de Contingência” que vise dar continuidade
+aos serviços contratados quando houver necessidade.
+CLÁUSULA NONA — DO FORNECIMENTO DE MATERIAIS, VEÍCULOS E EQUIPAMENTOS: O fornecimento é de
+responsabilidade da CONTRATADA, que deve adquirir e cuidar da manutenção dos mesmos. Entende-se por
+material, o conjunto de insumos imprescindíveis para a correta prestação de serviço, tais como, lápis, caneta, papel
+ofício, papel termo sensível, clips, grampos, perfuradores, grampeadores e outros materiais de expediente.
+PARÁGRAFO PRIMEIRO: Entende-se por veículos, os carros de passeio, de 1000 Cilindradas, com quatro portas, na
+cor branca ou cinza, na quantidade mínima de 12 unidades, e as motocicletas de 125 cilindradas com partida
+elétrica, na cor branca ou cinza, na quantidade mínima de O6 unidades, pilotados, em ambos os casos, por
+funcionário da CONTRATADA.
+PARÁGRAFO SEGUNDO: A frota deverá ter idade máxima de 02 (dois) anos, devendo os veíçulos estarem sempre
+em perfeitas condições de uso, e ter fixado os dizeres “A SERVIÇO DA CASAL”, além do nomªê CONTRATADA.
+é
+    
+Contrató nº 73/2016ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO TERCEIRO: Será assegurado em qualquer veículo, vinculado à execução do serviço, lugar para um
+funcionário da fiscalização da CONTRATANTE, quando houver necessidade.
+PARÁGRAFO QUARTO: A compra de combustível e de lubrificantes correrá por conta da contratada.
+PARÁGRAFO QUINTO: Entende-se por Equipamentos, os computadores, as impressoras, os modens para acesso a
+internet e demais equipamentos de rede, os microcoletores, e as mini impressoras para impressão das faturas
+CLÁUSULA DÉCIMA — DA SELEÇÃO, CONTRATAÇÃO E TREINAMENTO DE EMPREGADOS: Considerando que os
+funcionários da CONTRATADA serão prepostos diretos da CONTRATANTE perante seus clientes, os mesmos
+deverão agir com educação, zelo e profissionalismo. Para tanto a CONTRATADA deverá realizar criterioso processo
+de seleção e treinamento, de modo a assegurar todas as condições à prestação de serviços com qualidade. À
+seleção da mão de obra alocada neste Contrato, independente das atividades que serão desempenhadas, deverá
+obedecer ao seguinte critério:
+a) Qualificação mínima exigida:
+1) Segundo grau completo
+2) Possuir noções básicas de informática
+3) Possuir bom condicionamento físico
+b) Perfil requerido:
+1) Ser dinâmico
+2) Ter iniciativa
+3) Ter boa expressão verbal
+4) Possuir habilidade no relacionamento interpessoal
+5) Comprometimento com a qualidade dos serviços prestados
+PARÁGRAFO PRIMEIRO: Antes da contratação definitiva do pessoal a ser alocado nos serviços, a CONTRATADA
+deverá submeter à relação dos empregados selecionados para ciência da CONTRATANTE.
+PARÁGRAFO SEGUNDO: Pessoas demitidas por justa causa ou em litígio com a CONTRATANTE não poderão
+compor o quadro da CONTRATADA.
+PARÁGRAFO TERCEIRO: Não serão admitidos na execução dos serviços pessoas sem vínculo empregatício com a
+CONTRATADA.
+PARÁGRAFO QUARTO: A CONTRATANTE se reserva ao direito de solicitar a substituição de empregado da
+CONTRATADA que cometer falta grave ou que não se enquadrar, convenientemente, no trato com o
+público/clientes, e deverá ser prontamente atendido pela CONTRATADA.
+PARÁGRAFO QUINTO: A CONTRATANTE poderá solicita a qualguer tempo a relação de empregados da
+CONTRATADA e verificar o devido cumprimento da legislação quanto às questões trabalhistas e dos encargos
+sociais.
+PARÁGRAFO SEXTO: À CONTRATADA fica obrigada a apresentar documentação dos programas sobre saúde e
+segurança do trabalho.
+PARÁGRAFO SÉTIMO: A CONTRATADA obriga-se a estabelecer um programa de treinamento, compreendendo
+aulas teóricas com lições sobre rota, quadra, lote e logradouro, bem como, aulas práticas, com simulações de
+ações no campo. Esse treinamento deverá ser submetido previamente à aprovação da CONTRATANTE.
+ 
+CLÁUSULA DÉCIMA PRIMEIRA — DOS UNIFORMES: A CONTRATADA deverá fornecer, de imediato, após a
+assinatura deste Contrato e sob suas expensas, para os empregados que executam serviço externo e de contato
+direto com os clientes, dois jogos de uniformes completos por semestre para cada funcionário, entregando ao
+Gestor/Fiscal o comprovante de recibo.
+PARÁGRAFO PRIMEIRO: O fardamento:
+a) Camisa ou blusa padronizada, de mangas compridas, contendo logotipo e identificação da Contratada e da
+CONTRATANTE com a inscrição “A serviço da CASAL”, no bolso;
+b) Calça ou saia padronizada contendo logotipo e identificação da CONTRATADA e da CONTRATANTE com a
+inscrição “A serviço da CASAL”, em um dos bolsos;
+c) Capa de chuva dos empregados externos, contendo logotipo e identificação da CONTRATADA e da
+CPNTRATANTE com inscrição “A serviço da CASAL”, nas costas e na frente à esquerda dg't“lôrax;
+PARÁGRAFO SEGUNDO: O fardamento deve ser custeado pela CONTRATADA e apresêntado 30 dias após a
+assinatura do Contrato. A CONTRATADA deve entregar duas fardas comp) ê
+  
+&
+Contrato nº 73/2016ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO TERCEIRO: O Crachá de identificação:
+a) Constando o nome da CONTRATADA;
+b) Constando o nome do empregado;
+c) Constando o nº do RG ou da CTPS
+d) Constando a inscrição “A serviço da CASAL”;
+e) Constando foto 3x4 recente, com no máximo 06 (seis) meses.
+f) Constando a validade, de no máximo, 06 (seis) meses, tendo assim, que ser renovado por igual — período.
+f) Constando a matrícula do empregado;
+£g) Constando o grupo sanguíneo do empregado;
+h) Constando Fator RH do emprego.
+PARÁGRAFO QUARTO: Os EPI's:
+a) Calçado do tipo tênis de segurança, que obedeça às normas NBR 12594 e/ou DIN 4843, ou outra que
+assegure igual ou superior qualidade;
+b) Boné com aba frontal para proteção dos olhos contra o sol e proteção lateral para as orelhas, contendo
+logotipo e identificação da CONTRATADA e da CONTRATANTE com inscrição “A serviço da CASAL”;
+€) Protetor solar com FPS máximo.
+PARÁGRAFO QUINTO: A CIPA:
+a) 01 (um) representante da CIPA, empregado da empresa, terá que participar, obrigatoriamente, das reuniões
+da CIPA da CASAL na capital, conforme preconiza a NR-5 da Portaria 3.214 de 08/07/1978.
+CLÁUSULA DÉCIMA SEGUNDA — DO PAGAMENTO: O valor da Nota Fiscal Fatura deverá corresponder aos serviços
+executados durante o mês, conforme o quantitativo apurado pelo Gestor do Contrato e Cronograma Físico e
+Financeiro, Anexo |l! deste Contrato.
+PARÁGRAFO PRIMEIRO: O pagamento será procedido após apresentação da Nota Fiscal Fatura protocolada e
+devidamente conferida e atestada pelo gestor do Contrato, contando-se o prazo de 30 (trinta) dias a partir do seu
+lançamento no sistema de controle de pagamento da CONTRATANTE.
+PARÁGRAFO SEGUNDO: A CONTRATADA quando do faturamento deverá apresentar, ao gestor do Contrato, os
+seguintes documentos, com data de validade atualizada:
+e Certidão Negativa de Débito do INSS;
+e Certidão Negativa de Débito do FGTS;
+. Certidão Negativa atualizada de Débito junto as Fazendas Federal, Estadual e Municipal.
+e Certidão Negativa de Débitos Trabalhistas - CNDT
+PARÁGRAFO TERCEIRO: A não apresentação dos documentos acima elencados no prazo de 30 (trinta) dias, não
+causará a retenção de pagamento, contudo, ensejará a rescisão deste Contrato.
+PARÁGRAFO QUARTO: Nenhum pagamento será feito sem que a CONTRATADA tenha recolhido o valor da multa
+eventualmente aplicada.
+PARÁGRAFO QUINTO: A emissão antecipada do documento fiscal não implicará adiantamento para pagamento da
+obrigação. Havendo erro na Nota Fiscal a mesma será devolvida à CONTRATADA.
+PARÁGRAFO SEXTO: Qualquer irregularidade que impeça a liquidação da despesa será comunicada à contratada,
+ficando o pagamento pendente até que se providenciem as medidas saneadoras, não acarretando ônus para a
+CONTRATANTE.
+PARAGRAFO SÉTIMO: Os pagamentos serão efetuados através de depósito bancário em conta corrente da
+CONTRATADA: Banco: Banco Bradesco 0237, Agência: 3411, C/C5518-2.
+PARÁGRAFO OITAVO: No caso de pagamento não efetuado no prazo estabelecido no Parágrafo Primeiro o valor
+em atraso será corrigido pelo Índice Nacional de Preços ao Consumidor Amplo — IPCA, desde o inadimplemento até
+a data do efetivo pagamento.
+ 
+CLÁUSULA DÉCIMA TERCEIRA — DAS SANÇÕES: A CONTRATANTE aplicará, a qualguer tempo, as sanções
+relacionadas abaixo:
+PARÁGRAFO PRIMEIRO: Pelo atraso diário na execução dos serviços nos prazos previ: na programação de
+faturamento definida pela CONTRATANTE, a CONTRATADA deverá ser multáada em 1% XY:)l'e o montante de
+serviços realizados em atraso. L j
+  
+   
+ 
+n Pereira
+Contrato nº 73/2016 Sson PrereiraESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO SEGUNDO: Por serviço não realizado, muita de 0,5% ao dia, incidentes sobre o valor do contrato, até
+o trigésimo dia de atraso.
+PARÁGRAFO TERCEIRO: Serão descontadas 15 (quinze) coletas realizadas para cada leitura errada, e, caso o índice
+de erro supere 1,5%, a rota não será paga. Entende-se por leitura errada, aquela que é confirmada como tal pela
+área comercial de cada Unidade de Negócio, conforme preconiza o Parágrafo Sexto da Cláusula Quinta.
+PARÁGRAFO QUARTO: Serão descontadas 15 (quinze) coletas realizadas para cada conta não entregue ou
+entregue em local errado, exceto nos casos em que se comprove que há erro no cadastro do imóvel, situação que
+será validada em cada Unidade de Negócio.
+PARÁGRAFO QUINTO: Serão descontadas 15 (quinze) coletas realizadas para cada conta entregue com baixa
+qualidade que impossibilite o pagamento, havendo comprovação de reclamação nos postos de atendimento ao
+cliente de cada Unidade de Negócio.
+PARÁGRAFO SEXTO: Em caso de reincidência das ocorrências dos parágrafo terceiro e parágrafo quinto, serão
+descontadas 30 (trinta coletas).
+CLÁUSULA DÉCIMA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA: A CONTRATADA se obriga a fornecer durante
+toda a execução do Contrato, em compatibilidade com as obrigações assumidas, as condições que culminaram em
+sua habilitação e qualificação técnica.
+PARÁGRAFO PRIMEIRO: A CONTRATADA deve fornecer mensalmente a CONTRATANTE os quantitativos
+executados dos serviços por cada ciclo de leitura.
+PARÁGRAFO SEGUNDO: Esclarecer toda e qualquer dúvida com referencia à execução dos serviços realizados de
+imediato, se possível verbalmente e no prazo máximo de 03 (três) dias úteis, oficializado por escrito.
+PARÁGRAFO TERCEIRO: Comunicar a CONTRATADA com antecedência de 24 horas para os devidos ajustes,
+qualquer alteração efetuada nas normas de procedimentos para execução dos serviços, que visem atender
+exclusivamente ao interesse público, desde que esta não implique aumento de custo para a CONTRATADA.
+PARÁGRAFO QUARTO: Intervir juntos aos Órgãos, a fim de agilizar a execução dos serviços caso estes sejam
+necessários.
+PARÁGRAFO QUINTO: Apresentar ao gestor do Contrato, mensalmente, relatório informado as atividades
+desenvolvidas de implantação, manutenção corretiva, preventiva e evolutiva, para fins de controle, gerenciamento
+e criação de histórico de atividades realizadas.
+PARÁGRAFO SEXTO: A CONTRATADA tem um prazo de 12 horas para informar qualquer problema eventual que
+possa ser impeditivo para execução da leitura.
+PARÁGRAFO SÉTIMO: A CONTRATADA deverá providenciar treinamento para até 06 (seis) empregados da
+CONTRATANTE referente ao hardware, software e programação do microcoletor e impressora. O prazo para o
+oferecimento do treinamento será de 30 (trinta) dias a contar da assinatura deste Contrato.
+PARÁGRAFO OITAVO: A CONTRATADA deverá providenciar em até 10 (dez) dias, após a assinatura da ordem de
+serviço, o comprovante de recebimento dos EPI'S, que deverá ser entregue ao Gestor/Fiscal, devidamente
+assinados pelos empregados quando do seu recebimento.
+CLÁUSULA DÉCIMA QUINTA — DAS OBRIGAÇÕES DA CONTRATANTE: A CONTRATANTE obriga-se a fornecer a
+CONTRATADA os procedimentos, normas, padrões e especificações necessárias à correta execução dos serviços.
+PARÁGRAFO PRIMEIRO: Fornecer a CONTRATADA a quantidade prevista de serviços para cada ciclo de leitura.
+PARÁGRAFO SEGUNDO: A CONTRATANTE se obriga a repassar mensalmente o período do faturamento (início e
+fim) e a quantidade de dias de leitura por cidade. Cabendo apenas a CONTRATADA fazer a programação de leitura
+das cidades conforme detalhamento da CLÁÚSULA QUINTA.
+PARÁGRAFO TERCEIRO: Esclarecer toda e qualquer dúvida com referência a execução dos serviços, de imediato, se
+possível, quando solicitado verbalmente, ou no prazo máximo de 03 (três) dias úteis, quando oficializado por
+escrito.
+PARÁGRAFO QUARTO: Comunicar a CONTRATADA, com antecedência de 02 (dois) dias úteis, para os devidos
+ajustes, qualquer alteração efetuada nas normas de procedimento para execução dos serviços.
+PARÁGRAFO QUINTO: A CONTRATANTE disponibilizará 06 (seis) empregados para as(áreas de Tecnologia da
+informação, Faturamento e Cadastro para o treinamento referente ao hardware, sof e programação do
+microcoletor e impressora. O prazo para o oferecimento de treinamentó será de 30 (trihta) dias a contar da
+assinatura da ordem de serviçoÁ ,
+ 
+Contrato nº 73/2016ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+PARÁGRAFO SEXTO: Receber em até 10 (dez) dias, contados da assinatura da ordem de serviço, o comprovante de
+recebimento dos EPI'S, a ser entregue ao Gestor/Fiscal, devidamente assinados pelos empregados.
+PARÁGRAFO SÉTIMO: Solicitar a aplicação de multa contratual e sanções de serviços.
+CLÁUSULA DÉCIMA SEXTA — DA GESTÃO: Por força deste instrumento, fica determinado que o empregado
+SAMUEL LEITE DE OLIVEIRA, matrícula nº 429, inscrito no CPF/MF sob o nº 042,169.114-04, fará a gestão do
+presente Contrato, zelando pelo seu cumprimento, comunicando com antecedência a Vice-Presidência de Gestão
+Operacional a necessidade ou não da prorrogação de prazo para execução.
+PARÁGRAFO PRIMEIRO: Fica estabelecido que na ausência do empregado acima nominado, por qualquer motivo,
+a gestão do presente contrato será feita pelo seu substituto.
+PARÁGRAFO SEGUNDO: Ao Gestor do contrato caberá acompanhar e fiscalizar a fiel observância das disposições
+deste contrato.
+PARÁGRAFO TERCEIRO: Cobrar o envio semestral do comprovante de recebimento dos EPI'S, que deverá ser
+entregue ao Gestor/ Fiscal, devidamente assinado.
+PARÁGRAFO QUARTO: Analisar os relatórios mensalmente, informando as atividades desenvolvidas de
+implantação, manutenção corretiva, preventiva e evolutiva, pra fins de controle, gerenciamento e criação de
+histórico de atividades realizadas.
+PARÁGRAFO QUINTO: Promover reuniões periódicas com a CONTRATADA para avaliação dos serviços prestados e
+recomendar alternativas de soluções para eventuais problemas.
+PARÁGRAFO SEXTO: Na hipótese de serem constatadas deficiências na execução dos serviços, o gestor do contrato
+fará um relatório comunicando as falhas ocorridas, com cópia para a CONTRADA , visando à imediata correção das
+irregularidades apontadas ,sem prejuízo de aplicação das penalidades previstas no contrato.
+CLÁUSULA DÉCIMA SÉTIMA — DA FISCALIZAÇÃO: A fiscalização sobre os serviços será feita por intermédio de
+técnicos-Fiscal dos serviços designado por cada uma das unidades de negócios e nomeado pela SUCOP através de
+Ordem de Serviço.
+PARÁGRAFO PRIMEIRO: Ao fiscal dos serviços caberá a emissão de um relatório mensal que deve ser enviado até
+10 (dez) dias após o término do faturamento da unidade de negócios apontando as falhas na execução do serviço
+sendo encaminhado ao Gestor do Contrato para os devidos procedimentos.
+PARÁGRAFO SEGUNDO: Inspecionar as condições técnicas e operacionais da CONTRATADA através de
+acompanhamento sistemático e relatórios gerenciais.
+PARÁGRAFO TERCEIRO: Participar de reuniões quando for solicitado pelo gestor do Contrato.
+PARÁGRAFO QUARTO: Outros procedimentos poderão ser adotados mediante justificativa e concordância do
+Gestor do Contrato.
+CLÁUSULA DÉCIMA OITAVA — DA RESCISÃO: O presente Contrato poderá ser rescindido, independentemente de
+notificação judicial ou extrajudicial, a critério da Diretoria da CASAL, sem que a CONTRATADA, tenha direito a
+qualquer indenização, salvo o pagamento dos serviços que estiverem regulares e efetivamente executados,
+ocorrendo quaisquer das seguintes hipóteses:
+a) Infringência de qualquer Cláusula deste Contrato;
+b) Emcaso de falência ou concordata da CONTRATADA;
+c) SeesteContrato for cedido ou transferido no todo ou em parte, sem previa autorização escrita da CASAL.
+PARÁGRAFO ÚNICO: O presente Contrato poderá ser rescindido também por acordo mútuo ou conveniência da
+CASAL.
+CLÁUSULA DÉCIMA NONA — DOS CASOS OMISSOS: Os casos omissos ou situações não explicitadas serão decididas
+pelas partes, segundo as disposições contidas na Lei 8.666/93, e suas alterações e demais regulamentos e normas
+administrativas federais e estaduais que fazem parte integrante deste Contrato, independentemente de sua
+transcrição.
+z á O
+CLÁUSULA VIGÉSIMA — DO FORO: As partes elegem o Foro da Comarca de Maceió/AL, que prevalecerá sobre
+qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas oriundas do pres:
+por estarem assim justos e contratados, firmam o presente contrato en 02 (duas) vias de igual
+_? 8
+Contrato nº 73/2016
+-/Xati.: 1749/CASAL&
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+presença das testemunhas, que subscrevem depois de lido e achado conforme para a produção dos seus jurídicos e
+legais efeitos.
+Maceió, OS &e â&(àlcó 2. 2289O
+%ILDE CLECI%O DE ALENCAR CAVALCANTI
+Diretor P E sidente CASAL
+TESTEMUNHAS:
+pesa Fbóm
+ 
+ 
+Contrato nº 73/2016. ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrato nº 73/2016
+ANEXO |
+CONTRATO Nº 73/2016
+ABRANGÊNCIA
+UNIDADE DE
+Nº CIDADE Nº LiG. NEGOCIO SEDE DA UNIDADE
+1 | ÁGUA BRANCA 3.830
+2 | CANAPÍ 2117
+3 | DELMIRO GOUVEIA 16.326
+2. | PARICONHA =S DELMIRO GOUVEIA
+5 [INHAPÍ 2.397
+6 [MATA GRANDE 2.801
+7 |O. DÁGUA CASADO 1.643
+8 | PIRANHAS 5.745
+9 |[BATALHA 3.846
+10 | BELO MONTE 722
+11 | CACIMBINHAS 786
+12 | CARNEIROS 1.867
+13 | DOIS RIACHOS 1.371
+14 |1. DOS HOMENS 1.534
+15 | JARAMATAIA 838
+16 | SEN. R. PALMEIRA 1.087
+17 | MAJOR IZIDORO 2757
+18 | MARAVILHA 1.861
+19 | MONTEIRÓPOLIS 1.489 SANTANA DO IPANEMA
+20 | O. DÁGUA FLORES 6.636
+21 | OLUVENÇA 2.001
+22 | OURO BRANCO 1717
+23 | PALESTINA 1.294
+24 | P. DE AÇUCAR 111
+25 | P. TRINCHEIRAS 1141
+26 | s. DO IPANEMA 12.129
+27 | SÃO JOSÉ TAPERA 4.859
+28 | BARRA S. MIGUEL 3.927
+29 | C. DE LEOPOLDINA 3.824
+30 | COQUEIRO SECO 1.318
+31 | FLEXEIRAS 2.062
+32 | IBATEGUARA 2.161
+33 | JACUÍPE 12335
+34 | JAPARATINGA 1.160
+35 | !OAQUIM GOMES 3.873 H LARGO
+36 | JUNDIÁ 915
+37 | MARAGOG! 5.070
+38 | M. CAMARAGIBE 2.794
+39 | MESSIAS 3.436
+40 | MURICI 3.915
+41 | NOVO LINO 1,819
+42 | PARIPUEIRA 3173
+43 | P. CAMARAGIBE 1.614 S %
+10 (
+   
+OABIAL 2051
+: 1749/CASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 [PILAR 5.785
+45 | PORTO DE PEDRAS 1.096
+46 | RIO LARGO 17.061
+47 | SANTA L. NORTE 1.676
+48 | SATUBA 2.407
+49 | ANADIA 2.783
+50 | CAPELA 3.278
+51 | ESTRELA ALAGOAS 789
+52 | MARIBONDO 2.908
+53 | MAR VERMELHO 649 ,
+Sa | M. DO NEGRÃO q PALMEIRA DOS ÍNDIOS
+55 | P. DOS ÍNDIOS 21.665
+56 | PAULO JACINTO 2472
+57 | PINDOBA 486
+58 | QUEBRANGULO 2.922
+59 | CAMPO ALEGRE 1.667
+60 | IGREJA NOVA 2.188
+61 | JUNQUEIRO 2.512
+62 | PIAÇABUÇU 3.343 ARAPIRACA
+63 | SÃO SEBASTIÃO 2.881
+64 | TAQUARANA 2.740
+65 | TRAIPÚ 2.723
+66 | MACEIÓ - BENEDITO BENTES — | 56.058
+67 | MACEIÓ - FAROL 58.604 MACEIÓ
+68 | MACEIÓ - JARAGUÁ 77.606
+TOTAL DO ESTADO 404.497
+ 
+ 
+ 
+ 
+ 
+é Ç
+Ê
+        
+49/CASAL
+Contrato nº 73/2016ESTADO DE ALAGOAS
+ 
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ANEXO |l
+CONTRATO Nº 73/2016
+PLANILHA DE CUSTOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITEM SERVIÇOS UND QUANT VLNIT | VALOR LOBAL
+1 LEITURA INFORMATIZADA DE HIDRÔMETRO COM FATURAMENTO IMEDIATO und 1.518.461C] 119 1.806.968,59
+2 LEITURA INFORMATIZADA DE HIDRÔMETRO SEM FATURAMENTO IMEDIATO und 372.043 0,99 368.322,57
+ã EMISSÃO DE CONTA SEM LEITURA und 217.923 0,99 215,743,77
+3 a EMISSÃO DE AVISO DE DEBITO und 485.432 0,94 456.306,08
+E EMISSÃO DE CONTA PARA ENDEREÇO ALTERNATIVO und 17.806 1,20 21.367,20
+6 INDICATIVO DE ALTERAÇÃO CADASTRAL und 524.886 061 320.180,46
+7 INDICATIVO PARA FISCALIZAÇÃO DE CONSUMO und 482.275 0,63 303.833,25
+8 FISCALIZAÇÃO DE LIGAÇÕES und 4.000 18,14 72.560,00
+b'OTAL 3.565.281,92
+/
+Contrato nº 73/2016
+12
+  
+A I74SiCASALESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ANEXO lll
+CONTRATO Nº 73/2016
+CRONOGRAMA FÍSICO-FINANCEIRO
+ 
+1º MÊS
+2º MÊS
+BE mÊS
+42 MÊS
+5º MÊS
+6º MÊS
+ 
+R$ 594.213,65
+ 
+R$ 594.213,65
+ 
+R$ 594.213,65
+ 
+R$ 594.213,65
+ 
+R$ 594.213,65
+ 
+R$ 594,213,65
+ 
+Total R$ 3.565.281,92
+ 
+Contrato nº 73/2016
+&
+13
