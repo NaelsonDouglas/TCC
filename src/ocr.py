@@ -50,11 +50,24 @@ def pdftotxt(pdfpath):
         imgstotxt(imgs_output)
 
 
-f= "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos/"
+
 def wipe_pdfs_dir(dirpath):
         os.chdir(dirpath)
-        for root, dirs, files in os.walk(dirpath):
+        for root, dirs, files in os.walk(dirpath):                
                 for filename in files:
-                       pdftotxt(filename)
+                        if filename.endswith('pdf'):
+                                pdftotxt(filename)
 
-wipe_pdfs_dir(f)
+
+
+a = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
+b = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
+c = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
+d = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
+e = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"
+
+wipe_pdfs_dir(a)
+wipe_pdfs_dir(b)
+wipe_pdfs_dir(c)
+wipe_pdfs_dir(d)
+wipe_pdfs_dir(e)

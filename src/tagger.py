@@ -1,6 +1,7 @@
 import os
 from evaluateText import get_fileEntities
 import json
+from pathlib import Path
 
 source_dir = "/home/ndc/repos/TCC/src/"
 os.chdir(source_dir)
@@ -21,10 +22,11 @@ def list_texts(d=contracts_dir):
     return r
 
 
-def get_entities(text_path):
+def store_entities(text_path):
+    file_basename = Path(text_path).stem
     directory = os.path.dirname(text_path)    
     entities = get_fileEntities(text_path)
-    f = open(directory+"/entities.json","w")
+    f = open(directory+"/"+file_basename+".json","w")
     ents = json.dumps(entities)
     f.write(ents)
     f.close()
@@ -34,7 +36,7 @@ def get_entities(text_path):
 texts = list_texts()
 
 for t in range(0,len(texts)):
-    get_entities(texts[t])
+    store_entities(texts[t])
     print(t,"/",len(texts))
     print(texts[t])
     print("\n")
