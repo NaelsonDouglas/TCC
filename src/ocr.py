@@ -1,9 +1,8 @@
+from PIL import Image
+from pathlib import Path
 import os
 import subprocess
-from pathlib import Path
 import shutil
-import Image
-from PIL import Image
 import pytesseract
 
 
@@ -17,34 +16,45 @@ def pdftopng(pdfpath):
                 shutil.rmtree(file_basename)
         os.mkdir(file_basename)
         dest_path = os.path.dirname(filepath)+'/'+file_basename
-        imgs_out_path = dest_path+'/'+file_basename+'/'+file_basename+'-pg'
+        imgs_out_path = dest_path+'/'+file_basename+'-pg'
         fmt = '-png'        
         
         subprocess.call(['pdftoppm', filepath,imgs_out_path,fmt])
-        shutil.copy(pdfpath,dest_path)   
-        return dest_path        
+        shutil.move(pdfpath,dest_path)   
+        return dest_path,file_basename    
         
-pdftopng(f)
 
-def imgstotxt(imgsdir='/home/ndc/repos/TCC/src/contracts/testes/arquivo A/'):                   
-        for subdir, dirs, files in sorted(os.walk(imgsdir)):
-                text = ''
-                imgs_path = ''               
+def imgstotxt(imgsdir=['/home/ndc/repos/TCC/src/contracts/testes/arquivo A/','arquivo A']):                   
+        for subdir, dirs, files in sorted(os.walk(imgsdir[0])):
+                text = ''                       
                 for file in sorted(files):
                         if file.endswith('png'):
-                                print(os.path.join(subdir, file))
-                                page_content = pytesseract.image_to_string(Image.open(os.path.join(subdir, file)),lang='por')
+                                file_fullpath = os.path.join(subdir, file)
+                                print(file_fullpath)
+                                page_content = pytesseract.image_to_string(Image.open(file_fullpath),lang='por')
                                 page_content = page_content.replace('\n\n','\n')                                
                                 text = text+page_content
-                filepath = os.path.join(subdir, 'text.txt')
+                filepath = os.path.join(subdir, imgsdir[1]+'.txt')
                 f = open(filepath,"w")
                 f.write(text)
                 f.close()
-                #os.system('rm pg*.png')
+                #query_matchimgs = imgsdir[0]+'*.png'
+                #subprocess.call(['rm', query_matchimgs])
                 print('                 <->')
                 print(filepath)
                 print('------------------------')
-                
+                return filepath
+
+def pdftotxt(pdfpath):
+        imgs_output = pdftopng(pdfpath)        
+        imgstotxt(imgs_output)
 
 
-imgstotxt()
+f= "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos/"
+def wipe_pdfs_dir(dirpath):
+        os.chdir(dirpath)
+        for root, dirs, files in os.walk(dirpath):
+                for filename in files:
+                       pdftotxt(filename)
+
+wipe_pdfs_dir(f)
