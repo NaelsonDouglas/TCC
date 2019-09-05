@@ -1,0 +1,612 @@
+CARTA-CONTRATO DE SERVIÇOS Nº 138.2017
+ 
+© ALGÁS
+Gstcramgom SA
+GÁS DE ALAGOAS S/A - ALGÁS, sociedade de economia mista inscrita no CNPJ/MF
+CONTRATANTE: | sob o nº 69.983.484/0001-32, sediada na Rua Artur Vital da Silva, nº 04, Gruta de
+Lourdes, Maceió/AL, neste ato representado pelos seus diretores, que esta subscrevem
+ 
+CONTRATADO: | ELETROELETRÔNICA SERVICE LTDA -ME
+ 
+ 
+ 
+ENDEREÇO: AV. DONA CONSTANÇA DE GÉS MONTEIRO , Nº579, CASA 583 -CEP 570.363-70 -
+MACEIÓ-AL
+CPFICNPJ 35.553.35/0001-01 Fone:(82) 3231-4384
+ 
+ 
+Por meio deste instrumento contratual, as partes acima qualificadas celebram o presente contrato de
+prestação de serviços, o qual será regido pela Lei 13.303/2016 e pelas demais condições específicas
+contratuais abaixo dispostas, pelas condições gerais contratuais dispostas nas páginas seguintes e pelos
+demais documentos que expressamente lhe integrarem.
+ 
+ 
+Proc. Adm. nº 401.2017 Modalidade: DISPENSA DE LICITAÇÃO Nº da Modal:
+ 
+ 
+CONDIÇÕES CONTRATUAIS ESPECÍFICAS
+ 
+1. OBJETO DA CARTA-CONTRATO: Contratação de empresa especializada para execução de
+manutenção preventiva em 02 (dois) Nobreaks do Datacenter, modelo Hi20Plus do fabricante PHD
+ONLINE, conforme descrito no Termo de Referência Anexo (!).
+ 
+2. DOCUMENTOS INTEGRANTES DESTA CARTA-CONTRATO:
+ 
+ 
+ 
+ 
+| X| Termo e Referência- (Anexo |) X | Proposta Comercial- (Anexo |l) - | -X-X-X- (Anexo Ill)
+ 
+ 
+ 
+R$ 1.860,00 (Um mil oitocentos
+e sessenta reais).
+Em até 30 (trinta) dias após apresntação da Nota Fiscal
+de Serviços, através de boleto bancário.
+3. VALOR
+DO
+CONTRATO
+4. FORMA
+DE
+PAGAMENTO
+ 
+12 (Doze) meses apartir da
+emissão da autorização dos
+Sserviços.
+Os serviços devem ser concluido em um prazo máximo
+de 45 (quarenta e cinco) dias a partir da emissão da
+Autorização de Serviço.
+5. PRAZO
+DE
+VIGÊNCIA
+6. ETAPAS
+(Prazos de Início
+e Conclusão)
+ 
+Empreitada Por Preço Unitário Danilo Dantas Varela/ Manoel Ricardo Costa Pereira
+7. REGIME
+DOS
+SERVIÇOS
+8. GESTOR /
+FISCAL DO
+CONTRATO
+ 
+ 
+ 
+ 
+09. OBSERVAÇÕES: -Os serviços contratados devem possuir garantia contra vícios e defeitos com prazo de
+60 (sessenta) dias, contados a partir da conclusão dos mesmos.
+ 
+1de5
+CARTA-CONTRATO N. º 138.2017 À
+ 
+Mod. Rev-09QM—%& TA
+CONDIÇÕES GERAIS CONTRATUAIS
+ 
+ 
+ 
+1. REGÊNCIA CONTRATUAL
+1.1. O presente contrato será regido primeiramente pelas suas condições contratuais específicas,
+aplicando-se, quando não lhes forem contrarias, as disposições destas condições gerais contratuais, a
+proposta comercial, entre outros documentos que expressamente forem referidos neste contrato, e os
+preceitos de direito privado.
+2. PREÇO — O CONTRATADO declara que nos preços previstos neste contrato estão incluídas todas as
+despesas de administração e todos os encargos sociais e trabalhistas e, ainda, todos os custos com
+providências auxiliares e complementares necessárias à completa execução dos serviços contratados, tal
+como despesas de transporte, hospedagem etc.
+3. DA MEDIÇÃO E ACEITAÇÃO
+3.1. A cada etapa que for concluída, a ALGÁS promoverá a medição e verificação dos serviços executados
+e, se for o caso, a aceitação dos mesmos mediante lavratura de “Termo de Recebimento Provisório de
+Serviços” (TRPS) assinado pelas partes em até 15 (quinze) dias da comunicação do CONTRATADO,
+podendo ser dispensado no caso de serviços profissionais, caso em que o recebimento dos serviços será
+feito mediante simples recibo.
+3.2. A aceitação definitiva dos serviços dar-se-á após sua conclusão total e após a assinatura, pelas partes
+contratantes, do “Termo de Recebimento Definitivo de Serviços “(TRDS) que se dará em prazo não
+superior a 90 (noventa) dias, contados a partir da realização da medição final correspondente, salvo em
+casos excepcionais devidamente justificados.
+3.3. A ALGÁS não aceitará os serviços ou suas etapas que se mostrarem incompletos, em desacordo com
+as normas técnicas aplicáveis, fora das especificações contratuais, viciados sob qualquer forma, os quais
+serão considerados como não entregues, sujeitando-se o Contratado às penalidades contratuais e legais
+previstas por atraso.
+3.4. A fiscalização exercida pela ALGÁS, bem como o recebimento provisório ou definitivo dos serviços
+não exclui a responsabilidade civil do CONTRATADO pelos padrões adequados de qualidade, segurança,
+durabilidade e solidez dos serviços prestados, nem ético-profissional pela perfeita execução deste
+contrato.
+3.5. Salvo disposições em contrário, os ensaios, testes e demais provas exigidos por normas técnicas
+oficiais para a boa execução do objeto do contrato correm por conta do CONTRATADO
+4. PAGAMENTO
+4.1. Salvo disposição em contrário prevista nas condições específica contratuais, o pagamento parcial por
+cada etapa ou total dos serviços executados, a depender do caso, será realizado em até 30 (trinta) dias
+da data do adimplemento da obrigação pelo CONTRATADO, assim considerada a data em que ocorrer a
+aceitação dos serviços mediante a celebração de “Termo de Recebimento Provisório de Serviços” (TRPS)
+ou “Termo de Recebimento Definitivo de Serviços” (TRDS), ou do simples recibo dos serviços, conforme
+for o caso.
+4,2. Salvo disposição em contrário, os pagamentos serão realizados através de cheque nominal ao
+CONTRATADO, a ser entregue na sede da ALGÁS na data do vencimento do pagamento, durante horário
+norma! de expediente.
+4.3. Entre a data do adimplemento da obrigação e o respectivo pagamento não haverá atualização
+financeira dos valores a serem pagos, salvo na hipótese do pagamento ocorrer fora do vencimento, caso
+em que a ALGÁS pagará uma multa de 2% (dois por cento) e juros de mora de 1% (um por cento) ao mês,
+esta última calculada proporcionalmente ao tempo da mora.
+4.4. Caso o dia de pagamento recaia em dia não útil, o mesmo será efetuado no próximo di
+2de5
+CARTA-CONTRATO N. º 138.2017 ?Z
+a útil.
+Mod. Rev-09º ALGÁS
+RERDSR
+4.5. A critério da ALGÁS, poderão ser exigidos do CONTRATADO, para fins de pagamento, a comprovação
+de sua regularidade fiscal relativa à previdência social (INSS), ao FGTS, à Fazenda Federal, à Fazenda
+Estadual e Fazenda Municipal, estas duas últimas do domicílio ou sede do CONTRATADO, sob pena de
+seu pagamento permanecer retido até a apresentação dos documentos referidos.
+ 
+ 
+ 
+ 
+5. ALTERAÇÕES CONTRATUAIS — A carta-contrato admite alteração, mediante acordo formal entre as
+partes, nas hipóteses previstas nos incisos do art. 81 da Lei 13.303/16.
+6. SANÇÕES
+6.1. O atraso no início, na conclusão e na entrega dos serviços, ou, por outra qualquer forma, o
+CONTRATADO não cumprir as normas contratuais, este estará sujeito, assegurado o contraditório e a
+ampla defesa, às seguintes sanções: advertência; multa; e suspensão temporária de participação em
+licitação e impedimento de contratar com a ALGÁS por prazo não superior a 2 (dois) anos.
+6.2. Ressalvada a hipótese de força maior ou caso fortuito, a multa acima prevista será calculada,
+progressivamente, por cada dia de inadimplemento, na forma abaixo:
+| — 0,5% (cinco décimos por cento) ao dia, até o quinto dia corrido, calculado sobre o valor
+correspondente à parte inadimplente;
+11 — 0,7% (sete décimos por cento) ao dia, para cada dia corrido, do sexto até o décimo dia, calculado
+sobre o valor correspondente à parte inadimplente;
+1 — 1,0% (um por cento) ao dia, a partir do décimo primeiro dia corrido, calculado sobre o valor
+correspondente à parte inadimplente, limitado ao valor integral do contrato.
+6.3. A multa acima poderá ser aplicada concomitantemente com as demais sanções previstas, e sem
+prejuízo do CONTRATADO responder por perdas e danos pelos prejuízos, que, por seu atraso, causar a
+ALGÁS, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e
+honorários de advogado.
+6.4. Se a prestação, devido à mora, se tornar inútil à ALGÁS, o CONTRATADO, além da devolução dos
+valores eventualmente adiantados e não aproveitados, pagará uma multa de, no mínimo 50% (cinquenta
+por cento) e no máximo 100% (cem por cento) do valor atualizado do contrato, independentemente da
+comprovação dos prejuízos, facultando à ALGÁS exigir a satisfação das perdas e danos quando estes
+forem superiores à pena ora convencionada.
+6.5. Nos casos de infração contratual por parte do CONTRATADO que não resulte em atraso na entrega
+das etapas ou na conclusão dos serviços ou, ainda, em inutilidade da manutenção do contrato para a
+ALGÁS, será aplicada no CONTRATADO uma multa equivalente a 5% (cinco por cento) do valor atualizado
+do contrato, respeitado o mínimo de 1/3 (um terço) do salário mínimo vigente e o máximo de 30%
+(trinta por cento) do valor atualizado do contrato, prevalecendo o teto em relação ao piso conforme for
+o caso, podendo a penalidade prevista nesta cláusula, a qualquer caso, ser reduzida proporcionalmente à
+gravidade da infração.
+7. DOS CASOS DE RESCISÃO
+7.1. O presente Contrato poderá ser rescindido, a critério da ALGÁS, e independente de qualquer
+interpelação ou notificação judicial ou extrajudicial, com antecedência mínima de O5 (cinco) dias úteis,
+sem que ao CONTRATADO caiba qualquer indenização e/ou retenção sobre os materiais e serviços a ela
+confiados, no caso de inadimplemento de qualquer condição da presente ou quando não atender
+integralmente, dentro de cinco (5) dias, às exigências que lhe forem feitas pela ALGÁS, por notificação
+escrita, ou ainda, na hipótese de insolvência ou falência do CONTRATADO.
+8. OBRIGAÇÕES DO CONTRATADO:
+8.1. Caberá ao CONTRATADO, dentre outras, o cumprimento das seguintes obrigações:
+| - Responsabilizar-se tecnicamente pela execução dos serviços na forma de legislação em vigor;
+Mod. Rev-09
+3de5
+CARTA-CONTRATO N. º 138.2017Qwa oA
+ll — Responsabilizar-se integralmente pela execução dos serviços contratados, não podendo eximir-se,
+ainda que parcialmente, atribuindo quaisquer falhas ou deficiências dos serviços a erros de especificação
+dos serviços contratados;
+Ill — Acatar e facilitar a ação da fiscalização da ALGÁS e cumprindo as exigências da mesma;
+|V — Não divulgar nem fornecer a terceiros, dados e informações referentes aos serviços por ela
+realizados, a menos que seja expressamente autorizada por escrito, pela Diretoria da ALGÁS;
+V — Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas,
+todas as condições de habilitação e qualificação exigidas na Licitação;
+VI — Buscar manter a ALGÁS, durante e após a vigência deste Contrato, à margem de quaisquer
+reivindicações dos seus empregados, assumindo a responsabilidade, por si e/ou sucessores, por
+quaisquer ônus que venham a ser-lhe imputados por decisão judicial transitada em julgado, em qualquer
+época, decorrentes de tais reivindicações ou reclamações;
+VIl — Cumprir rigorosamente a legislação aplicável à segurança e saúde de seus empregados e
+trabalhadores, especialmente as Normas Regulamentadoras do Ministério do Trabalho e Emprego que
+lhe forem aplicáveis, além das diretrizes de segurança e saúde expressamente definidas neste
+instrumento e em seus anexos;
+VIII — Cumprir rigorosamente a legislação ambiental aplicável, além das diretrizes de proteção ambiental
+expressamente definidas neste instrumento e em seus anexos.
+8.2. Citado para se defender em processo judicial de terceiros, de natureza civil ou trabalhista, inclusive,
+mas não exclusivamente de empregado ou ex-empregado do CONTRATADO, a ALGÁS fará o cálculo dos
+direitos pleiteados e, após dele notificar o CONTRATADO, reterá o correspondente valor para fazer
+frente à eventual condenação, deduzindo-o de importâncias dos pagamentos futuros ou da garantia
+contratual.
+ 
+ 
+ 
+9. DA FISCALIZAÇÃO — Durante a vigência deste contrato, a execução do objeto será acompanhada e
+fiscalizada por Gestor designado pela ALGÁS, o qual terá, entre outras, as seguintes atribuições: expedir
+autorização de execução de serviços; proceder ao acompanhamento técnico da execução dos serviços;
+fiscalizar a execução do contrato quanto à qualidade desejada; comunicar ao CONTRATADO o
+descumprimento do contrato e indicar os procedimentos necessários ao seu correto cumprimento;
+solicitar a aplicação de sanções pelo descumprimento de cláusula contratual; fornecer atestados de
+capacidade técnica quando solicitado, desde que atendidas às obrigações contratuais; atestar as notas
+fiscais para efeito de pagamento; recusar e devolver os serviços cuja execução não se verifique perfeita;
+solicitar reparação, correção, remoção, reconstrução ou substituição, no total ou em parte, dos serviços
+recusados e devolvidos; solicitar ao CONTRATADO e ao seu preposto todas as providências necessárias á
+boa execução dos serviços contratados; notificar o CONTRATADO para apresentar defesa administrativa
+no prazo legal antes da aplicação das sanções, salvo no caso da advertência, cuja aplicação será aplicada
+pelo gestor do contrato.
+10. INCIDÊNCIAS FISCAIS
+10.1 Os tributos (impostos, taxas, emolumentos fiscais e parafiscais) devidos em decorrência, direta ou
+indiretamente do presente Contrato ou de sua execução, serão da exclusiva responsabilidade do
+contribuinte, assim definido em norma tributária, sem direito a reembolso. A ALGÁS, nos casos em que a
+lei lhe enquadrar como fonte retentora, descontará e recolherá, dos pagamentos que efetuar, os
+tributos a que estiver obrigada pela legislação vigente.
+10.2 Os serviços executados na cidade de Maceió/AL terão o Imposto Sobre Serviços (ISS) retido na Nota
+Fiscal, independentemente da localização da empresa, conforme Lei Complementar n.º 116/2003 e
+Decreto Municipal n.º 6.939/2009, este último enquadrando esta ALGÁS como contribuinte substituto
+tributário do ISS. /
+% |
+Mod. Rev-09 f
+4de5
+CARTA-CONTRATO N. º 138.2017Q ALGÁS
+Eornaçn
+11. DAS DISPOSIÇÕES GERAIS
+11.1. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento dos termos e
+condições deste contrato ou ao exercer qualquer prerrogativa dele decorrente, não constituirá
+renovação ou renúncia e nem afetará o direito das partes de exercê-lo a qualquer tempo.
+11.2. Quando assinado eletronicamente, mediante certificados digitais, o contrato considerar-se-á
+celebrado somente após a assinatura eletrônica de todos os representantes das partes com capacidade
+ou poderes de representação.
+ 
+ 
+ 
+ 
+12. DO FORO — Fica eleito o Foro da Comarca de Maceió/AL, que será o competente para dirimir as
+questões decorrentes deste Contrato, renunciando as partes a qualquer outro por mais privilegiado que
+seja.
+Maceió, 4Ó de FEVELEINO de 2018
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+PE
+| = = - ee
+& sÊ f%x :
+s
+z e És Barros
+Flá S somercial
+D 3 SIA-ALGAS
+G:
+o
+o
+& Z
+$ Tfeusaas Pah ES
+lã ELETI LETRÔNICA SERVICE LTDA - EV
+8 Pamílsos dA SitNa PAPOSO — CPFÉ OBRRCAOAA-ST
+TESTEMUNHAS:
+ 
+[ Panibow da &ileu d/
+1. NOME: Bfàuxk_o %NTAÁ QALG&A 2. NOME: PANILSON Má Situa PAPOSO
+CPF: Danilo Dantas Varcis CPF: FMCOQADAA-IS
+Gerente de Tx<nnlagia e Informação
+Gãs de AlSgOUS SIA-AGAS
+ 
+ 
+ 
+ 
+Mod. Rev-09
+5des
+CARTA-CONTRATO N. º 1382017ALGÁS
+ás de Alagoas SA
+ 
+TERMO DE REFERÊNCIA
+Área: GETI
+Nº do TR 54
+Revisão: 00
+ 
+Manutençãor preventiva dos Nobreaks do
+Datacenter
+Manoel Ricardo Costa Pereira
+27/12/2017TNS
+õ
+ALGÁS
+Gás de Alagoas SA.
+TERMO DE REFERÊNCIA
+ 
+1. INFORMAÇÕES INICIAIS
+Setor: GETI
+Responsável: Danilo Dantas Varela
+Cargo: Gerente de Tecnologia
+Data Desejada para Início dos Serviços: 27/01/2018
+2. DO OBJETO
+O presente termo de referência tem por objeto a contratação de empresa especializada para execuçãr
+de manutenção preventiva nos dois Nobreaks do Datacenter, modelo Hi20Plus do fabricante PHD
+ONLINE. A empresa contratada deverá ser representante autorizada pelo fabricante PHD ONLINE para
+realizar esse tipo de manutenção.
+3. NECESSIDADE DA CONTRATAÇÃO
+Todos os equipamentos utilizados no Datacenter carecem de alimentação contínua e estabilizada de
+energia elétrica. Como a concessionária pública não Bgarante a continuidade e qualidade no
+fornecimento faz-se necessária a utilização de Nobreaks para suprir essa necessidade. Como são
+equipamentos essenciais à disponibilidade dos serviços de Tl, os nobreaks precisam ser revisados
+anualmente em manutenções preventivas para evitar falhas em seu funcionamento.
+A empresa contratada para executar tal manutenção deverá realizar check-up nos nobreaks, mesmo
+sem problemas aparentes, para detectar possíveis irregularidades ou desgastes em seus componentes
+que possam vir a prejudicar seu funcionamento e até ocasionar uma parada inesperada. São realizadas
+verificações no retificador, inversor, proteção DC, proteção AC, conversor de baterias, conexões d
+entrada e de saída, interligação das baterias e ventiladores. Além disso, são realizados testes
+operacionais, limpeza interna e externa, monitoração via MICRO e via SCOPE. Eventuais trocas de peças
+desgastadas ou danificadas somente serão realizadas com autorização do contratante.
+A empresa contratada deverá ser representante autorizado pelo fabricante para assegurar que a equipe
+técnica capacidade de:
+* —Detectar antecipadamente possíveis danos causados ao equipamento pelo desgaste natural ou
+por anomalias da rede elétrica;
+º —Executaratualizações no equipamento;
+º — Fornecer peças originais em casos de reposição.
+4. REGIME DE EXECUÇÃO DOS SERVIÇOS
+( )Tarefa
+( X ) Empreitada por preço unitário
+(—)Empreitada por preço global
+( ) Empreitadaintegral
+Página 1 de 3INFORMAÇÃO
+2XDA
+  
+ALGÁS
+Gás de Alagoas SA.
+ 
+ 
+5. ORÇAMENTO DOS SERVIÇOS/OBRAS (obrigatório para Serviços/Obras de Engenharia)
+Não aplicável, por não se tratar de serviço ou obra de engenharia, ficando a pesquisa de preço a cargo
+da Gerência de Suprimentos.
+6. JUSTIFICATIVA DA ESCOLHA DO FORNECEDOR
+Não se tratando de procedimento de inexigibilidade de licitação, a escolha do fornecedor será procedida
+após processo seletivo de propostas, conforme procedimento a ser verificado pela Gerência de
+Suprimento.
+A empresa contratada deverá ser representante autorizado pelo fabricante.
+7. PRAZOS DE GARANTIA
+Os serviços contratados devem possui garantia contra vícios e defeitos com prazo de 60 dias, contados -
+partir da conclusão dos mesmos.
+8. PRAZOS DE EXECUÇÃO DOS SERVIÇOS
+Os serviços contratados devem ser concluídos em um prazo máximo de 45 dias contados da emissão da
+respetiva Autorização de Serviço.
+9. MATERIAIS APLICÁVEIS AOS SERVIÇOS
+Não haverá fornecimento de materiais associados aos serviços.
+10. ASSISTÊNCIA TÉCNICA
+Não se aplica.
+11. REQUISITO DE SAÚDE, MEIO AMBIENTE E SEGURANÇA
+Os serviços serão precedidos de Treinamento de Integração e Análise Preliminar de Riscos — APR,
+agendados pelo SST da ALGÁS com os funcionários diretamente envolvidos no serviço, após a análise de
+conformidade dos documentos relacionados no Anexo |, e realizados mediante o preenchimento da
+respectiva Permissão para Trabalho — PT.
+ 
+    
+12. CONDIÇÕES DE QUALIFICAÇÃO TÉCNICA DO FORNECEDOR %edrongllgesg rx;g
+erente
+Ambiente
+Gás de Alagoas SIA- ALGAS
+Página 2 de 3ALGÁS
+Gás de Alagoas SA.
+Como requisito de contratação, visando garantir que os serviços prestados tenham a qualidade mínima
+e necessária a satisfazer as necessidades da ALGÁS, o fornecedor deverá comprovar as seguintes
+qualificações técnicas:
+12.1. Qualificação Técnica-Operacional:
+Não se aplica.
+12.2. Qualificação Técnica-Profissional
+Não se aplica.
+13. ANEXOS
+Anexo | - Documentos SMS - GEEN TR 054-17.
+Maceió, 27 de dezembro de 2017.
+À
+Xx J '
+À
+, «ª(t;x, AA
+niló Dantas Varlelacvú
+D:
+Gerente de'Tecnoegg;àa 5ação
+pando poámeal,. mo”
+% o ?
+s 0 P
+Página 3 de 3TABELA DE DOCUMENTOS A SEREM
+ALGÁS APRESENTADOS
+ 
+Gás de Alagoas S A.
+ 
+SEGURANÇA, MEIO AMBIENTE E SAÚDE
+ 
+ 
+ 
+ 
+GETI TR 054-17 MANUTENÇÃO PREVENTIVA NOBREAKS DATACENTER
+ 
+ 
+ 
+ 
+ 
+ITEM DOCUMENTOS PRAZO DE ENTREGA |
+|
+Funcionários dlreTos do serwço Até 30 dias após a assinatura do Contrato e 5 dias antes
+o1 - Atestado de Saúde Ocupacional — ASO; do início dos serviços
+- Ficha de entrega de EPI. |
+Relação de pessoal para treinamento de Até 30 dias após a assinatura do Contrato e 5 dias antes |
+o2 Integração de SMS, APR e PT. do início dos serviços.
+Certificado dos treinamentos: : .
+o3 - NR 10 SEGURANÇA EM INSTALAÇÕES E Até 30 dias após a assinatura do Contrato e 5 dias antes
+ 
+SERVIÇOS EM ELETRICIDADE
+ 
+do início dos serviços.SERVIÇOS ELÉTRI COS - ELETRÔNICOS
+Maceió, 22 de Janeiro de 2018
+A
+Gas de Alagoas S/A — ALGÁS
+Rua Artur Vital da Silva, 04 — Bairro Gruta de Lurdes
+Maceió/AL
+A/C.: Sr. Acacio Bento dos Santos
+Analista de Processos Organizacionais
+GSUP — Gerência Administrativa e de Suprimentos
+Telefone: (82) 3218-7729 — E-mail.: acacio.santos Malgas.com.br
+PROPOSTA PARA CONTRATO DE MANUTENÇÃO PREVENTIVA
+EM SISTEMAS ININTERRUPTOS DE ENERGIA (NO BREAK/UPS)
+Conforme solicitação de V.S.a, submetemos a sua apreciação nossa PROPOSTA TÉCNICA E COMERCIAL PARA
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA EM
+NOBREAK/UPS — TRIFASICO — MARCA PHD ON LINE — MODELO HIZO0PLUS — POTENCIA 20 KVA / 16 KW, INSTALADOS NO
+DATACENTER DA ALGAS.
+Atenciosamente,
+Ranilson Raposo
+Engenheiro Eletricista
+Registro CREA AL 4862 D
+Registro Nacional 0206603584
+Resp. Técnico — Eletroeletronica Service
+Tel.: (082) 3231-4384 / 3231-4469 / 9122-9028
+E-mail.: engenharia &eletroeletronicaservice.com.br
+ 
+ 
+ 
+CNPJ: 35.553.353/0001-01 Insc. Estadual: 24.602.275-2 Insc. Municipal: 900126120
+Av. Dona Constança de Góes M onteiro, 579 - Casa 583 — Jatíuca — M aceió/AL — CEP: 57036-370
+Tel: (082) 3231-4384 / 3231-4469 — E-mail: comercial(Qeletr oeletr onicaser vice.com.brELETROELETRÔNICA SERVICE LTD
+SERVIÇOS ELÉTRICOS - ELETRÔNICOS
+ 
+PROPOSTA TÉCNICA E COMERCIAL
+1-OBJETO:
+Contratação de empresa especializada para prestação de SERVIÇOS DE MANUTENÇÃO PREVENTIVA “ ON SITE “ EM 02
+(DOIS) NOBREAK/UPS, SEM FORNECIMENTO DE PEÇAS, durante o período de 12 (doze) meses.
+2-EQUIPAMENTOS A SEREM ATENDIDOS:
+ 
+ 
+ 
+ 
+ITEM DESCRIÇÃO POTÊNCIA LOCAL DE INSTALAÇÃO
+1 Nobreak/UPS — Trifasico — Marca PHD ONLINE — 20 kVA Rua Artur Vital da Silva, O4
+Modelo HI20Plus — N.Serie 3MBJ121114722470015 Bairro Gruta de Lurdes — Maceió/AL
+2 Nobreak/UPS — Trifasico — Marca PHD ONLINE — 20 kVA Rua Artur Vital da Silva, 04
+Modelo HI20Plus — N.Serie 3MBJ121114722470019
+ 
+ 
+ 
+Bairro Gruta de Lurdes — Maceió/AL
+ 
+3-ESPECIFICAÇÃO DOS SERVIÇOS:
+A MANUTENÇÃO PREVENTIVA COMPREENDE:
+3.1- Inspeção visual do equipamento;
+3.2- Inspeção e teste do banco de baterias;
+3.3- Limpeza Geral;
+3.4- Medições das tensões de entrada e saída;
+3.5- Medições das correntes de entrada e saída;
+3.6- Medições da corrente de neutro;
+3.7- Execução de teste de operação da UPS sem entrada de tensão no carregador das baterias;
+3.8- Simulação de falta de energia elétrica da concessionária;
+3.9- Verificação de estados dos ventiladores/exaustores;
+3.10-Verificação das características dos módulos tiristores do retificador e da chave estática (quando houver);
+3.11-Verificação das características dos capacitores do filtro DC e do filtro AC de saída;
+3.12-Verificação das características das pontes comutadoras do inversor;
+3.13-Verificação das formas de onda da saída do retificador de cada ponte comutadora e de saída do inversor nas três fases
+(quando necessário);
+3.14-Verificação da existência de temperaturas elevadas;
+3.15-Medição da autonomia em descarga, conforme existentes;
+3.16-Verificação das fiações, conexões e reaperto geral;
+3.17-Manutenção e ajuste das placas eletrônicas de controle (quando necessário);
+3.18-Manutenção e ajuste do conversor de baterias (quando necessário);
+3.19-Aferição e ajuste da frequência de saída (quando necessário);.
+3.20-Aferição e ajuste da tensão de saída (quando necessário);
+3.21-Testes operacionais;
+3.22-Funcionamento via rede/bateria/rede;
+3.23-Funcionamento via BY PASS (linha direta);
+3.24-Funcionamento via INVERSOR (linha condicionada);
+3.25-Reaperto geral de conexões
+3.26-Outras atividades que forem necessárias.
+ 
+CNPJ: 35.553.353/0001-01 Insc. Estadual: 24.602.275-2
+Av. Dona Constança de Góes M onteiro, 579 — Casa 583 — Jatíuca — M aceió/AL — CEP: 57036-370
+Tel: (082) 3231-4384 / 3231-4469 — E-mail: comer cial(Deletr oeletr onicaser vice.com.br
+Insc. Municipal: 900126120ELETROELETRÔNICA SERVICE LTDAÊ
+SERVIÇOS ELÉTRICOS - ELETRÔNICOS N
+4-HORARIO DE ATENDIMENTO:
+Os Atendimentos Técnicos para Manutenção Preventiva serão realizados em horário comercial (08h0O0min as 18h00min), e
+não comercial (18h00min as 22h00min), de segunda a sábado (exceto feriados).
+Os Chamados Técnicos podem ser feitos através de telefone, fax ou email.
+Telefax: (82) 3231-4384 ou 3231-4469.
+Celular: (82) 9-9982-3604
+e-mail: comercial & eletroeletronicaservice.com.br ou posvendas Peletroeletronicaservice.com.br
+ 
+5-CONDIÇÕES DE ATENDIMENTO:
+5.1- A CONTRATADA realizará visita periódica às instalações da CONTRATANTE, visando efetuar a manutenção preventiva
+dos equipamentos, conforme Plano de Contrato (ver item 9)
+5.2- Todas as manutenções e intervenções técnicas serão executadas por técnicos especializados, instruídos e monitorados
+pelo Centro de Assistência Técnica da CONTRATADA.
+5.3- O horário em que serão realizadas as manutenções preventivas será determinado pela CONTRATANTE.
+5.4- Todas as manutenções preventivas serão realizadas no local onde os equipamentos se encontram instalados ou no
+laboratório da CONTRATADA, consoante necessidade que o serviço requer.
+5.5- A prestação dos serviços, estabelecidos nesta proposta, restringem-se tão somente aos equipamentos discriminados no
+item EQUIPAMENTOS A SEREM ATENDIDOS, com suas localizações correspondentes, sendo que eventuais transferências ou
+mudanças de locais deverão ser previamente comunicadas à CONTRATADA e correrão por conta da CONTRATANTE.
+5.6- A cada atendimento técnico será apresentado ao Supervisor de Serviços, o Relatório dos serviços executados relatando as
+condições reais de funcionamento do equipamento.
+5.7- A CONTRATADA manterá seu pessoal devidamente uniformizado e identificado quando durante os atendimentos técr i
+6-RESPONSABILIDADES DO CONTRATANTE:
+6.1- Permitir o livre e completo acesso do pessoal da CONTRATADA ao local onde estão acondicionados os equipame
+visando a manutenção e intervenções técnicas.
+6.2- Colocar os equipamentos à disposição da CONTRATADA, nos horários estabelecidos para manutenção e durante o
+tempo necessário para conserto e testes.
+6.3- Colocar à disposição da CONTRATADA um espaço adequado para acondicionamento temporário de instrumentos,
+manuais e materiais destinados à manutenção.
+ 
+7-PEÇAS E COMPONENTES:
+7.1- Havendo necessidade de reposição e/ou substituição de peças, a aquisição deverá ser feita pela CONTRATANTE.
+7.2- O valores desta proposta não cobrem o fornecimento de mão-de-obra para reposição e/ou substituição de peças dos
+equipamentos. Caso seja necessário, este será efetuado pela CONTRATADA mediante aprovação de orçamento aditivo
+(mão-de-obra)
+8- CONDIÇÕES DE PAGAMENTO:
+8.1- Após a execução da Manutenção Preventiva nos respectivos equipamentos, a CONTRATADA emitirá até o 5º dia útil -
+fatura relativa ao valor deste contrato, com vencimento para 15 (quinze) dias da data de emissão des
+CONTRATANTE compromete-se a efetuar o pagamento das faturas até o seu vencimento.
+8.2- Nos valores desta proposta estão inclusos todos os impostos vigentes nesta data. A criação de novos impos!
+mudanças nas alíquotas atuais serão comunicados a CONTRATANTE.
+ 
+CNPJ: 35.553.353/0001-01 Insc. Estadual: 24.602.275-2 Insc. Municipal: 900126120
+Av. Dona Constança de Góes M onteiro, 579 - Casa 583 — Jatíuca — M aceió/AL — CEP: 57036-370
+Tel: (082) 3231-4384 / 3231-4469 — E-mail: comer cial(Deletr oeletr onicaser vice.com.br.ELETROELETRÔNICA SERVICE LTD
+SERVIÇOS ELÉTRICOS - ELETRÔNICOS
+ 
+ 
+ 
+PERIODICIDADE DAS MANUTENÇÕES
+ITEM DESCRIÇÃO DO EQUIPAMENTO PREVENTIVA: 1 POR ANO
+CORRETIVA: NÃO INCLUSO
+ 
+Nobreak/UPS — Trifasico — Marca PHD ONLINE — Modelo
+ 
+ 
+ 
+ 
+1 HI20Plus — N.Serie 3MBJ121114722470015 R$ 930,00
+Nobreak/UPS — Trifasico — Marca PHD ONLINE — Modelo
+2 HI20Plus — N.Serie 3MJ121114722470019 R$ 930,00
+VALOR TOTAL ANUAL
+MANUTENÇÃO PREVENTIVA R$ 1.860,00
+ 
+ 
+9.1- O preço contratado não abrange o fornecimento de mão-de-obra para substituição “Peças & Partes” tais como baterias,
+transformadores, ventiladores e placas eletrônicas. Quanto ao fornecimento de peças e componentes de reposição,
+estes deverão ser providenciadas pela Contratante ou cobradas mediante aprovação de orçamento prévio.
+10-REAJUSTE:
+O valor do contrato será reajustado anualmente (a cada 12 meses a contar da data de assinatura deste contrato), pelo índice
+IGP-M, de forma a reestabelecer seu equilíbrio econômico e financeiro.
+11-CONDIÇÕES COMERCIAIS:
+Validade da Proposta: 90 (noventa) dias.
+Pagamento: Mensal, até 30 (trinta) dias a contar da emissão da Nota Fiscal de Serviços.
+12-DADOS BANCÁRIOS:
+ 
+BANCO AGENCIA CONTA CORRENTE FAVORECIDO CNPJ FAVORECI! ”
+ 
+ 
+ 
+ 
+ 
+ 
+Banco do Brasil 1523-7 132.480-2 Eletroeletronica Service Ltda 35.553.353/0»(H
+ 
+Atenciosamente,
+Ranilson Raposo
+Engenheiro Eletricista
+Registro CREA AL 4862 D
+Registro Nacional 0206603584
+Resp. Técnico Eletroeletronica Service
+Tel.: (082) 3231-4384 / 3231-4469 / 9122-9028
+E-mail.: engenharia & eletroeletronicaservice.com.br
+ 
+CNPJ: 35.553.353/0001-01 Insc. Estadual: 24.602.275-2 Insc. Municipal: 900126120
+Av. Dona Constança de Góes M onteiro, 579 — Casa 583 — Jatíuca — M aceió/AL — CEP: 57036-370
+Teael: (082) 3231-4384 / 3231-4469 — E-mail: comercial(Qeletr oeletr onicaser vice.com.br.

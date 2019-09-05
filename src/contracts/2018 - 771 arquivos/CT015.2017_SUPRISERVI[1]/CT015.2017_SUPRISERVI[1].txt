@@ -1,0 +1,3253 @@
+CONTRATO Nº 015/2017 QUE ENTRE SI
+CELEBRAM GÁS DE ALAGOAS S.A -
+ALGÁS E SUPRISERVI COMERCIO
+REPRESENTAÇÕES E SERVIÇOS.
+Pelo presente instrumento particular, a GÁS DE ALAGOAS S/A - ALGÁS, com sede
+na Rua Artur Vital da Silva, n.º 04, Bairro Gruta de Lourdes, Maceió/AL, inscrita no
+CNPJ/MFE sob o nº 69.983.484/0001-32, doravante denominada ALGÁS,
+representada neste ato pelos seus diretores que esta subscrevem, na forma do seu
+Estatuto Social, e a Sociedade Empresária SUPRISERVI COMÉRCIO REPRESENTAÇÕES
+E SERVIÇOS LTDA, estabelecida à Rua Deputado José Lages, nº 972, Edf. Barão Mauá,
+sala 7, Ponta Verde, Maceió - AL, inscrita no CNPJ/MF sob o n.º 12.707.105/0003-26,
+doravante denominada FORNECEDOR, neste ato representada por José Alves Muniz
+Junior, celebram o presente CONTRATO, oriundo de Licitação n.º 005.2017- Pregão
+003.2017 segundo as CLÁUSULAS E CONDIÇÕES abaixo dispostas:
+CLÁUSULA PRIMEIRA — DAS DISPOSIÇÕES INICIAIS
+1.1. Este Contrato decorre de Licitação, nos termos e condições do Edital do(a)
+PREGÃO ELETRÔNICO Nº. 003.2017, cujo objeto foi adjudicado ao licitante vencedor
+em 22/09/2017 e o resultado homologado pelo Diretor Presidente da ALGÁS em
+17/10/2017.
+CLÁUSULA SEGUNDA - OBJETO
+21 - O contrato tem como objeto a aquisição de equipamentos, atualização de
+licenças de software de backup, incluídos os serviços para migração de
+infraestrutura de armazenamento e atualização de ambiente virtual e de backup,
+conforme Memorial Descritivo do ANEXO Q4.
+CLÁUSULA TERCEIRA - PREÇOS E VALOR
+3.1 - O valor do presente Contrato é de R$ 562.875,00 (quinhentos e sessenta e
+dois mil, oitocentos e setenta e cinco reais), a preços referenciados ao mês de
+agosto de 2017, conforme tabela abaixo:
+ 
+ 
+LOTE 01 - AQUISIÇÃO DE EQUIPAMENTOS E CONTRATAÇÃO DE SERVIÇOS PARA MIGRAÇÃO DE INFRAESTRUTURA
+ARMAZENAMENTO E ATUALIZAÇÃO DE AMBIENTES VIRTUAL E DE BACKUP
+  
+ 
+Preço
+INtem | DESCRIÇÃO PN Composto de: Und. | Qtd
+Unitário (C/! | ValorTotalda À
+Todosos |item (C/todos Os |
+Tributos) Impostos)
+  
+ 
+ 
+HPE 3PAR 8200 2N+SW Storage
+Field Base Composto de: 1 x
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STORAGE K2Q36B 0286 | k2036B ; 22 xlUnid | 1 |R$210.524,00
+11 |SYSTEM FIBRE K2P94B. ; HAIIMAL — S5XU ;
+CHANNEL HIK94A3
+HPE 3PAR Alkin Sgrsys SW
+LTF20A | Curront Media grsy. Unid. | 1 R$ 500,00
+GAVETA HPE 3PAR 8000 LFF(2.5in) FId
+1.2 |(ENCLOSURE) |E7Y72A 0047 |Int Dr Encl | Unid. | 1/ | R$69.000,00
+COM  DISCOS Composto de: 1 x E7Y72A ; 12 x
+ 
+ 
+ 
+Página 1 de 54ente
+ 
+ 
+ 
+ 
+NLSAS K2P95B. HIKO4A3 — XxB5 ;
+HIK94A3 YTJ
+SWITCH — SAN HPE 8/24 Base 16-port Enabled
+14 |FIBRE AMBSSC [ iKÕaA3 — oL) : Ha11IBaz | UNid | 2. | R$36.500,00
+CHANNEL SGA
+TRANSCEPTOR HPE Premier Flex LC/LC OMA 2f
+PARA ol okrMa |smeb Unid. | 32 | R$327,00
+15 |swmcH san
+FIBRE EB a b nnort Wave B-Seriês | unia. | 32 | R$516,00
+CHANNEL AJT16B
+DENAÇÃO É Serviços =de migração e
+16 |MIGRAÇÃO E atualização 9ras Unid. | 1/ | R$95.000,00
+ATUALIZAÇÃO SNS s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL GLOBAL DO LOTE 1 | R$ 475.000,00")
+ 
+ 
+ 
+LOTE 02 - AQUISIÇÃO DE ATUALIZAÇÃO DAS LICENÇAS DO SOFTWARE HPE DATAPROTECTOR DA ALGÁS
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Units ário (c/ | Valor Total do item -
+ITEM | Descrição PN — |Composto de: una. | oTD | TSS (C/ todos Os
+Tributos) Impostos)
+ATUALIZAÇÃO - DAS
+LICENÇAS HPE DATA | 51943 | HPE SW Enterprise
+21 — |PROTECTOR - RW Standard 3yr| unid. | 1 | R$18.562,34 R$ 18.562,34
+CELLMANAGER HP- Support
+Ux
+ATUALIZAÇÃO DAS
+HPE SW Enterprise
+LICENÇAS HPE DATA | HM610A3
+22 — |PROTECTOR - PLUG- | 7RV Standara 3yr| Unid. | 1 | R$16.342,39 R$ 16.342,39
+IN DRIVE SAN uppor
+ATUALIZAÇÃO DAS
+HPE SW Enterprise
+LICENÇAS HPE DATA | HM610A3
+23 — |BROTECTOR - PLUG- | 10L Standara 3yr| unid. | 9 | R$5.329,61 R$ 47.966,49 (
+IN ONLINE BACKUP uppor!
+ATUALIZAÇÃO DAS
+LICENÇAS HPE DATA | 151943 | HPE SW Enterprise
+24 — |PROTECTOR - PLUG- | 7) Standard 3yr| unid. | 1 | R$5.003,78 R$ 5.003,78
+IN ADVANCED Support
+BACKUP
+TOTAL GLOBAL DOLOTE2 | R$87.875,00;
+VALOR TOTAL (LOTE 1 + LOTE 2)| R$ 562.875,(3_) ?
+ 
+ 
+ 
+3.2 - Nos preços estabelecidos no Contrato estão incluídas todas as despesas que
+onerem, direta ou indiretamente, os fornecimentos contratados, bem como o lucro
+(bonificação), não cabendo quaisquer reivindicações do FORNECEDOR, a título de
+revisão de preço ou reembolso, seja a que título for.
+CLÁUSULA QUARTA - CONDIÇÕES DE PAGAMENTO
+4.1 - Os fornecimentos serão pagos ao FORNECEDOR com as seguintes condições:
+4.1.1. O pagamento será efetuado mediante apresentação à ALGÁS de Faturas,
+Notas Fiscais e Recibos, em 02 (duas) vias, expressas em Reais, constando nos
+seus anversos o número do Contrato firmado, correspondente ao fornecimento.
+Após a aceitação dos bens, a(s) Notas Fiscais serão conferidas, atestadas pelo
+Gestor do Contrato e encaminhadas para processamento e posterior pagamento,
+em até 10 (dez) dias após o ateste pelo Gestor do Contrato.
+ 
+Página 2 de 54.1.2 - Os documentos de cobrança apresentados pelo FORNECEDOR, bem como
+o documento de cobrança final, serão pagos deduzidas as importâncias que, a
+qualquer título, nas condições estipuladas no Contrato ou outras especialmente
+acordadas, sejam devidas à ALGÁS.
+4.1.3 - Caso sejam constatadas irregularidades nos documentos de cobrança
+apresentados, o prazo para pagamento estabelecido será contado a partir da data
+da reapresentação, pelo FORNECEDOR, dos documentos de cobrança
+devidamente corrigidos sem prejuízo da continuidade do fornecimento.
+4.2 Caso a ALGÁS deixe de cumprir com o pagamento na data prevista (desde que
+tenham sido cumpridas pelo FORNECEDOR as exigências e datas de protocolo
+referentes), o valor do pagamento será atualizado monetariamente através do INPC,
+sob o qual inicidirá juros de mora de 1% a.m. (um por cento ao mês).
+4.3. A ALGÁS poderá deduzir dos pagamentos a serem efetuados quaisquer quantias
+que, a qualquer título, sejam devidas pelo FORNECEDOR. Este direito de retenção,
+exercido pela ALGÁS, ocorrerá nos casos de violação aos termos do instrumento
+convocatório ou do presente Contrato.
+4.4 O FORNECEDOR que não apresentar a documentação solicitada pela ALGÁS,
+terá o seu pagamento suspenso constituindo-se em mora creditória, nos termos do Art.
+394 do Código Civil Brasileiro.
+4.5 Os pagamentos poderão ser sustados, ainda, nos seguintes casos:
+a) Defeito nos materiais fornecidos pelo FORNECEDOR;
+b) Não cumprimento dos prazos, em desobediência às condições estabelecidas no
+Contrato;
+c) Erro ou vício da fatura, notas fiscais ou recibos.
+CLÁUSULA QUINTA — REAJUSTE
+5.1 - Os preços contratados serão fixos e irreajustáveis pelo período de 12 (doze)
+meses, contados a partir da data limite para apresentação da proposta, após o que
+serão reajustados conforme o caso, mediante aplicação do índice acumulado do INPC
+entre a data limite para apresentação da proposta e a entrega dos materiais.
+5.2 - Os preços contratuais não serão reajustados em caso de atrasos verificados e
+não justificados por parte do FORNECEDOR que influenciem no prazo contratual dos
+fornecimentos, ou cujas justificativas não forem aceitas pela ALGÁS.
+5.3 - Caso ocorra a prorrogação ou a antecipação do prazo de conclusão de algum
+fornecimento, de um período para outro, a contar da data limite para apresentação da
+proposta, devidamente autorizadas pela ALGÁS, prevalecerão os índices vigentes no
+período de sua efetiva conclusão.
+ 
+Página 3 de 54CLÁUSULA SEXTA - PRAZOS
+6.1 — PRAZO DE VIGÊNCIA DO CONTRATO
+6.1.1 — O prazo de vigência do presente Contrato se inicia a partir da data de sua
+assinatura até o cumprimento de todas as obrigações contratuais, observado o
+disposto no Art. 71 da Lei Nº 13.303/16.
+6.2 - PRAZO DE FORNECIMENTO
+6.2.1 — O prazo de fornecimento objeto do presente Contrato é de 60 (sessenta)
+dias, em conformidade com o ANEXO Q4 — MEMORIAL DESCRITIVO.
+6.2.2 - Não caberá qualquer extensão do prazo de fornecimento caso a
+FISCALIZAÇÃO da ALGÁS recuse fornecimento(s) executado(s) em desacordo
+com o projeto e/ especificações.
+6.2.3 - Considerando a necessidade de prorrogação do PRAZO DE
+FORNECIMENTO, esta ocorrerá por acordo entre as partes, não havendo
+necessidade de formalização de aditamento, sendo suficiente o registro em algum
+outro documento (APOSTILAMENTO, ATA DE REUNIÃO, CORRESPONDÊNCIA,
+etc...), fazendo, ainda, constar as devidas motivações e justificativas para a aludida
+alteração, sempre com anuência do GESTOR DO CONTRATO, e em consonância
+com os princípios da razoabilidade e proporcionalidade.
+CLÁUSULA SÉTIMA — NÃO APLICÁVEL
+CLÁUSULA OITAVA — DIREITOS, OBRIGAÇÕES E RESPONSABILIDADES DAS
+PARTES
+8.1. Entre outras previstas neste Contrato, seus anexos ou no instrumento
+convocatório, são obrigações do FORNECEDOR:
+|. entregar o objeto deste contrato obedecendo às especificações e as
+quantidades previstas no Memorial Descritivo — Anexo Q4 do Edital;
+Ill. programar entrega eficiente, sendo responsável por quaisquer atrasos
+resultantes de planejamento inadequado ou de deficiência de estoque;
+Il. entregar o objeto da licitação, de forma que não sejam danificados durante as
+operações de transporte, carga e descarga. As operações de carga e
+descarga, que correrão por conta do FORNECEDOR, devem seguir as normas
+de segurança especificadas em lei, bem como as previstas no Anexo Q12;
+IV. retirar os equipamentos recusados dos locais de entrega de forma imediata, a
+partir da data em que o FORNECEDOR for notificado sobre a recusa de
+Recebimento;
+ 
+Página 4 de 54V. fornecer juntamente com a entrega do bem toda a sua documentação fiscal e
+técnica;
+VI. oferecer o objeto deste contrato com garantia de prazo de prazo de garantia de
+36 (trinta e seis) meses, contados da sua efetiva instalação;
+VII. apresentar Certificado de Garantia dos equipamentos no ato da entrega do
+mesmo;
+VIII. entregar o equipamento acompanhado de Manual de Uso em português.
+IX. manter, durante o prazo de vigência do Contrato, em compatibilidade com as
+obrigações assumidas, todas as condições de habilitação e qualificação
+exigidas na licitação;
+X. fornecer, sempre que solicitado, no prazo máximo de 0O5 (cinco) dias úteis,
+documentação de habilitação e qualificação exigidos na licitação;
+XI. providenciar a imediata correção de deficiências, falhas ou irregularidades
+constatadas pela ALGÁS referentes às condições firmadas no presente
+Contrato;
+XIl.
+ressarcir os danos causados diretamente à ALGÁS ou a terceiros por
+ineficiência ou irregularidades cometidas na execução das obrigações
+assumidas, ou por vícios de fabricação dos materiais fornecidos;
+XIll. realizar, sob suas expensas, a entrega do objeto contratado, nos prazos
+fixados;
+XIV. observar para transporte, seja ele de que tipo for, as normas adequadas
+relativas a embalagens, volumes, segurança etc.;
+XV. Responsabilizar-se, com exclusividade, pela observância a todas as normas
+estatuídas pela legislação trabalhista, social e previdenciária, tanto no que se
+refere a seus empregados, como a contratados e  prepostos,
+responsabilizando-se, mais, por toda e qualquer autuação e condenação
+oriunda da eventual inobservância das citadas normas, aí incluídos acidentes
+de trabalho, ainda que ocorridos nas dependências da ALGÁS. Caso este seja
+chamado a juízo e condenado pela eventual inobservância das normas em
+referência, o FORNECEDOR obriga-se a ressarci-la do respectivo desembolso,
+ressarcimento este que abrangerá despesas processuais e honorários de
+advogado arbitrados na referida condenação;
+PARÁGRAFO ÚNICO: A inadimplência do FORNECEDOR, com referência aos
+encargos estabelecidos no subitem anterior, não transfere a responsabilidade por seu
+pagamento à Administração Pública, nem pode onerar o objeto registrado.8.2 Entre outras previstas neste Contrato, seus anexos ou no instrumento
+convocatório, são obrigações da ALGÁS:
+|. Notificar o FORNECEDOR sobre qualquer irregularidade encontrada nos
+produtos recebidos;
+Il. Efetuar os pagamentos no tempo e modo previstos neste Contrato;
+IIl. A ALGÁS poderá exigir, a qualquer tempo, que o FORNECEDOR apresente a
+documentação de habilitação e qualificação exigidos na licitação, devidamente
+atualizada.
+CLÁUSULA NONA — PENALIDADES
+9.1. Pela inexecução total ou parcial do Contrato, a ALGÁS poderá, garantida a prévia
+defesa, aplicar ao FORNECEDOR, nos termos do art. 83 da Lei Nº 13.303/16, as
+seguintes penalidades:
+| — advertência;
+11 — multa;
+Ill — suspensão temporária de participação em Licitação e impedimento de contratar
+com a ALGÁS pelo prazo de 6 (seis) meses a 2 (dois) anos.
+9.2. As sanções previstas nos incisos | e Ill deste Contrato poderão ser aplicadas
+juntamente com a sanção de multa.
+9.3. A advertência consiste em repreensão por escrito imposta pelo não cumprimento
+das normas de licitação ou dos contratos celebrados.
+9.4. A multa aplicável será aplicada da seguinte forma:
+| — 0,33% (trinta e três centésimos por cento) por dia de atraso na entrega de
+material, calculado sobre o valor correspondente à parte inadimplente, pelos
+primeiros 30 (trinta) dias de atraso;
+11 — 0,66 % (sessenta e seis centésimos por cento) por dia de atraso na entrega de
+material, calculado sobre o valor correspondente à parte inadimplente e desde o
+primeiro dia de atraso, quando o atraso na entrega ultrapassar 30 (trinta) dias;
+l — 5% (cinco por cento) por descumprimento do prazo de entrega, calculados
+sobre o valor total do contrato ou da Autorização de Fornecimento de Material
+(AFM), sem prejuízo da aplicação das multas previstas nos incisos | e |l deste item;
+IV — 15% (quinze por cento) pela recusa injustifcada em entregar total ou
+parcialmente o material ou em concluir o serviço, calculados sobre o valor
+correspondente à parte inadimplente;
+ 
+Página 6 de 54V — 15% (quinze por cento) pela rescisão da avença, calculados sobre o valor total
+do contrato;
+VI — 20% (vinte por cento) pelo não cumprimento reiterado de qualquer cláusula do
+contrato, ou após notificação da ALGÁS, exceto quanto ao prazo de entrega,
+calculados sobre o valor total do contrato ou da Autorização de Fornecimento.
+9.5. Se a multa aplicada for superior ao valor da garantia prestada, além da perda
+desta, responderá a licitante ou contratada pela sua diferença, devidamente atualizada
+pelo IPC-A ou equivalente, a qual será descontada dos pagamentos eventualmente a
+ela devidos ou cobrada judicialmente.
+9.6. O atraso, para efeito de cálculo de multa, será contado em dias corridos, a partir
+do dia seguinte ao do vencimento do prazo de entrega de material, se dia de
+expediente normal na ALGÁS, ou do primeiro dia útil seguinte.
+9.7. A multa poderá ser aplicada juntamente com outras sanções segundo a natureza
+e a gravidade da falta cometida, desde que observado o princípio da
+proporcionalidade.
+9.8. Decorridos 30 (trinta) dias de atraso injustificado na entrega de material, a
+Autorização de Fornecimento de Material (AFM) ou contrato poderá ser cancelado ou
+rescindido, exceto se houver justificado interesse público em manter a avença, sem
+prejuízo da multa.
+9.9 Em notificação escrita e sem prejuízo da faculdade de rescindir o Contrato, poderá
+a ALGÁS aplicar ao FORNECEDOR multa compensatória de até 100 % (cem por
+cento) do valor do débito eventualmente lhe for atribuído em razão do inadimplemento
+de obrigações pelo FORNECEDOR, sejam de ordem trabalhista, previdenciária,
+tributária, cível ou de terceiros.
+9.9.1 O pagamento da referida multa não eximirá o FORNECEDOR da obrigação
+de restituir à ALGÁS o valor que a ela for imposto por força de eventual
+condenação solidária ou subsidiária proferida por autoridade judicial e/ou
+administrativa.
+9.10 A(s) multa(s) a que porventura o FORNECEDOR der causa será(ão)
+descontada(s) da garantia contratual ou, na sua ausência, insuficiência ou de comum
+acordo, nos documentos de cobrança e pagamento pela execução do contrato,
+reservando-se a ALGÁS o direito de utilizar, se necessário, outro meio adequado à
+liquidação do débito.
+9.11 - As penalidades estabelecidas nesta Cláusula não excluem quaisquer outras
+previstas  nestas Condições Gerais Contratuais ou no Contrato, nem a
+responsabilidade do FORNECEDOR por perdas e danos que causar à ALGÁS, em
+consequência do inadimplemento destas Condições Gerais Contratuais e/ou das
+demais condições do Contrato.
+ 
+Página 7 de 54CLÁUSULA DÉCIMA - RESCISÃO
+10.1 — A inexecução total ou parcial deste Contrato pode acarretar a sua rescisão, sem
+prejuízo das demais sanções, com as consequências contratuais e as previstas em Lei
+ou Regulamento.
+10.2. Considera-se em mora o FORNECEDOR, pelo simples descumprimento das
+obrigações assumidas neste contrato, independentemente de qualquer interpelação
+judicial ou extrajudicial.
+10.3. Constituem, entre outros, motivos para rescisão unilateral do contrato, por
+qualquer das partes, conforme for o caso:
+a) o atraso injustificado na entrega material, nas condições contratuais, por parte
+do FORNECEDOR;
+b) a subcontratação total ou parcial do seu objeto, a associação do
+FORNECEDOR com outrem, a cessão ou transferência, total ou parcial, bem
+como a fusão, cisão ou incorporação, não admitidas no edital e no contrato;
+c) o cumprimento irregular de cláusulas contratuais, especificações, projetos;
+d) o cometimento reiterado de faltas na sua execução do contrato;
+e) a decretação de falência ou a instauração de insolvência civil do
+FONECEDOR;
+f) a dissolução da sociedade ou o falecimento do FONECEDOR;
+g) a alteração social ou a modificação da finalidade ou da estrutura do
+FONECEDOR, que prejudique a execução do contrato;
+h) o atraso superior a 90 (noventa) dias dos pagamentos devidos pela ALGÁS;
+i) a ocorrência de caso fortuito ou de força maior, regularmente comprovada,
+impeditiva da execução do contrato.
+j) a soma dos valores das multas aplicadas atinja o limite estabelecido de 10%
+(dez por cento) do valor total do Contrato;
+10.4. A rescisão deste contrato implicará retenção de créditos decorrentes da
+contratação, até o limite dos prejuízos causados à ALGÁS, bem como na assunção do
+objeto pela ALGÁS na forma que a mesma determinar.
+10.5 O contrato poderá, ainda, ser rescindido amigavelmente, por acordo entre as
+partes, mediante termo de distrato.
+ 
+usa
+Página 8 de 54CLÁUSULA DÉCIMA PRIMEIRA - ALTERAÇÕES CONTRATUAIS
+11.1 — Este Contrato poderá ser alterado com as devidas justificativas, de acordo com
+os Artigos 72 e 81 da Lei n.º 13.303/16.
+CLÁUSULA DÉCIMA SEGUNDA - MEDIÇÃO DOS FORNECIMENTOS
+12.1 - As medições serão feitas de acordo com cada entrega, observados os preços
+unitários constantes no contrato..
+122 - O FORNECEDOR procederá, mensalmente, em conjunto com a
+FISCALIZAÇÃO da ALGÁS à medição dos fornecimentos concluídos, com base na
+Planilha de Preços Unitários, reunindo os resultados encontrados em Memória de
+Cálculo (MC), devidamente atestado pela FISCALIZAÇÃO da ALGÁS cuja cópia será
+fornecida à ALGÁS.
+CLÁUSULA DÉCIMA TERCEIRA - GERENCIAMENTO E FISCALIZAÇÃO DOS
+FORNECIMENTOS
+13.1 - A ALGÁS exercerá a FISCALIZAÇÃO e/ou INSPEÇÃO dos fornecimentos por
+técnico(s) pertencente(s) ao seu quadro, e/ou de terceiros por ela contratados,
+designado(s) por escrito junto ao FORNECEDOR, obrigando-se este a facilitar o pleno
+desempenho de suas atribuições.
+13.2 - O GESTOR DO CONTRATO ou FISCALIZAÇÃO da ALGÁS (onde designado
+pelo GESTOR) terá os mais amplos poderes, inclusive para:
+13.2.1 - Recusar fornecimento que não tenha sido executado de acordo com o
+projeto e/ou especificações.
+13.2.2 — Recusar fornecimento ou suspender fornecimento que esteja em
+desacordo com o projeto, especificações ou com a boa técnica, ou ainda que atente
+contra a segurança do pessoal ou bens da ALGÁS e/ou de terceiros.
+13.2.3 - Além do direito de aplicação das sanções previstas no Contrato, também o
+de suspender o fornecimento e sustar o pagamento de quaisquer documentos de
+cobrança, no caso de inobservância, pelo FORNECEDOR, das exigências da
+FISCALIZAÇÃO da ALGÁS, garantido o contraditório e a ampla defesa.
+13.2.4 - Ordenar que sejam refeitos fornecimentos se suspeitar da existência de
+vícios ocultos. Se os defeitos forem comprovados, a recomposição ficará por conta
+do FORNECEDOR.
+13.2.5 - Recusar fornecimentos que não atendam os requisitos de qualidade e
+exigir a retirada dos mesmos do local dos fornecimentos, dentro de um prazo
+determinado. Findo esse prazo, e não atendida a exigência, a ALGÁS poderá
+proceder esta remoção, às custas do FORNECEDOR.
+ 
+Página 9 de 5413.2.6 - Dirimir dúvidas encontradas em desenhos ou especificações.
+13.2.7 - Solicitar do FORNECEDOR todas as informações e esclarecimentos
+necessários ao perfeito conhecimento e controle dos fornecimentos.
+13.2.8 - Promover a efetivação de modificações ou alterações propostas pelo
+FORNECEDOR e aceitas pela ALGÁS
+Nota: A ação ou omissão, total ou parcial, da FISCALIZAÇÃO da ALGÁS não exime o
+FORNECEDOR da total responsabilidade pelos fornecimentos.
+CLÁUSULA DÉCIMA QUARTA - DO RECEBIMENTO E ACEITAÇÃO DO
+FORNECIMENTO
+14.1. No ato da entrega dos materiais, a ALGÁS procederá sua conferência para
+verificação de possíveis danos, sem que tal procedimento acarrete a perda da garantia
+originalmente prevista.
+14.2. O recebimento dos materiais far-se-á mediante termo circunstanciado e ocorrerá:
+a) provisoriamente, para efeito de posterior verificação da conformidade do
+material com a especificação;
+b) definitivamente, no prazo máximo de 30 (trinta) dias corridos, após a verificação
+da qualidade, bem como das especificações e consequente aceitação.
+14.3. Os materiais que não respeitarem as condições estabelecidas neste Contrato e
+no Edital serão recusados pelo servidor da ALGÁS responsável pelo recebimento e
+colocados à disposição do FORNECEDOR, para que no prazo de 08 (oito) dias úteis
+seja retirada, com a pertinente reparação ou substituição. Caso o FORNECEDOR não
+providencie a retirada dos equipamentos recusados no prazo estabelecido, a ALGÁS
+poderá, a seu critério, recolhê-los em depósito de terceiros, correndo todas as
+despesas e riscos por conta do FORNECEDOR.
+14.4. Na ocorrência de dano, extravio ou outro incidente durante o transporte do
+instrumento, todas as despesas de reposição ou de reenvio correrão por conta do
+FORNECEDOR e o instrumento só será considerado entregue, quando recebido no
+Almoxarifado da ALGÁS, em Maceió/AL;
+14.5. Em caso de devolução por não conformidade ou por necessidade de reposição
+por dano, os fretes de retorno ao FORNECEDOR e de reposição à ALGÁS correrão à
+custa total do FORNECEDOR.
+14.6. Os serviços necessários às correções de danos nos equipamentos dentro do
+prazo de garantia, decorrentes de ação ou omissão do FORNECEDOR, serão
+prestados sem ônus para a ALGÁS.
+ 
+Página 10 de 54CLÁUSULA DÉCIMA QUINTA - DAS DISPOSIÇÕES FINAIS
+15.1. O presente Contrato obriga as partes contratantes e os seus sucessores. Não
+pode ser subcontratado, total ou parcialmente.
+15.2. O FORNECEDOR não poderá ceder ou transferir parte do Contrato, sem
+autorização prévia e por escrito da ALGÁS.
+15.3. Integram este Contrato:
+a) o Edital da licitação que deste decorrente, com todos os seus ANEXOS;
+b) a Proposta do FORNECEDOR;
+c) circulares, se houver.
+15.4. Aplicar-se-ão à execução deste Contrato, inclusive quanto aos casos omissos,
+os princípios constitucionais que regem a Administração Pública, as regras
+consagradas na Lei Nº 13.303/16, os princípios da teoria geral dos Contratos e as
+disposições de direito privado.
+15.5. Qualquer tolerância de uma das partes na exigência do cumprimento do
+presente Contrato não constituirá novação, renúncia tácita ou extinção da respectiva
+obrigação, podendo a mesma ser exigida a qualquer tempo.
+CLÁUSULA DÉCIMA SEXTA - FORO
+15.1 - Fica eleito o Foro da Comarca de Maceió, Estado de Alagoas que será o
+competente para dirimir as questões decorrentes do cumprimento deste Contrato,
+renunciando as partes a qualquer outro por mais privilegiado que seja.
+Assim, por estarem de comum acordo, a ALGÁS e o FORNECEDOR firmam este
+Instrumento na forma eletrônica, por certificados digitais ICP-Brasil, e tem validade
+jurídica conforme Medida Provisória n.º 2.200-2/2001.
+Maceió/AL, documento emitido eletronicamente em 06 de novembro de 2017.
+ 
+Página 11 de 54Pela GÁS DE ALAGOAS S.A — ALGÁS:
+(ASSINATURA DIGITAL)
+Arnóbio Cavalcanti Filho
+Diretor Presidente
+Pelo FORNECEDOR:
+(ASSINATURA DIGITAL)
+José Alves Muniz Junior
+Diretor
+(ASSINATURA DIGITAL)
+Luciano Kulka Ribas
+Diretor Administrativo e Financeiro
+digitamente
+7B9F-167B-A4EB-EF8A.
+     
+u
+Página 12 de 54ANEXO Q4 — MEMORIAL DESCRITIVO
+ 
+   
+REGISTRO DE PREÇO PARA AQUISIÇÃO DE EQUIPAMENTOS, ATUALIZAÇÃO DE LICENÇAS DE :
+SOFTWARE DE BACKUP, CONTRATAÇÃO DE SERVIÇOS PARA MIGRAÇÃO DE INFRAESTRUTURA DE
+ARMAZENAMENTO E ATUALIZAÇÃO DE AMBIENTES VIRTUAL E DE BACKUP
+ 
+ 
+ 
+OBJETO
+Contratação de empresa (s) para fornecimento dos itens a seguir:
+* —“Equipamento STORAGE SYSTEM FIBRE CHANNEL;
+* —“Gaveta (ENCLOSURE) com discos NL SAS para o equipamento STORAGE SYSTEM FIBRE CHANNEL;
+* —“Gaveta(ENCLOSURE) com discos SSD para o equipamento STORAGE SYSTEM FIBRE CHANNEL;
+* —“SWITCH SAN - Storage Area Network FIBRE CHANNEL;
+* — TRANSCEPTOR para o SWITCH SAN FIBRE CHANNEL;
+. Serviços de migração de infraestrutura de armazenamento de dados de TI e serviços de atualização dos
+ambientes de virtualização VMWare e de backup HPE DATAPROTECTOR;
+* — Atualização das licenças de software de backup HPE DATA PROTECTOR da ALGÁS;
+  
+ 
+*  Servidorde Rack para gerenciamento.
+ESPECIFICAÇÕES GERAIS
+* Todas as licenças de software ofertadas deverão ser perpétuas, permitindo a continuidade
+funcionamento dos sistemas, ainda que não coberta por contrato de atualização e suporte.
+ 
+e Os acessórios necessários para instalação, como trilhos, conectores e cabos de força, deverão e:
+  
+incluídos, ainda que não esteja especificado explicitamente.
+* —Todosos componentes da solução ofertada deverão ser novos, encontrados em linha de produçãe
+fabricante e em suas versões mais atuais no momento da licitação.
+ 
+Original Equipment Manufacturer (Fabricante Original do Equipamento).
+ 
+e —A CONTRATADA deverá fornecer documentação comprovando que os novos equipamentos forneci
+  
+sejam compatíveis tecnicamente com a atual infraestrutura de Servidores, SAN e STORAGE da ALGA%,
+para assegurar a viabilidade da migração de dados entre os STORAGES e a compatibilidade dos novos
+STORAGE e SWITCH SAN com os Servidores de Virtualização da ALGÁS.
+A atual infraestrutura da ALGÁS é composta pelos equipamentos a seguir:
+04 (quatro) servidores HP Proliant DL360 Gen9;
+ 
+ 
+ 
+ 
+Página 13 de 5401 (um) storage HP EVA 4400;
+02 (dois) Switchs Fibre Channel HP StorageWorks 8/20qg;
+01 (um) HP StorageWorks MSL4048 Tape Library;
+PRAZOS DE ENTREGA/EXECUÇÃO
+  
+   
+ 
+* A(s) CONTRATADA(S) terá(ão) o prazo máximo de 60 (sessenta) dias corridos após a assinatur:
+Contrato e emissão das notas de empenho para o fornecimento dos produtos. Esse prazo inclu
+serviços de ativação/instalação. :
+* A CONTRATADA terá o prazo máximo de 30 (trinta) dias a contar da data de expedição da Ordemide
+Serviços, que ocorrerá após a assinatura do Contrato e emissão das notas de empenho, para inii
+execução do Serviço de Desenvolvimento de Projeto Executivo. O prazo máximo de execução do se
+será de 60 (sessenta) dias corridos.
+ 
+* — Quando da contratação dos lotes, poderá a ALGÁS, de acordo com a sua necessidade, contratar todoâo%
+itens registrados do lote de uma só vez, reparti-los em contratações separadas ou, ainda, não conlratãr á
+totalidade de itens durante a vigência da ata de registro de preços.
+LOCAL DE ENTREGA E INSTALAÇÃO DOS PRODUTOS
+* — GÁSDE ALAGOAS S.A.- ALGÁS
+Rua Artur Vital da Silva, n. º 04, Gruta — CEP: 57.052-260, Maceió-AL
+QUALIFICAÇÃO TÉCNICA
+Como qualificação técnica, todas as empresas proponentes deverão apresentar, juntamente com os documerít:
+de habilitação, a seguinte documentação:
+e — Atestado de capacidade técnica emitido por empresa pública ou privada comprovando que a LICITA! E
+forneceu produtos e/ou serviços com características semelhantes ao especificado neste Termo d;é
+Referência, instalação e configuração e a devida assistência técnica durante a garantia;
+ 
+   
+ 
+o O(s) atestado(s) deverá(ão) constar nome e telefone de contato dos responsáveis pela informaí
+atestada, não sendo aceitas declarações genéricas de catálogos, manuais de Internet, devei
+ainda atestar a satisfação com o produto ofertado pela LICITANTE.
+* — Comprovação de que a proponente é revenda autorizada dos fabricantes dos equipamentos e softw:
+ofertados;
+e — Asempresas proponentes devem apresentar também as seguintes comprovações:
+o De que possui em seu quadro profissional 1 (um) gerente de projeto, com contrato de trabs:
+vigente ou outro contrato na forma da Lei que comprove o vínculo permanente com a LICITANTE:
+ 
+equipamentos ofertados:
+o Que a assistência/suporte técnico com o nível de serviço exigido para os produtos ofertados
+prestada pelo próprio fabricante dos equipamentos e softwares ou por empresa
+autorizada/credenciada pelo mesmo, informando qual a empresa e endereço;
+ 
+ 
+ 
+Página 14 de 54o Que os Serviços serão prestados pelo próprio fabricante dos equipamentos e softwares ou quêe
+Proponente seja credenciada/autorizada de serviços pelo mesmo;
+ 
+  
+167B-A4EBf5!
+ESPECIFICAÇÕES DOS SERVIÇOS DE GARANTIA PARA HARDWARE E SOFTWARE EMBARCADOS &
+Todos produtos deverão incluir Garantia do Fabricante do Hardware e Software por 03 (três) anos con?fâ.ª
+seguintes condições mínimas aplicáveis à cada item:
+* — Recursos online: Acesso à um portal personalizado que inclua fóruns de suporte; envio de chamados+
+ 
+suporte; download de drivers, software e firmware; gerenciamento de patches; principais problemas é
+o
+atualizações de software; acesso à base de conhecimehta;
+ 
+soluções guiadas; detalhes de garanti
+ 
+ferramentas de diagnóstico; chat para envio de perguntas.
+* — Registrodechamado: 24x7 (vinte quatro horas por dia, sete dias por semana) através de ligação locabouú
+gratuita, portal na web automaticamente através da ferramenta de software de monitoração; a Cei
+ 
+deverá confirmar o recebimento do chamado informado um identificador para acompanhamento; quafido
+  
+   
+ 
+ 
+aberto automaticamente pela ferramenta de monitoração, o fabricante deverá ligar para este órgão a
+que o chamado seja classificado o nível de gravidade do chamado; o nível de gravidade dos chamagcâí
+serão determinado pelos técnicos desse órgão quando do registro do chamado;
+* — Recursos Proativos: Atividades proativas com periodicidade semestral, e que deve incluir disponibilida
+de gerente de serviço remoto para apresentar os relatórios e discutir as recomendações.
+e — Ferramenta de software para monitoração de eventos, coleta de dados de configuração e topologig
+notificação automatizada de problemas potencias em servidores, sistemas operacionais, armazenaméntô
+e dispositivos de rede;
+e — Serviçode análiseserecomendações de patches de software (hypervisor OEM, storage e switches coáeg
+ 
+versões de firmware e drivers relacionados para verificar se estão de acordo com os níveis de revisão
+ 
+recomendados. A análise deverá abranger o gabinete e todos os seus componentes, incluido
+servidores, componentes de energia, refrigeração e interconexão. Deverá fornecer um relatório com
+o
+ 
+recomendações referentes às versões de software, aos patches e às revisões de firmware aplicávei
+ 
+Deve contemplar assistência remota para instalação de patches de software e versões de firmwares,
+exceto aqueles classificados como não instaláveis pelo cliente ou que não possam ser instalados
+ 
+ 
+  
+remotamente que deverão ser instalados on-site pelo fabricante/autorizada;
+* — Serviço de avaliação técnica do Storage para ajudar a identificar os problemas de segurança,
+desempenho, configuração e disponibilidade do sistema antes de causarem impacto nas operaçõie“.
+configuração e comparar às práticas recomendas pelo fabricante. Entrega de relatório
+recomendações e um curso de ação apropriado para correção dos eventuais problemas.
+* —Entregaderelatório detalhando histórico de incidentes e a análise de tendência dos incidentes.
+* — Recursos Reativos: Atividades sob demanda que deve incluir especialistas técnicos, gestores de eventos
+críticos. ;
+e — Períodode cobertura: 24x7 (vinte quatro horas por dia, sete dias por semana);
+* — Níveisde Gravidade: (1) paralisação crítica: ex.: ambiente de produção ou sistema paralisado ou com
+risco grave de paralização ou de perda de dados; (2) degradação crítica: ex.: ambiente de produçãe oª
+ 
+Página 15 de 54sistema seriamente prejudicado, interrompido ou comprometido, risco de recorrência; (3) normal: Exx
+S -
+ambiente não de produção ou sistema fora do ar ou degradado; (4) baixa: ex.: nenhum impacto sobrâdg%
+sistemas ou usuários f:
+Central de Suporte: Central especifica para atendimento de chamados de cobertura proativa/reativa, com
+n
+ 
+o
+Z
+ 
+atendimento em português através de ligação local ou gratuita;
+   
+Tempo de Resposta: Chamados de gravidade 1 = prazo máximo de 15 (quinze minutos) após registró
+ 
+chamado para início do atendimento por um especialista técnico capacitado para recuperar ambientes
+ 
+complexos de tecnologia e com acesso completo para solucionar o problema, incluindo escalação para
+o
+níveis mais altos de especialidade, se necessário. O serviço deve incluir suporte para ajudar os técnicos
+deste órgão a identificarem problemas que sejam difíceis de reproduzir. O especialista técnico deverá
+acompanhar o chamado até a conclusão, ainda que sejam envolvidos os profissionais especializados-na
+  
+ 
+   
+resolução do chamado; Chamados de gravidade 2 = 30 (trinta) minutos; e para demais níveis=d
+gravidade = 2 (duas) horas;
+Tempo de Reparo (teste e substituição da peça defeituosa): Chamados de gravidade 1 ou 2 = pr
+máximo de 6h (seis horas) após registro do chamado. Será concedido um prazo de trinta dias após À
+instalação dos equipamentos para efetivação desse objetivo de nível de serviço; e para demais nívei:
+ 
+gravidade = será mutuamente acordado;
+Atendimento local: Deve incluir atendimento local para situações em que seja diagnosticada necessidadê
+de substituição de peças por técnico especializado ou atividades que não seja possível execução remgt
+ 
+   
+   
+O atendimento local poderá ser realizado pela autorizada do fabricante (a proponente deverá identifícár
+ 
+as empresas autorizadas locais e respectivos endereços). Para chamados não críticos (gravidade 3-06
+4), as peças como teclado, mouse e unidades hot pluggable que não exijam ferramentas e sej
+instaláveis pelo usuário poderão ser remetidas por meio de transportadora para que os técnicos de: sé_
+ 
+órgão realizem a substituição;
+Peças: Fornecimento de peças de reposição novas (ou funcionalmente equivalentes) necessárias p_arã
+<
+manter o hardware em condição operacional; &
+ 
+Gerenciamento de escalação: Para situações de gravidade 1 em que o atendimento precisar Ser
+escalado, deverá ser alocado de um gestor de eventos críticos para monitorar e coordenar todô &
+ 
+Resolução remota dos chamados: Mediante autorização prévia desse órgão, o fabricante poderá utilizár
+e
+as ferramentas de software instaladas para monitoramento ou outras para realizar o diagnóstico, isolar
+  
+resolver o problema;
+Licenças de atualização de software: Deverá contemplar fornecimento atualização de firmware e
+licenças para atualização dos softwares adquiridos seja do fabricante ou em OEM;
+ 
+ 
+Suporte básico para softwares de outros fornecedores: Caso o especialista identifique que o probléma
+  
+está sendo causado por algum sistema operacional (ex.: MS Windows Server, RHEL, SuSE EL, VM
+vSphere), a critério desse órgão, o especialista deve tentar solucionar o problema mediante aplicação”
+correções conhecidas disponíveis, e se não puder ser solucionado, considerando contrato vigente desté
+ 
+órgão com o fornecedor do software, este órgão poderá solicitar que o fabricante escale o chamado pará
+o fornecedor do software em seu nome de modo a relatar o que já foi executado e os indícios de q
+ 
+ 
+ 
+Página 16 de 54problema foi causado pelo software, e então retorne com o identificador do chamado para que esse órgão
+< -
+faça o acompanhamento com o fornecedor do software;
+ESPECIFICAÇÃO PADRÃO DOS SERVIÇOS DE INSTALAÇÃO/ATIVAÇÃO DO FABRICANTE
+(Para todos os equipamentos ofertados)
+* —Todosos equipamentos deverão incluir serviços padrão de ativação/instalação do fabricante, exç;etê
+m o
+opcionais para expansão de equipamentos existentes que sejam instaláveis pelo usuário e tenharr
+ 
+recurso hot pluggable:
+)
+* O serviço de instalação/ativação deverá contemplar desembalagem, conferência, montagent,
+ 
+inicialização, conexões elétricas/lógicas, atualização, inicialização e testes de verificação;
+e Paraositens que exigirem paradas ou risco de parada do equipamento em produção, a instalaí
+deverá ser planejada e ocorrer fora do horário comercial.
+  
+  
+ 
+ 
+ 
+ 
+AQUISIÇÃO DE EQUIPAMENTOS E CONTRATAÇÃO DE SERVIÇOS PARA MIGRAÇÃO DÊE
+Lote 01 | INFRAESTRUTURA DE ARMAZENAMENTO E ATUALIZAÇÃO DE AMBIENTES VIRTUAL E DE
+BACKUP
+  
+ 
+ltem Descrição Quantidade
+ 
+ 
+ 
+11 Equipamento STORAGE SYSTEM FIBRE CHANNEL
+ 
+ 
+ 
+  
+ 
+  
+*  Configuração (Mínima):
+* 02x Controladoras e 04x Processadores; 64GB de Cache Total (Data Cache + Control Cache;
+* 04x PortasFibre Channel 8/16Gbps; 02 x Portas GbE RJ-45 para Gerenciamento;
+* 02xPortas12GbpsSAS por controladora para conexão com Drive Enclosures;
+e 20xDiscosde41.8TBSAS 10kSFF com área útil (disponível para produção) de 22TB;
+* —Performance de 6.000 IOPS Front End
+= Variáveis consideradas: Workload: randômico; Read/Write: 80%/20%; Bloco: 8k; CaçhÉ
+Hits: 30%, Tier SAS em RAID 5 (3+1);
+* — Funcionalidades (Mínima)
+ 
+e CasooStorage possua licenciamento de discos, o mesmo deve ser fornecido com licenciameéntô
+ilimitado para os softwares fornecidos;
+*  Snapshotsem necessidade de reserva de área, com suporte à criação de grupos de consistêni
+e com capacidade de realizar 250 (duzentos e cinquenta) snapshots do tipo read/write;
+* Deve permiítir criar, gerenciar e automatizar snapshots consistentes para VMware vSpher:
+Microsoft SQL Server e ambientes Oracle;
+e — Recursos para otimização do espaço em disco ocupado
+" —"Remoção dos dados alocados, mas não utilizados de forma online;
+"“  Software de Thin Provisioning, permitindo aprovisionar antecipadamente tamanho
+ 
+volume maior do que a área real consumida;
+  
+* Tierização automática de dados entre as camadas de discos configuradas, permitindé
+ 
+movimentação automática dos dados para discos de maior ou menor performance de fo:
+ 
+ 
+ 
+ 
+ 
+Página 17
+de 54automática;
+latência) para proteger apllcanvos de missão crítica;
+ 
+* Deve permitir habilitar grupos de usuários para acesso a determinadas aplicações. Prõvgr
+funcionalidade para que determinado volume e cópias não sejam deletados por usuários Sefn
+ 
+ 
+nível de alto privilégio. Recurso de bloqueio virtual do volume para ajudar na retenção dos dádos
+   
+  
+e simplificar procedimentos de auditoria.
+*  Controladoras ativa-ativa, permitindo que uma unidade lógica possa ser compartilhada por togê S
+ 
+as controladoras de forma simétrica;
+* NSPoF (sem ponto único de falha) incluindo controladoras, cache, exaustores e fontes d:e
+alimentação;
+ 
+* Deve permitir habilitar grupos de usuários para acesso a determinadas aplicações. Pen
+  
+também a habilitação para que determinado volume e cópias não sejam deletados por usuáí
+sem nível de alto privilégio. Recurso de bloqueio virtual do volume para ajudar na relençãoã
+dados para simplificar procedimentos de auditoria.
+e  Crescimento de Forma Vertical (total):
+= — 240 (duzentos e quarenta) Hard Disk Drives ou 120 (cento e vinte) Solid State Drives;
+= — SuporteabDiscos NL SAS (2TB, 4TB, 6TB e 8TB), SAS (300GB, 600GB, 1.2TB e 1.8T7i
+SSD (400GB, 480GB, 920GB, 1.92TB, 3.84TB, 7.68TB e 15.36TB);
+*  Deve suportar deduplicação in-line para a camada SSD sem reserva de área, possibilitan:
+ 
+   
+  
+redução do consumo da capacidade de forma online e sem a necessidade de reserva de espa
+no Storage. Também serão aceitas soluções com deduplicação pós-processamento, que exi:
+capacidade adicional para o armazenamento temporário de dados duplicados, desde que ofert
+a dobro da capacidade nominal de disco e área útil;
+ 
+ 
+ 
+ 
+ 
+ 
+Item Descrição Quantidgdê
+1.2 Gaveta com discos NL SAS para equipamento STORAGE SYSTEM FIBRE CHANNEL
+*  Configuração (Mínima):
+e 01x Drive Enclosure com 24 slots para Discos LFF 3,5";
+e 12xDiscosde2TBNLSAS 7.2k com área útil mínima de 14TB em RAID 6 (4+2);
+Item Descrição
+13 Gaveta com discos SSD para o equipamento STORAGE SYSTEM FIBRE CHANNEL
+ 
+ 
+ 
+ 
+Configuração (Mínima):
+* 01x Drive Enclosure com 24 slots para Discos SDD 2,5';
+* 08x Discos400GBcMLC com área útil mínima de 1.7TB em RAID 5 (3+1);
+  
+ 
+ 
+O Storage ofertado no item 1.1 deste lote, deve suportar deduplicação in-line para a camada SSD sê
+ 
+reserva de área, possibilitando a redução do consumo da capacidade de forma online e se
+necessidade de reserva de espaço no Storage. Também serão aceitas soluções com deduplicação
+processamento, que exigem capacidade adicional para o armazenamento temporário de daªoís
+duplicados, desde que ofertem a dobro da capacidade nominal do disco e área útil neste item (Item 1.3X
+ 
+ 
+ 
+Página 18 deItem Descrição
+ 
+14 SWITCH SAN FIBRE CHANNEL
+ 
+ 
+ 
+ 
+*  Configuração (Mínima):
+* —Switch tipo Full Fabric com 24 (vinte e quatro) slots com suporte para transceptores 8Gb Fibre
+Channel SFP+;
+“ 16xportas ativas/habilitadas;
+* —FormFactor para Rack padrão 19 polegadas;
+* — FUNCIONALIDADES MÍNIMAS
+* RateLimiting;
+e Zoning;
+* — QualityofService(QoS);
+e Trafficisolation;
+e Interface Gráfica Web;
+ 
+ 
+ 
+Item Descrição Quantidade
+ 
+1.5 TRANSCEPTOR para o SWITCH SAN FIBRE CHANNEL
+ 
+ 
+ 
+*  Configuração (Mínima):
+e 01xTransceptores short wave 8GbFC;
+* O01xCaboóticoOM4 com 5m de comprimento;
+ 
+Item Descrição
+ 
+1.6 MIGRAÇÃO DE INFRAESTRUTURA DE ARMAZENAMENTO DE DADOS DE TI
+ 
+ 
+ 
+ 
+ 
+ 
+projeto a seguir:
+ENTREGÁVEIS
+a) Plano de Projeto;
+b) Instalação e Configuração;
+c) Migração de dados do Storage legado para o novo;
+d) Atualização e migração da plataforma de virtualização VMware vSphere;
+e) Atualização e reconfiguração da plataforma de backup HPE Data Protector;
+f) Documentação de configuração;
+g) Transferência de conhecimento no formato hands on;
+OBRIGAÇÕES DA CONTRATANTE
+ 
+ 
+Página 19 d
+le 54com a especificações do fabricante do Storage para instalação dos equipamentos;
+b) A ALGÁS disponibilizará espaço físico para desembalagem e montagem dos equipamei
+adquiridos, bem como para alocação de até dois profissionais da CONTRATADA;
+c) A ALGÁS proverá acesso da equipe de implantação às suas instalações físicas, bem comô
+infraestrutura de virtualização (hosts, vCenter e vSOM), LAN, Internet, equipamentos e software:
+ 
+infraestrutura legados, e ao HPE Data Protector Cell Manager para que os serviços de implanta&:
+ 
+sejam realizados;
+   
+ 
+ 
+   
+  
+d) AALGÁS disponibilizará estação de trabalho em sua rede para execução das atividades do projetoê
+e) A ALGÁS disponibilizará acesso remoto para atuação do fabricante na configuração do equipamento;
+f|) A ALGÁS disponibilizará de cabos e portas de redes para conectividade dos equipamentos à
+infraestrutura de LAN existente, VM para implantação de software de gerenciamento, e IPs par:
+componentes da nova Infraestrutura;
+g) A ALGÁS será responsável pelas criações de usuários, liberações de acessos Internet, redê
+servidores, backup dos dados das VMS, configuração de firewall e/ou proxy, DNS, AD e LAN;
+h) Caso alguma VM ou Dado tenha a sua migração impedida pelo processo de Storage vMotiort à
+CONTRATADA deverá fornecer suporte à ALGÁS na reinstalação da VM no novo ambiente;
+ESCOPO DO PROJETO
+a) Novos Storage, Gavetas de discos, Switch SAN Fibre Channel e Transceptores objetos deste edital;
+b) Equipamentos e Softwares legados:
+a. Storage HPE EVA 4400;
+Servidores modelo HP Proliant DL360 Gen9;
+>
+Switchs Fibre Channel HP StorageWorks 8/20qg;
+Tape Library modelo HP StorageWorks MSL4048;
+Software HPE Data Protector;
+=.eeo
+Software VMware vSphere;
+Software Microsoft Windows Server 2003, 2008 e 2012;
+Software Linux CENTOS, DEBIAN, ORACLE LINUX, RED HAT e SUSE;
+>=o
+PLANO DE ATIVIDADES
+Estratégia de Implementação:
+a) A primeira fase consistirá no planejamento da instalação, migrações, atualizações e elaboraçã:
+Plano de Projeto:
+a. Mapeamento do ambiente;
+”
+Analise das Matrizes de compatibilidades dos equipamentos e softwares;
+Criar dois cenários para implantação e migração dos dados;
+Criar nova infraestrutura de virtualização;
+Criar nova Política de Backup;
+m.a
+Criar Plano de Projeto;
+ 
+ 
+ 
+Página 20 de 54b) A segunda fase consistirá na Implantação, Migração e Atualização:
+a. Storage:
+i. —Instalação física e conectividade do Storage, SAN Switchs e Servidores;
+ 
+ik. — Conectividades elétrica, LAN e SAN;
+on B9F-167B-A4EB-EI
+o
+iii — Atualização e instalação de softwares, drivers e firmwares necessários
+implantação do Storage;
+iv. — Preparação da SAN:
+1. Configurar e atualizar SAN Switches;
+2. Criar configurações de Zones;
+3. Integração com a SAN existente;
+v. — Instalação da gerencia do Storage;
+vi. —“Instalação e configuração inicial do Storage;
+vii. — Testes de conectividade e funcionalidades do Storage;
+vili. — Finalizar configuração de Zones;
+b. Migrações de Dados:
+i. — Preparação das áreas para migração de dados;
+ik. — Aplicar plano de contingência para as migrações;
+iii — Migrações de dados do Storage antigo para o novo;
+iv. — Validações e testes pós migração de dados;
+v. — Instalação e configuração dos opcionais do Storage;
+vi. — Fase de operação experimental do novo Storage;
+c. Infraestrutura de Virtualização:
+i. — Preparação para migração das infraestruturas de virtualização;
+iki. — Atualização do vCenter e vSOM;
+ii — Atualização dos Hosts;
+iv. — Atualização das VMs (VMTool| e HW Hardware);
+v.  Validações e testes pós atualização da infraestrutura de virtualização;
+vi. — Fase de operação experimental da nova da infraestrutura de virtualização;
+d. HPE Data Protector:
+i. — Preparação para atualização do HPE Data Protector;
+i. — Atualização do Cell Manager e Clientes;
+iii Integração dos agentes opcionais;
+iv. — Configuração dos devices e mídias;
+v. — Atualização das políticas de backup;
+vi. —Validações e testes pós atualização do HPE Data Protector;
+vii. — Fase de operação experimental do HPE Data Protector;
+c) A última fase consiste na documentação e transferência de tecnologia:
+ 
+a. Documentação final;
+ 
+b. Transferência de conhecimento no formato Hands On sobre operação e administração d
+ 
+produtos implantados, para até três profissionais, utilizando o ambiente da própria ALGÁS;
+ 
+ 
+ 
+Página 21 de 54Lote 02
+ALGÁS
+ 
+AQUISIÇÃO DE ATUALIZAÇÃO DAS LICENÇA DO SOFTWARE HPE DATAPROTECTOR D,
+ 
+o PB9F:
+ 
+ESPECIFICAÇÃO DOS SERVIÇOS DE SUPORTE E ATUALIZAÇÃO DOS ITENS HPE DATA PROTECTOR
+*  Registrodechamado: 24x7 (vinte quatro horas por dia, sete dias por semana) através de ligação local
+gratuita; A Central deverá confirmar o recebimento do chamado informando um identificador Éàr:a
+acompanhamento.
+* —Recursos Reativos: Atividades sob demanda que deve incluir especialistas técnicos para atendiménto
+remoto
+e — Período de cobertura: 24x7 (vinte quatro horas por dia, sete dias por semana);
+e  Centralde Suporte: com atendimento em português através de ligação local ou gratuita;
+* Tempo de Atendimento para chamados de alta gravidade: início do atendimento por um especialísta
+técnico em até 2h (duas horas) após registro do chamado;
+* —Resolução remota dos chamados: Mediante autorização prévia desse órgão, o fabricante poderá utilizar
+as ferramentas de software para realizar o diagnóstico, isolar e resolver o problema;
+segurança.
+   
+ 
+ 
+ 
+ 
+ 
+Item Descrição
+ 
+Atualização da licença do software de backup HPE DATA PROTECTOR - CELL
+21 MANAGER HP-UX de posse da ALGÁS, dando direito à utilização da versão mais
+recente do software.
+ 
+Atualização da licença do software de backup HPE DATA PROTECTOR - PLUG-IN
+2.2 DRIVE SAN de posse da ALGÁS, dando direito à utilização da versão mais recente do
+software.
+ 
+Atualização da licença do software de backup HPE DATA PROTECTOR - PLUG-IN
+23 ONLINE BACKUP de posse da ALGÁS, dando direito à utilização da versão mais
+recente do software.
+ 
+Atualização da licença do software de backup HPE DATA PROTECTOR — PLUG-IN
+ADVANCED BACKUP TO DISK 1TB de posse da ALGÁS, dando direito à utilização
+da versão mais recente do software.
+24
+ 
+ 
+ 
+Lote 03 | SERVIDOR RACK PARA GERENCIAMENTO
+ 
+ 
+ 
+ 
+Item Descrição Quantidade
+ 
+ 
+31 Equipamento Servidor padrão rack 19” (horizontal)
+ 
+ 
+ 
+ 
+Págir
+ 
+ 
+ 
+je 54Configuração (Mínima):
+Formato rack 19” com altura máxima de 1U.
+Fontes de alimentação (200-240V) e exaustores hot plug e redundantes.
+01 x Processador E5-2623v4;
+32GB (2x16GB) de Memória RAM DDRA4;
+01 x Placa de Rede com 04 quatro portas 1 GbE RJ-45.
+01 x Placa HBA com 02 portas 8GbFC (Fibre Channel);
+01 x Placa SAS Dual Port Externa 12G;
+02 x HD de 600GB SAS 10k 12G;
+01 x Controladora de vídeo 1280 x 1024 (32 bpp);
+Funcionalidades:
+Subsistema de memória com suporte aos recursos de Advanced ECC e Online Spare;
+Software de Gerenciamento:
+  
+  
+Permitir a configuração remota do equipamento através de mídia virtual (CD, DVD, etc;
+Gerenciamento da saúde dos servidores com alertas proativos;
+Dashboard customizavel;
+Gerenciamento de Firmware com feature de Baseline;
+Relatórios de alertas, usuários e servidores;
+Inventários de Firmware dos servidores, Perfis de Servidores;
+Provisionamento de Servidores Windows, Linux e ESXi;
+Gerenciamento Remoto: KVM virtual, Virtual Media USB, Integração com MS Terminãl
+Services;
+Mapa térmico do Datacenter;
+ 
+Plug-in para integração com VMware vCenter STD, vCenter Operations Managef €
+vCenter Log Insight;
+ 
+ 
+Página 23 de 54o
+Q
+É
+<
+.a
+F
+2
+o
+o
+o
+Q
+<
+F
+Ú
+o
+a
+o
+—
+a
+N
+o
+o
+<
+w
+2
+<
+Página 24 de 54e | .
+Hewlett Packard  Microsoft Partner
+Enterprise sac
+ 
+:RTINET.
+WuNEK
+ENA
+ 
+Maceió, 31 de agosto de 2017.
+Sérgio Muniz s
+Gerente de Vendas A
+(82) 9 9341-1443 GÁS DE ALAGOAS S.A
+Sergio&nevrsupri.com.br
+À
+A GÁS DE ALAGOAS S/A — ALGÁS,
+Ref.:
+Prezados Senhores.
+  
+[STORAGE SYSTEM FIBRE CHANEL
+[Gaveta (enclosure) com discos N SAS.
+[Gaveta (enclosure) com discos SSD
+[SWITCH SAN FIBRE CHANNEL
+| TRANSCEPTOR para o SWITCISANTIRRE
+1
+[Serviço Newsupri
+20368 0286
+VE
+ENTA 0047
+ENTA 0197
+AMBGSC
+A
+Í1 PE 3PAR 6200 2N4SW Storage Ficld Base.
+de: 1XK2036 ; 22 x K2P91B ;
+MAI4AL - SXU; HIK9IA3 - W3G
+Í1PE 3PAR Alkin:
+Í1PE 3PAR 6000 LFF(3,Sin) Fd Int Dr Encl
+de: 1XE7Y72A ; 12 x K2P95B, ;
+LIK94A3 - XBS ; INIK9MA3 - YD
+[1PE 3PAR 6000 SFF(2.5in) Fd Int Dr Encl
+(Composto de: 1x E7Y71A ; 8 x N9YOGB, ;
+MIKIAA3 - XBE; IMIIIAL SZ
+|1c 8/24 Base 16-port Enablcd Swich ;
+(MIX94A3 — 9 ;MAA SGA
+PE Premier ox
+[NE SGh Short Wave B-Series SFP+ 1
+[Serviços de migração e atualização
+NEUISU)
+Integrando tecnologias. Gerando resultados
+LICITAÇÃO Nº 005.2017 - PREGÃO ELETRÔNICO Nº 003.2017
+84718000
+84733099
+84733099
+85176239
+85176259
+serviço
+  
+Apresentamos e submetemos à apreciação de V.Sas, nossa Proposta de Preços, para o objeto
+presente Licitação, de acordo com as exigências estabelecidas no Edital e seus anexos, conforme Planil
+de Preços Unitários - PPU em anexo, assumindo inteira responsabilidade por quaisquer erros ou omissõ.
+que venham ser verificados na sua elaboração.
+R$ 210.524,00
+R$69.000,00
+R$ 125.000,00
+R$ 36.500,00
+lunia, R$ 95.000,00
+ToTAL
+LOTE 02 * AQUISIÇÃO DE ATUALIZAÇÃO DAS LICENÇAS DO SOFTIWARE HPE DATAPROTECTOR DA ALGAS!
+   
+ 
+[)
+( ieitoo
+[
+ee
+o
+(QRcenAo
+Tributos)
+ente
+    
+2
+giostlo parágrafo único, do art. 38 da Lei EN66/93, e foi
+nogteri
+s
+ves,
+ras vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o códh
+R$211.024/
+R$69.000,00 É
+o
+R$ 125.000,000
+;
+ara veníficar as assinal
+R$73.000,00 É
+d
+funiz Junior.
+Z
+R$ 95.000,00 É,
+R$ 600.000,065
+ED
+EE
+[NEn
+Tributós)
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pelo presente, declaramos ainda que:
+SUPRISERVI COM REIS E
+SERVIÇOS LTDA
+www newsupn com te
+VendasGnewsupri com br
+Central Recife - PE
+R Gal Góes «
+Imbirbeira
+(81) 3366-8500/
+  
+ 
+JAtualização das licenças HPE DATA 8
+21 [Moreros ceu maraceR e —  [M610A3  7RW|WPESW Enterprise Standard 3n Support | seniço Junia| 1 | R$1556234 R$1856234 S
+|Atualização das licenças HPE DATA.
+E EAS aaaA DA TMAA MM61CA3 — 7RV PE SW Enterprise Standard 3 Support — | seniço Junia] 1 | R$16342,39 R$ 1634239 O
+[Atualizaçõo das licenças HPE DATA : S
+23 [MoTreroR PG TNE BACKP — | MMSICAS — 1QU fiPE SW Enterprise Standard 3n Support | seniço Junia| 9 | R$e53296 R$47.966,49 &
+[atualização das bcenças PE DATA E
+2.4 [PROTECTOR - PLUG-IN ADVANCED BACKUP| I610A3 — 7TU |1PE SW Enterprise Standard 3yr Support — | seniço junia| 1 | R$5.00378 R$5.003,78 &
+[TO DISK 176 õ
+TOTAL R$87.875,007
+ 
+ 
+ 
+ 
+ 
+ 
+Filial Maceió - AL
+(82) 3327-7703 1 Fax 3327-9406
+teve sua mini
+por Luciano KulkA Ribas, Amobio Tavalcanti Filho e Jose Alves
+  
+ 
+É
+S
+Ê
+3
+3
+8
+E
+g
+F
+u
+Página 25 de 54Integrando tecnclogias. Gerando resultados.
+ 
+1. Nossa proposta de preços foi elaborada considerando todas as despesas inerentes
+fornecimento dos bens e serviços licitados, inclusive frete, despesas de pessoal, taxas
+embarque etc., estando também incluso todos os tributos, tal como ICMS, IPI, substituiç
+tributárias, diferencial de alíquota de ICMS, entre outros incidentes;
+míohas|
+E
+2. Manteremos válida a proposta pelo prazo de 60 (sessenta) dias consecutivos, contados da data
+recebimento desta proposta de preços, ressalvando que, na hipótese de RECURSO, e tendo
+vista o seu efeito suspensivo, o prazo de validade desta proposta de preços não correrá durant:
+período de recebimento e julgamento dos recursos;
+ãdaiew 8.666/|
+ificaf? e Milisê o código?BSE-1B87BNAA
+do afº 3!
+    
+ 
+3.  No fornecimento dos bens objeto desta proposta observaremos rigorosamente as especificações?
+técnicas, as condições e os prazos de entrega estabelecidos no edital e em seus respectivíàã
+anexos, assumindo desde já a integral responsabilidade pela perfeita execução das obrigaçõêsé
+assumidas, inclusive quanto aos prazos de garantia mínimos previstos no edital e em seus anexê:
+&
+1ios d
+Itleassiriátul
+4. O Representante Legal para assinatura do Contrato, será o Diretor José Alves Muniz Juni
+Brasileiro, Casado, Endereço Rua Gal Góes Monteiro, 308 - Imbiribeira - Recife — PE, CEP 51.1
+560, Cart. de Identidade 638.963, Órgão Expedidor SSP/AL, CPF 349.227.334-34;
+;
+5. Os pagamentos deverão ser depositados no Banco do Brasil S/A — 001, Agência 3186-0
+Conta 99422-7, referentes ao Contrato.
+|e Souza Chaves, nogsfe:
+ls vá ao site https://pottal
+6. Estamos ciente que, nos termos do item 15.1.4 do edital, o Contrato/Ata de Registro de Pre:
+poderá ser assinado digitalmente, com fundamento na Medida Provisória nº 2.200-2/20(
+mediante uso de certificados digitais expedidos por Autoridade Certificadora integrante
+Infraestrutura de Chaves Públicas Brasileira — ICP-Brasil, de modo que, nesta hipótese,
+representante para assinatura dos instrumentos contratuais será:
+WB
+EEA
+* —Nome:José Alves Muniz Junior, Brasileiro
+e CPF:349.227.334-34
+e  Cargo:Diretor
+* —E-mail: junior&newsupri.com.br
+(BB advogado(a) Adriano Goncâlve:
+7. Em cumprimento ao Anexo Q4 - Memorial Descritivo do presente Edital, declaramos que o obj
+ofertado atende plenamente a todas as exigências e características técnicas requisita
+garantindo na íntegra a qualidade e especificações técnicas demandadas pelo presente edital..
+lve8 Muniz Junior. Para verificar &
+o
+8. Não sendo a hipótese de assinatura digital, o Representante Legal para assinatura
+instrumentos contratuais, será:
+* —Nome:José Alves Muniz Junior, Brasileiro
+e CPF:349.227.334-34
+e  Cargo: Diretor
+e — E-mail: junior&Onewsupri.com.br
+  
+Os materiais ofertados têm como fabricantes Hewlett Packard Enterprise.
+documbnto teve sua minuta examinada e &rovada p
+por Luciano Kulka Ribas, Arnobio Cavalcanti Fifto e Jose
+ 
+SUPRISERVI COMÉRCIO, REPRE:
+E SERVIÇOS LTDA
+Este
+ 
+Página 2 de 301
+Página 26 de 54Tmenle
+, e fobassinado digital
+IIEUBUPri
+Assim, sendo essa proposta a expressão da verdade, firmamo-la para que seja válida e produza
+efeitos jurídicos desejados.
+ 
+ 
+  
+ 
+53
+e o código 7B9F-1B7B-A4EB-EF8A.
+ 
+Atenciosamente.
+eel dRRA
+Prócuradora — NEWSUPRI
+Fones: (82) 9 9302-8523
+robonita(Onewsupri.com.br
+    
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupricombr
+E SERVIÇOS LTDA vendas&newsupri com br Página 3 de X
+por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Jose Alves Muniz Junior. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e util
+Êste documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 3
+Página 27 de 54m—
+Hneme
+foi assinado&9ital
+      
+Integrundo tecnologias Gerando resultados.
+ 
+ESPECIFICAÇÕES DOS SERVIÇOS DE GARANTIA PARAZ
+HARDWARE E SOFTWARE EMBARCADOS
+ 
+qart. 3 da Lei 8.666X3,
+Todos produtos possuem Garantia do Fabricante do Hardware e Software por 03 (três) anos com
+seguintes condições aplicáveis à cada item:
+* Recursos online: Acesso à um portal personalizado que inclui fóruns de suporte; envio '
+chamados de suporte; download de drivers, software e firmware; gerenciamento de patch
+principais problemas e soluções guiadas; detalhes de garantia; atualizações de software; acess:
+base de conhecimento; ferramentas de diagnóstico; chat para envio de perguntas.
+* — Registrode chamado: 24x7 (vinte quatro horas por dia, sete dias por semana) através de liga
+gratuita 0800 55 64 OS, portal na web hpe.com/services/proactivecarecentral para software
+monitoração; a Central confirma o recebimento do chamado e informa um identificador p
+acompanhamento; quando aberto automaticamente pela ferramenta de monitoração, a HP
+ligará para ALGAS para que o chamado seja classificado o nível de gravidade do chamado; o nív
+de gravidade dos chamados serão determinado pelos técnicos da ALGAS quando do registro
+chamado;
+* — Recursos Proativos: Atividades proativas com periodicidade semestral, que inclui disponibilid;
+de gerente de serviço remoto para apresentar os relatórios e discutir as recomendações.
+*  Ferramenta de software (Remote Support Technology) para monitoração de eventos, coleta
+dados de configuração e topologia e notificação automatizada de problemas potencias
+servidores, sistemas operacionais, armazenamento e dispositivos de rede; %
+* — Serviçode análises e recomendações de patches de software (hypervisor OEM, storage e switche:
+core), versões de firmware e drivers relacionados para verificar se estão de acordo com os nívêi:
+de revisão recomendados. A análise irá abranger o gabinete e todos os seus component&ss
+incluindo servidores, componentes de energia, refrigeração e interconexão. Será gerado um-
+relatório com recomendações referentes às versões de software, aos patches e às revisõesâê
+firmware aplicáveis. Assistência remota para instalação de patches de software e versõesªcã
+firmwares, exceto aqueles classificados como não instaláveis pelo cliente ou que não possam SefE
+instalados remotamente que deverão ser instalados on-site pelo fabricante/autorizada; Z
+* Serviço de avaliação técnica do Storage para ajudar a identificar os problemas de segura:
+desempenho, configuração e disponibilidade do sistema antes de causarem impacto
+operações. Execução de ferramentas de software para coletar, transportar com seguran
+analisar dados de configuração e comparar às práticas recomendas pela HPE. Entrega de relató
+com recomendações e um curso de ação apropriado para correção dos eventuais problemas.
+* — Entregade relatório detalhando histórico de incidentes e a análise de tendência dos incidente:
+* —Recursos Reativos: Atividades sob demanda que inclui especialistas técnicos, gestores de evení
+críticos.
+* — Período de cobertura: 24x7 (vinte quatro horas por dia, sete dias por semana);
+* — Níveisde Gravidade: (1) paralisação crítica: ex.: ambiente de produção ou sistema paralisado
+com risco grave de paralização ou de perda de dados; (2) degradação crítica: ex.: ambiente
+produção ou sistema seriamente prejudicado, interrompido ou comprometido, risco
+l único, d
+paradr:
+sSermo:
+Gha
+Bouza
+o
+influras VA ao sit? hups:SPoRaldBasLinatur4£.com Br'verififar/ e dtilize o código
+ieixa De
+véfificâras ;ª/
+a
+(a)
+;;
+E
+& Jo%ê Alves M
+ogRdBP
+d
+ifàda e
+to tevegsuagminuta exafni
+ARIPPas Amobio Cáalcanti Filb
+i lk
+t
+>
+    
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+o
+E SERVIÇOS LTDA Página 4 de 30l &
+ 
+Página 28 de 54SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+Integrando tecnologias. Gerando resultados,
+   
+recorrência; (3) normal: ex.: ambiente não de produção ou sistema fora do ar ou degra
+baixa: ex.: nenhum impacto sobre os sistemas ou usuários -
+Central de Suporte: Central especifica para atendimento de chamados de cobertuta:
+proativa/reativa, com atendimento em português através de ligação gratuita 0800 5564 05; &
+Tempo de Resposta: Chamados de gravidade 1 = prazo máximo de 15 (quinze minutos) ap%sw
+registro do chamado para início do atendimento por um especialista técnico capacitado páfas
+recuperar ambientes complexos de tecnologia e com acesso completo para solucionarãoê
+problema, incluindo escalação para níveis mais altos de especialidade, se necessário. O serviªoã
+deve incluir suporte para ajudar os técnicos deste órgão a identificarem problemas que sejaãn%
+difíceis de reproduzir. O especialista técnico irá acompanhar o chamado até a conclusão, ain_gaª
+que sejam envolvidos os profissionais especializados na resolução do chamado; Chamados ãeã
+Bravidade 2 = 30 (trinta) minutos; e para demais níveis de gravidade = 2 (duas) horas;
+Tempo de Reparo (teste e substituição da peça defeituosa): Chamados de gravidade 1 ou 2 = pra;
+máximo de 6h (seis horas) após registro do chamado. Será concedido um prazo de trinta dias a
+a instalação dos equipamentos para efetivação desse objetivo de nível de serviço; e para dem;
+níveis de gravidade = será mutuamente acordado;
+Atendimento local: Atendimento local para situações em que seja diagnosticada necessidade
+substituição de peças por técnico especializado ou atividades que não seja possível execuç;
+remota. O atendimento local será realizado pela autorizada do fabricante
+o  SUPRISERVI COMÉRCIO REPRESENTAÇÕES E SERVIÇOS LTDA
+CNPJ: 12.707.105/0003-26
+Rua Dep. José Lages, 972 - SLO7 - Ponta Verde - Maceió — AL
+CEP: 57035-330
+Telefone: (82) 3327-7703
+Para chamados não críticos (gravidade 3 ou 4), as peças como teclado, mouse e unidades
+pluggable que não exijam ferramentas e sejam instaláveis pelo usuário poderão ser remetidas
+meio de transportadora para que os técnicos desse órgão realizem a substituição;
+Peças: Fornecimento de peças de reposição novas (ou funcionalmente equivalentes) necessá
+para manter o hardware em condição operacional;
+Gerenciamento de escalação: Para situações de gravidade 1 em que o atendimento precisar
+escalado, será alocado um gestor de eventos críticos para monitorar e coordenar todo o proce:
+e assegurar o envolvimento imediato e efetivo dos recursos para agilizar a solução do incident
+Resolução remota dos chamados: Mediante autorização prévia da ALGAS, a HPE poderá utilizar:
+ferramentas de software instaladas para monitoramento ou outras para realizar o diagnósti:
+isolar e resolver o problema;
+Licenças de atualização de software: Incluso atualização de firmware e de licenças para atualiza
+dos softwares adquiridos seja do fabricante ou em OEM;
+Suporte básico para softwares de outros fornecedores: Caso o especialista identifique qu:
+problema está sendo causado por algum sistema operacional (ex.: MS Windows Server, RHEL, S
+EL, VMware vSphere), a critério da ALGAS, o especialista irá tentar solucionar o proble
+mediante aplicação de correções conhecidas disponíveis, e se não puder ser soluciona:
+considerando contrato vigente da ALGAS com o fornecedor do software, a ALGAS poderá solici
+que a HPE escale o chamado para o fornecedor do software em seu nome de modo a relatar o
+já foi executado e os indícios de que o problema foi causado pelo software, e então retorne c:
+utilizê o códid
+a
+do
+leassin
+TÃRDS
+o
+s
+jo.
+Z
+00o0o
+iCkinves,
+car as assinaturas vá ao Sité'https:/fBorfald
+oncalves Vieira De Sou:
+difogado&s) AdriBhoS.
+juriz Juni6r. Pará Vefifi
+SM
+aa
+Iho & JosÊ Alves
+ef(atãa:
+Id:
+ 
+GxaMinadã aprofa
+iríiBta:
+*AmBbid LaPalcantt
+eng teBe fia!
+âa'&mãs
+iano K
+ 
+po!
+Página 5 65
+Página 29 de 54VBd3-936v-9/9T1-169/ o6ipog a RUfRAS Edwan/9WO Seineuisseapreuod//:sdny aus oe vm seimeuisse se seoyuan ered Jolunç ZIUNIA SaAIy asor & OUIIA NUBOJeneo CIMOuIy 'Seqiy exIny oueronT 10d
+Eãsrm._m_ Opeuisse 0) 3 'c6/fbo/ÁARS 1 p ge t opNoatun ojelbeied op sowsal sou 'Saneyo eZNos aq eNtaIA sanfesuos oueuipy (e)opeGonpe (e)ojad epenoide a epeunurexa emnuiu ens 2191 owauWINDop a1s)
+   
+< 8
+&. é RN i
+o H
+j
+=):
+3
+&
+&
+W:
+3
+&
+j
+5
+2$
+s
+E
+s&
+H
+zs
+&
+o identificador do chamado para que a ALGAS faça o acompanhamento com o fornecedo:
+software;
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+Página 30 de 54NEUISUPr
+Integrando tecnologias. Gerando resultados.
+ESPECIFICAÇÃO PADRÃO DOS SERVIÇOS DE
+INSTALAÇÃO/ATIVAÇÃO DO FABRICANTE
+(Para todos os equipamentos ofertados)
+ 
+Bilverificar/ e utilize o código 7B9F-167B-A4EB-EF8A.
+1fo, dajart. 38 da Le
+* Todososequipamentos possuem serviços padrão de ativação/instalação da HPE, exceto opcion
+ú
+para expansão de equipamentos existentes que sejam instaláveis pelo usuário e tenham o recursos
+hot pluggable: % 3
+* Oserviçodeinstalação/ativação contempla desembalagem, conferência, montagem, inicializaçà'p,%
+o conexões elétricas/lógicas, atualização, inicialização e testes de verificação; 8 â
+* Paraositensque exigem paradas ou risco de parada do equipamento em produção, a instalaçãos
+será planejada e ocorrerá fora do horário comercial.
+nos terngas
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupa.com br
+E SERVIÇOS LTDA vendasGnewsupn com.br Página 7 de 30
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves,
+por Luciano Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portald:
+Página 31 de 54NEUISUP
+Integrando tecnotogias Gerando resultados.
+   
+ 
+LOTE 01 - AQUISIÇÃO DE EQUIPAMENTOS E
+CONTRATAÇÃO DE SERVIÇOS PARA MIGRAÇÃO DE
+INFRAESTRUTURA DE ARMAZENAMENTO E
+ATUALIZAÇÃO DE AMBIENTES VIRTUAL E DE
+BACKUP
+do digitalmente
+EF8A.
+%q' Y ASYB-AEB
+../'E
+7
+ 
+ificar/ e utilize o có
+ 
+ITEM 1.1 Equipamento STORAGE SYSTEM FIBRE CHANNEL
+- HPE 3PAR StoreServ 8200
+e Configuração:
+o 02 x Controladoras e 04 x Processadores; 64GB de Cache Total (Data Cach
+Control Cache);
+o 04x Portas Fibre Channel 8/16Gbps; 02 x Portas GbE RJ-45 para Gerenciament:
+02 x Portas 12Gbps SAS por controladora para conexão com Drive Enclosures;
+o 22 x Discos de 1.8TB SAS 10k SFF com área útil (disponível para produção)
+o
+25.4TiB;
+o Performance de 6.011 IOPS Front End
+Variáveis consideradas:
+o
+o Workload: randômico; Read/Write: 80%/20%; Bloco: 8k; Cache Hits: 30%, Tier S,
+em RAID 5 (3+1);
+* — Funcionalidades
+o O Storage HPE 3PAR possui licenciamento de discos ilimitados para os softwa
+fornecidos;
+o Snapshot(3PAR Virtual Copy) sem necessidade de reserva de área, com suport:
+criação de grupos de consistência, e com capacidade de realizar 250 (duzento:
+cinquenta) snapshots do tipo read/write;
+o Permite criar, gerenciar e automatizar snapshots consistentes para VM w
+vSphere, Microsoft SQL Server e ambientes Oracle (3PAR Recovery Mana
+Central Application Suite);
+o Recursos para otimização do espaço em disco ocupado
+" Remoção dos dados alocados, mas não utilizados de forma online (ze
+detection);
+= Software de Thin Provisioning (3PAR Thin Provisioning), permitin
+aprovisionar antecipadamente tamanho de volume maior do que a á
+Á
+real consumida;
+X
+SUPRISERVI COMÉRCIO, REPRESE!
+E SERVIÇOS LTDA
+   
+— Págna 8 de 30
+f&àves, nos termos do parágfafo único, do art. 38 da Lei
+o
+YBlificar as assináturas vá ao site https://portaldeassinaturas com.br/Veri
+ta De QBuza C|
+Adriari>Goncalves Vi
+Idvogado(a)
+uniz Jônior. Para
+rdada péfb(agâ
+Plose ARes
+&
+Cavalcanti Fio
+a mBinuta examinada ef
+AÁnobio
+por Luciano Kulka Rib&,
+Este documento teve
+Página 32 de 54ITEM 1.2 Gaveta com discos NL SAS para equipamento STORAGE SYSTEM FIBRE CHANNEL
+- HPE 3PAR StoreServ 8000 LFF(3.5in) SAS Drive Enclosure
+- HPE 3PAR 8000 2TB+SW 7.2K LFF HDD
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕ
+E SERVIÇOS LIDA
+o Tierização automática de dados entre as camadas de discos confi
+o Funcionalidade de QoS, permitindo criar SLAs (mínimo de 1/O por segundo, larg
+o Deve permitir habilitar grupos de usuários para acesso a determinadas aplicaçõ
+a
+B
+o Controladoras ativa-ativa, permitindo que uma unidade lógica possa %
+ã
+o NSPoF (sem ponto único de falha) incluindo controladoras, cache, exaustores
+5
+$
+$
+o Permite habilitar grupos de usuários para acesso a determinadas aplicaçõê
+volume para ajudar na retenção dos dados para simplificar procedimentos deº
+auditoria (3PAR Virtual Lock).. É É
+o Crescimento de Forma Vertical (total): 8 “;?
+= 240 (duzentos e quarenta) Hard Disk Drives ou 120 (cento e vinte) So]ªcf;
+State Drives; E
+= Suportea Discos NLSAS (2TB, 4TB, 6TB e 8TB), SAS (300GB, 600GB, 1. ZÉÉ
+e 1.8TB) e SSD (400GB, 480GB, 920GB, 1.92TB, 3.84TB, 7.68TB e 15. BBTÉ)
+o Suporta deduplicação in-line para a camada SSD sem reserva de áréa
+Configuração:
+R 9H-167B-A4BEB ÉFSA.
+Svs'êE-
+    
+o
+e
+s
+s
+s
+3 o
+- o
+SS
+Bupas
+º
+T
+s
+=S
+S
+permitindo a movimentação automática dos dados para discos de maior ou me
+performance de forma automática (3PAR Adaptive Optimization);
+de banda e latência) para proteger aplicativos de missão crítica (3PAR Prio
+Optimization);
+  
+Ê
+Prover funcionalidade para que determinado volume e cópias não sejam deletados:
+o
+o
+8
+c
+F
+e
+S
+=
+o
+a
+"
+[)
+3
+2.
+<
+:
+o
+m”
+=
+õ
+*
+<
+o
+É o
+o
+=
+&
+S
+Ê
+z
+o
+o
+o
+S
+o
+o
+c
+&.
+o
+<
+É
+F1
+c
+LS
+o
+o
+<
+º_
+E
+gã(
+s Ror
+s.
+para ajudar na retenção dos dados e SImpllflcar procedimentos de auditoria (3PÁI
+Virtual Lock).
+compartilhada por todas as controladoras de forma simétrica;
+ortaldêàssinatáfa:
+:R
+fontes de alimentação;
+ife https:
+si
+Permitir também a habilitação para que determinado volume e cópias não sejafne
+deletados por usuários sem nível de alto privilégio. Recurso de bloqueio virtual ªo>
+o
+Q
+to
+Filho e Jose Alves Muniz Surfor. Paar:
+possibilitando a redução do consumo da capacidade de forma online e sei
+necessidade de reserva de espaço no Storage (Thin Deduplication).
+o 01x Drive Enclosure com 24 slots para Discos LFF 3,5";
+o 12xDiscos de 2TB NL SAS 7.2k com área útil de 14TiB em RAID 6 (4+2);
+&
+Página 9 de 30l
+a examinada e aprovada pelo(a) advogêk
+  
+documento teve sua
+ 
+<
+G
+S
+s
+x
+S
+=
+3
+<
+o
+H
+S
+3
+3
+õ
+a
+Este
+ 
+Página 33 de 54ITEM 1.3 Gaveta com discos SSD para o equipamento STORAGE SYSTEM FIBRE CHA
+NEUISUPr
+Inteyrando tecnolegias. Gerando resultados.
+- HPE 3PAR StoreServ 8000 SFF(2.5in) SAS Drive Enclosure
+- HPE 3PAR 8000 2TB+SW 7.2K LFF HDD
+* Configuração:
+o 01x Drive Enclosure com 24 slots para Discos SDD 2,5";
+o 08x Discos 400GB cMLC com área útil mínima de 1.9TB em RAID 5 (3+1);
+ITEM 1.4 SWITCH SAN FIBRE CHANNEL
+- Switch HPE 8/24 Base 16-port Enabled
+e Configuração:
+o
+o
+o
+Switch tipo Full Fabric com 24 (vinte e quatro) slots com suporte p;
+transceptores 8Gb Fibre Channel SFP+;
+16 x portas ativas/habilitadas;
+Form Factor para Rack padrão 19 polegadas;
+e — FUNCIONALIDADES
+o
+DO0OO0O
+Rate Limiting;
+Zoning;
+Quality of Service (QoS);
+Traffic Isolation;
+Interface Gráfica Web;
+ITEM 1.5 TRANSCEPTOR para o SWITCH SAN FIBRE CHANNEL
+- HPE 8Gb Short Wave B-Series SFP+ 1 Pack
+- HPE Premier Flex LC/LC Multi-mode OMA4 2 fiber 5m Cable
+* Configuração:
+o
+o 01xCabo ótico OM4 com 5m de comprimento;
+ITEM 1.6 MIGRAÇÃO DE INFRAESTRUTURA DE ARMAZENAMENTO DE DADOS DE TI
+Os serviços de migração da infraestrutura de armazenamento de dados da ALGÁS serão basea
+01 x Transceptores short wave 8GbFC;
+no projeto a seguir:
+ENTREGÁVEIS
+a) Plano de Projeto;
+b) Instalação e Configuração;
+c) Migração de dados do Storage legado para o novo;
+d) Atualização e migração da plataforma de virtualização VMware vSphere;
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupn.com.br
+E SERVIÇOS LTDA
+vendasQnewsupricom br
+Página 10 de 30
+2
+E
+õ
+E
+s
+>
+s
+o
+8
+z
+<s
+7
+8
+&
+8g
+o
+   
+termos do parágrafo único, d:
+portaldeassinaturas.com.br/Ve
+Z
+&s
+o
+rífhada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves,
+por Luciano Kulka Ribas, Amobio Cavflcanti Filho e Jose Alves Muniz Junior. Para verificar as assinaturas vá ao site https:
+Este documento teve sua minuta exa:
+Página 34 de 54,meme
+e
+i assinado digital
+NEUISUPT,
+Integrando tecnologias Gerando resultados.
+:A4EB-EF8A.
+      
+e) Atualização e reconfiguração da plataforma de backup HPE Data Protector;
+f) Documentação de configuração;
+8) Transferência de conhecimento no formato hands on;
+QcODNAIF-167B.
+OBRIGAÇÕES DA CONTRATANTE
+iíficar/ e u
+e
+a) A ALGÁS disponibilizará espaço, circuitos elétricos e refrigeração do datacenter em
+conformidade com a especificações do fabricante do Storage para instalação dos equipamentqâ;ê
+b) A ALGÁS disponibilizará espaço físico para desembalagem e montagem dos equipamentÉ,sã
+adquiridos, bem como para alocação de até dois profissionais da CONTRATADA; :
+c) A ALGÁS proverá acesso da equipe de implantação às suas instalações físicas, bem com
+infraestrutura de virtualização (hosts, vCenter e vSOM), LAN, Internet, equipamentos e softwa
+de infraestrutura legados, e ao HPE Data Protector Cell Manager para que os serviços
+implantação sejam realizados;
+d) A ALGÁS disponibilizará estação de trabalho em sua rede para execução das atividades
+projeto;
+€) A ALGÁS disponibilizará acesso remoto para atuação do fabricante na configuração
+parár
+sinatura:
+EN
+(ga ChaYBs, nos:
+ificaPas assífaturas vá aó site htips://portaldeàs:
+Qor
+e:
+equipamento; 3
+f) A ALGÁS disponibilizará de cabos e portas de redes para conectividade dos equipamentos à ª
+infraestrutura de LAN existente, VM para implantação de software de gerenciamento, e IPs pata:
+os componentes da nova Infraestrutura; ª
+8) A ALGÁS será responsável pelas criações de usuários, liberações de acessos Internet, redãe
+servidores, backup dos dados das VMS, configuração de firewall e/ou proxy, DNS, ADE LAN; &
+h) Caso algtuma VM ou Dado tenha a sua migração impedida pelo processo de Storage vMotiQ%]
+a CONTRATADA deverá fornecer suporte à ALGÁS na reinstalação da VM no novo ambiente; Z
+s
+ESCOPO DO PROJETO 3
+a) Novos Storage, Gavetas de discos, Switch SAN Fibre Channel e Transceptores objetos de:
+edital;
+b) Equipamentos e Softwares legados:
+a. Storage HPE EVA 4400;
+b. Servidores modelo HP Proliant DL360 Gen9;
+. Switchs Fibre Channel HP Storage Works 8/20q;
+. Tape Library modelo 1HP StorageWorks MSLA048;
+. Software HPE Data Protector;
+. Software VMware vSphere;
+. Software Microsoft Windows Server 2003, 2008 c 2012;
+. Software Linux CENTOS, DEBIAN, ORACLE LINUX, RED HAT e SUSE;
+naeo
+>R mo
+o Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Múhiz Junior. Parã veri
+   
+Éste doclmento teve sua minuta examinada e aprovada pelo(a) a&o:
+3
+3
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES waw newsupn com br s
+E SERVIÇOS LTDA vendas&newsupn com br Págna 11 de 30 &
+ 
+Página 35 de 54TIEUISU)
+Integrando tecnologias Gerando resultados,
+PLANO DE ATIVIDAD
+ 
+Estratégia de Implementação:
+ 
+a) A primeira fase cons;
+do Plano de Projeto:
+a. Mapceamento do ambiente;
+b. Analise das Matri
+c. Criar dois cenários para implantação e migração dos dados;
+d. Criar nova infraestrutura de virtualização;
+e. Criar nova Política de Backup;
+f. Criar Plano de Projeto;
+ 
+ 
+ 
+ 
+b) A segunda fasce cor
+a, Storage:
+Instala
+ii. Concetividades elétrica, LAN e SAN;
+ 
+    
+iii. Atualização e instalação de softwares, drivers e firmwares necessários para implantação
+Storage;
+iv. Preparação da SAN: 1. Configurar e atualizar SAN Switehes; 2. Criar configurações de Zon
+3. Integração com a SAN cxistente;
+v. Instalação da gerencia do Storage:
+vi. Instalação e configuração inicial do Storage;
+vii. Testes de concectividade e funcionalidades do Storage;
+viii. Finalizar configuração de Zones;
+ 
+b. Migrações de Dadeo
+i. Preparação das árcas para migração de dados;
+Aplicar plano de contingência para as migrações;
+iii. Migrações de dados do Storage antigo para o novo;
+iv. Validações e testes pós migração de dados;
+v. Instalação e configuração dos opcionais do Storage;
+vi. Fase de operação experimental do novo Storage;
+  
+ 
+ 
+ 
+i. Preparação para migração das infracstruturas de virtualização;
+Atualização do vCenter e VSOM;
+ração dos Hosts;
+iv. Atualização das VMs (VMTool c HW Hardware);
+   
+ 
+v. Validações e testes pós atualização da infraestrutura de virtualização;
+vi. Fase de operação experimental da nova da infraestrutura de virtualização;
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES Wunwe NwSUpr.com br
+1ÇOS LTDA vendas&: v
+   
+DT
+   
+  
+    
+rá no plancjamento da instalação, migrações, atualizações e elaboraçã
+es de compulibilidndcs dos equipamentos e softwares;
+tirá na Implantação, Migração c Atualização:
+ão física e concetividade do Storage, SAN Switehs e Servidores;
+alnente
+B-A4EB-EF8A.
+o
+>
+&)
+53, e foj&gsinado digital
+n
+o
+e
+x
+>
+s
+  
+   
+ei s JDe/
+.
+por Luciark Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para verificar as assifiáturas Vá ao site https://portaldeassinaturas.com.br/Verificar/ É utilize
+o
+do aris:
+e sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vifira DeSouza Chaves, nos termos do parágrafo único,
+    
+ÊE
+S
+)
+F
+õ
+Página 12 de 30
+Página 36 de 54NEUISUPri
+Integrando tecnologias. Gerando resultade
+ 
+€ foi assinado digi
+inaturas.com.br/Verificar/ e utilize o código 7B9F-167B-A4EB-EF8A.
+ 
+ 
+ 
+d. HPE Data Protecto:
+i. Preparação para atualização do HPE Data Protector;
+ii. Atualização do Cell Manager e Clientes;
+iii. Integração dos agentes opcionais;
+iv. Configuração dos devices e mídias;
+v. Atualização das políticas de backup;
+vi. Validações e testes pós atualização do HPE Data Protector;
+vii. Fase de operação experimental do HPE Data Protector;
+ 
+c) A última fase consiste na documentação e transferência de tecnologia:
+a. Documentação final;
+b. Transferência de conhecimento no formato Hands On sobre operação e administração
+produtos implantados, para até três profissionais, utilizando o ambiente da própria ALGAS;
+) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termo&£&lo parágrafo único, do art. 38 da Le?
+por Luciano Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldea!
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupri com.br
+E SERVIÇOS LTDA vendas&newsupn com br Página 13 de 30
+Este documentoôNeve sua minuta examinada e aprovada pelo(a)
+Página 37 de 54&
+E
+S
+a
+s
+e
+8
+É
+sE
+7
+&
+S
+8
+E
+S
+o
+NEUWISUpr
+ndo tecnolegias. Gerando resultados.
+ 
+ 
+       
+  
+fdigo 7B9F-167B-A4EB-EF8A.
+LOTE 02 - AQUISIÇÃO DE ATUALIZAÇÃO DAS LICEN
+SOFTWARE HPE DATAPROTECTOR DA
+ALGÁS
+&
+ 
+ 
+br/Veri!
+ESPECIFICAÇÃO DOS SERVIÇOS DE SUPORTE E ATUALIZAÇÃO DOS ITENS HPE DATA PROTEC
+o
+afo úrreo,
+ras.com.
+* Registrode chamado: 24x7 (vinte quatro horas por dia, sete dias por semana) através «
+ligação gratuita 0800 55 64 OS5; A Central irá confirmar o recebimento do chama
+ª“ª'
+informando um identificador para acompanhamento. $ É
+e Recursos Reativos: Atividades sob demanda que deve incluir especialistas técnicos paâacf
+atendimento remoto ª %
+e Período de cobertura: 24x7 (vinte quatro horas por dia, sete dias por semana); ZÍ
+* Central de Suporte: com atendimento em português através de ligação gratuita 0800 ÉSÉ
+64 O5; õ
+* Tempo de Atendimento para chamados de alta gravidade: início do atendimento por Lªhã
+especialista técnico em até 2h (duas horas) após registro do chamado; 88
+* — Resolução remota dos chamados: Mediante autorização prévia desse órgão, o fabrican£ez
+poderá utilizar as ferramentas de software para realizar o diagnóstico, isolar e resolvcão&ª
+problema; ª g
+e Licençasde atualização de software: Fornecimento pela HPE de atualização para a versão;
+mais recente dos softwares HPE DATA PROTECTOR. 2s
+ITEM 2.1 HPE DATA PROTECTOR — CELL MANAGER HP-UX ÉÉ
+* —Atualização da licença do software de backup HPE DATA PROTECTOR — CELL MANAGEIÉ
+HP-UX de posse da ALGÁS, dando direito à utilização da versão mais recente do software:
+e serviços de suporte técnico. Z%
+ITEM 2.2 HPE DATA PROTECTOR — PLUG-IN DRIVE SAN g%
+* Atualizaçãodalicença do software de backup HPE DATA PROTECTOR - PLUG-IN DRIVE S/ÉN%
+de posse da ALGÁS, dando direito à utilização da versão mais recente do softwareCfé,
+serviços de suporte técnico. s2
+ITEM 2.3 HPE DATA PROTECTOR — PLUG-IN ONLINE BACKUP g É
+e Atualização da licença do software de backup HPE DATA PROTECTOR - PLUG-IN ONLIÉÉ:
+BACKUP de posse da ALGÁS, dando direito à utilização da versão mais recente do softhâ':ã
+e serviços de suporte técnico.
+ITEM 2.4 HPE DATA PROTECTOR — PLUG-IN ADVANCED BACKUP TO DISK 1TB
+* Atualização da licença do software de backup HPE DATA PROTECTOR — PLUG
+ADVANCED BACKUP TO DISK 1TB de posse da ALGÁS, dando direito à utilização da vers:
+mais recente do software e serviços de suporte técnico.
+  
+Eske documento tee sãha minuts
+por Neiano Kulka Rib4£, Amob;
+ 
+ERVI COMÉRCIO, REPRESENTAÇÕES
+IÇOS LTDA
+    
+o
+Págnawy
+Página 38 de 54NEUIS:
+Integrando tecnologias Gerando resultados.
+Comprovação de Performance e área útil do Storage
+     
+ 
+ 
+ 
+ 
+HPE 8200 d
+. = s
+==
+P
+E=
+s8
+sE
+| s2
+| — STORAGETHERS ,gê
+DRVES MODEL RAIO NA WORXLOAD em RAW USABIE —MBS 0n REG
+| sa 2  18TBSASIOCSSF — Rsasem) C rangom — & — mR 99TB  25AITB o om 3g
+| a
+S
+| o E
+P
+F
+CAPACITY BREAKDOWN RAW CAPACITY USABLE VS. OVERHEAD É ã
+8
+36.0 m1 2
+U TiB RAID Overtea(8. &
+Á G4T É &
+USABU CAPACITY o
+100% g â—
+SAS um EE
+25.4 15 o eútio 6 2
+to
+MAX FRONT-END 10PS * som 28
+aam 0E
+6,011 &
+SAS 254 TB 1 g ã
+s É
+a
+SUMMARY PHYSICAL SPECIFICATIONS ª o
+o
+a
+Modet: 8200 SFF Enclosures: 1 Tetal Rack Space: E
+Nodes: 2 Free Sicts 2 Total Weight (without rackk: 206Ê
+16b Eth RCIP Ports: 2 LFF Enclosures: o
+FC16Gb Ports: 4 FreeSicts - Total BTU (batanced) 1B
+Toul Disis: 2 Tetal Powes (balanced) CABZINES
+Zs
+5
+25
+SS
+MNgaSTARS v 1201 (PEM LS 2) 'LIM?%
+E8
+2>
+2<
+ê
+g
+ES
+3o
+ão
+2=
+o L
+S=
+$E
+F
+ES
+F
+às
+sê
+E
+E<
+a
+E
+a o
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+Waa newsupn com.or
+vendas newsupr com te
+Página 15 de 3
+   
+      
+ 
+6
+  
+por Lucial
+S
+E
+F
+&
+a
+Página 39 de 54Integrendo tecnolog
+NEUBUP,
+ 
+N
+svo
+Comprovação de Expansão 14 TB NL SAS do Storag
+   
+   
+ 
+SAS 25A TS ta 1407
+ 
+8,407
+Iriano Goncalves Vieira De Sou;
+s
+DS
+so
+8200 2s
+SN
+=S
+E
+t=
+E
+o
+E
+sS
+sz
+| E
+| o É
+STORAGE TIERS ss
+£o
+DRVES MODH eno HA WORKLOAD R RA Usame —MBS - iors RR
+fitsas 22 1.8TB SAS 106 SFF Raid56+1) D Random a 20% Reasd 399TB — 2541T6 4 62 sE
+ma 2TB NL72K FF Reid6 H+2) D Rrandom a S0% Read STB — 140276 v 2a SE
+8 á
+E8
+& Waming Toincrease data avsilabity and prevent data toss from dual disk failure, t is recommendea to use Raid 6 with spinning media. s ã
+s
+EE
+| CAPACITY EREAKDOWN RAW CAPACITY USABLE VS. OVERHEAD g
+| 571 ê&
+«1 TIB 2
+| RAID Overhes, 5
+& U548TIM N o
+USABLE CAPACITY ”
+u% 16% <
+SAS ne F
+e 39.4 mi — u 8
+osIT s 5
+=
+MAX FRONT-END 10PS * Soare Z
+t6T 4
+"
+s
+&
+2
+S
+H
+&
+ã
+n
+o
+E
+5
+ 
+ 
+ 
+SUMMARY PHYSICAL SPECIFICATIONS
+Model: 8200 SFF Enclesures: 1 Total Rack Space: E
+Nodez: 2 Free Sicts 2 Total Weight (without rack): 58549
+16b Eth RCIP Ports: 2 LFF Enclosures: 1 s
+FC16Gb Ports: 4 Free Sicts n Tetal BTU (balanced) 255
+Tetal Dizks: u Tetal Power (balanced) 0755 BZ
+S=
+E
+s>
+2<
+NjSTARS 21201 PEM VA S 2) * Estmetednl
+TS
+o
+s2
+o
+Te
+ES
+ES
+ss
+2Oo
+o
+sê
+E
+E<
+3 4
+ee
+x
+s
+E
+8
+38
+8
+s
+eÀ
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES VWn Dewsupricom.br n
+E SERVIÇOS LTDA vendasGnewsupr.com.br Página 16de 30 &
+Página 40 de 54Integrando tecnologias Gerando resultados.
+ 
+X
+Comprovação de Expansão 1.9 TB SSD do Storage
+8200
+ 
+do art. 3À da Lei 8.66!
+1s.com.br/Verificar/ e útilize o códis
+ 
+ 
+ 
+ 
+S
+2
+É
+s
+STORAGE TIERS %
+s>
+neves MODEL RAD NA WORXLOAD R a USABLE — MESS - 10PS iª
+Misas 22 1.87B SAS 106 SFF Falds A D rangom sa o% Read 399T8 — 2541TE 4 626 SE
+isso s 400GB 55D SFF Raid S (3+1) D rsndom a S Read 250m 15078 1 in S
+8
+EE
+| ss
+| — CAPACITVBREAKDOWN RAWE CAPACITY USABLE VS. OVERHEAD sê
+| 5 a
+ê
+38.9 ti D ERDErS
+É nlonmã 2
+USABLE CAPACIDY s
+n% ' 7% S â
+sas sso Umute &.
+/ 27.3 m em
+â &
+Í MAX FRONT-END 1OPS * Seme 0
+Í "enTta o
+' 2E
+172,000 =4
+g
+&s
+&
+ê&
+SUMMARY “PHYSICAL SPECIFICATIONS FEA
+S
+Modet: 8200 SFF Enclosures: 2 Tetal Rack Space: o
+Nodes: 2 Free Slots 18 Total Weight (without rack): 46497
+16b Eth RCIP Ports: 2 FF Enclosures: s -
+FC16Gb Pons: 4 Free Siots é Total ETU (balanced) 2812
+Tetal Diis: 30 Total Power (balanced) o666RZ
+s
+F
+FE
+3
+E
+MirjoSTARS VLI2O1 (PEM cA 3) ' va-efã)ê
+o
+8
+s
+o
+s2
+o E
+FA
+EE
+F
+S
+s$
+22
+E
+a
+o
+34
+8
+3
+e 3
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES Wn Dewsupn com br n
+E SERVIÇOS LTDA vendasQnewsupa com br Página 17 de 30l &
+Página 41 de 54Comprovação de compatibilidade entre Switch HPE
+8/24 e EVA4400 (legado)
+ 
+HP StorageWorks 8/24 SAN Switch
+Supported Configurations:
+EVA4000/4100 EVAGO00/6100 EVASO00/8100 HP OpenVMS 1A64 6.3-1H1
+EVA4000/4100 EVAGO00/6100 EVASOO0/8100 HP OpenVMS 1A64 84
+EVA4000/4100 EVAGO00/6100 EVASOO0/8100 HP-UX 11.11
+EVAS000/4100 EVA6O00/6100 EVASOO0/8100 HP-UX 11.231A
+EVA4S000/4100 EVASO00/6100 EVASO00/8100 HP-UX 11.23 PA-RISC
+EVA4S000/4100 EVASO00/6100 EVASOCO/8100 HP-UX 11.31 1A
+EVA4000/4100 EVASO00/6100 EVASO00/8100 HP-UX 11.31 PA-RISC
+EVASO000/4100 EVA6SON0/6100 EVASO00/8100 Microsoft Windows Server 2008 1A32
+EVAS000/4100 EVASO00/6100 EVASO00/8100 Microsoft Windows Server 2008 1A64
+EVAS000/4100 EVAGO0O0/6100 EVASOO0/8100 Microsoft Windows Server 2008 x64
+EVA4000/4100 EVAGSO00/6100 EVASO00/8100 Microsoft Windows Server 2008 x64 Hyper-V
+EVA4000/4100 EVAGO00/6100 EVASO00/8100 Solaris 10 (SPARC)
+EVAS000/4100 EVASONO/6100 EVASOO0/8100 Solaris 10 (x86/x64)
+EVA4400 HP OpenvVMS 1A64 8.3-1H1
+EVA4400 HP OpenVMS 1A64 8.4
+EVA4400 HP-UX 1111
+EVAS400 HP-UX 11231A
+EVA4400 HP-UX 11.23 PA-RISC
+EVAS400 HP-UX 11.311A
+EVASS00 HP-UX 11.31 PA-RISC
+EVA4400 IBM AIX 61
+EVA4400 IBM AIX 7.1
+EVA4400 Microsoft Windows Server 2008 1A32
+EVA4400 Microsoft Windows Server 2008 1A64
+EVA4400 Microsoft Windows Server 2008 x64
+EVAS400 Microsoft Windows Server 2008 x64 Hyper-V
+EVAS400 Microsoft Windows Server 2012 x64
+EVA4400 Microsoft Windows Server 2012 x64 Hyper-V
+EVAS400 Red Hat Enterprise Linux $ 1432
+EVA4400 Red Hat Enterprise Linux 5 1A64
+EVA4400 Red Hat Enterprise Linux S x64
+EVA4400 Red Hat Enterprise Linux 6 x64
+EVA4400 Sotaris 10 (SPARC)
+BE sam 2017 HenenPactars Oevecomentcameens. t.7 PDF Date: Wed, 18 Aug 2017 13:30:45 GMT Modified Date: Wed, 04 Dec 2013 00:00:00 GM Façe 4 of 1
+lo(a) ativogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 34 da Lei
+ 
+HP StorageYWorks 8/24 SAN Switch
+EVA4400 Sotaris 10 (x86/x64)
+EVA4400 VMware vSphere 5 (ESXi 5) x64
+a minuta examinada e aprovad
+Ribas, Amobio Cavalcanti Filho e JoSê Alves Muniz Junior. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e util
+fev
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES an Dewsuprn.com br
+E SERVIÇOS LTDA verdasGnewsupn com.br Página 18 de 30
+Este docume
+por Luciano Kul
+Página 42 de 54Comprovação de compatibilidade entre Switch HP
+(legado) e 3PAR 8200
+  
+  
+ 
+FEUISU)
+Integeando tecne
+ilize o cóc
+ 
+H? StorageWorks 8/209 Fibre Channel Swith
+HP 3PAR F200/F400 T400/T800 FC VMware vSphere 4 (ESXESXI 4.1) x64
+HP 3PAR F200/F400 T400/T800 FC VMware vSghere 5 (ESX 5.0/5.1) x64
+HP 3PAR F200/F400 T400/T800 FC VMware vSghere 6.0 (ESX) 6.0) xôs
+T70CO, 10000 Storage series with Inform OS 2.2.2 FCIBM AIX 5.3
+HP 3PAR StoreSers 20000, 8000
+HP 3PAR StoreSers 20000, 9000,
+HP 3PAR StoreServ 20000, 9000,
+HP 3PAR StoreServ 20000, 90009,
+HP 3PAR StoreServ 20000, 90009,
+8000, 7000.
+8900, 7000,
+. 10000 Storage series FC HP-UX 11.23 PA-RISC
+, 10000
+HP 3PAR StoreServ 20000, 9000, 8000, 7000.
+HP 3PAR StoreServ 20000, 9000, 8000, 7000.
+HP 3PAR StoreServ 20000, 9000, 8000, 7000,
+HP 3PAR StoreSers 20000, 9C00, 8000, 7000,
+HP 3PAR StoreServ 20000, 9000, 8000, 7000
+10000 Storage series FC HP-UX 11.11
+10000 Storage series FC HP-UX 11.23 1A
+ge series FC HP-UX 11.31 14
+10000 Storage series FC HP-UX 11.31 PA-RISC
+10000 Storage series FC Microsoft Windows Server 2003 IA32/x64
+10000 Storage series FC Microsoft Windows Server 2016 x84
+1000 Storage series FC SUSE Linux Enterprise Server 10 IA32/x64
+ 
+10000 St:orage series FC SUSE Linux Enterprise Server 11 IA32/x64
+HP 3PAR StoreServ 7200/72000/7400/74000/74400/7450/74500 10400/10800 Inform OS 2.2.1 FC IBM AIX 5.3
+HPE 3PAR StoreServ 20000, 8000, 8000, 7000, 10000 Storage series FC Citrix XenServer 5
+HPE 23PAR StoreServ 20000, 8000, 8000, 7000, 10000 Storage series FC Citrix XenServer 6
+HPE 3PAR StoreServ 20000, 8000, 8000. 70C0, 10000 Storage series FC Citrix XenServer 7
+HPE 3PAR StoreServ 20000. 8OCO, 8000. 7000, 10000 Storage series FC Microsoft Windows Server 2008 IA32/x34
+HPE 23PAR StoreServ 20000, 8000, 8000. 7000, 10000 Storage series FC Microsoft Windows Server 2012 x64
+HPE 3PAR StoreServ 20000, 6000. 8020. 7000, 10000 Storage series FC Oracie Linux 5 with Unbreakabie Enterprise Kemel Server
+ASUI<EA
+HPE 3PAR StoreServ 20000, 6000, 8000,
+1A32/x64
+HPE 3PAR StoreServ 20000, 6000, 8000.
+1AB2/4
+HPE 3PAR StoreServ 20000, 600O, 8000,
+HPE 3PAR StoreServ 20000, 8000, 8000,
+HPE 3PAR StoreServ 20000, 6O00, 8000.
+HPE 3PAR StoreServ 20000, 6000, 8000.
+HPE 3PAR StoreServ 20000, 6000 8000,
+HPE 3PAR StoreServy 200CO, 6OCO, 800
+HPE 3PAR StoreServ 20000, 6O00. 8000.
+HPE 3PAR StoreServ 20000, 6000, 8000.
+HPE 2PAR StoreServ 20000, 6000, 8000,
+HPE 3PAR StoreServ 20000, 6000, 8000.
+HPE 3PAR StoreServ 20000, 6000, 8000
+E Esorram 517 neviensenare Devmeoment Esmçans, .
+70CO, 10000 Storage series FC Oracle Linux 8 with Unbreakabie Enterprise Kemnel Server
+70C00, 10000 Storage series FC Oracle Linux 7 with Unbreakabie Enterprise Keme! Server
+7000.
+7000,
+T7000,
+7000
+7000,
+10000 Storage series FC Oracie VM 3.2 x64
+10000 Storage series FC Oracie VM 3.3 x64
+10000 Storage series FC Oracie Vl 3.4 x64
+10000 Storage series FC Red Hat Enterprise Linux 4.0 IA32/x64
+10000 Storage series FC Red Hat Enterprise Linux 5 IA32/64
+70CO, 10000 Storage series FC Red Hat Enterprise Linux 6 325634
+7000, 10000 Storage series FC Red Hat Enterpise Linux 7 x64
+7000, 10000 Storage series FC Solaris 10 (SPARC)
+7000. 10000 Storage series FC Solaris 10 (<38/x64)
+70CO, 10000 Storage series FC Solaris 11 (SPARC)
+7000. 10000 Storage series FC Solaris 11 (<88/x84)
+PDF Date: Wed, 16 ALg 2017 13:38:18 GMT. Mocited Date: FI1, 0 Dec 2013 03:00:00 GMT Fage 6 0113
+HP StorageWorks 8/209 Fiore Channel Switch
+HPE 2PAR StoreServ 20000, EC00, SC0I, 70C0, 10000 Storage series FC Solaris 9 (SPARC)
+HPE 3PAR StoreServ 20000, EO00. 8000, 7000 10000 Storage series FC SUSE Linux Enterprise Server 11 1A32/x34-Ext
+HPE 3PAR StoreServ 20000, 000, 8000, 70C0, 10000 Storage series FC SUSE Linux Enterprise Server 12 x64
+HPE 3PAR StoreServ 20000, 6000, 3000, 70CO, 10000 Storage series FC VIware vSphere 2013 (ESXi 5.5) x64
+HPE 3PAR StoreServ 20000, 6000, 8009, 70CI,
+HPE 3PAR StoreServ 20000, &000, 8C00.
+HPE 3PAR StoreServ 20000, £O00, 8000, 70C0,
+ 
+HPE 3PAR StoreServ 20000, 6O00, 8020, 7000,
+HPE 3PAR StoreServ 20000, 6OD0, 8000. 7000.
+HPE 3PAR StoreServ 20000, 6000, 8000. 7000,
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+'0CO, 100C0 Storage series FC VMiware vSphere 4 (ESXESXi 4. l)xel
+10000 Storage series FC VIMware vSphere 4 (ESXESXi 4.0)
+10000 Storage series FC Vlware vSphere 5 (ESXi 5.0'5.1) x84
+10000 Storage series FC VViware vSphere 6.0 (ESXi 8.0) x64
+10000 Storage series FC Vhiware vSphere 8.5 (ESXi 6.5) x64
+10000 Storage series váth Inform OS 2.2.1 FC IBM AIX 5.3
+'sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da Lei
+EE
+por LucianoKuika Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e
+     
+ste doculpe
+wwwnewsupncom br
+vendas&newsupn com te Página 19 de 30
+Página 43 de 54Comprovação de compatibilidade entre Tape Libra
+Integrando tecnologias Gerando resultados,
+MSL 4048 (legado) e Data Protector 10.0
+  
+    
+ 
+Hewlett Packard Enterprise - StoreEver Tape Libraries & Autoloaders - Software Partner (1 of 2)
+IMPORTANT: Consul! the Software vendor's compatibility lists to confirm software versions and specific device support.
+Hyperlinks provided on ISV Compatibility Links page.
+Software Partner Suppor! for SAN Connectivity
+ 
+ 
+ 
+slternhob do parágrafo único, do art. 3d da Lei 8.6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ecroTumentaro — pruros euros wuos
+apptcanos A Testedversia SPESLSA - iunimumtSventoo — uantaso nn sano Unem mo
+T te mME LulA ms
+ETA sE EE
+WescIoN e am
+ec 5 E s E E
+iE tatera MT FaRAgE o T
+onh A aaa aa te
+Ateervenadop. 1E a *
+Adteaer s E
+te TieNaqua E ee s Ê
+Tarracada Yosenne ERTH E E
+CTEENTET e a <
+Estlagi De x GRESSTOPO. m ã
+Eamneao e Tm &
+o 7905 EE
+(
+nespectro PreTTETRHO, E T *
+rencaos. rass B
+FiA arONe anA E
+Maerevolt a premeetaç õm FT =
+Mrenoors a E $
+te oA o TGTRTORTAO — TE
+tal tecuce Bch e $
+taan ranaae E Tm 2
+uaníam tee S
+uestieiva n T5 &
+maa RT
+Sevento sraTER
+e tla ee Tm
+aete mo * T q
+rotageina 0hA Evclition, S
+Tots ta server F5 T5 z
+Tous tsi mrodeecTEdTo sa Um &
+Vesim Bneto E tegicana . o
+Veminca ti n TasToo
+Vamcnetanios Em e Z
+s m
+Reniers Ateidre sac E T
+z
+ 
+egertao ”
+ 
+  
+« Supgariadin conpanciiza wih rote x
+Wx o tg
+o
+1 Notsopgeeted malh ATHO Maudigut Deivor
+. Ateserve 1110 0nh teguares patch POODDOS79 wnh Ltest taçesng dl to uppert L TO! taça ditves. See Binps/arcserve tendest combe/en-ui/amcies/211502943
+X P cagçerind e WN meda a D tee
+À SeeOrenvors Laçe Lrany Suposrt page m 15 matrua fc e denado,
+ 
+  
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES Wwarw.newsupn.com.br
+E SERVIÇOS LTDA
+vendas&newsupri com br Página 20 de 30l
+minuta examinada e aprovada pelo(a)
+S, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e util
+Éste docume:
+por Luciano Kulkà
+Página 44 de 54Integrando tecnologias. Gerando resultados,
+NEUISUPri :
+ 
+    
+ 
+a
+svol-
+m
+fe)
+z
+igo 7B9F-1:
+LISTA DE PART NUMBERS
+ 
+8
+co
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+o
+LOTE 01 - ITEM 1.1 SE
+QTDE PN Descrição Í%
+1/ K2036B HPE 3PAR 8200 2N+SW Storage Field Base %
+22 | K2P94B HPE 3PAR 8000 1.8TB+SW 10K SFF HDD ª z
+22 K2P94B OD1 Factory integrated ã É
+1 |L7F20A — | HPE 3PAR All-in Sgl-sys SW Current Media ª ª
+1/ HA114A1 HP Installation and Startup Service ss
+1/HA114A1]  5XU HPE Startup 3PAR 8200 2N FId Int Bas SVC â ª
+1 | HIK94A3 HPE 3Y Proactive Care CTR Service 7
+1/H1K94A3  W3G HPE 3PAR 8200 2N+SW Storage Base Support ª ª;
+1/H1K94A3  WSF HPE 3PAR Internal Entitlement Supp ê %
+22/H1K94A3 X84 HPE 3PAR 8000 1.8TB+SW 10K SFF HDD Supp É É
+sê
+s
+LOTE 01 - ITEM 1.2 E
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+QTDE PN Descrição S
+1 | E7Y72A HPE 3PAR 8000 LFF(3.5in) FId Int Dr Encl ª 3
+12 | K2P95B HPE 3PAR 8000 2TB+SW 7.2K LFF HDD É ª
+8
+12|K2P95B OD1 Factory integrated E
+o
+1/ H1K94A3 HPE 3Y Proactive Care CTR Service & É
+v
+12 H1K94A3  X85 HPE 3PAR 8000 2TB+SW 7.2K LFF HDD Supp É &
+2=
+1/H1K94A3 YT HPE 3PAR 8000 Drive Encl Support s ª
+FE
+1/ HA114A1 HP Installation and Startup Service ª” =
+$s
+1 / HAI4A1 5XZ HPE Startup 3PAR 8000 FId Int Dr Enc SVC %É
+— =o
+232
+ES
+3o
+FE
+é É
+&
+ES
+EZ
+o
+2?
+E<
+F
+=
+E
+so
+F3
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupri com.br Zs
+E SERVIÇOS LTDA vendas&newsupri com br Págna 21 de30W O
+Página 45 de 54LOTE 01 - ITEM 1.3
+NEUISUPri:
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QTDE PN Descrição
+1|/E7Y71A HPE 3PAR 8000 SFF(2.5in) Fld Int Dr Encl
+8 | N9YO6B HPE 3PAR 8000 400GB+SW SFF SSD
+8 | N9YO6B — OD1 Factory integrated
+1 | H1K94A3 HPE 3Y Proactive Care CTR Service
+8 |HIK94A3 XBE HPE 3PAR 8000 400GB+SW SFF SSD Supp
+1/H1K94A3 YD HPE 3PAR 8000 Drive Encl Support
+1 /HA114A1 HP Installation and Startup Service
+1 / HA1I14A1 — 5XZ HPE Startup 3PAR 8000 FlId Int Dr Enc SVC
+LOTE 01 - ITEM 1.4
+QTDE PN Descrição FRA
+2 | AM868C HPE 8/24 Base 16-port Enabled Switch
+2/AM868C  OSY | 2.Am Jumper (IEC320 C13/C14, M/F CEE 22)
+1| H1K94A3 HPE 3Y Proactive Care CTR Service
+2/H1K94A3 9U HPE B-Series 8/8 and 8/24 Switch Support
+1| HA113A1 HPE Installation Service
+2|HA113A1 — 5GA HPE LowEnd SAN/Edge Switch/HAFM Inst SVC
+LOTE 01 - ITEM 1.5
+QTDE PN Descrição
+32 |/ QK734A HPE Premier Flex LC/LC OMA4 2f 5m Cbl
+32  AJ716B — | HPE 8Gb Short Wave B-Series SFP+ 1 Pack
+1 / H1K94A3 HPE 3Y Proactive Care CTR Service
+32/H1K94A3 699 For HPE Internal Entitlement Purposes
+LOTE 02 -ITEM 2.1
+QTDE PN Descrição
+1 | B695S1BAE HPE Data Prot Starter Pk HP-UX SW E-LTU
+1 | HM610A3 HPE SW Enterprise Standard 3yr Support
+1/ HM610A43  7RW Software 7RW Supp
+ 
+ 
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+waw newsupricom br
+vendas&nensupn com tr
+ua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da Lº
+íbas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o Nó
+Êste docu
+por Luciano
+Página 22 de 3
+Página 46 de 54DEUBSUPri
+ 
+ado digitalmente
+FA4EB-EF8A.
+O|
+>|
+&.
+      
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&
+8
+FOLHA?
+ó
+LOTE 02 - ITEM 2.2 %
+QTDE PN Descrição. Ã ;E S
+o
+1 | B6953AAE HPE DP drive ext UNIX/NAS/SAN E-LTU 8
+EE
+1/ HM610A3 HPE SW Enterprise Standard 3yr Support 82
+1|HM610A3  7RV Software 7RV Supp E
+LOTE 02 - ITEM 2.3 T
+QTDE PN Descrição s ã
+9 | BE96SBAE HPE DP On-line Backup for Windows E-LTU 'ã 8
+— s
+1 | HM610A3 HPE SW Enterprise Standard 3yr Support FE
+ã
+9 / HM610A3 10L — | Software 1QL Supp ã â
+LOTE 02 - ITEM 2.4 É 2
+QTDE PN Descrição Y ” ª %
+8&
+1|B7038AAE HPE DP Advanced Backup to Disk 1TB E-LTU Zã
+8
+1/ HM610A3 HPE SW Enterprise Standard 3yr Support E %
+Oo=
+1/HM610A3  7TU — Software 7TU Supp g
+-
+sa
+2E
+7 3
+82
+ã
+-
+E
+2ê
+É o
+ss
+<o
+ss
+85
+S
+&s
+S=
+E
+232
+2
+F*
+ES
+3o
+aE
+2E
+&&
+E
+E
+)
+E
+É
+F) =
+F
+E
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES. Wwww.newsupri com.br 5
+E SERVIÇOS LTDA vendasQnewsupn com br Página 23 de 0U &
+Página 47 de 54Inteurando tecnolegias, Gerando resultados.
+DECLARAÇÃO HPE
+ 
+ 
+e o
+ 
+   
+s Henez Packare Enterarne.
+HewlettPackard — Alameda fia Neçro, 730
+Enterprive Ce9: BA BL.00O = Baruen
+wwahpe.com
+Para Assunto Data
+GÁS DE ALAGOAS PREGÃO ELETRONICO — Barueri, 25 de agosto de 2017.
+0052017
+BDE/959
+Declaramos para os devidos fins, que à empresa SUPRISERVI COMÉRCIO
+REPRESENTAÇÕES E SERVIÇOS LTDA,, inscita no CNP) 12.707.105/0003-26,
+sediada na rua dep. José lages, 972 Ponta Verde Maceio AL CEP: 57035-330 é uma
+tevenda Participante do Programa de Canais da Hewlett-Packard Enterprise,
+estando apta à comercializar à linha MPE de produtos de computação de nossa
+fabricação.
+ 
+K2Q36B - HPE 3PAR B200 2N+SW Storage Field Base — — Garantia de 36 (tinta e
+Seis) meses *on site” HIKI4A3 WIG HPE 3Y Proactive Care CTR Service, HALLAAI
+SXU HP Installation and Startup Service (HPE);
+K2P94B - HPE 3PAR BOOO 1.6TB+SW 10K SFF HDO Garantia de 36 (trinta e seis)
+meses *on site” XB4 HPE 3Y Proactive Care CTR Service (H1K94A3);
+L7F20A - HPE 3PAR Allin Sgl-sys SW Current Media Garantis de 36 (trinta e seis)
+meses WSF HPE 3Y Prosctive Care CTR Service (H1K94A3)
+E7Y72A - HPE 3PAR 6000 LFF(3.5in) FId int Dr Encl Garantia de 36 (trinta e seis)
+meses *on site” YT) HPE 3Y Prosctive Care CTR Service (HIK94A3), HALIAAL S5XZ MP
+Installation and Startup Service (HPE);
+K2P95B - HPE 3PAR 6000 2TB+SW 7.2K LFF HDD Garantia de 36 (trinta e seis)
+meses “on site” XB5 HPE 3Y Proactive Care CTR Service (M1K94A3);
+E7Y71A - HPE 3PAR 8000 SFF(2.5in) Fd Int Or End Garantia de 36 (trinta e seis)
+meses “on site” YTJ HPE 3Y Proactive Care CTR Service (HIK94A3) HALI4AL SXZ HP
+Instaliation and Startup Service (HPE);
+N9YOG6B - HPE 3PAR 6000 400GB+SYW SMF SSD Garantia de 36 (trínta e seis) meses
+“on site” X9E HPE 3Y Proactive Care CTR Service (HIK$4A3);
+AMBGBC - HPE B/24 Base 16-port Enabled Switeh Garantia de 36 (trinta e seis) meses
+“on site” SU MPE 3Y Proactive Care CTR Service (HIK94A3) MALLIZAL SGA HPE
+Installation Service (HPE);
+QK734A - HP Premier Flex LC/LC Multi-mode OMA 2 fiber Sm Cable;
+À)I7166 - HPE SGb Short Wave B-Series SFP+ 1 Pack;
+867959-B21 - HPE DLIGO GeniO BSFF CTO Server Garantia de 36 (trinta e seis)
+meses *on site” WAG HPE 3Y Proactive Care CTR Service (HIK94A3) HALIJAL SAO
+HMPE Instaliation Service (NPE;
+ESY34A - NPE OV 3yr 24x7 Supp Phys 1 Svr Lic Garentia de 36 (trinta e seis) meses
+SVN HPE 3Y Proactive Care CTR Service (HIKS4A3);
+B69S1BAE - HPE Data Prot Starter P HP-UX SW E-LTU Garantia de 36 (trinta e seis)
+meses HM610A3 7RW HPE Sv/ Enterprise Standard 3yr Support (SFW);
+B6953AAE - HPE DP drive ext UNIX/NAS/SAN E-LTU Garantia de 36 (trinta e seis)
+meses HM610A3 7RV HPE SW Enterprise Standard 3yr Support (SFVW);
+ 
+ 
+Page 1014
+10E 969 SUPRISERVI COMÉRCIO REPRESENTAÇÕES E SERVIÇOS LTDA + EG
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES wn Dewsupr.com.br
+E SERVIÇOS LTDA vendasQriewsupn com .br
+Este documento tevAsua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da Lel
+por Luciano Kulka Ribàs, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e uti
+z
+í
+Página 48 de 54âmenle
+por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o códido 7B9F-167B-A4EB-EF8A.
+ 
+  
+  
+NAEUISUDPT
+ 
+toffassinado digit
+e66/agne
+Em Venez Packara Enterzra,
+HewlettPackard — Alameda Ria Neçra, 750
+Declaração Enterprise Cep: 05454-000 — Baruon
+wuansecom
+BS96SBAE - HPE DP On-line Backup for Windows E-LTU Garantia de 36 (trinta e seis)
+meses HM610A3 1QL HPE SW Enterprise Standard 3yr Support (SFYW):
+B7038AAE - HPE DP Advanced Backup to Disk 1TB E-LTU Garantia de 36 (trinta é
+Seis) meses HM610A3 7TU HPE SW Enterprise Standard 3yr Support (SFW);
+Declaramos que:
+Tedos os compcnentes da solução ofertada são novos, encontrados em linha de
+produção da HEWLETT PACKARD ENTERPRISE e em suas versões mais atuais no
+momento da licitação;
+Possui garantia de 36 (trinta e seis) meses, contados da sua efetiva instalação;
+Os serviços serão prestados pela SUPRISERVI COMÉRCIO REPRESENTAÇÕES E
+SERVIÇOS LTDA que é credenciada e autorizada de serviços pela MEWLETT
+PACKARD ENTERPRISE;
+HPE3PAR
+Declaramos que os produtos fornecidos são fabricados no Brasil;
+K2Q36B - HPE 3PAR 6200 2N+SW Storage Field Base;
+K2P94B - HPE 3PAR BOOO 1.8TB+Swi 10K SFF HDO;
+L7F20A - HPE IPAR All-in Sgi-sys SW Current Media;
+E7Y72A - HPE 3PAR 8000 LFF(3.Sin) Fd Int Dr Encl;
+K2P95B - HPE 3PAR BOOO 2T8+5Y' 7.2K LFF HDO;
+E7Y71A - HPE 3PAR 8000 SFF(2.5in) FId int Dr Encl;
+N9YO6B - HPE 3PAR 8000 400GB+SW SFF SSD;
+Declaramos que os produtos abaixo são importados pela MEWLETT PACKARD
+ENTERPRISE;
+AMBGBC - HPE 8/24 Base 16-port Enabled Swite
+QK734A - H? Premier Flex LC / LC Multi- mode OM4 2 fiber Sm Cable;
+AJ7168 - HPE BGb Short Wave B-Series SFP+ 1 Pack;
+ 
+HPE DL360
+Declaramos que os produtos fornecidos são fabricadas no Brasil;
+Page Rc
+EDE 54 SUMISERVI COMÉRCIO REPRESENTAÇÕES E SERVIÇOS LDA « EG
+documento teve suaminuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da Ii
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupricom.br
+E SERVIÇOS LTDA vendas&Qnewsupr com br Página 25 de 301
+Este
+Página 49 de 54NEUISU)
+Integrando tecnologias Gerando resutados.
+ 
+    
+  
+ 
+ 
+assinado mguâmeme
+-167B-A4EB-EF8A.
+e Hoerz Packara Emerçene.
+MewlettPackard — Alameda Ria Neçra, 150
+Enterprise Cap: 06454000 — Baruon
+w.anecom
+ 
+867959-B21 - HPE DLIGO GentO SSFF CTO Server;
+Declaramos que cs Softwares abaixo são importades pela HEWLETT PACKARD
+ENTERPRIS!
+ 
+ESY34A - HPE OV 3yr 24x7 Supo Phys 1 Svr Lic;
+SOFTWARES
+Deciaramos que os Soltwares são importados pela HEWLETT PACKARD
+ENTERPRISE.
+Tedas às licenças de software ofertadas são perpétuas, permitindo à continuidade do
+Iuncionamento dos sistemas, ainda que não coberta por contrato de atualização e
+suporte.
+ 
+6951BAE - HPE Data Prot Starter Pk MP-UX SW E-LTU Garantia de 36 (trinta e seis)
+meses HM610A3 7RW HPE SW Enterprise Standard 3yr Support (SFW);
+B6953AAE - HPE DP drive ext UNIX/NAS/SAN E-LTU Garantia de 36 (trinta e seis)
+meses HM610A3 7RV HPE SW Enterprise Standard 3yr Support (SFW);
+B6965BAE - HPE DP On-line Backup for Windows E-LTU Garantia de 36 (trínta e seis)
+meses HM610A3 1QL HPE SW Enterprise Standard 3yr Support (SFW);
+B7038AAE - HPE DP Advanced Backup to Disk 178 E-LTU Garantia de 36 (trinta e
+Seis) meses HM610A3 7TU HPE Sw Enterprise Standard 3yr Support (SFW);
+ 
+Durante o período de garantis, responsabilizamo-nos pela garantia dentro das
+condições padrão Mewlett Packard Enterprise, conforme especificado em nossos
+manuais técnicos. Serviços adicionais ao especificado pela garantia, podem ser
+adquirídos através da compra do Care Pack pela SUPRISERVI COMÉRCIO
+REPRESENTAÇÕES E SERVIÇOS LTDA.
+As configurações ofertadas para esta licitação são de nossa própria fabricação ou
+homolagadas por regime de O&M e estão em nossa linha de produção continuada,
+incluindo substituição da disco rígida em caso de aviso de pré-faiha identificado pelo
+software de gerenciamento e garantimos à total funcionalidade de todos os
+componentes e interfaces básicas.
+Deciaramos ainda, que a NP possui site na internet - www hos com hr - onde pode
+ser efetuado download de drivers para os equipamentos ofertados e número de
+telefone para Grande São Paulo - (011) 4004-7751 e demais regiões - 0800 55 64
+OS - para informações e aberturas de chamados técnicos.
+ 
+PaGe D 014
+2DE 659 SUPRISERVI COMÉRCIO REPRESENTAÇÕES E SERVIÇOS LTDA « EG
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES www newsupn.com.br
+E SERVIÇOS LTDA vendas&newsupri com br Página 26 de 30
+por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Jose Alves Muniz Junior. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o
+Este documento teve sua mindta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da
+Página 50 de 54Integrando tecnologias. Gerando resultados.
+— Hemer Packara Entersene.
+MHewlettPackard — Alameda Rio Neçro, 7120
+fTPIATo T Enterprise Cen: OGL54.000 - Baruon
+watçe.com
+Recomendamos que o primeiro contato com à assistência técnica seja feito através da
+HP nos telefones acima, a fim de agilizar o procedimento de atendimento.
+Os serviços de suporte, assistência técnica e manutenção serão realizados por nossa
+Rede de Serviços Autorizada, distribuida em todo território nacional, com uso de peças
+€ componentes originais e com técnicos devidamente treinados.
+SUPRISERVI COMERCIO REPRESENTACOES E SERVICOS LTDA.
+Endereço: Rua Deputado Jase Lages, 972 - Térreo, SI. 07 - Ponta Verde
+Cidade/UF: Maceid, AL - CEP: 57035-330
+CNP): 12.707.105/0001-64
+Atenciosamente,
+Tamila Solano dos Santos
+Representante Legal
+Hewlett Packard Brasil Ltda.
+, Arnobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o código 7B9F-167B-A4EB-EF8A.
+sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 da Lei
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES vwwnw newsupricom br &
+E SERVIÇOS LTDA vendas&newsupn com br Página 27 de 301
+ste documento te
+por Luciano Kulka Rib:
+Página 51 de 54NEUISUPri :
+Integrando tecnologias. Gerando resultados.
+    
+Condições Comerciais
+códi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valor Total da R$ 687.875,0O(Seiscentos e oitenta e sete mil, oitocentos e setenta e cince
+Proposta: reais) É
+o
+Validade da proposta 60 (sessenta) dias. õ
+8
+Prazo para a entreéí | Produto: Prazo máximo de 60 (sessenta) dias corridos após a assinatura dos
+Contrato e emissão das notas de empenho para o fornecimento dos 8
+€
+produtos. Esse prazo inclui os serviços de ativação/instalação. S
+Prazo de Garantia 36 (trinta e seis) meses conforme especificado na seção DISPOSIÇÕES 8
+SOBRE O FORNECIMENTO 8
+Laçais de , Rua Artur Vital da Silva, n. º 04, Gruta — CEP: 57.052-260, Maceió-AL :
+Entrega/Instalação 8
+Pagamento O pagamento deverá ser efetuado no prazo de até 10 (dez) dias úteis, após;
+a aceitação dos bens, as Notas Fiscais serão conferidas, atestadas pelê
+Gestor do Contrato e encaminhadas para processamento.
+Frete/Seguro: Frete e seguro inclusos, na modalidade de transporte rodoviário.
+Impostos e Encargos: | Estão inclusos nos preços todos os impostos e encargos necessários à
+execução do contrato.
+ 
+ 
+ 
+documento teve Sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves| Vieira pe Souza C!
+por Luciano Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para veríficar as assinaturas vá ao site htips:/[portaldeassinaturas.com.br/Verificar e utilize
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES warw Newsupr com br
+E SERVIÇOS LTDA vendasGnewsupn com .br Página 28 de 30l
+Este
+Página 52 de 54do tecnotogias Gerando resultados.
+ 
+PLANILHA DE DADOS DA EMPRESA
+NEUISUpri
+ 
+ 
+Dados da Empresa:
+ 
+Razão Social
+SUPRISERVI COMÉRCIO REPRESENTAÇÕES E SERVIÇOS LTDA
+ 
+ 
+ 
+ 
+ 
+CNPJ 12.707.105/0003-26 p
+Endereço Rua Dep. José Lages, 972 - SLO7 - Ponta Verde - Maceió - AL Ê
+CEP 57035-330 P
+Fones: c t0B1)3366-B500 É
+Fax (081) 3366-8501 — p
+E-mail adi
+ 
+ 
+Site internet
+wWww.newsupri.com.br
+ 
+Dados do Representante da Empresa:
+ 
+ontátdeaSsimátor:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fs leire DeFSou 'a dhaveés, ros têrmod do barál arbunco, o aft. 38 daLei
+ 
+ 
+Cart. de Identidade
+ 
+1638.963
+ 
+Nome — José Alves Muniz Junior
+Cargo Diretor
+Nacionalidade Brasileiro E
+Estado civil — |Casado 4
+Profissão — ) Adm. de Empresas +
+Endereço Rua Gal Goes Monteiro, 308 - Imbiribeira - Recife - PE É
+CEP 51.170-560 E
+Fone (081) 3366-8500
+Fax E
+E-mail S4
+s
+ 
+Orgão Expedidor
+SSP/AL
+ 
+CPF
+349.227.334-34
+ 
+Dados Bancários da Empresa
+A
+ 
+ 
+ 
+Banco Banco do Brasil S/A - 001
+Agência 3186-0
+Conta 99422-7 d
+ 
+Dados do Contato com a Empresa:
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nome Sergio Eugênio Muniz
+Cargo Gerente de Contas
+Endereço Rua Dep. José Lages, 972 - SLO7 - Ponta Verde - Maceió - AL
+CEP 57035-330
+Fone (082) 3327-7703
+Fax (082) 3327-9406
+E-mail sergio & newsupri.com.br
+ 
+ 
+ 
+ 
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+e
+ 
+Página 29 de
+dodumento tevê suá mihutalexamindda d aprbvadá pelb(a)Jadvbgado(a) Adrlan
+por Luciano Kulka Rlbas! Ardobid Cavalcdnti Bilh
+Éste
+Página 53 de 54nsusupr'
+'tecnologias Gerando resultados.
+ado digitaâlmente
+    
+LISTA DE DOCUMENTOS
+ 
+1. Habilitação
+a) 8.3.1.2- Ato constitutivo
+b) 8.3.2.1- Prova de Inscrição Cadastro Nacional Pessoa Jurídica-CNPJ
+c) 8.3.2.2 — Prova de Inscrição Cadastro Contribuintes Estadual
+d) 8.3.2.2 - Prova de Inscrição Cadastro Contribuintes Municipal
+e) 8.3.2.3- Prova de Regularidade com a Fazenda Federal
+f) 8.3.2.4 - Prova de Regularidade com a Fazenda Estadual
+g) 8.3.2.5- Prova de Regularidade com Fazenda Municipal Imobiliário
+h) 8.3.2.5- Prova de Regularidade com Fazenda Municipal Pessoa Juridica
+i) 8.3.2.6- Prova de Regularidade Situação RelativaSeguridade Social
+j) 8.3.2.7-Prova de Regularidade Situação Relativa Fundo Garantia
+k) 8.3.2.8- Certidão Negativa de Débitos Trabalhistas-CNDT
+|) 8.3.4.3- Certidão Negativa Falência-Filial
+m) 8.3.4.3 — Certidão Negativa Falência-Matriz
+ 
+2. Qualificação Técnica
+a) Atestado Acumuladores Moura;
+b) Gerente de Projeto — André Braga(comprovação de vinculo).
+3. Declaração
+8.3.5º — Documentação Relativa à Legislação do Menor.
+4. Declaração de Parceria e Garantia
+Fabricante HPE.
+V
+Página 30 de 3oll!
+por Luciano Kulka Ribas, Amobio Cavalcanti Filho e Jose Alves Muniz Junior. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utlize o código 7B9F167B-A4EB-EFBA.
+'ste documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Adriano Goncalves Vieira De Souza Chaves, nos termos do parágrafo único, do art. 38 fla Lei 664/93, e foi a:
+SUPRISERVI COMÉRCIO, REPRESENTAÇÕES
+E SERVIÇOS LTDA
+ 
+Página 54 de 54PROTOCOLO DE ASSINATURA(S)
+O documento acima foi proposto para assinatura digital na plataforma Portal de Assinaturas Certisign.
+Para verificar as assinaturas clique no link: https://portaldeassinaturas.com.br/Verificar/7B9F-167B-
+A4EB-EF8A ou vá até o site https://portaldeassinaturas.com.br/Verificar/ e utilize o código abaixo para
+verificar se este documento é válido.
+Código para verificação: 7B9F-167B-A4EB-EF8A
+Hash do Documento
+26126B2B86487DD9FD96BDADAA9F865SDC95D90AD9440A7E1F891D8152B02CBFE
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 08/11/2017 é(são) :
+& Luciano Kulka Ribas (Signatário - Gás de Alagoas S/A - ALGÁS) -
+022.426.849-06 em 06/11/2017 17:39 UTC-02:00
+Tipo: Certificado Digital
+& Arnobio Cavalcanti Filho (Signatário - Gás de Alagoas S/A - ALGÁS) -
+308.202.354-15 em 07/11/2017 16:33 UTC-02:00
+Tipo: Certificado Digital
+& Jose Alves Muniz Junior (Signatário - SUPRISERVI COMÉRCIO
+REPRESENTAÇÕES E SERVIÇOS LTDA) - 349.227.334-34 em
+08/11/2017 14:47 UTC-02:00
+Tipo: Certificado Digital
+O(s) nome(s) indicado(s) para autorizar, bem como seu(s) status em 08/11/2017 é(são) :
+Adriano Goncalves Vieira De Souza Chaves - 057.377.054-98 em
+06/11/2017 13:11 UTC-02:00

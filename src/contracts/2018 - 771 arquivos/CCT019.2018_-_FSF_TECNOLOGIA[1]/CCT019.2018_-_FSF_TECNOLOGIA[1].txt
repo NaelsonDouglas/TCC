@@ -1,0 +1,830 @@
+º ALGÁS X
+CARTA-CONTRATO DE SERVIÇOS Nº 019.2018
+ 
+ 
+ 
+ 
+GÁS DE ALAGOAS S/A — ALGÁS, sociedade de economia mista inscrita no CNPJ/MF
+CONTRATANTE: | sob o nº 69.983.484/0001-32, sediada na Rua Artur Vital da Silva, nº 04, Gruta de
+Lourdes, Maceió/AL, neste ato representado pelos seus diretores, que esta subscrevem.
+ 
+CONTRATADO: | FSF TECNOLOGIA S.A - ALOO TELECOM
+ 
+ENDEREÇO: Rua Joaquim Nabuco, 325 — Bairro: Farol — Maceió/AL
+ 
+CPFICNPJ 05.680.391/0001-56 Fone:(82) 2123 — 3500
+ 
+ 
+ 
+Por meio deste instrumento contratual, as partes acima qualificadas celebram o presente contrato de
+prestação de serviços, o qual será regido pela Lei 13.303/2016 e pelas demais condições específicas
+contratuais abaixo dispostas, pelas condições gerais contratuais dispostas nas páginas seguintes e pelos
+demais documentos que expressamente lhe integrarem.
+ 
+Proc. Adm. nº 020.2018 Modalidade: DISPENSA DE LICITAÇÃO Nº da Modal:-x-x-x-x-x-x
+ 
+ 
+ 
+CONDIÇÕES CONTRATUAIS ESPECÍFICAS
+ 
+1. OBJETO DA CARTA-CONTRATO: Contratação dos serviços de telecomunicações para prover
+acesso dedicado à Internet de 20MB na Sede da ALGÁS (como Link Principal), cujas condições de
+prestação e demais definições seguem descritas no anexo |.
+ 
+2. DOCUMENTOS INTEGRANTES DESTA CARTA-CONTRATO:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x | -Termo de referência (Anexo |) X | -Proposta comercial (Anexo |l) - | -X-X-X- (Anexo |ll)
+o
+ã % É z P: te 12 l is de R$ 980,00
+: & | Pagamento em parcelas mensais de '
+2' g R Éâecelllóíeeo'sºgsseáfgígai s)m"' ã E É (novecentos e oitenta reais), após recebimento da nota
+> ã ' u & | fiscal, através de boleto bancário.
+s 8 * <
+ 
+12 (doze) meses a partir da
+emissão da autorização de
+serviço.
+Os serviços contratados devem ser prestados dentro do
+prazo de 12 (doze) meses contados da data de
+autorização de serviço.
+5. PRAZO
+DE
+VIGÊNCIA
+6. ETAPAS
+(Prazos de Início
+e Conclusão)
+ 
+Empreitada Por Preço Unitário Danilo Dantas Varela/Manoel Ricardo Costa Pereira
+. GESTOR /
+8.
+F
+Ci
+7. REGIME
+DOS
+SERVIÇOS
+ISCAL DO
+ONTRATO
+ 
+ 
+ 
+ 
+ 
+08. OBSERVAÇÕES: A contratada deverá fornecer todo suporte e equipamento necessário à implatação e
+mautenção do serviço contratado. Deverá manter um centro de atendimento para resolução de problemas
+técnicos de acesso à Internet, com funcionamento 24 (vinte e quatro) horas por dia, 07 (sete) dias da semana,
+incluindo feriados, e que possa ser contatado, no mínimo, através de ligação telefônica. Deverá alocar,
+sempre que necessário, um técnico para atendimento "in loco" que seja capacitado para definir, instalar,
+configurar, testar e documentar funcionalidades de interesse da ALGÁS pertinente aos serviços contratado.
+Deverá ainda fornecer no mínimo 8 IP's no formato IPV4. TECNOLOGIA: Fibra óptica (imune a radiação
+eletromagnética e corrosão), padrão Ethernet.
+ 
+Mod. Rev-0a ;Á D
+1de5 7
+CARTA-CONTRATO N. º 019.2018A
+CONDIÇÕES GERAIS CONTRATUAIS
+ 
+ 
+ 
+ 
+1. REGÊNCIA CONTRATUAL
+1.1. O presente contrato será regido primeiramente pelas suas condições contratuais específicas,
+aplicando-se, quando não lhes forem contrarias, as disposições destas condições gerais contratuais, a
+proposta comercial, entre outros documentos que expressamente forem referidos neste contrato, e os
+preceitos de direito privado.
+2. PREÇO — O CONTRATADO declara que nos preços previstos neste contrato estão incluídas todas as
+despesas de administração e todos os encargos sociais e trabalhistas e, ainda, todos os custos com
+providências auxiliares e complementares necessárias à completa execução dos serviços contratados, tal
+como despesas de transporte, hospedagem etc.
+3. DA MEDIÇÃO E ACEITAÇÃO
+3.1. A cada etapa que for concluída, a ALGÁS promoverá a medição e verificação dos serviços executados
+e, se for o caso, a aceitação dos mesmos mediante lavratura de “Termo de Recebimento Provisório de
+Serviços” (TRPS) assinado pelas partes em até 15 (quinze) dias da comunicação do CONTRATADO,
+podendo ser dispensado no caso de serviços profissionais, caso em que o recebimento dos serviços será
+feito mediante simples recibo.
+3.2. A aceitação definitiva dos serviços dar-se-á após sua conclusão total e após a assinatura, pelas partes
+contratantes, do “Termo de Recebimento Definitivo de Serviços “(TRDS) que se dará em prazo não
+superior a 90 (noventa) dias, contados a partir da realização da medição final correspondente, salvo em
+casos excepcionais devidamente justificados.
+3.3. A ALGÁS não aceitará os serviços ou suas etapas que se mostrarem incompletos, em desacordo com
+as normas técnicas aplicáveis, fora das especificações contratuais, viciados sob qualquer forma, os quais
+serão considerados como não entregues, sujeitando-se o Contratado às penalidades contratuais e legais
+previstas por atraso.
+3.4. A fiscalização exercida pela ALGÁS, bem como o recebimento provisório ou definitivo dos serviços
+não exclui a responsabilidade civil do CONTRATADO pelos padrões adequados de qualidade, segurança,
+durabilidade e solidez dos serviços prestados, nem ético-profissional pela perfeita execução deste
+contrato.
+3.5. Salvo disposições em contrário, os ensaios, testes e demais provas exigidos por normas técnicas
+oficiais para a boa execução do objeto do contrato corem por conta do CONTRATADO
+4. PAGAMENTO
+4.1. Salvo disposição em contrário prevista nas condições específica contratuais, o pagamento parcial por
+cada etapa ou total dos serviços executados, a depender do caso, será realizado em até 30 (trinta) dias
+da data do adimplemento da obrigação pelo CONTRATADO, assim considerada a data em que ocorrer a
+aceitação dos serviços mediante a celebração de “Termo de Recebimento Provisório de Serviços” (TRPS)
+ou “Termo de Recebimento Definitivo de Serviços” (TRDS), ou do simples recibo dos serviços, conforme
+for o caso.
+4.2. Salvo disposição em contrário, os pagamentos serão realizados através de cheque nominal ao
+CONTRATADO, a ser entregue na sede da ALGÁS na data do vencimento do pagamento, durante horário
+normal de expediente.
+4.3. Entre a data do adimplemento da obrigação e o respectivo pagamento não haverá atualização
+financeira dos valores a serem pagos, salvo na hipótese do pagamento ocorrer fora do vencimento, caso
+em que a ALGÁS pagará uma multa de 2% (dois por cento) e juros de mora de 1% (um por cento) ao mês,
+esta última calculada proporcionalmente ao tempo da mora.
+4.4. Caso o dia de pagamento recaia em dia não útil, o mesmo será efetuado no próximo dia útil.
+Mod. Rev.os
+2des 2)
+CARTA-CONTRATO N. º 0192018&âb&é& PÚBLICA
+4.5. A critério da ALGÁS, poderão ser exigidos do CONTRATADO, para fins de pagamento, a comprovação
+de sua regularidade fiscal relativa à previdência social (INSS), ao FGTS, à Fazenda Federal, à Fazenda
+Estadual e Fazenda Municipal, estas duas últimas do domícílio ou sede do CONTRATADO, sob pena de
+seu pagamento permanecer retido até a apresentação dos documentos referidos.
+ 
+5. ALTERAÇÕES CONTRATUAIS — A carta-contrato admite alteração, mediante acordo formal entre as
+partes, nas hipóteses previstas nos incisos do art. 81 da Lei 13.303/16.
+6. SANÇÕES
+6.1. O atraso no início, na conclusão e na entrega dos serviços, ou, por outra qualquer forma, o
+CONTRATADO não cumprir as normas contratuais, este estará sujeito, assegurado o contraditório e a
+ampla defesa, às seguintes sanções: advertência; multa; e suspensão temporária de participação em
+licitação e impedimento de contratar com a ALGÁS por prazo não superior a 2 (dois) anos.
+6.2. Ressalvada a hipótese de força maior ou caso fortuito, a multa acima prevista será calculada,
+progressivamente, por cada dia de inadimplemento, na forma abaixo:
+| — 0,5% (cinco décimos por cento) ao dia, até o quinto dia corrido, calculado sobre o valor
+correspondente à parte inadimplente;
+11 — 0,7% (sete décimos por cento) ao dia, para cada dia corrido, do sexto até o décimo dia, calculado
+sobre o valor correspondente à parte inadimplente;
+1 — 1,0% (um por cento) ao dia, a partir do décimo primeiro dia corrido, calculado sobre o valor
+correspondente à parte inadimplente, limitado ao valor integral do contrato.
+6.3. A multa acima poderá ser aplicada concomitantemente com as demais sanções previstas, e sem
+prejuízo do CONTRATADO responder por perdas e danos pelos prejuízos, que, por seu atraso, causar a
+ALGÁS, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e
+honorários de advogado.
+6.4. Se a prestação, devido à mora, se tornar inútil à ALGÁS, o CONTRATADO, além da devolução dos
+valores eventualmente adiantados e não aproveitados, pagará uma multa de, no mínimo 50% (cinquenta
+por cento) e no máximo 100% (cem por cento) do valor atualizado do contrato, independentemente da
+comprovação dos prejuízos, facultando à ALGÁS exigir a satisfação das perdas e danos quando estes
+forem superiores à pena ora convencionada.
+6.5. Nos casos de infração contratual por parte do CONTRATADO que não resulte em atraso na entrega
+das etapas ou na conclusão dos serviços ou, ainda, em inutilidade da manutenção do contrato para a
+ALGÁS, será aplicada no CONTRATADO uma multa equivalente a 5% (cinco por cento) do valor atualizado
+do contrato, respeitado o mínimo de 1/3 (um terço) do salário mínimo vigente e o máximo de 30%
+(trinta por cento) do valor atualizado do contrato, prevalecendo o teto em relação ao piso conforme for
+o caso, podendo a penalidade prevista nesta cláusula, a qualquer caso, ser reduzida proporcionalmente à
+Bgravidade da infração.
+7. DOS CASOS DE RESCISÃO
+7.1. O presente Contrato poderá ser rescindido, a critério da ALGÁS, e independente de qualquer
+interpelação ou notificação judicial ou extrajudicial, com antecedência mínima de O5 (cinco) dias úteis,
+sem que ao CONTRATADO caiba qualquer indenização e/ou retenção sobre os materiais e serviços a ela
+confiados, no caso de inadimplemento de qualquer condição da presente ou quando não atender
+integralmente, dentro de cinco (5) dias, às exigências que lhe forem feitas pela ALGÁS, por notificação
+escrita, ou ainda, na hipótese de insolvência ou falência do CONTRATADO.
+8. OBRIGAÇÕES DO CONTRATADO:
+8.1. Caberá ao CONTRATADO, dentre outras, o cumprimento das seguintes obrigações:
+| — Responsabilizar-se tecnicamente pela execução dos serviços na forma de legislação em vigor;
+Mod. Rev-0o e
+3des5 f
+CARTA-CONTRATO N. * 019.2018 TQasas FúRiicA
+1l — Responsabilizar-se integralmente pela execução dos serviços contratados, não podendo eximir-se,
+ainda que parcialmente, atribuindo quaisquer falhas ou deficiências dos serviços a erros de especificação
+dos serviços contratados;
+IIl — Acatar e facilitar a ação da fiscalização da ALGÁS e cumprindo as exigências da mesma;
+IV — Não divulgar nem fornecer a terceiros, dados e informações referentes aos serviços por ela
+realizados, a menos que seja expressamente autorizada por escrito, pela Diretoria da ALGÁS;
+V — Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas,
+todas as condições de habilitação e qualificação exigidas na Licitação;
+VI — Buscar manter a ALGÁS, durante e após a vigência deste Contrato, à margem de quaisquer
+reivindicações dos seus empregados, assumindo a responsabilidade, por si e/ou sucessores, por
+quaisquer ônus que venham a ser-lhe imputados por decisão judicial transitada em julgado, em qualquer
+época, decorrentes de tais reivindicações ou reclamações;
+VIl — Cumprir rigorosamente a legislação aplicável à segurança e saúde de seus empregados e
+trabalhadores, especialmente as Normas Regulamentadoras do Ministério do Trabalho e Emprego que
+lhe forem aplicáveis, além das diretrizes de segurança e saúde expressamente definidas neste
+instrumento e em seus anexos;
+VIII — Cumprir rigorosamente a legislação ambiental aplicável, além das diretrizes de proteção ambiental
+expressamente definidas neste instrumento e em seus anexos.
+8.2. Citado para se defender em processo judicial de terceiros, de natureza civil ou trabalhista, inclusive,
+mas não exclusivamente de empregado ou ex-empregado do CONTRATADO, a ALGÁS fará o cálculo dos
+direitos pleiteados e, após dele notificar o CONTRATADO, reterá o correspondente valor para fazer
+frente à eventual condenação, deduzindo-o de importâncias dos pagamentos futuros ou da garantia
+contratual.
+ 
+ 
+ 
+9. DA FISCALIZAÇÃO — Durante a vigência deste contrato, a execução do objeto será acompanhada e
+fiscalizada por Gestor designado pela ALGÁS, o qual terá, entre outras, as seguintes atribuições: expedir
+autorização de execução de serviços; proceder ao acompanhamento técnico da execução dos serviços;
+fiscalizar a execução do contrato quanto à qualidade desejada; comunicar ao CONTRATADO o
+descumprimento do contrato e indicar os procedimentos necessários ao seu correto cumprimento;
+solicitar a aplicação de sanções pelo descumprimento de cláusula contratual; fornecer atestados de
+capacidade técnica quando solicitado, desde que atendidas às obrigações contratuais; atestar as notas
+fiscais para efeito de pagamento; recusar e devolver os serviços cuja execução não se verifique perfeita;
+solicitar reparação, correção, remoção, reconstrução ou substituição, no total ou em parte, dos serviços
+recusados e devolvidos; solicitar ao CONTRATADO e ao seu preposto todas as providências necessárias á
+boa execução dos serviços contratados; notificar o CONTRATADO para apresentar defesa administrativa
+no prazo legal antes da aplicação das sanções, salvo no caso da advertência, cuja aplicação será aplicada
+pelo gestor do contrato.
+10. INCIDÊNCIAS FISCAIS
+10.1 Os tributos (impostos, taxas, emolumentos fiscais e parafiscais) devidos em decorrência, direta ou
+indiretamente do presente Contrato ou de sua execução, serão da exclusiva responsabilidade do
+contribuinte, assim definido em norma tributária, sem direito a reembolso. A ALGÁS, nos casos em quea
+lei lhe enquadrar como fonte retentora, descontará e recolherá, dos pagamentos que efetuar, os
+tributos a que estiver obrigada pela legislação vigente.
+10.2 Os serviços executados na cidade de Maceió/AL terão o Imposto Sobre Serviços (ISS) retido na Nota
+Fiscal, independentemente da localização da empresa, conforme Lei Complementar n.º 116/2003 e
+Decreto Municipal n.º 6.939/2009, este último enquadrando esta ALGÁS como contribuinte substituto
+tributário do ISS.
+Mod. Rev-0o EÉ o
+4des /
+CARTA-CONTRATO N. º 019.2018oALGÁS
+Qu
+11. DAS DISPOSIÇÕES GERAIS
+11.1. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento dos termos e
+condições deste contrato ou ao exercer qualquer prerrogativa dele decorrente, não constituirá
+renovação ou renúncia e nem afetará o direito das partes de exercê-lo a qualquer tempo.
+11.2. Quando assinado eletronicamente, mediante certificados digitais, o contrato considerar-se-á
+celebrado somente após a assinatura eletrônica de todos os representantes das partes com capacidade
+ou poderes de representação.
+ 
+ 
+12. DO FORO - Fica eleito o Foro da Comarca de Maceió/AL, que será o competente para dirimir as
+questões decorrentes deste Contrato, renunciando as partes a qualquer outro por mais privilegiado que
+seja.
+ 
+Maceió, 1S' de ugoço — de2olf.
+4 >D
+S "
+s A ta Corhte A Al
+- Ah . e
+Cavalcanti Filho
+< ª'"%RLÍm Presidente
+Gás de Alagoas SIA - ALGÁS
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o
+Q
+É
+s —
+= Colhunus S Y >
+8 caléios CRSSHECNOLOGIA S.A - ALOO TELECONIS, :
+RE20000011d0Go7 — O05.680.391/0001-56
+TESTEMUNHAS: VSA
+1 Nome%w-f/b*ê(/ké 2. NOME: L/'ª/%ªªªfºº um a
+sSA
+cPF: 024 915 024-55 CPF: BE T .q50. 334 -Q
+1Ig:noel Ricardo C. Pereira
+cc. de Proc. Operacionais V
+Gás de Alagoas S/A - ALGÁS Lula Marceto Freitas da Skva
+je Proc. Organizacionais
+jagoas S/A - ALGÁS
+  
+Mod. Rev-09
+5de5
+CARTA-CONTRATO N. º 019.20181678 99 Qioiiça,
+EDA EA sgi>
+ 
+ALGÁS
+Gás de Alagoas SA.
+TERMO DE REFERÊNCIA
+ 
+Área: GETI
+Nº do TR 047/2017
+Revisão: 01
+ 
+Contratação de links dedicados de Internet para a
+Sede da ALGÁS e ALGÁS CONFORTO.
+Manoel Ricardo Costa Pereira
+14/11/17
+NRECEBIDO EM:
+_m—_/_ L Jn
+S horas»
+ALGÁS
+Gás de Alagoas SA.
+TERMO DE REFERÊNCIA
+1. INFORMAÇÕES INICIAIS
+Setor: GETI
+Responsável: Danilo Dantas Varela
+Cargo: Gerente de Tecnologia da Informação
+Data Desejada para Início dos Serviços: 14/02/2018
+2. DO OBJETO
+O presente termo de referência tem por objeto a contratação de três links dedicados de Internet, sendo
+um deles com velocidade de 20Mbps e cada um dos outros dois com 10Mbps, pelo período de 12
+meses, sendo possível mais uma prorrogação, cujas condições de fornecimento e demais definições
+seguem descritas abaixo e em seus anexos.
+3. NECESSIDADE DA CONTRATAÇÃO
+A contratação acima se faz indispensável para atender a necessidade da Companhia por conexão
+permanente com a Internet, tanto servindo como ferramenta para que os setores possam desempenhar
+suas atividades quanto para disponibilização de serviços públicos e restritos da Companhia na rede
+mundial de computadores.
+Atualmente, a ALGÁS mantém três links que são utilizados para acessos à Internet e divulgação de seu:
+serviços ao público externo. Na arquitetura atual, o link primário é responsável por sustentar tocz
+utilização de Internet dentro da ALGÁS e serviços disponíveis ao público externo. O segundo link
+funciona atendendo ao Sistema Supervisório e como contingência para acesso à Internet e para suportar
+alguns serviços críticos caso o link primário esteja inoperante. Já o terceiro link interliga a Sede da
+ALGÁS ao ALGÁS CONFORTO.
+Como os contratos dos atuais links estão próximas de expirar, a GETI planeja contemplar três links nesta
+nova contratação e continuar com o modelo pré-existente, mantendo um link principal, outro para o
+sistema Supervisório e contingência para a sede da Companhia, e o terceiro para o ALGÁS CONFORTO.
+Na sede, o link principal concentrará a maior parte dos serviços externos e o acesso à Internet, e
+possuirá velocidade de 20 Mbps. O segundo link da sede terá a atribuição de manter o gerenciamento
+da rede de gás natural (Telemetria) e a contingência do link principal. Possuirá velocidade de 10 Mbps
+para manter grau satisfatório de desempenho e disponibilidade com o melhor custo benefício. Para &
+ALGÁS CONFORTO, o link será de 10 Mbps, velocidade suficiente para assegurar grau satisfatório de
+desempenho e disponibilidade aos serviços lá utilizados.
+Página 1 de 5 N&*))
+ALGÁS
+Gás de Alagoas SA
+ 
+Esse cenário contempla o fato de que a Internet exerce papel preponderante para que a ALGÁSNÉUnsi'gã')
+ 
+satisfazer com efetividade sua missão institucional, disponibilizando serviços como o acesso ao portal da
+Companhia, emissão de segunda via, emissão de nota fiscal eletrônica, controle e gerenciamento da
+rede de gás natural, entre outros.
+Entende-se, portanto, que a contratação destes três links criará um ambiente com alta disponibilidade
+para publicação de serviços externos e internos. Esta característica se tornou uma premissa,
+principalmente considerando o fato de que a ALGÁS disponibiliza serviços e facilidades pela Internet aos
+seus clientes e possui posto de atendimento geograficamente afastado da Sede da Companhia (ALGÁS
+CONFORTO) que necessita de comunicação de dados constante com a infraestrutura principal de TI.
+Ressalta-se, sobretudo, que a contratação dos dois links para acesso à Internet na sede da Companhia
+que operarão em contingência ativa para assegurar alta disponibilidade aos serviços externos e acesso
+contínuo à Internet, só terá efetividade caso fornecidos por empresas distintas e que não utilizem a
+mesma infraestrutura de rede e/ou roteamento. Desta forma evita-se que existam pontos de falha em
+comum às duas empresas e que eventuais problemas na infraestrutura de rede e/ou roteamento
+causem a interrupção simultânea dos dois links da sede da Companhia. Esta é uma característica
+mandatória a ser observada.
+Desta forma, sugere-se esse formato de contratação para os links da sede da Companhia:
+ 
+ 
+ 
+Velocidade | Fornecedor ALGAS
+20 MB Fornecedor 1 x
+10 MB Fornecedor 2 Xx
+ 
+ 
+ 
+ 
+ 
+ 
+Esta característica não se aplica à contratação do link para o ALGÁS CONFORTO. Qualquer fornece- -
+que atenda aos requisitos deste Termo de Referência e do Memorial Descritivo em anexo poderá ser
+contratado.
+4. REGIME DE EXECUÇÃO DOS SERVIÇOS
+( ) Tarefa
+( X ) Empreitada por preço unitário
+() Empreitada por preço global
+( ) Empreitada integral
+5. ORÇAMENTO DOS SERVIÇOS/OBRAS (obrigatório para Serviços/Obras de Engenharia)
+Não aplicável, por não se tratar de serviço ou obra de engenharia, ficando a pesquisa de preço a cargo
+da Gerência de Suprimentos.
+Página 2 de 5INHoRMAÇÃO
+) ÉN
+ALGAÁS
+Gás de Alagoas SA.
+6. JUSTIFICATIVA DA ESCOLHA DO FORNECEDOR (Aplicável apenas nos casos de inexigibilidade de
+licitação)
+Não se tratando de procedimento de inexigibilidade de licitação, a escolha do fornecedor será procedida
+após processo seletivo de propostas, conforme procedimento a ser verificado pela Gerência de
+Suprimento.
+7. PRAZOS DE GARANTIA
+O contratado é obrigado, durante todo período de vigência do contrato e seus aditamentos, a repara
+corrigir, reconstruir instalações ou substituir equipamentos, às suas expensas, no total ou em parte
+quando se verificarem vícios, defeitos ou incorreções no fornecimento dedicado de acesso à Internei
+resultantes de problemas externos às instalações da ALGÁS ou de defeitos em materiais ou
+equipamentos empregados.
+8. PRAZOS DE EXECUÇÃO DOS SERVIÇOS
+Os serviços contratados devem ser fornecidos e estar plenamente funcionais em um prazo máximo de
+30 (trinta) dias contados da emissão da respetiva Autorização de Serviço.
+9. MATERIAIS APLICÁVEIS AOS SERVIÇOS
+Conforme especificado no memorial descritivo.
+9.1 — Requisitos Adicionais dos Materiais
+Conforme especificado no memorial descritivo.
+9.2 — Marcas e Modelos
+Conforme especificado no memorial descritivo.
+9.3. Condições de Transporte e Entrega
+A responsabilidade pelo transporte, frete, descarga ficarão por conta do fornecedor, ficando a ALGÁS
+isenta de qualquer custo ou responsabilidade.
+10. ASSISTÊNCIA TÉCNICA
+A empresa CONTRATADA deverá manter um centro de atendimento para resolução de problemas
+técnicos de acesso à Internet, com funcionamento 24 (vinte e quatro) horas por dia, 07 (sete) dias da
+semana, incluindo feriados, e que possa ser contatado, no mínimo, através de ligação telefônica. Todas
+S
+Página 3 de 5
+7
+NS)
+    
+RTTNA
+[;EE
+  
+  
+ALGÁS
+Gás de Alagoas S.A.
+as manutenções, reparos e substituições dos equipamentos, infraestrutura e acessórios estarão a cargo
+da empresa CONTRATADA, sem ônus para a CONTRATANTE. O tempo de recuperação de falhas deverá
+ser de até 6 horas a partir da abertura do chamado, em regime 24 horas por dia, 7 dias por semana, 365
+dias do ano.
+11. REQUISITO DE SAÚDE, MEIO AMBIENTE E SEGURANÇA
+Os serviços de instalação serão precedidos de Treinamento de Integração, agendados pelo SST da ALGÁS
+com os funcionários diretamente envolvidos no serviço, após a análise de conformidade cc
+documentos relacionados no Anexo |l, e realizados mediante a Avaliação do Riscos da Atividade (ARº)
+ 
+erente de Segur;
+Ga Ambienrege
+$ de Alegons 8/A% ALGÁS
+12. CONDIÇÕES DE QUALIFICAÇÃO TÉCNICA DO FORNECEDOR
+Como requisito de contratação, visando garantir que os serviços prestados tenham a qualidade mínima
+e necessária a satisfazer as necessidades da ALGÁS, o fornecedor deverá comprovar as seguintes
+qualificações técnicas:
+12.1. Qualificação Técnica-Operacional:
+Comprovação de aptidão para desempenho de atividade pertinente e compatível com as
+características, quantidades e prazos dos serviços a serem contratados, mediante apresentação
+de atestado(s) de capacidade técnico-operacional de fornecimento de link de Internet dedicado
+emitidos por pessoa jurídica de direito público ou privado, com o nome da empresa Pproponernts
+como fornecedora.
+12.2. Qualificação Técnica-Profissional
+Não se aplica.
+13. ANEXOS
+Anexo | - Memorial Descritivo;
+Anexo 1l - Documentos de SMS — GETI TR 047-17.
+Maceió, 14 de novembro de 2017.
+Gerência de Tecnohalgàgg,l'nm & ção
+soo
+a
+Darulo g e ntormás
+de T TSA ALOPO
+Gersãe Alagoas SIA
+Página 4 de 5TABELA DE DOCUMENTOS A SEREM
+ALGÁS APRESENTADOS
+ 
+Gás de Alagoas SA.
+ 
+SEGURANÇA, MEIO AMBIENTE E SAÚDE
+ 
+ 
+ 
+GETI TR 047-17 CONTRATAÇÃO LINK DE INTERNET
+ 
+ITEM
+DOCUMENTOS
+PRAZO DE ENTREGA
+ 
+Funcionários diretos do serviço:
+- Atestado de Saúde Ocupacional — ASO;
+Até 30 dias após a assinatura do Contrato e 5 dias antes —
+ 
+ 
+? | -Ficha de entrega de EP!. do início dos serviços. :
+Relação de pessoal para treinamento de Até 30 dias após a assinatura do Contrato e 5 dias antes
+02 | Integração de SMS e ARA.
+ 
+ 
+do início dos serviços.INFOoRMAÇÃO
+/ UE
+ALGAS
+Gás de Alagoas SA.
+     
+  
+ 
+MEMORIAL DESCRITIVO
+ 
+CONTRATAÇÃO DE 03 LINKS DEDICADOS DE INTERNET
+ 
+| 1. CARACTERÍSTICAS TÉCNICAS GERAIS:
+semana, a partir de sua ativação), dedicados e exclusivos. Ou seja, serviços determinísticos na rede
+acesso à Internet e com total conectividade IP.
+1.2. Fornecimento de, no mínimo, 08 (oito) números IP's de protocolo IPv4, próprios e válidos n:
+Internet (não poderão ser números IP's de faixas reservadas para redes privadas).
+1.3. Os equipamentos roteadores deverão ser fornecidos, configurados e gerenciados pelas empresas
+/ CONTRATADAS, atendendo às seguintes especificações:
+* —Possuir, no mínimo, 02 (duas) portas Gigabit Ethernet 10/100/1000 de detecção automática que
+sejam compatíveis com o padrão IEEE 802.3;
+* A interface física da porta LAN deverá ser fornecida no padrão RJ-45 (10baseT), para cabos
+UTP, CAT 6;
+º Deverão ter capacidade para suportar o tráfego com banda completamente ocupada, sem
+exceder a 80% de utilização de CPU e memória;
+* Deverão possuir quantidade mínima necessária de memória para atender à velocidade e as
+funcionalidades requeridas, em conformidade com as recomendações do fabricante.
+* Deverão possuir protocolo SNMP configurável para aceitar pacotes e interceptações par-
+comunidade PUBLIC de qualquer host;
+1.4. Os serviços deverão ser instalados, configurados, ativados e entregues em pleno funcionamer;
+pelas empresas CONTRATADAS.
+1.5. As empresas CONTRATADAS deverão fornecer todos os equipamentos, infraestruturas físicas e
+acessórios necessários para o perfeito e total funcionamento dos serviços descritos, assim como as
+.) características dos links. Os enlaces de comunicação das infraestruturas físicas externas até o
+FSDATACENTER da ALGÁS deverão utilizar o meio físico de transmissão fibra óptica. Todos os
+equipamentos instalados pelas CONTRATADAS no DATACENTER da ALGÁS deverão ser adequados
+para instalação em rack padrão 19 polegadas. Todas as manutenções, reparos e substituições de
+equipamentos, infraestrutura e acessórios estarão a cargo das empresas CONTRATADAS, sem ônus
+para a CONTRATANTE.
+1.,6. Os serviços deverão ser disponibilizados com fornecimento, instalação e manutenção de circuitos
+locais, bem como dos equipamentos de roteamento e transmissão de dados (roteadores e modems)
+de propriedade das CONTRADADAS, com configurações mínimas para suportar plenamente 0<s
+serviços descritos nestas especificações.
+1.7. As CONTRATADAS deverão monitorar permanentemente o estado dos circuitos de comunicaçê
+de dados, providenciando imediatamente a execução de reparos dos circuitos em caso de falha:
+responsáveis pelo gerenciamento dos circuitos.
+ 
+1.8. Não poderão existir por parte das CONTRATADAS qualquer tipo de bloqueio, redução ou limite de
+1.1. Os acessos à Internet deverão ser contínuos e permanentes (24 horas por dia e 07 dias por
+degradação de desempenho ou evento que leve à indisponibilidade das redes. As CONTRATADAS são |
+ 
+ 
+ 
+Rua Artur Vital da Silva, 04 1
+Gruta de Lourdes - Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algas(algas.com.br - www.algas.com.brTE T
+/ TE
+ALGAS .
+Gás de Alagoas SA.
+banda ou de velocidade de transferência, perda de pacotes, ou qualquer outra técnica que vise impedir
+ou dificultar o acesso, seja a domínios, portas, sites, IPs, protocolos, serviços e outros ou composição
+de qualquer um destes.
+ATENDIMENTO E DISPONIBILIDADE GERAIS PARA CADA CONTRATADA:
+2.1. O Acordo de Nível de Serviço — ANS deverá assegurar disponibilidade mensal mínima de 99,2% de
+conectividade com a Internet. O percentual será calculado considerando-se a soma de todos os minu'í
+de indisponibilidade do serviço em função do total de minutos do mês, excetuando-se interrup
+durante janelas de manutenções programadas e previamente reportadas ao CONTRATANTE. Ou se
+em um mês de 30 dias serão toleradas 6 horas de indisponibilidade não planejada na conexão com &
+Internet. |
+ 
+  
+ 
+2.2. Para tempo de indisponibilidade mensal superior a 0,8% devem ser gerados descontos na fatura
+correspondentes a 3% do valor mensal dos serviços por hora de serviço não prestado, até o limite de
+30% do valor da mensalidade. No entanto, o desconto será de 50% do valor mensal do serviço caso a
+indisponibilidade se estenda por mais de 24h (vinte e quatro horas) corridas.
+2.3. Partindo da premissa que as conexões deverão ser contínuas e permanentes, períodos de
+nstabilidade, lentidão e interrupções rápidas e constantes nas conexões serão considerados períodos
+indisponibilidade dos serviços e serão computados no cálculo dos descontos mensais por serviços
+o prestados.
+2.4. As empresas CONTRATADAS deverão manter centro de atendimento para resolução de problemas
+técnicos de acesso à Internet, com funcionamento 24 (vinte e quatro) horas por dia, 07 (sete) dias d=
+semana, incluindo feriados, e que possa ser contatado, no mínimo, através de ligação telefônica (C=z'
+Center). As CONTRATADAS deverão fornecer atendimento técnico nas formas remota e presencia
+depender da causa e origem do problema, até a resolução total dos eventuais problemas.
+2.5. O tempo de recuperação de falhas deverá ser de até 6 horas a partir da abertura do chamado, em
+regime 24 horas por dia, 7 dias por semana, 365 dias do ano.
+ 
+Item Lote/Grupo Descrição
+ 
+o o1 LINK DE INTERNET DEDICADO DE 20 MBPS - SEDE ALGÁS PRIMÁRIO
+ 
+ 
+ 
+ 
+ 
+TARACTERÍSTICAS TÉCNICAS:
+i. Fornecimento de conectividade IP — Internet Protocol — a 20 Mbps para download e upload
+(velocidade fixa, full duplex, síncrona, simétrica e permanente), que suporte aplicações TCP/IP e proveja -
+o acesso à rede Internet.
+ 
+1.2. A empresa CONTRATADA para atender este Item 01 (LINK DE INTERNET DEDICADO £E::
+MBPS - SEDE ALGÁS PRIMÁRIO) não poderá ser a mesma e nem utilizar a mesma infraestrutura
+rede e/ou roteamento da empresa que atenderá ao Item 02 (LINK DE INTERNET DEDICADO DE i
+MBPS — SEDE ALGÁS SECUNDÁRIO) desta licitação. Esta restrição se faz necessária para que não
+existam pontos de falha comuns às duas empresas, visto que os links de Internet dos Itens 01 e 02
+desta licitação servirão como backup um do outro.
+ 
+Rua Artur Vital da Silva, 04 2
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algas&algas.com.br - ww.algas.com.br/ “PÚBLICA
+ALGAÁS . aaa
+Gásde Alagoas SA.
+ 
+2. INSTALAÇÃO:
+A instalação deve ocorrer em até 30 dias após a assinatura do contrato no endereço: Rua Artur Vital
+Silva, nº 04, Gruta de Lourdes. Maceió / AL.
+AAAA ANA E DL HA
+ 
+Item Lote/Grupo Descrição
+ 
+o2 o LINK DE INTERNET DEDICADO DE 10 MBPS - ALGÁS SECUNDÁRIO
+ 
+ 
+ 
+ 
+aa
+1. CARACTERÍSTICAS TÉCNICAS:
+1.1. Fornecimento de conectividade IP — Internet Protocol — a 10 Mbps para download e upload
+(velocidade fixa, full duplex, síncrona, simétrica e permanente), que suporte aplicações TCP/IP e proveja
+O acesso à rede Internet.
+1.2. A empresa CONTRATADA para atender este Item 02 (LINK DE INTERNET DEDICADO DE 10
+MBPS — SEDE ALGÁS SECUNDÁRIO) não poderá ser a mesma e nem utilizar a mesma infraestrutura
+de rede e/ou roteamento da empresa que atenderá ao Item 01 (LINK DE INTERNET DEDICADO DE 20
+“-PS — SEDE ALGÁS PRIMÁRIO) desta licitação. Esta restrição se faz necessária para que não
+stam pontos de falha comuns às duas empresas, visto que os links de Internet dos Itens 01 e 02
+desta licitação servirão como backup um do outro.
+2. INSTALAÇÃO:
+2.1. A instalação deve ocorrer em até 30 dias após a assinatura do contrato no endereço: Rua Artur v':
+da Silva, nº 04, Gruta de Lourdes. Maceió / AL.
+ 
+Item Lote/Grupo Descrição
+ 
+o3 o LINK DE INTERNET DEDICADO DE 10 MBPS - ALGÁS CONFORTO
+ 
+ 
+ 
+ 
+ 
+Á
+ 
+1. CARACTERÍSTICAS TÉCNICAS:
+Fornecimento de conectividade IP — Internet Protocol — a 10 Mbps para download e upload
+“siocidade fixa, full duplex, síncrona, simétrica e permanente), que suporte aplicações TCP/IP e proveja
+o acesso à rede Internet.
+2. INSTALAÇÃO:
+2.1. A instalação deve ocorrer em até 30 dias após a assinatura do contrato no endereço: Gale
+Passeio Stella Maris, Av. Alvaro Otacílio, 4493, Loja Algás Conforto - Jatiúca, Maceió - AL.
+ 
+Rua Artur Vital da Silva, 04 3
+Gruta de Lourdes — Maceió6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algas&algas.com.br - www.algas.com.br»
+>
+b
+ALOO
+TELECOM
+ 
+PROPOSTA COMERCIAL EM ATENDIMENTO TERMO DE REFERÊNCIA
+NOV/2017
+1. CONSIDERAÇÕESINICIAIS
+1.1. — Para elaboração dessa proposta de preço foram consideradas as especificações
+contidas no Termo de Referência e seus anexos.
+1.2. — Informações cadastrais:
+Razão Social: FSF Tecnologia S.A.;
+Nome fantasia: Aloo Telecom;
+CNPJ/MF: 05.680.391/0001-56;
+Inscrição Estadual: 241047889;
+Inscrição Municipal: 900646713;
+Endereço: Rua Joaquim Nabuco, 325, Farol, Maceió - AL;
+Telefone/fax: (082) 2123-3500;
+E-mail: felipe(Qalootelecom.com.br;
+Endereço Eletrônico: www.aloo.com.br.
+ 
+1.3. — Estão inclusos nos preços propostos todos os custos e despesas, tais como: custos
+diretos e indiretos, tributos incidentes, impostos, taxa de administração, materiais,
+serviços, encargos sociais, trabalhistas, previdenciários, seguros, lucro e outros ônus que
+porventura possam recair sobre o fornecimento do objeto da presente licitação.
+2. OBJETO
+2.1. A presente proposta tem por objeto a contratação, pela ALGÁS, da empresa
+especializadas para prestação de serviços para fornecimento de enlace dedicado de acesso
+à Internet para 03 acessos, totalizando 40 Mbps. A presente proposta observa os padrões
+mínimos de qualidade exigíveis, de acordo com as condições constantes no Termo de
+Referência e seus anexos.
+3 PRAZO DE VALIDADE DA PROPOSTA
+3.1. —A presente proposta tem validade de 60 (sessenta) dias, podendo ser prorrogada,
+através de solicitação da ALGÁS.
+4 PRAZO DE ATIVAÇÃO DOS SERVIÇOS
+4.1. Para o objeto da licitação, o prazo máximo de instalação dos enlaces e início da
+prestação dos serviços contratados será de até 30 (trinta) dias, contados a partir da emissão
+da nota de empenho.
+5. PRAZO DE VIGÊNCIA DO CONTRATO
+5.1. — Os serviços terão vigência contratual de 12 (doze) meses, passando a vigorar a
+partir do efetivo início da prestação dos serviços, podendo ser prorrogado por igual e
+| 0800 725 3505 | aloo.com.br |
+Rua Joaquim Nabuco, 325 - Faro! - Maceió /AL - CEP 57051-410»
+>)
+Do
+ALOO Página 2de 4
+TELECOM Proposta Comercial
+sucessivo período, até o limite de 60 (sessenta) meses, a critério da ALGÁS, na forma
+disposta no artigo 57, inciso II, da Lei Nº 8666/1993.
+6. CARACTERÍSTICAS GERAIS DOS CIRCUITOS E SERVIÇOS
+Os ser viços ser ão executados confor me discriminado abaixo
+6.1.Os acessos à Internet serão contínuos e permanentes (24 horas por dia e 07 dias por
+semana, a partir de sua ativação), dedicados e exclusivos. Ou seja, serviços
+determinísticos na rede de acesso à Internet e com total conectividade IP.
+6.2. Fomecimento de, no mínimo, 08 (oito) números IP's de protocolo IPv4, próprios e
+válidos na Internet (não poderão ser números IP's de faixas reservadas para redes
+privadas).
+6.3. Os equipamentos roteadores serão fornecidos, configurados e gerenciados pela
+ALOO TELECOM, atendendo às seguintes especificações:
+* TIrá possuir, no mínimo, 02 (duas) portas Gigabit Ethernet 10/100/1000 de
+detecção automática que sejam compatíveis com o padrão IEEE 802.3;
+e A interface física da porta LAN será fornecida no padrão RJ-45 (10baseT), para
+cabos UTP, CAT 6;
+* Trá possuir capacidade para suportar o tráfego com banda completamente
+ocupada, sem exceder a 80% de utilização de CPU e memória;
+* — Irá possuir quantidade mínima necessária de memória para atender à velocidade
+e as funcionalidades requeridas, em conformidade com as recomendações do
+fabricante.
+* — Possuirão protocolo SNMP configurável para aceitar pacotes e interceptações
+para comunidade PUBLIC de qualquer host;
+6.4.0s serviços serão instalados, configurados, ativados e entregues em pleno
+funcionamento pela ALOO TELECOM.
+6.5.A ALOO TELECOM fornecerá todos os equipamentos, infraestruturas físicas e
+acessórios necessários para o perfeito e total funcionamento dos serviços descritos,
+assim como as características dos links. Os enlaces de comunicação das
+infraestruturas físicas externas até o DATACENTER da ALGÁS deverão utilizar o
+meio físico de transmissão fibra óptica. Todos os equipamentos instalados pela ALOO
+TELECOM no DATACENTER da ALGÁS serão adequados para instalação em rack
+padrão 19 polegadas. Todas as manutenções, reparos e substituições de equipamentos,
+infraestrutura e acessórios estarão a cargo da ALOO TELECOM, sem ônus para a
+CONTRATANTE.
+6.6. Os serviços serão disponibilizados com fornecimento, instalação e manutenção de
+circuitos locais, bem como dos equipamentos de roteamento e transmissão de dados
+| 0800 725 3505 | aloo.com.br |
+Rua joaquim Nabuco, 325 - Farol - Maceió /AL - CEP 57051-410»
+o
+ALOO Página 3 de
+TELECOM Proposta Comercial
+(roteadores e modems) de propriedade da ALOO TELECOM, com configurações
+mínimas para suportar plenamente os serviços descritos nestas especificações.
+6.7. A ALOO TELECOM irá monitorar permanentemente o estado dos circuitos de
+comunicação de dados, providenciando imediatamente a execução de reparos dos
+circuitos em caso de falhas, degradação de desempenho ou evento que leve à
+indisponibilidade das redes. A ALOO TELECOM será responsável pelo gerenciamento
+dos circuitos.
+6.8. Não existirão por parte da ALOO TELECOM qualquer tipo de bloqueio, redução ou
+limite de banda ou de velocidade de transferência, perda de pacotes, ou qualquer outra
+técnica que vise impedir ou dificultar o acesso, seja a domínios, portas, sites, IPs,
+protocolos, serviços e outros ou composição de qualquer um destes.
+6.9. A ALOO TELECOM irá manter centro de atendimento para resolução de problemas
+técnicos de acesso à Internet, com funcionamento 24 (vinte e quatro) horas por dia, 07
+(sete) dias da semana, incluindo feriados, e que possa ser contatado, no mínimo, através
+de ligação telefônica (Call Center). A ALOO TELECOM fornecerá atendimento técnico
+nas formas remota e presencial, a depender da causa e origem do problema, até a
+resolução total dos eventuais problemas.
+6.10. O tempo de recuperação de falhas será de até 6 horas a partir da abertura do
+chamado, em regime 24 horas por dia, 7 dias por semana, 365 dias do ano.
+7 PREÇOS DOS SERVIÇOS
+7.1. — Planilhade Preços Resumo
+ 
+ 
+ 
+ 
+ 
+Item Lote/Grupo Descrição Valor Mensal |Valor Total (12 meses)
+LINK DE INTERNET DEDICADO DE 20
+? : MBPS — SEDE ALGÁS PRIMÁRIO s 980,00 | R$ 11.760,00
+ 
+ 
+ 
+ 
+8. RESPONSÁVEL TÉCNICO
+8.1. —"Segue abaixo os dados do profissional com formação superior em uma das
+graduações exigidas no Art. 9 da Resolução nº 218/73 do CONFEA, que será o
+responsável técnico pela execução dos serviços conforme descritos nesta proposta
+comercial:
+a) Nome: Sérgio Ferreira de Brito;
+b) Profissão: Engenheiro Eletricista;
+c) CREA/AL: 0205030912;
+d) RG: 1419604 - SSP/AL;
+e) CPF: 020.871.724-20.
+9. DADOS BANCÁRIOS
+9.1. — Banco do Brasil (001); Agência: 4983-2; Conta: 50728-8.
+| 0800 725 3505 | aloo.com.br |
+Rua Joaquim Nabuco, 325 - Farol - Maceió/AL - CEP 57051-410>
+ALOO Página 4 de
+TELECOM Proposta Comercial
+10. NETWORK OPERATION CENTER - NOC
+noc(Qalootelecom.com.br
+Número principal 24/7 (24 horas por dia, 7 dias na semana, todos os dias do ano)
+11. CALL CENTER 0800 725 3505 / 82.2123-3500
+Se o escalonamento é necessário para questões técnicas relacionadas a um bilhete de
+problema em que não se consiga resolver no número principal, favor ligar imediatamente
+para ordem listada abaixo:
+ESCALADA 1 — Tarcísio Paz - 82. 99321-3092
+Consultor de Operações - tarcisiopaz(Qalootelecom.com.br
+ESCALADA 2 - Marlos Silva - 82.99127-9314
+Supervisor NOC - marlos(Qalootelecom.com.br
+ESCALADA 3 - Sérgio Brito - 82.99309-6286
+Diretor de Operações - sergio(Qalootelecom.com.br
+12. CENTRAL DE RELACIONAMENTO ALOO TELECOM
+Seg a sex 08h00 — 18h00:
+www.alootelecom.com.br
+Atendimento Online: 09h00 — 20h00
+Mônica Rollim
+Supervisora BCC/ SAC
+82.2123-3536
+82.99118-0495
+monica.rollim(Zalootelecom.com.br
+Ana Claudia Lamin
+Gerente de Relacionamento
+ana.lamin(Qalootelecom.com.br
+13. FATURAMENTO E ADMINISTRATIVO ALOO TELECOM
+Seg a sex 8h00 — 18h00:
+Samara Lima
+Coordenadora Financeira
+82.2123-3514
+samara.lima(Qalootelecom.com.br
+Maceió - AL, 22 de Dezembro de 2017.
+FSF TECNOLOGIASA.
+05.680.391/0001-56
+| 0800 725 3505 | aloo.com.br |
+Rua Joaquim Nabuco, 325 - Farol - Maceió /AL - CEP 57051-410

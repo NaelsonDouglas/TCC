@@ -1,0 +1,3218 @@
+CONTRATO Nº 018/2018 QUE ENTRE
+SI CELEBRAM GÁS DE ALAGOAS
+S.A - ALGÁS E A NET & CO
+COMÉRCIO E SERVIÇOS EM
+INFORMÁTCA LTDA.
+Pelo presente instrumento particular a GÁS DE ALAGOAS S/A - ALGÁS, com
+sede na Rua Artur Vital da Silva, n.º O4, Bairro Gruta de Lourdes, Maceió/AL,
+inscrita no CNPJ/MF sob o n.º 69.983.484/0001-32, doravante denominada
+ALGÁS, representada neste ato pelos seus diretores que esta subscrevem, na
+forma do seu Estatuto Social, e a NET & CO COMÉRCIO E SERVIÇOS EM
+INFORMÁTICA LTDA, estabelecida Av. Queiroz Filho, 1700-Torre A, Sala 108,
+Vila Hamburguesa, São Paulo-SP, CEP: 05.319-000, inscrita no CNPJ/MF sob
+o n.º 08.775.564/0001-08, doravante denominada FORNECEDOR, neste ato
+representada por seu CEO, Sr. Danilo Massad Kuznecovas, celebram o
+presente CONTRATO, oriundo de Licitação n.º 017.2018 segundo as
+CLÁUSULAS E CONDIÇÕES abaixo dispostas:
+CLÁUSULA PRIMEIRA - OBJETO
+1.1. O contrato tem como objeto o fornecimento de solução integrada de
+Firewall — NGFW, Filtro de Conteúdo para Internet e Antispam para e-mail,
+bem como serviços para sua instalação e configuração para a sede da
+ALGÁS e ALGÁS CONFORTO, conforme Memorial Descritivo do ANEXO Q4.
+CLÁUSULA SEGUNDA - FORMA DE FORNECIMENTO E EXECUÇÃO DOS
+SERVIÇOS
+2.1 - Este Contrato será executado sob a forma de fornecimento de pronta
+entrega, no regime de empreitada por preço global.
+CLÁUSULA TERCEIRA - PREÇOS E VALOR
+3.1 - O valor do presente Contrato é de R$ 246.640,00 (duzentos e quarenta e
+seis mil, seiscentos e quarenta reais), a preços referenciados ao mês de
+outubro de 2018, conforme tabela abaixo:
+ 
+ 
+ltem Descrição Quantidade | Preço Unitário (C/ Preço Total do
+Todos os Item
+Tributos)
+ 
+ 
+ 
+ 
+ 
+ 
+1de50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+8
+<
+o
+õ
+o
+o
+E
+õ
+o
+e
+<
+Z
+<
+º
+õ
+ 
+ta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digit
+   
+E
+ú
+Página 1 de 50.Ç. —
+ 
+ 
+ALGAS
+Gás de Alagoas SA
+Firewall Tipo 1 - Nextgen Para
+1 Solução em Cluster para sede 1 R$ 161.004,00 R$ 161.004,00
+Algás (dois appliances para
+formar um Cluster)
+ 
+Firewall Tipo 2 - Nextgen Para
+ 
+ 
+2 Solução em Cluster para Algás 1 R$ 14.774,00 R$ 14.774,00
+Conforto
+Solução de Gerência, Relatórios 1
+3 e Armazenamento de Logs R$ 3.855,00 R$ 3.855,00
+4 | Solução Antispam 1 R$ 35.177,00 R$ 35.177,00
+ 
+Instalação e Configuração da
+5 Solução Integrada e Treinamento 1 R$ 31.800,00 R$ 31.800,00
+Hands-On com repasse do
+conhecimento
+ 
+ 
+ 
+Valor Global 5 R$ 246.640,00
+ 
+ 
+ 
+ 
+ 
+3.2 - Nos preços estabelecidos no Contrato estão incluídas todas as despesas
+que onerem, direta ou indiretamente, os fornecimentos contratados, bem como
+o lucro (bonificação)) não cabendo quaisquer reivindicações do
+FORNECEDOR, a título de revisão de preço ou reembolso, seja a que título for.
+CLÁUSULA QUARTA - CONDIÇÕES DE PAGAMENTO
+4.1 - Os fornecimentos serão pagos ao FORNECEDOR em até 10 (dez) dias
+após a entrega dos equipamentos e implantação do sistema em condições de
+operação, observadas as seguintes condições:
+4.1.1. O pagamento será efetuado mediante apresentação à ALGÁS de
+Faturas, Notas Fiscais e Recibos, em 02 (duas) vias, expressas em Reais,
+constando nos seus anversos o número do Contrato firmado,
+correspondente ao fornecimento. Após a aceitação dos bens, a Nota Fiscal
+será conferida, atestada pelo Gestor do Contrato e encaminhadas para
+processamento e posterior pagamento.
+4.1.2 - Caso sejam constatadas irregularidades nos documentos de
+cobrança apresentados, o prazo para pagamento estabelecido será contado
+a partir da data da reapresentação, pelo FORNECEDOR, dos documentos
+de cobrança devidamente corrigidos sem prejuízo da continuidade do
+fornecimento.
+2de50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+&
+õ
+   
+   
+ino Kulka Ribas, A
+gado(a) Gledson Souza Santos, e foi a
+ 
+elo(a
+ 
+2
+ú
+Página 2 de 50— ANDS
+ALGÁS
+Gáês de Alagoas SÀ ,
+4.2 Caso a ALGÁS deixe de cumprir com o pagamento na data prevista (desde
+que tenham sido cumpridas pelo FORNECEDOR as exigências e datas de
+protocolo), o valor do pagamento será atualizado monetariamente através do
+INPC, sob o qual incidirá juros de mora de 1% a.m. (um por cento ao mês).
+ 
+4.3. A ALGÁS poderá deduzir dos pagamentos a serem efetuados quaisquer
+quantias que, a qualquer título, sejam devidas pelo FORNECEDOR.
+4.4 O FORNECEDOR que não apresentar a documentação solicitada pela
+ALGÁS, terá o seu pagamento suspenso constituindo-se em mora creditória,
+nos termos do Art. 394 do Código Civil Brasileiro.
+4.5 Os pagamentos poderão ser sustados, ainda, nos seguintes casos:
+a) defeito nos materiais fornecidos pelo FORNECEDOR;
+b) não cumprimento dos prazos, em desobediência às condições
+estabelecidas no Contrato;
+c) erro ou vício da fatura, notas fiscais ou recibos.
+CLÁUSULA QUINTA — REAJUSTE
+5.1 - Os preços contratados serão fixos e irreajustáveis pelo período de 12
+(doze) meses, contados a partir da data limite para apresentação da proposta,
+após o que serão reajustados conforme o caso, mediante aplicação do índice
+acumulado do IGP-M entre a data limite para apresentação da proposta e a
+entrega dos materiais.
+5.2 - Os preços contratuais não serão reajustados em caso de atrasos
+verificados e não justificados por parte do FORNECEDOR que influenciem no
+prazo contratual dos fornecimentos, ou cujas justificativas não forem aceitas
+pela ALGÁS.
+5.3 - Caso ocorra a prorrogação ou a antecipação do prazo de conclusão de
+algum fornecimento, de um período para outro, a contar da data limite para
+apresentação da proposta,y devidamente autorizadas pela ALGÁS,
+prevalecerão os índices vigentes no período de sua efetiva conclusão.
+CLÁUSULA SEXTA - PRAZOS
+3 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 3 de 50.Ç. —
+ 
+6.1.1 — O prazo de vigência do presente Contrato se inicia a partir da data de
+sua celebração até o cumprimento de todas as obrigações contratuais.
+6.1.2 - Caso assinado digitalmente, o contrato será considerado celebrado
+na data da última assinatura digital de seus signatários.
+6.2 - PRAZO DE FORNECIMENTO
+6.2.1 — O(s) prazo(s) de fornecimento objeto do presente Contrato se
+encontra(m) descrito(s) no ANEXO Q4 — Memorial Descritivo. Na eventual
+ausência de definição, a entrega dos bens objeto deste contrato deverá
+ocorrer dentro do prazo de 45 (quarenta e cinco) dias, contados do
+recebimento da Autorização de Fornecimento (AF) e a implantação dos
+serviços em até 20 dias contados após a efetiva entrega dos bens.
+6.2.2 - Não caberá qualquer extensão do prazo de fornecimento caso a
+FISCALIZAÇÃO da ALGÁS recuse fornecimento(s) executado(s) em
+desacordo com o projeto e/ou especificações.
+6.2.3 - Havendo a necessidade de prorrogação do PRAZO DE
+FORNECIMENTO, esta ocorrerá por acordo entre as partes, não havendo
+necessidade de formalização de aditamento, sendo suficiente o registro em
+algum outro documento (APOSTILAMENTO, ATA DE REUNIÃO,
+CORRESPONDÊNCIA, etc...), fazendo, ainda, constar as devidas
+motivações e justificativas para a aludida alteração, sempre com anuência
+do GESTOR DO CONTRATO, e em consonância com os princípios da
+razoabilidade e proporcionalidade.
+CLÁUSULA SÉTIMA — GARANTIA DE CUMPRIMENTO DAS OBRIGAÇÕES
+CONTRATUAIS
+7.1 — Não aplicável
+7.1.1 — Não aplicável
+7.2 - Não aplicável
+4de50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 4 de 50( EXTE)
+ES
+Gês
+CLÁUSULA OITAVA — DIREITOS, OBRIGAÇÕES E RESPONSABILIDADES
+DAS PARTES
+ 
+8.1. Entre outras previstas neste Contrato, seus anexos ou no instrumento
+convocatório, são obrigações do FORNECEDOR:
+|. entregar o objeto deste contrato obedecendo às especificações e as
+quantidades contratadas;
+ll. programar entrega eficiente, sendo responsável por quaisquer atrasos
+resultantes de planejamento inadequado ou de deficiência de estoque;
+IIl. entregar o objeto deste contrato, de forma que não sejam danificados
+durante as operações de transporte, carga e descarga. As operações de
+carga e descarga, que correrão por conta do FORNECEDOR, devem
+seguir as normas de segurança especificadas em lei e neste contrato;
+IV. retirar os equipamentos recusados dos locais de entrega de forma
+imediata, a partir da data em que o FORNECEDOR for notificado sobre
+a recusa de Recebimento;
+V. fornecer juntamente com a entrega do bem toda a sua documentação
+fiscal e técnica;
+VI. apresentar Certificado de Garantia dos equipamentos no ato da entrega
+dos mesmos;
+VIL
+entregar o equipamento acompanhado de Manual de Uso em português
+ou inglês.
+VIIl. manter, durante o prazo de vigência do Contrato, em compatibilidade
+com as obrigações assumidas, todas as condições de habilitação e
+qualificação exigidas na licitação;
+IX. fornecer, sempre que solicitado, no prazo máximo de O5 (cinco) dias
+úteis, documentação de habilitação e qualificação exigida na licitação;
+X. providenciar a imediata correção de deficiências, falhas ou irregularidades
+constatadas pela ALGÁS referentes às condições firmadas no presente
+Contrato;
+5 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 5 de 50— ANDS
+ALGÁS
+Gáês de Alagoas SÀ Ã
+XlI. ressarcir os danos causados diretamente à ALGÁS ou a terceiros por
+ineficiência ou irregularidades cometidas na execução das obrigações
+assumidas, ou por vícios de fabricação dos materiais fornecidos;
+ 
+XIl. realizar, sob suas expensas, a entrega do objeto contratado, nos prazos
+fixados;
+XIIl. observar para transporte, seja ele de que tipo for, as normas adequadas
+relativas a embalagens, volumes, segurança etc.;
+XIV. Responsabilizar-se, com exclusividade, pela observância a todas as
+normas estatuídas pela legislação trabalhista, social e previdenciária,
+tanto no que se refere a seus empregados, como a contratados e
+prepostos, responsabilizando-se, mais, por toda e qualquer autuação e
+condenação oriunda da eventual inobservância das citadas normas, aí
+incluídos acidentes de trabalho, ainda que ocorridos nas dependências
+da ALGÁS. Caso este seja chamado a juízo e condenado pela eventual
+inobservância das normas em referência, o FORNECEDOR obriga-se a
+ressarci-la do respectivo desembolso, ressarcimento este que abrangerá
+as despesas processuais e os honorários de advogado arbitrados na
+referida condenação;
+PARÁGRAFO ÚNICO: A inadimplência do FORNECEDOR, com referência aos
+encargos estabelecidos no subitem anterior, não transfere a responsabilidade
+por seu pagamento à ALGÁS, nem pode onerar o objeto contratado.
+8.2 Entre outras previstas neste Contrato, seus anexos ou no instrumento
+convocatório, são obrigações da ALGÁS:
+|. notificar o FORNECEDOR sobre qualquer irregularidade encontrada nos
+produtos recebidos;
+1. efetuar os pagamentos no tempo e modo previstos neste Contrato.
+CLÁUSULA NONA - PENALIDADES
+9.1. Pela inexecução total ou parcial do Contrato, a ALGÁS poderá, garantida a
+prévia defesa, aplicar ao FORNECEDOR, nos termos do art. 83 da Lei Nº
+13.303/16, as seguintes penalidades:
+| — advertência;
+6 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 6 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+11 — mulita;
+ll — suspensão temporária de participação em Licitação e impedimento de
+contratar com a ALGÁS por até 2 (dois) anos.
+9.2. As sanções previstas nos incisos | e |ll deste Contrato poderão ser
+aplicadas juntamente com a sanção de multa.
+9.3. A advertência consiste em repreensão por escrito imposta pelo não
+cumprimento das normas de licitação ou dos contratos celebrados.
+9.4. A penalidade de multa será aplicada no caso de descumprimento dos
+prazos contratuais, especialmente quanto aos prazos de entrega, e será
+calculada da seguinte forma:
+| — 0,5% (cinco décimos por cento) do valor da Autorização de Fornecimento
+(AFM) referente ao fornecimento entregue fora dos prazos contratuais
+estipulados ou pendente de entrega, calculada por dia de atraso, salvo se a
+justificativa do atraso for aceita pela ALGÁS;
+11 — 0,33% (trinta e três décimos por cento) do valor do Contrato, referente ao
+descumprimento de outras disposições contratuais apontadas pela
+FISCALIZAÇÃO da ALGÁS, calculada por dia de atraso, depois de esgotado
+o prazo por esta estabelecido, salvo se a justificativa do atraso for aceita
+pela ALGÁS;
+9.5. O montante correspondente à soma dos valores básicos das multas
+aplicadas fica limitado a 10 % (dez por cento) do valor do Contrato, a partir do
+qual poderá acarretar a rescisão do mesmo, a critério da ALGÁS.
+9.6 O valor da multa, quando ultrapassado 12 meses da data limite da
+apresentação da proposta, será aplicado sobre o valor reajustado do evento a
+que lhe deu causa.
+9.7 Em notificação escrita e sem prejuízo da faculdade de rescindir o Contrato,
+poderá a ALGÁS aplicar ao FORNECEDOR multa compensatória de até 100
+% (cem por cento) do valor do débito eventualmente atribuído à ALGÁS, em
+razão do inadimplemento de obrigações pelo FORNECEDOR, sejam de ordem
+trabalhista, previdenciária, tributária, cível ou de terceiros.
+7 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 7 de 50( EXTE)
+ 
+'de Alagoas SÀ
+9.7.1 O pagamento da referida multa não eximirá o FORNECEDOR da
+obrigação de restituir à ALGÁS o valor que a ela for imposto por força de
+eventual condenação solidária ou subsidiária proferida por autoridade judicial
+elou administrativa.
+9.7.2 O limite e o reajustamento, previstos respectivamente nos itens 9.5 e
+9.6 desta Cláusula, não se aplicarão às multas eventualmente aplicadas com
+base no item 9.7 acima.
+9.8 A(s) multa(s) a que porventura o FORNECEDOR der causa será(ão)
+descontada(s) da garantia contratual, caso existente, ou sendo insuficiente,
+serão descontadas dos pagamentos eventualmente devidos pela ALGÁS ou
+cobradas judicialmente.
+9.9 As penalidades estabelecidas nesta Cláusula não excluem quaisquer
+outras previstas nestas Condições Gerais Contratuais ou no Contrato, nem a
+responsabilidade do FORNECEDOR por perdas e danos que causar à ALGÁS,
+em consequência do inadimplemento destas Condições Gerais Contratuais
+e/ou das demais condições do Contrato.
+9.10 A sanção de suspensão do direito de participar de licitação e impedimento
+de contratar com a ALGÁS será aplicada ao FORNECEDOR nas situações em
+que a conduta infracional:
+a) seja também prevista como crime pela legislação penal, como ato de
+improbidade administrativa ou como ato lesivo à administração pública, nos
+termos da Lei 12.846, de 1º de agosto de 2013;
+b) resultar na rescisão do contrato ou impedir a sua celebração;
+c) causar prejuízo grave para a ALGÁS, inclusive de imagem;
+9.11 O FORNECEDOR poderá recorrer da aplicação de qualquer penalidade,
+no prazo de 10 (dez) dias úteis a partir da data do recebimento da notificação,
+caso em que a ALGÁS comunicará em prazo hábil a manutenção ou relevação
+da mulita.
+9.12 Na aplicação das penalidades previstas nesta cláusula e no respectivo
+procedimento administrativo, observar-se-á o disposto no Regulamento Interno
+de Licitações e Contratos da ALGÁS, no que for compatível com o que
+expressamente estiver disposto no contrato.
+8de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 8 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+CLÁUSULA DÉCIMA - RESCISÃO
+10.1 A inexecução total ou parcial deste Contrato pode acarretar a sua
+rescisão, sem prejuízo das demais sanções, com as consequências contratuais
+e as previstas em Lei ou no Regulamento Interno de Licitações e Contratos —
+RILC da ALGÁS.
+10.2. Considera-se em mora o FORNECEDOR, pelo simples descumprimento
+das obrigações assumidas neste contrato, independentemente de qualquer
+interpelação judicial ou extrajudicial.
+10.3. Este contrato poderá ser rescindido:
+a) amigavelmente, por acordo entre as partes, reduzido a termo, desde que
+haja conveniência para a ALGÁS;
+b) unilateralmente, mediante denúncia formal de uma parte a outra, nas
+hipóteses previstas neste contrato e seus anexos, especialmente no caso de
+inadimplemento contratual em que a parte inadimplente é notificada para
+regularizar suas obrigações e se mantém em mora pelo prazo de 30 (trinta)
+dias.
+c) unilateralmente, mediante denúncia formal da ALGÁS, na hipótese de o
+FORNECEDOR incorrer em qualquer das hipóteses de infração contratual
+ou administrativa prevista no Regulamento Interno de Licitações e Contratos
+— RILC, cuja pena seja a de suspensão licitar ou contratar com a ALGÁS.
+10.4. A rescisão deste contrato implicará retenção de créditos decorrentes da
+contratação, até o limite dos prejuízos causados à ALGÁS, bem como na
+assunção dos serviços pela ALGÁS na forma que a mesma determinar.
+10.5. A rescisão deve ser precedida de autorização escrita e fundamentada da
+autoridade competente.
+10.6. Os casos de rescisão contratual devem ser formalmente motivados nos
+autos do processo, assegurado o contraditório e a ampla defesa.
+CLÁUSULA DÉCIMA PRIMEIRA - ALTERAÇÕES CONTRATUAIS
+9 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 9 de 50ALGÁS
+Gáês de Alagoas SÀ
+11.1 Este Contrato poderá ser alterado, com as devidas justificativas, mediante
+termo de aditamento, observados os limites estabelecidos na Lei 13.303/16 e o
+disposto no Regulamento Interno de Licitações e Contratos — RILC da ALGÁS.
+CLÁUSULA DÉCIMA SEGUNDA - MEDIÇÃO DOS FORNECIMENTOS
+12.1 NÃO APLICÁVEL.
+12.2 NÃO APLICÁVEL.
+CLÁUSULA DÉCIMA TERCEIRA - GERENCIAMENTO E FISCALIZAÇÃO
+DOS FORNECIMENTOS
+131 A ALGÁS exercerá a FISCALIZAÇÃO e/ou INSPEÇÃO dos
+fornecimentos por técnico(s) pertencente(s) ao seu quadro, e/ou de terceiros
+por ela contratados, designado(s) por escrito junto ao FORNECEDOR,
+obrigando-se este a facilitar o pleno desempenho de suas atribuições.
+13.2 O GESTOR DO CONTRATO ou FISCALIZAÇÃO da ALGÁS terá os mais
+amplos poderes, inclusive para:
+13.2.1 recusar fornecimento que não tenha sido executado de acordo com o
+projeto e/ou especificações.
+13.2.2 recusar fornecimento ou suspender fornecimento que esteja em
+desacordo com o projeto, especificações ou com a boa técnica, ou ainda que
+atente contra a segurança do pessoal ou bens da ALGÁS e/ou de terceiros.
+13.2.3 suspender o fornecimento e sustar o pagamento de quaisquer
+documentos de cobrança, no caso de inobservância, pelo FORNECEDOR,
+das exigências da FISCALIZAÇÃO da ALGÁS, garantido o contraditório e a
+ampla defesa.
+13.2.4 exigir que sejam refeitos fornecimentos se suspeitar da existência de
+vícios ocultos. Se os defeitos forem comprovados, a recomposição ficará por
+conta do FORNECEDOR.
+10 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+    
+>
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+õ
+ 
+Este documento tev.
+Página 10 de 50—— Nnos
+ALGÁS
+Gáês de Alagoas SÀ
+13.2.5 recusar fornecimentos que não atendam os requisitos de qualidade e
+exigir a retirada dos mesmos do local dos fornecimentos, dentro de um prazo
+determinado. Findo esse prazo, e não atendida a exigência, a ALGÁS
+poderá proceder esta remoção, à custa do FORNECEDOR.
+ 
+13.2.6 dirimir dúvidas encontradas em desenhos ou especificações.
+13.2.7 solicitar do FORNECEDOR todas as informações e esclarecimentos
+necessários ao perfeito conhecimento e controle dos fornecimentos.
+13.2.8 promover a efetivação de modificações ou alterações propostas pelo
+FORNECEDOR e aceitas pela ALGÁS
+Nota: A ação ou omissão, total ou parcial, da FISCALIZAÇÃO da ALGÁS não
+exime o FORNECEDOR da total responsabilidade pelos fornecimentos.
+CLÁUSULA DÉCIMA QUARTA - DO RECEBIMENTO E ACEITAÇÃO DO
+FORNECIMENTO
+14.1. No ato da entrega dos materiais, a ALGÁS procederá a sua conferência
+para verificação de possíveis danos, sem que tal procedimento acarrete a
+perda da garantia originalmente prevista.
+14.2. O recebimento dos materiais far-se-á mediante termo circunstanciado e
+Ocorrerá:
+a) provisoriamente, para efeito de posterior verificação da conformidade do
+material com a especificação;
+b) definitivamente, no prazo máximo de 30 (trinta) dias corridos contados
+do recebimento provisório, após a verificação da qualidade, bem como das
+especificações e consequente aceitação.
+14.3. Os bens que não respeitarem as condições estabelecidas neste Contrato
+e no Edital serão recusados pela ALGÁS e colocados à disposição do
+FORNECEDOR, para que no prazo de 08 (oito) dias úteis sejam retirados, com
+a pertinente reparação ou substituição. Caso o FORNECEDOR não
+providencie a retirada dos bens recusados no prazo estabelecido, a ALGÁS
+poderá, a seu critério, recolhê-los em depósito de terceiros, correndo todas as
+despesas e riscos por conta do FORNECEDOR.
+11 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+8
+<
+o
+Ô
+o
+o
+E
+o
+o
+e
+<
+Z
+<
+º
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 11 de 50.Ç. —
+PÚBLICA
+ALGÁS
+Gáês de Alagoas SÀ
+14.4. Na ocorrência de dano, extravio ou outro incidente durante o transporte
+do instrumento, todas as despesas de reposição ou de reenvio correrão por
+conta do FORNECEDOR e o instrumento só será considerado entregue,
+quando recebido no Almoxarifado da ALGÁS, em Maceió/AL;
+ 
+14.5. Em caso de devolução por não conformidade ou por necessidade de
+reposição por dano, os fretes de retorno ao FORNECEDOR e de reposição à
+ALGÁS correrão à custa total do FORNECEDOR.
+14.6. Os serviços necessários às correções de danos nos equipamentos dentro
+do prazo de garantia, decorrentes de ação ou omissão do FORNECEDOR,
+serão prestados sem ônus para a ALGÁS.
+CLÁUSULA DÉCIMA QUINTA - DAS DISPOSIÇÕES FINAIS
+15.1. O presente Contrato obriga as partes contratantes e os seus sucessores.
+Não pode ser subcontratado, total ou parcialmente.
+15.2. O FORNECEDOR não poderá ceder ou transferir parte do Contrato, sem
+autorização prévia e por escrito da ALGÁS.
+15.3. Qualquer tolerância de uma das partes na exigência do cumprimento do
+presente Contrato não constituirá novação, renúncia tácita ou extinção da
+respectiva obrigação, podendo a mesma ser exigida a qualquer tempo.
+15.4. Integram este Contrato, independentemente de transcrição, os seguintes
+documentos:
+a) o edital da licitação que deste contrato decorre, com todos os seus
+ANEXOS;
+b) a proposta final do FORNECEDOR;
+c) circulares, se houver.
+15.5. São também anexos ao presente contrato:
+13.1 - Os seguintes documentos, na ordem em que tiverem sido relacionados,
+são anexos deste Contrato. Os termos deste Contrato, em caso de dúvidas,
+prevalecerão sobre os anexos:
+ANEXO Q1 - NÃO SE APLICA;
+12 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 12 de 50ALGÁS
+ANEXO Q2 - NÃO SE APLICA;
+ANEXO Q3 - NÃO SE APLICA;
+ANEXO Q4 - MEMORIAL DESCRITIVO;
+ANEXO Q5 - NÃO SE APLICA;
+ANEXO Q6 - NÃO SE APLICA;
+ANEXO Q7 - Proposta do FORNECEDOR datada de xxX/xxX/20xx
+(Modelo no ANEXO K do Edital) e Planilha de Preços
+Unitários (ANEXO L do Edital — Preenchido);
+ANEXO Q8 - NÃO SE APLICA;
+ANEXO Q9 - NÃO SE APLICA;
+ANEXO Q10 - NÃO SE APLICA;
+ANEXO Q11 - NÃO SE APLICA;
+ANEXO Q12 - NÃO SE APLICA;
+ANEXO Q13 - NÃO SE APLICA;
+ANEXO Q14 - NÃO SE APLICA;
+CLÁUSULA DÉCIMA SEXTA - FORO
+16.1 - Fica eleito o Foro da Comarca de Maceió, Estado de Alagoas que será o
+competente para dirimir as questões decorrentes do cumprimento deste
+Contrato, renunciando as partes a qualquer outro por mais privilegiado que
+seja.
+Assim, por estarem de comum acordo, a ALGÁS e o FORNECEDOR
+firmam este Instrumento na forma eletrônica, por certificados digitais ICP-Brasil,
+e tem validade jurídica conforme Medida Provisória n.º 2.200-2/2001.
+Maceió/AL, documento emitido eletronicamente em 23 de novembro de 2018.
+13 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+ 
+elo(a) advogado(a) Gledson Souza Santos, e foi as:
+ 
+2
+Ê
+2
+s
+3
+8
+2
+ú
+Página 13 de 50.Ç. —
+ALGÁ:
+de Alagoas SÀ
+ 
+ANEXO Q4
+Mermorial Descritivo
+ 
+AQUISIÇÃO DE SOLUÇÃO INTEGRADA DE FIREWALL - NGFW, FILTRO
+DE CONTEÚDO PARA INTERNET E ANTISPAM PARA E-MAIL, E
+CONTRATAÇÃO DOS SERVIÇOS DE INSTALAÇÃO E CONFIGURAÇÃO
+NA SEDE DA ALGÁS E ALGÁS CONFORTO
+ 
+ 
+OBJETO
+Contratação de empresa para fornecimento dos itens a seguir:
+a) Solução integrada de Firewall NextGen, Filtro de Conteúdo para acesso
+à Internet e Antispam para Servidor de E-mail, visando atender as
+necessidades de segurança da informação e comunicação de dados de
+TI para a sede da ALGÁS e a unidade ALGÁS CONFORTO, conforme
+condições, quantidades e exigências estabelecidas neste edital.
+b) Instalação e configuração da solução integrada na sede da ALGÁS e
+ALGÁS CONFORTO contemplando também treinamento Hands-On e
+repasse do conhecimento da solução implantada para 03 (três) técnicos
+da ALGÁS, conforme condições e exigências estabelecidas neste edital.
+ESPECIFICAÇÕES GERAIS
+a) Todos os componentes da solução ofertada deverão ser novos,
+encontrados em linha de produção do fabricante e em suas versões
+mais atuais no momento da licitação.
+b) As soluções propostas de Firewall NextGen, Filtro de Conteúdo para
+acesso à Internet e Antispam devem ser totalmente compatíveis e
+integradas, preferencialmente do mesmo fabricante;
+c) A solução de Antispam deverá ser totalmente compatível e homologada
+para uso com servidor de e-mail Microsoft Exchange 2013 e 2016,
+comprovada através de documentação do fabricante;
+d) O atendimento às exigências de todos os itens técnicos deve ser
+comprovado através de documentação oficial do fabricante da solução,
+que deverá ser anexada à proposta comercial em formato impresso ou
+ 
+ 
+14 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+Filho e Danilo Massad Kuznecovas. Para verif
+ 
+õ
+o
+e
+<
+Z
+<
+º
+&
+ 
+minada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado d
+ 
+Este documento teve sua n
+Página 14 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+digital. A ALGÁS poderá realizar consulta junto ao fabricante para
+comprovar a autenticidade da documentação.
+PRAZOS DE ENTREGA/EXECUÇÃO
+e A CONTRATADA terá o prazo máximo de 45 (quarenta e cinco) dias
+corridos após a assinatura do CONTRATO para o fornecimento dos
+produtos e até 20 dias para a implantação dos serviços.
+LOCAL DE ENTREGA E INSTALAÇÃO DOS PRODUTOS
+* GÁSDE ALAGOAS S.A.- ALGÁS (Entregas e Instalação)
+Rua Artur Vital da Silva, n. º 04, Gruta — CEP: 57.052-260, Maceió/AL
+* ALGÁS CONFORTO (Instalação)
+Av. Álvaro Otacílio, nº 4493, Jatiúca - CEP: 57.037-270, Maceió/AL
+QUALIFICAÇÃO TÉCNICA
+Como qualificação técnica, todas as empresas proponentes deverão
+apresentar, juntamente com os documentos de habilitação, a seguinte
+documentação:
+a) Atestado emitido por pessoa jurídica, de direito público ou privado,
+em nome do licitante, certificando que o mesmo forneceu bens similares
+ao objeto da Licitação, ou seja, bens da mesma natureza, função e
+efeito, e em quantidades e prazos compatíveis com o objeto da
+Licitação, de modo a ser verificada a capacidade produtiva/logística do
+licitante em função das necessidades da ALGÁS;
+b) Caso as licitantes não sejam o próprio fabricante dos equipamentos e
+softwares ofertados, estas deverão apresentar:
+º Documentação emitida pelo fabricante comprovando que o
+licitante é parceiro autorizado a revender seus produtos;
+º Que os serviços de implantação serão prestados pelo próprio
+fabricante ou pela licitante, desde que esta seja credenciada/autorizada
+pelo fabricante para realização dos serviços;
+ 
+ 
+15 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 15 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+. Comprovação de que a assistência técnica e suporte com o nível
+de serviço exigido neste edital serão prestados pelo próprio fabricante,
+pela sua rede autorizada/credenciada, ou pela própria licitante durante o
+período do Contrato. Neste último caso, a licitante deverá apresentar
+documentação comprovando que é autorizada pelo fabricante a realizar
+assistência técnica e suporte, e também contemplar em sua oferta todos
+OS custos com estes serviços complementares.
+ESPECIFICAÇÕES DOS SERVIÇOS DE GARANTIA PARA HARDWARE E
+SOFTWARE EMBARCADOS
+Aquisição de serviços de suporte e garantia, conforme especificações abaixo:
+a) O fabricante ou a CONTRATADA devem oferecer suporte técnico em
+língua portuguesa, durante o período do contrato, através de ligação
+telefônica para número fixo ou do tipo 0800 em horário comercial (oito
+horas por dia, cinco dias por semana);
+b) O hardware, software e acessórios componentes da solução devem ser
+fornecidos com garantia e suporte do fabricante de 03 (três) anos, deve
+estar disponível no regime de oito horas por dia, cinco dias por semana
+(8x5), contados depois de concluídas as etapas de homologação e
+entrega final, com substituição do equipamento defeituoso ocorrendo
+em até no máximo 05 (cinco) dias úteis após a abertura do chamado ou
+comprovação do defeito junto ao proponente/fabricante;
+c) Atualizações de firmware e correções devem estar disponíveis via
+Internet, sem custo adicional durante o período de garantia;
+d) Em caso de falhas, fica a cargo da CONTRATADA o envio do produto
+substituto, e também é de responsabilidade da CONTRATADA devolver
+para o fabricante o produto danificado;
+e) Os chamados de suporte técnico serão abertos pela ALGÁS:
+o  como fabricante, caso a assistência técnica e suporte com o nível
+de serviço exigido para os produtos ofertados seja de
+responsabilidade do fabricante;
+o coma CONTRATADA, caso o SLA dos serviços de assistência
+ 
+ 
+16 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+Z
+s
+8
+ 
+2
+ú
+Página 16 de 50.Ç. —
+ 
+ 
+ 
+ALGÃS
+técnica e suporte estejam contemplados no Contrato.
+fl Os chamados de suporte técnico podem ser abertos com o
+PROPONENTE e com o suporte técnico do fabricante a critério da
+ALGÁS;
+Nível de Descrição
+Severidade
+Alto Serviços completamente indisponíveis
+Médio Serviços operando parcialmente
+Baixo Serviços com degradação de desempenho ou
+funcionalidades
+Normal Aplicação de patchs, hotfixes, firmware
+g) Os chamados de severidade baixa, ou seja, aqueles que não afetam o
+desempenho da solução ou funcionalidades que não sejam de suma
+importância, devem possuir um tempo de resposta máximo de 24h
+(vinte e quatro horas) para início do atendimento pelo especialista, e até
+72h (setenta e duas horas) para solução ou contorno do problema. O
+mesmo poderá ser realizado remotamente ou com envio de instruções
+por e-mail;
+h) Os chamados de severidade média, ou seja, aqueles que influenciam
+negativamente no funcionamento de alguns dos seus serviços, mas
+sem torná-la totalmente inoperante, devem possuir um tempo de
+resposta máxima de 6h (seis horas) para início do atendimento pelo
+especialista, e até 24h (vinte e quatro horas) para solução ou contorno
+do problema. O mesmo poderá ser realizado remotamente;
+Os chamados de severidade alta, ou seja, aqueles relacionados a
+impactos de alta relevância que impedem a operação da solução,
+devem possuir um tempo de resposta máximo de 4h (quatro horas) para
+início do atendimento pelo especialista, e até 12h (doze horas) para
+solução ou contorno do problema. O atendimento somente poderá ser
+realizado remotamente quando atendidos os requisitos a seguir:
+o ITEMO1-FIREWALL NEXTGEN PARA SOLUÇÃO EM CLUSTER
+ 
+ 
+17 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 17 de 50ALGÁS
+Gás de Alagoas SÀ
+.Ç. —
+ 
+ 
+PARA A SEDE DA ALGÁS: Devem possuir interface dedicada para
+gerencia fora da banda, que permita conexão remota por linha de
+comando mesmo que o sistema operacional do equipamento esteja
+travado.
+ITEM 02 - FIREWALL NEXTGEN STANDALONE PARA ALGÁS
+CONFORTO: Aceita-se conexão remota a partir da interface
+externa do gateway, desde que seja uma conexão segura. Caso
+esteja indisponível por qualquer motivo o acesso externo, deverá
+haver a opção de reiniciar completamente o sistema operacional,
+aplicação de firewall e configurações a partir de uma imagem
+carregada a partir de um pen drive conectado à interface USB do
+Appliance. O fornecedor deverá disponibilizar, ao final da
+configuração deste equipamento, o pen drive com a imagem de
+recovery e documentação com passo-a-passo sobre como proceder
+para realizar a tarefa.
+Caso não existam estas opções, o atendimento deverá ser
+realizado On Site.
+j Caberá exclusivamente à ALGÁS a categorização do chamado no ato
+da sua abertura.
+ESPECIFICAÇÃO GERAL DOS SERVIÇOS DE INSTALAÇÃO E ATIVAÇÃO
+a) Todos os equipamentos deverão incluir serviços padrão de instalação e
+ativação, contemplando conferência, montagem, inicialização, conexões
+elétricas/lógicas, atualização, inicialização e testes de verificação;
+b) Paraos itens que exigirem paradas ou risco de parada do equipamento
+em
+produção, a instalação deverá ser planejada e ocorrer fora do
+horário comercial.
+ 
+ 
+ 
+Lote 01
+AQUISIÇÃO DE SOLUÇÃO DE CLUSTER FIREWALL
+NEXTGEN PARA SEDE DA ALGÁS E UNIDADE
+STANDALONE DE FIREWALL NEXTGEN PARA ALGÁS
+CONFORTO
+ 
+ 
+ 
+18 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+8
+<
+o
+Ô
+o
+o
+E
+o
+o
+e
+<
+Z
+<
+º
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 18 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ESPECIFICAÇÕES GERAIS PARA EQUIPAMENTOS FIREWALL NEXTGEN,
+APLICÁVEIS AOS ITENS 01 E 02 DO LOTE 01
+ 
+ 
+1. Especificações do hardware:
+1.1.O hardware do firewall NextGen deve ser de arquitetura dedicada para
+este fim, isto é, do tipo “appliance físico”, não podendo ser servidor de
+uso genérico;
+1.2. Deve possuir, pelo menos, 1 (uma) porta serial (RS232 ou RJ45) ou
+USB para console;
+1.3.Para o caso de haver necessidade de utilização de conversores de
+mídia (incluindo cabos e conectores) os mesmos já deverão estar
+inclusos no fornecimento do equipamento;
+1.4.A solução deve possuir sistema de licenciamento modular, no sentido
+de permitir ativação de funcionalidades mediante futura aquisição e
+aplicação de licença específica, sem necessidade de adição ou
+instalação de módulos adicionais de hardware e software;
+1.5.Os componentes da solução ofertada devem ser novos, sem utilização
+anterior e em linha de fabricação;
+1.6. Na data da proposta, nenhum dos modelos ofertado
+1.7.s poderão estar listados no site do fabricante em listas de end-of-life e
+end-of-sale;
+1.8.Não serão aceitos componentes da solução ofertada usadas,
+remanufaturadas ou de demonstração;
+1.9.Todas as interfaces fornecidas nos appliances devem estar
+completamente licenciadas e habilitadas para uso imediato.
+2. Desempenho e funcionalidades:
+2.1. Deve receber atualização durante todo o período de garantia para as
+assinaturas de prevenção de intrusão (IPS), identificação de aplicação,
+filtro de conteúdo web e bloqueio de arquivos maliciosos (Antivírus e/ou
+Anti-Spyware);
+2.2. Deverá ser totalmente compatível com a atual infraestrutura de rede
+(cabeada e WIFI) em funcionamento hoje na ALGÁS e ALGÁS
+ 
+ 
+19 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+8
+<
+o
+Ô
+o
+o
+E
+o
+o
+e
+<
+Z
+<
+º
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 19 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+CONFORTO, englobando sua topologia e as configurações em uso;
+2.3. Deve possuir LEDs indicadores de status, atividade de rede, status dos
+links e alimentação.
+2.4. Deve possuir no mínimo uma fonte de alimentação 110/220 v (AC).
+ 
+2.5. Possuir suporte a implementação e compatibilidade a IPV6.
+2.6. Deve possuir auditoria de configuração;
+ 
+2.7.Deve implementar os padrões de gerencia: SNMPv2 e SNMPv3,
+incluindo traps;
+2.8.Deve ter capacidade de gerenciar com no mínimo dois níveis de
+ino Kulka Ribas, An
+   
+privilegio: Administrador e operador, este último somente com
+permissão de leitura e emissão de relatórios.
+2.9. Deve executar todas as operações em console(s) com interface gráfica.
+2.10. Para garantir a escalabilidade da solução, a gerência das políticas
+de segurança e registro de logs deverão ser centralizados e apartados
+dos equipamentos que desempenharão as funcionalidades de proteção
+de segurança.
+2.11. Todo o ambiente deverá ser gerenciado através de uma única
+interface do próprio fabricante da solução, sem a necessidade de
+produtos de terceiros para compor a solução;
+2.12. A gerência centralizada poderá ser do tipo virtualizada, desde que
+compatível com a plataforma de virtualização VMware fornecida pela
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+CONTRATANTE, ou fornecida em hardware do tipo appliance físico.
+2.13. Quando as funcionalidades de controle de aplicação, |IPS,
+antivírus e/ou anti-spyware estiverem habilitadas de forma simultânea,
+no mínimo o tráfego de entrada deverá ser inspecionado em toda a
+sessão do pacote, sem qualquer utilização de recurso de by-pass;
+2.14. Por cada equipamento que compõe a plataforma de segurança,
+entende-se o hardware e as licenças de softwares necessárias para o
+seu funcionamento;
+2.15. A solução deve consistir de appliance de proteção de rede com
+ 
+funcionalidades de Next Generation Firewall (NGFW);
+ 
+ 
+20 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018, z
+LICITAÇÃO Nº. 017.2018 &
+Página 20 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+2.16. Por funcionalidades de NGFW entende-se: reconhecimento de
+aplicações, prevenção de ameaças, identificação de usuários e controle
+granular de permissões;
+2.17. A plataforma deve ser otimizada para análise de conteúdo de
+aplicações em camada 7;
+2.18. O software deverá ser implementado em sua versão mais
+atualizada;
+2.19. Deve suportar os seguintes tipos de NAT:
+2.19.1. Nat dinâmico (Many-to-1);
+2.19.2. Nat dinâmico (Many-to-Many);
+2.19.3. Nat estático (1-to-1);
+2.19.4. NAT estático (Many-to-Many);
+2.19.5. Nat estático bidirecional 1-to-1;
+2.19.6. Tradução de porta (PAT);
+2.19.7. NAT de Origem;
+2.19.8. NAT de Destino;
+2.19.9. Suportar” NATº de Origem e NAT de  Destino
+simultaneamente;
+2.20. Enviar log para sistemas de  monitoração externos,
+simultaneamente;
+2.21. Proteção contra anti-spoofing;
+2.22. Para IPv4, deve suportar roteamento estático e dinâmico (RIP,
+BGP e OSPF);
+2.23. Para IPv6, deve suportar roteamento estático e dinâmico
+(OSPFv3);
+2.24. Modo Sniffer, para inspeção via porta espelhada do tráfego de
+dados da rede;
+2.25. Modo Camada — 2 (L2), para inspeção de dados em linha e ter
+visibilidade e controle do tráfego em nível de aplicação;
+2.26. Modo Camada — 3 (L3), para inspeção de dados em linha e ter
+visibilidade e controle do tráfego em nível de aplicação operando como
+ 
+ 
+21 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+o
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+s
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+2
+Ê
+2
+s
+3
+8
+2
+ú
+Página 21 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+default gateway das redes protegidas;
+2.27. Modo misto de trabalho L2 e L3 em diferentes interfaces físicas;
+2.28. As funcionalidades de Firewall, VN IPSec e SSL, QoS e
+protocolos de roteamento dinâmico devem operar em caráter
+permanente, podendo ser utilizadas por tempo indeterminado, mesmo
+que não subsista o direito de receber atualizações ou que não haja
+contrato de garantia de software com o fabricante.
+2.29. Preferencialmente, todas as funções de Firewall Nextgen
+(especialmente filtto de URL) devem funcionar sem limitações por
+quantidade de usuário ou por volume de dados trafegados.
+3. Controle por política de firewall:
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+3.1. Controles de políticas por porta e protocolo;
+ 
+3.2. Controle de políticas por aplicações, grupos estáticos de aplicações e
+categorias de aplicações;
+3.3. Controle de políticas por usuários, grupos de usuários, IPs, redes;
+3.4.Deve ser capaz de inspecionar e controlar 100% do tráfego
+(navegação) em HTTPS;
+3.5. Controle, inspeção e de-criptografia de SSL por política para tráfego de
+entrada (Inbound) e Saída (Outbound);
+3.6.Deve de-criptografar tráfego Inbound e Outbound em conexões
+negociadas com TLS 1.2;
+3.7.Traffic shaping QoS baseado em Políticas (Prioridade, Garantia e
+Máximo);
+3.8. Suportar a atribuição de agendamento as políticas com o objetivo de
+habilitar e  desabiltar políicas em  horários pré-definidos
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+automaticamente;
+3.9.Deve bloquear arquivos reconhecidos como vetores de ataque,
+devendo incluir, mas não se limitar a: bat, exe, erg, cab, dll e pif;
+3.10. A CONTRATADA deverá apresentar documentação do NSS Labs
+ 
+(https://www.nsslabs.com), listando como NGFW Recommended ao
+menos um equipamento da mesma família ou mesma série dos
+ 
+ 
+22 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 22 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+equipamentos ofertados;
+4. Controle de aplicação:
+4.1.Os dispositivos de proteção de rede deverão possuir a capacidade de
+reconhecer aplicações, independente de porta e protocolo, com as
+seguintes funcionalidades:
+4.1.1. Deve ser possível a liberação e bloqueio somente de aplicações
+sem a necessidade de liberação de portas e protocolos.
+4.1.2. Reconhecer pelo menos 2.000 aplicações diferentes, incluindo,
+mas não limitado: a tráfego relacionado a peer-to-peer, redes
+sociais, acesso remoto, update de software, protocolos de rede,
+voip, áudio,y vídeo, proxy mensageiros  instantâneos,
+compartilhamento de arquivos, e-mail;
+4.1.3. Reconhecer pelo menos as seguintes aplicações: bittorrent,
+gnutella, skype, facebook, linked-in, twitter, citriox, logmein,
+teamviewer, ms-rdp, vnc, gmail, youtube, http-proxy, http-tunnel,
+facebook chat, gmail chat, whatsapp, 4shared, dropbox, google
+drive, skydrive, db2, mysql, oracle, active directory, kerberos, Idap,
+radius, itunes, dhcp, ftp, dns, wins, msrpc, ntp, snmp, rpc over http,
+gotomeeting, webex, evernote, google-docs, etc.;
+4.1.4. Reconhecer sistemas que permitem navegação sem identificação,
+conhecidos como proxies anônimos, incluindo, mas não limitado ao
+projeto The Onion Router (TOR);
+4.1.5. Deve inspecionar o payload de pacote de dados com o objetivo de
+detectar assinaturas de aplicações conhecidas pelo fabricante
+independente de porta e protocolo;
+4.1.6. Deve permitir a utilização de aplicativos para um determinado
+grupo de usuário e bloquear para o restante. Deve permitir também
+a criação de políticas de exceção concedendo o acesso a
+aplicativos, como por exemplo o Skype, apenas para alguns
+usuários;
+4.1.7. Atualizar a base de assinaturas de aplicações automaticamente;
+ 
+ 
+23 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 23 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+4.1.8. Limitar a banda (download/upload) usada por aplicações (traffic
+shaping), baseado no IP de origem, usuários e grupos do LDAP/AD;
+4.1.9. Os dispositivos de proteção de rede devem possuir a capacidade
+de identificar o usuário de rede com integração ao Microsoft Active
+Directory, sem a necessidade de instalação de agente no Domain
+Controller, nem nas estações dos usuários;
+4.1.10. Permitir — nativamente a  criação de  assinaturas
+personalizadas para reconhecimento de aplicações proprietárias na
+própria interface gráfica da solução, sem a necessidade de ação do
+fabricante, mantendo a confidencialidade das aplicações da
+CONTRATANTE;
+4.1.11. O fabricante deve permitir a solicitação de inclusão de
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+aplicações na base de assinaturas de aplicações;
+4.1.12. Deve alertar o usuário quando uma aplicação for
+bloqueada;
+4.1.13. Deve possibilitar a diferenciação e controle de partes das
+aplicações como por exemplo permitir uma aplicação de chat e
+bloquear a transferência de arquivos;
+4.1.14. Deve ser possível a criação de grupos estáticos de
+aplicações baseados em características das aplicações como:
+4.1.14.1. Nível de risco da aplicação;
+4.1.14.2. Categoria de aplicações.
+5. Prevenção de ameaças:
+5.1. Para proteção do ambiente contra ataques, os dispositivos de proteção
+devem possuir IPS, Antivírus e/ou Anti-Spyware integrados no próprio
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+appliance de Firewall NGFW;
+5.2. Deve incluir assinaturas de prevenção de intrusão (IPS) e bloqueio de
+arquivos maliciosos (Antivírus e/ou Anti-Spyware);
+ 
+5.3.As assinaturas devem poder ser ativadas ou desativadas, ou ainda
+habilitadas apenas em modo de monitoração;
+5.4. Deve permitir o bloqueio de vulnerabilidades;
+ 
+ 
+24 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 24 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+5.5. Deve permitir o bloqueio de exploits conhecidos;
+5.6. Deve incluir proteção contra ataques de negação de serviços;
+5.7. Deverá possuir os seguintes mecanismos de inspeção de IPS:
+5.7.1. Análise de padrões de estado de conexões;
+ 
+5.7.2. Análise de decodificação de protocolo;
+5.7.3. Análise para detecção de anomalias de protocolo;
+ 
+5.7.4. Análise heurística;
+5.7.5. IP Defragmentation;
+5.7.6. Bloqueio de pacotes malformados.
+ino Kulka Ribas, An
+   
+5.8. Permitir o bloqueio de vírus e spywares em, pelo menos, os seguintes
+protocolos: HTTP, HTTPS, SMB e SMTP;
+5.9. Suportar bloqueio de arquivos por tipo;
+5.10. Identificar e bloquear comunicação com botnets;
+5.11. Deve suportar referência cruzada com CVE;
+5.12. Permitir o bloqueio de vírus, pelo menos, nos seguintes
+protocolos: HTTP, HTTPS, SMB e SMTP;
+5.13. Os eventos devem identificar o país de onde partiu a ameaça;
+6. Análise de malwares modernos
+6.1.O dispositivo de proteção deve ser capaz de enviar arquivos trafegados
+de forma automática para análise "In Cloud" ou local, onde o arquivo
+será executado e simulado em ambiente controlado;
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+6.2. Suportar a análise de arquivos maliciosos em ambiente controlado com,
+no mínimo, sistema operacional Windows 7, 8.1 e 10 (32 e 64 bits);
+6.3.A solução deve fornecer a capacidade de proteção contra-ataques de
+malwares de dia-zero e desconhecidos antes mesmo que proteções
+baseadas em assinatura estática tenham sido criadas;
+6.4.A solução deve fazer parte de uma arquitetura completa de prevenção
+de ameaças multicamadas;
+6.5. Deve permitir visualizar os resultados das análises de malwares de dia-
+zero nos diferentes sistemas operacionais suportados;
+ 
+6.6. Deve permitir o uso de white-lists e black-lists com o intuito de confiar
+ 
+ 
+25 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018, z
+LICITAÇÃO Nº. 017.2018 &
+Página 25 de 50( EXTE)
+ES
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+ou condenar determinados arquivos, adicionando à lista o checksum
+dos arquivos, assim melhorando performance e diminuindo o número de
+falsos-positivos.
+6.7. Deve  possuir ambientes controlados (sandbox) para execução
+simultânea de arquivos suspeitos;
+ 
+6.8.Caso sejam necessárias licenças de sistemas operacional e softwares
+para execução de arquivos no ambiente controlado (sandbox), as
+mesmas devem ser fornecidas em sua totalidade, sem custos adicionais
+para a CONTRATANTE;
+6.9. Suportar a análise de arquivos executáveis, DLLs, ZIP e criptografados
+ino Kulka Ribas, An
+   
+em SSL no ambiente controlado;
+6.10. Suportar a análise de arquivos do pacote office (.doc, .docx, .xIs,
+Xlsx, .ppt, .pptx), arquivos java (.jar) no ambiente controlado;
+7. Filtro de URL
+7.1. A plataforma de segurança deve possuir as seguintes funcionalidades
+de filtro de URL:
+7.1.1. Permite especificar política por tempo, ou seja, a definição de
+regras para um determinado horário ou período (dia, mês, ano, dia
+da semana e hora);
+7.1.2. Deve ser possível a criação de políticas por Usuários, Grupos de
+Usuários, IPs, Redes.
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+7.1.3. Deverá incluir a capacidade de criação de políticas baseadas na
+visibilidade e controle de quem está utilizando quais URLs através
+da integração com serviços de diretório Active Directory e base de
+dados local.
+7.1.4. A solução deve atuar como “man in the middle”, intermediando e
+repassando todas as requisições. Deve suportar certificados on-
+box, importando certificados validos ou gerando auto assinados.
+Deve permitir a emissão de páginas amigáveis e customizáveis de
+erro também aos sites criptografados;
+ 
+7.1.5. Suportar a capacidade de criação de políticas baseadas no
+ 
+ 
+26 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018. z
+LICITAÇÃO Nº. 017.2018 &
+Página 26 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+controle por URL e Categoria de URL;
+7.1.6. Suporta base ou cache de URLs local no appliance, evitando
+delay de comunicação/validação das URLSs;
+7.1.7. Possui pelo menos 50 categorias de URLs;
+ 
+7.1.8. Suporta a criação categorias de URLs customizadas;
+7.1.9. Suporta a exclusão de URLs do bloqueio, por categoria;
+ 
+7.1.10. Permite a customização de página de bloqueio;
+7.1.11. Permite o bloqueio e continuação (possibilitando que o
+usuário acesse um site potencialmente bloqueado informando o
+ino Kulka Ribas, An
+   
+mesmo na tela de bloqueio e possibilitando a utilização de um botão
+"Continuar" para permitir o usuário continuar acessando o site);
+8. Identificação de usuários
+8.1.Deve possuir integração com Microsoft Active Directory para
+identificação de usuários e grupos, permitindo granularidade de
+controle/politicas baseadas em usuários e grupos de usuários;
+8.2. Para os dispositivos que utilizam acesso via WIFI, a solução deverá de
+exigir autenticação integrada com o Microsoft Active Directory para fins
+de filtro de URL;
+8.3. Deve permiítir o controle para acesso à Internet pela rede cabeada e
+WIFI, para que antes de iniciar a navegação expanda-se um portal de
+autenticação, integrado com o Microsoft Active Directory;
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+8.4.Para o controle de acesso à Internet através de dispositivos que não
+estejam autenticados no domínio da CONTRATANTE, a solução deverá
+fornecer um portal, integrado com o Microsoft Active Directory, para
+autenticação dos usuários. O controle deverá ser implementado tanto
+para rede cabeada quanto para WIFI;
+8.5. Deve autenticar em pelo menos dois dos seguintes protocolos: Ntlm,
+Idap, radius;
+8.6. Deve possuir suporte a identificação de múltiplos usuários conectados
+em um mesmo endereço |P em ambientes Citrix e Microsoft Terminal
+ 
+Server, permitindo visibilidade e controle granular por usuário sobre o
+ 
+ 
+27 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018, z
+LICITAÇÃO Nº. 017.2018 &
+Página 27 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+uso das aplicações que estão nestes serviços;
+9. QoS
+9.1.Com a finalidade de controlar aplicações e tráfego cujo consumo possa
+ser excessivo e ter um alto consumo de largura de banda (ex.: youtube,
+etc.), se requer que a solução, além de poder permitir ou negar esse
+tipo de aplicações, deve ter a capacidade de controlá-las por políticas
+de máximo de largura de banda quando forem solicitadas por diferentes
+usuários ou aplicações, tanto de áudio como de vídeo streaming.
+9.2. O QoS deve possibilitar a definição de classes por:
+9.2.1. Banda Garantida
+9.2.2. Banda Máxima
+9.2.3. Fila de Prioridade.
+10.VPN
+10.1. Suportar VPN Site-to-Site e Cliente-To-Site;
+10.2. Suportar IPSec VPN;
+10.3. Suportar SSL VPN;
+10.4. A VPN |PSec deve suportar:
+10.4.1. Autenticação MD5 e SHA-1;
+10.4.2. Diffie-Hellman Group 1, Group 2, Group 5 e Group 14;
+10.4.3. Algoritmo Internet Key Exchange (IKEv1 e v2);
+10.4.4. AES 128 e 256 (Advanced Encryption Standard);
+10.4.5. Autenticação via certificado IKE PKI.
+10.5. Deve possuir interoperabilidade com qualquer dispositivo que
+implemente o padrão IKE e IPSEC;
+10.6. Deve permitir habilitar, desabilitar túneis de VPN IPSec a partir da
+interface gráfica da solução, facilitando o processo de troubleshooting;
+10.7. A VPN SSL deve suportar:
+10.7.1. O usuário realizar a conexão por meio de cliente instalado
+no sistema operacional do equipamento ou por meio de interface
+WEB;
+10.7.2. A funcionalidades de VPN SSL devem ser atendidas com
+ 
+ 
+28 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+nte por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+ 
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+  
+ 
+ 
+uta exam
+Este documento teve sua n
+Página 28 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ou sem o uso de agente;
+10.8. Suportar autenticação via AD/LDAP e base de usuários local;
+10.9. O agente de VPN a ser instalado nos equipamentos desktop e
+laptops, devem ser capaz de ser distribuído de maneira automática via
+Microsoft SMS, Active Directory e ser descarregado diretamente desde
+o seu próprio portal, o qual residirá no centralizador de VPN;
+10.10. - Deve permitir que a conexão com a VPN SSL seja estabelecida
+das seguintes formas:
+10.10.1. Após autenticação do usuário na estação;
+10.10.2. Sob demanda do usuário
+10.11. — Deverá manter uma conexão segura com o portal durante a
+sessão.
+10.12. — O agente de VPN SSL client-to-site deve ser compatível com pelo
+menos: Windows 7, Windows 8, Windows 10 e Mac OSx.
+11.Implementação e Administração
+11.1. Deverá possuir interface(s) de gerenciamento para administração
+e geração de relatórios;
+11.2. Deve estar no idioma Inglês ou Português;
+11.3. A interface de gerenciamento deverá possuir um painel que
+apresente o estado corrente da solução e ilustre graficamente a
+atividade de filtragem dos acessos;
+11.4. A interface de gerenciamento deverá mostrar, através de um
+painel, uma visão geral da atividade de filtagem dos acessos,
+atualizando os dados diariamente;
+11.5. Deverá — permitir múltiplos logons de  administradores
+simultaneamente;
+11.6. Deverá manter registro para fins de auditoria de cada modificação
+feita por cada Administrador nas políticas e configurações da solução.
+ 
+Quanti
+Lote 01 Descrição dade
+ 
+ 
+ 
+ 
+Item 01 FIREWALL TIPO 01 - NEXTGEN PARA SOLUÇÃO o2
+ 
+ 
+29 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+8
+<
+o
+Ô
+o
+o
+E
+o
+o
+e
+<
+Z
+<
+º
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 29 de 50—— Nnos
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+| EM CLUSTER PARA A SEDE DA ALGÁS |
+ 
+ 
+1. Especificações do hardware:
+1.1. Deve ser fornecido com, no mínimo, O5 (cinco) portas
+10/100/1000BaseT, conectores RJ45 ou O5 (cinco) portas Gigabit
+Ethernet, conectores RJ45. Estas portas deverão estar livres para
+utilização somente como interfaces de Firewall. Para o caso de
+interfaces alocadas para funcionamento em alta disponibilidade e
+sincronia de sessões deverão ser consideradas interfaces adicionais
+independentes das interfaces alocadas como interfaces de firewall;
+1.2. Deve possuir, pelo menos, 1 (uma) porta dedicada para
+sincronização do cluster, além das 05 (cinco) interfaces solicitadas
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+no item 1.1;
+ 
+1.3. Deve ser do tipo modular, para instalação em rack de 19";
+1.4. Deve ser fornecido com unidade interna com capacidade minima
+para armazenar o sistema operacional e suas configurações.
+2. Desempenho e funcionalidades
+2.1. Throughput de, no mínimo 1,2 Gbps com as seguintes
+funcionalidades habilitadas simultaneamente e com assinaturas
+recomendadas pelo fabricante: Firewall, IPS, Controle de Aplicação,
+Filtto de URL e Antivífus. Caso o fabricante não possua um
+documento de melhores práticas, serão consideradas todas as
+assinaturas/proteções atuantes;
+2.2. Um único hardware deve ser capaz de executar a totalidade das
+capacidades exigidas para o cluster;
+2.3. Suporte à configuração de alta disponibilidade Ativo/Ativo;
+24. O HA (modo de  Alta-Disponibilidade) deve  possibilitar
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+monitoração de falha de link de Internet;
+2.5. Suporte a, no mínimo, 1.000.000 conexões simultâneas;
+ 
+2.6. Suporte a, no mínimo, 14.000 novas conexões por segundo;
+2.7. Estar licenciada para, no mínimo, 200 (duzentas) VPN site-to-site
+ 
+simultâneos;
+ 
+30 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 30 de 50( EXTE)
+PÚBLICA
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+2.8. Estar licenciada para, no mínimo, 200 (duzentos) túneis de VPN
+simultâneos, com tecnologia IPSEC e SSL;
+2.9. Os dispositivos de proteção de rede devem possuir pelo menos as
+seguintes funcionalidades:
+2.9.1. Agregação de links 802.3ad e LACP;
+2.9.2. Policy based routing ou policy based forwarding;
+2.9.3. Roteamento multicast (PIM-SM);
+2.9.4. DHCP Relay;
+2.9.5. DHCP Server;
+2.10. Devem suportar captura de pacotes (PCAP), por assinatura de
+IPS;
+2.11. Devem permitir a inspeção em arquivos comprimidos que utilizam
+nte por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+ 
+o algoritmo deflate (zip, gzip, etc.);
+2.12. Devem permitir a criação de regra de acesso permitindo ou
+bloqueando pelos seguintes critérios: Origem, destino, tipo de
+arquivo, protocolo e horário;
+2.13. Devem suportar a criação de políticas por Geo Localização,
+permitindo o trafego de determinado Pais/Países sejam bloqueados;
+2.14. Devem possibilitar a visualização dos países de origem e destino
+nos logs dos acessos;
+2.15. Os dispositivos de proteção devem ter a capacidade de operar de
+forma simultânea em uma única instância de firewall;
+2.16. Cada um dos dispositivos do cluster de firewall deve receber, no
+mínimo, dois links de Internet simultâneos, para que um único
+dispositivo seja capaz de balancear a carga dos links de Internet;
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+  
+ 
+ 
+2.17. A solução deve ter a capacidade de fazer balanceamento de
+carga com ao menos dois links diferentes de Internet, otimizando o
+uta exam
+gerenciamento dos pacotes de rede que passam pelos roteadores e
+implementando opção de “failover” tanto para o tráfego de saída
+quando de entrada.
+2.17.1. Entenda-se como tráfego de saída o acesso à Internet feito
+ 
+ 
+31 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 31 de 50( EXTE)
+ 
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+pelos usuários e serviços. Quando eventualmente um link de
+Internet cair, o acesso à Internet deve ser direcionado
+automaticamente para o segundo link sem a necessidade de
+intervenção nas configurações das estações de trabalho,
+servidores, remanejamento de cabos, etc.;
+2.17.2. Entenda-se como tráfego de entrada o acesso feito através
+da Internet aos serviços publicados na infraestrutura da
+ALGÁS, com o portal www.algas.com.br, webmail, telemetria,
+etc. Quando eventualmente um link de Internet cair, a
+disponibilidade e acesso aos serviços publicados na Internet
+devem ser mantidos automaticamente pelo segundo link sem
+a necessidade de intervenção nas configurações dos
+servidores, serviços DNS, remanejamento de cabos, etc.;
+2.17.3. A conversão entre os links de Internet deve se dar de forma
+totalmente transparente em ambos os casos;
+2.17.4. A solução, atuando com balanceamento de carga e em
+modo “failover, deverá ser capaz de suportar as
+características mínimas listadas a seguir:
+2.17.4.1. Recebimento de informações de telemetria enviadas
+por 80 dispositivos “em campo”, totalizando um fluxo diário
+de 6Mb de dados por dispositivo;
+2.17.4.2. Tráfego médio de 1000 acessos por dia a 03 portais
+publicados na Internet:
+2.17.4.2.1. http://www.algas.com.br;
+2.17.4.2.2. http://governanca.algas.com.br:8090/algas/;
+2.17.4.2.3. http://governanca.algas.com.br:8090/lei-
+acesso-informacao;
+2.17.4.3. Acessos externos a 250 caixas de e-mail através do
+endereço https://webmail.algas.com.br;
+2.17.4.4. Acesso externo realizado através de dispositivos
+móveis ao sistema informatizado de manutenção da rede
+ 
+ 
+32 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 32 de 50—— Nnos
+ALGÁS
+Gás de Alagoas S À
+ 
+ 
+de GN;
+2.18. A função para balanceamento de carga poderá ser realizada por
+dispositivo específico ou estar incluída nos appliances FIREWALL
+NEXTGEN;
+2.19. A configuração em alta disponibilidade deve sincronizar:
+2.191. Sessões;
+2.19.2. Configurações, incluindo, mas não limitado a políticas de
+Firewall, NAT, QOS e objetos de rede;
+2.19.3. — Associações de Segurança das VPNs.
+2.20. Caso o produto ofertado seja licenciado por usuário, a proposta
+deverá contemplar o licenciamento mínimo para 250 usuários, no
+entanto sem limite para o volume de dados trafegados. A solução
+proposta deverá ter a capacidade de expansão através de aquisição
+de licenciamento adicional.
+ 
+ 
+ 
+. Quantida
+Lote 01 Descrição
+de
+FIREWALL TIPO 02 - NEXTGEN STANDALONE
+Item 02 . o1
+PARA ALGÁS CONFORTO
+ 
+ 
+ 
+ 
+33 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+Página 33 de 50.Ç. —
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+1. Especificações do hardware:
+1.1.  Deve ser fornecido com, no mínimo, 04 (quatro) portas
+10/100/1000BaseT, conectores RJ45 ou 04 (quatro) portas Gigabit
+Ethernet, conectores RJ45;
+2. Desempenho e funcionalidades:
+2.1. Throughput de, no mínimo 250Mbps com as seguintes
+funcionalidades habilitadas simultaneamente e com assinaturas
+recomendadas pelo fabricante: Firewall, IPS, Controle de Aplicação,
+Filtto de URL e Antivífus. Caso o fabricante não possua um
+documento de melhores práticas, serão consideradas todas as
+assinaturas/proteções atuantes;
+2.2. Deve ser fornecido com unidade interna com capacidade minima
+para armazenar o sistema operacional e suas configurações.
+2.3. Suporte a, no mínimo, 500.000 conexões simultâneas;
+24. Suportea,no mínimo, 10.000 novas conexões por segundo;
+2.5. — Estar licenciada para, no mínimo 50 (cinquenta) VPN site-to-site
+simultâneos
+2.6. Estarlicenciada para, no mínimo, 50 (cinquenta) túneis de VPN
+simultâneos, com tecnologia IPSEC e SSL;
+2.7. Os dispositivos de proteção de rede devem possuir pelo menos as
+seguintes funcionalidades:
+2.7.1. Policy based routing ou policy based forwarding;
+2.7.2. Roteamento multicast (PIM-SM);
+2.7.3. DHCP Relay;
+2.7.4. DHCP Server;
+2.8. Caso o produto ofertado seja licenciado por usuário, a proposta
+deverá contemplar o licenciamento mínimo para 20 usuários, no
+entanto sem limite para o volume de dados trafegados. A solução
+proposta deverá ter a capacidade de expansão através de aquisição
+de licenciamento adicional.
+ 
+ 
+Quan
+Lote 01 Descrição tidad
+e
+ 
+ 
+ 
+ 
+34 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 34 de 50ALG.
+Gás de Alagoas SÀ
+ÁS
+.Ç. —
+ 
+ 
+SOLUÇÃO DE GERENCIA, RELATÓRIOS E
+Item 03 o1
+ARMAZENAMENTO DE LOGS
+ 
+ 
+ 
+ 
+Ferramentas de gerenciamento centralizado de firewall, armazenamento de
+logs e relatórios do mesmo fabricante dos equipamentos Firewall NEXTGEN
+adquiridos nesse edital, que permitam gerencia dos appliances de forma
+centralizada (mesmo que geograficamente distantes), com as seguintes
+características:
+1.
+9.
+Podem ser fornecidos como appliance físico ou virtual de arquitetura
+VMWare;
+. A solução pode ser composta por mais de um appliance, sejam físicos
+ou virtuais;
+Caso fornecido em appliance físico, a capacidade mínima para
+armazenamento de log será de 1TB;
+Em caso de appliance físico, o hardware e software que executem as
+funcionalidades de console de gerência, armazenamento de logs e
+relatórios não podem ser equipamentos servidores e sistema
+operacional de uso genérico;
+. Em caso de appliance(s) virtual(is) que execute(m) as funcionalidades
+de console de gerência, armazenamento de logs e relatórios, todas as
+licenças de software utilizados deverão ser fornecidas pela
+CONTRATADA, incluindo sistemas operacionais, SGBD's, etc. À ALGÁS
+fornecerá apenas a infraestrutura VMWare para sua instalação;
+Todos os equipamentos fornecidos devem ser próprios para montagem
+em rack 19”, incluindo cabos de alimentação;
+. Os softwares deverão ser implementados em sua versão mais
+atualizada;
+. No caso de arquitetura virtual, utilizar obrigatoriamente arquitetura
+VMWare;
+Deverá dispor de, no mínimo, 20 relatórios prontos para utilização;
+10. Deverá gerar relatórios personalizados baseado em configurações de
+trafego específicos;
+ 
+ 
+35 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 35 de 50.Ç. —
+ 
+ALGÁS
+Gás de Alagoas SÀ
+ 
+11. Deverá ser capaz de enviar relatórios por e-mail;
+12. Deverá dispor de gerenciamento dos equipamentos, acessos dos
+usuários e aplicação de regras centralizado;
+13. Orquestração de configuração de regras, grupos de acesso e objetos
+dos firewalls gerenciados;
+ 
+14.Deverá ser capaz de fazer o gerenciamento centralizado dos
+equipamentos instalados na sede da ALGÁS e ALGAS CONFORTO;
+15.Gerenciador de logs centralizado;
+16.Licença pelo período de 03 (três) anos;
+ino Kulka Ribas, An
+   
+17.Deve permitir execução de copias de segurança;
+18. Deve permitir a exportação dos dados dos relatórios para no mínimo
+dois dos seguintes formatos: CSV, PDF e HTML;
+19.Deve possibilitar o agendamento de geração de relatório periódico,
+permitindo o seu envio por e-mail;
+20.Deve exibir relatórios de atividades de cada usuário individualmente,
+para os sites/categorias acessados, bloqueados e consumo de banda
+que o usuário acessou;
+21.Deve, por meio de informação como usuário e URL, informar se o
+acesso foi bloqueado ou permitido e em qual regra estava definido o
+bloqueio / permissão;
+22.Deve estar no idioma Inglês ou Português.
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+Quantida
+Lote 01 Descrição
+de
+ 
+Item 04 SOLUÇÃO DE ANTISPAM o1
+ 
+ 
+ 
+ 
+1. Características gerais
+1.1. A solução de Antispam deve integrar a captura eficiente de spams
+com baixa taxa de categorização das mensagens como falsos
+positivos. Implementado como gateway de e-mails, deve proteger e-
+mails contra vírus, spams, hishing, botnets e outros e-mails
+indesejados. — Deve incorporar recursos flexíveis para O
+ 
+ 
+ 
+36 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018, z
+LICITAÇÃO Nº. 017.2018 &
+Página 36 de 50( EXTE)
+ES
+ 
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+gerenciamento de spams e atualizações automatizadas de filtros.
+1.2. A solução de Antispam deve estar licenciada para atuar em, no
+mínimo, 250 caixas de e-mail;
+1.3. A solução pode ser fornecida em appliance físico, appliance
+virtual com arquitetura VMWare ou ainda como serviço “na nuvem”.
+Em caso de appliance virtual a CONTRATADA deve fornecer todas
+as licenças de software utilizadas incluindo sistemas operacionais,
+SGBD's, etc, para que a solução entre em operação. A ALGÁS
+fornecerá apenas a infraestrutura VMWare para sua instalação;
+1.4. Para o caso da solução a ser fornecida através de appliance
+físico:
+1.4.1. O equipamento deve ser compatível com racks de 19";
+1.4.2. O equipamento deve ter no mínimo 2 (duas) interfaces e rede
+Ethernet 10/100/1000T
+1.4.3. O equipamento deve possuir no mínimo 6 (seis) GB de
+memória RAM;
+1.4.4. O equipamento deve possuir no mínimo 2 (dois)
+Processadores;
+1.4.5. O equipamento deve possuir fonte de alimentação
+redundante;
+1.4.6. Hardware e software não podem ser equipamentos servidores
+e sistema operacional de uso genérico;
+1.4.7. Tempo de garantia e suporte técnico de 03 (três) anos;
+1.5. Em caso de appliance físico ou virtual, deve possuir mecanismos
+de backup/restore da configuração existente na solução;
+1.6. Deve ter a capacidade de arquivar qualquer mensagem que viole
+as políticas corporativas, enviando-as para a estrutura de
+arquivamento do órgão;
+1.7. Deve ter a capacidade de permitir ou não endereços de e-mail
+com caracteres especiais, para no mínimo percentagem (%), hífen (-)
+e caracteres 8-bit;
+ 
+ 
+37 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 37 de 50.Ç. —
+PÚBLICA
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+1.8. Deve ter a capacidade de rejeitar conexões que tentem ser
+abertas pelos comandos “HELO” e “EHLO”, sem que existam
+gravados seus endereços de “MX” e “A” nos servidores de DNS;
+1.9. Deve ter a capacidade de fazer filtragem do remetente a partir de
+uma correlação da reputação global, informada pelo fabricante do
+produto, em conjunto com a reputação local, restringindo conexões
+indesejadas;
+1.10. Deve ter a capacidade de implementar pesquisas de blacklist na
+console do equipamento ou através do site do fabricante;
+1.11. A solução Antispam poderá ser de fabricante diferente dos
+FIREWALL NEXTGEN e SOLUÇÃO DE GERENCIA, RELATÓRIOS
+E ARMAZENAMENTO DE LOGS solicitados neste edital. No entanto,
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+deverá ser totalmente compatível com estes, e fornecida pela mesma
+CONTRATADA.
+2. Console de gerenciamento
+2.1. Deve estar no idioma Inglês ou Português;
+2.2. Deve possuir capacidade de administrar de forma unificada, via
+interface gráfica, com ao menos dois níveis de acesso:
+administração, apenas leitura com emissão de relatórios;
+2.3. Deve possibilitar acesso individual ao appliance via SSH, para
+execução de comandos via CLI (linha de comando);
+2.4. Deve possuir recurso para rastreamento de mensagens de
+entrada e de saída (Message Tracking) na própria console de
+gerenciamento com capacidade de pesquisa por data, assunto,
+status da entrega, remetente e destinatário, contendo no mínimo as
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+informações:
+2.4.1. Data e hora do envio / recebimento da mensagem;
+2.4.2. Assunto da mensagem;
+ 
+2.4.3. Endereços remetentes e destinatário da mensagem;
+2.4.4. Endereço |P do remetente da mensagem;
+2.4.5. Status da tentativa de conexão SMTP;
+ 
+ 
+38 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 38 de 50( EXTE)
+ES
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+2.4.6. Status de entrega da mensagem, informada pelo Host de
+destino, sendo possível verificar se um e-mail chegou ao Host
+do destinatário;
+2.5. O recurso para rastreamento de mensagens deve ter a
+capacidade de exportar os resultados ao menos nos formatos PDF,
+CSV ou HTML;
+2.6. Deve ser capaz de integração com Microsoft Active Directory para
+sincronização e autenticação;
+2.7. Deve permitir a criação de políticas diferenciadas para tratamento
+de SPAM, Vírus, Filttagem de Conteúdo e Controle de reputação
+(traffic shaping), de acordo com o destinatário da mensagem e
+reputação de origem;
+2.8. Deve ser capaz de utilizar a integração com o Microsoft Active
+Directory para validação de usuários, possibilitando o descarte das
+mensagens destinadas a usuários inexistentes. Evitando-se, assim,
+processamento desnecessário por parte do servidor de e-mail;
+2.9.  Deve possuir um mecanismo para geração de relatórios e logs;
+3. Funcionalidades do Antispam
+3.1. Deve ser capaz de processar o tráfego de mensagens de entrada
+e de saída, com políticas diferenciadas para cada sentido de tráfego;
+3.2. Deve permitir a execução de múltiplas ações para uma
+mensagem que for categorizada como SPAM, entre elas:
+3.2.1. Enviar para armazenamento em quarentena;
+3.2.2. Encaminhar a mensagem;
+3.2.3. Aceitar a mensagem;
+3.2.4. Apagar a mensagem;
+3.3. Deve possuir capacidade de notificar remetente, destinatário,
+administrador e outros e-mails, simultaneamente, sobre a
+categorização da mensagem como SPAM;
+3.4. Deve ter precisão de identificação de spam de pelo menos 95%
+(spam-catching rate);
+ 
+ 
+39 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 39 de 50( EXTE)
+PÚBLICA
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+3.5. Deve ter precisão de filttagem de pelo menos 99% (accuracy
+rate);
+3.6. Deve ter suporte a listas negras e listas brancas com opção por
+domínio, endereço de e-mail e endereço |P;
+3.7. Deve ter a capacidade de bloquear mensagens consideradas
+como SPAM baseado na utilização de RBL (Real Time Black List);
+3.8. Deve ter a capacidade de reconhecimento de ameaças dia-zero,
+com assinatura de suspeitos de vírus;
+3.9. Deve ter capacidade de utilização de pelo menos as seguintes
+tecnologias de detecção de spam:
+3.9.1. Assinaturas para corpo da mensagem e anexos;
+nte por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+3.9.2. Análise  heurística, através de análise de cabeçalhos,
+ 
+conteúdo e estrutura da mensagem;
+3.10. Deve possuir capacidade para criação de filttros baseados no
+cabeçalho, remetente, tipos e conteúdo de anexos, dicionários de
+palavras, assunto e corpo da mensagem;
+3.11. Deve possuir tecnologia para detecção de ataques de Spam,
+Vírus e Diretório (Usuários Inválidos);
+3.12. Deve possuir tecnologia para prevenção de ataques de “Bounce
+Messages”;
+3.13. Deve possuir a capacidade de implementar Sender Policy
+Framework (SPF) e SenderlD;
+3.14. Deve possuir a capacidade para criação de regras baseada no
+tipo de arquivo anexado;
+3.15. Deve possuir a capacidade para criação de regras baseada na
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+  
+ 
+ 
+detecção por “Wildcard”;
+3.16. Deve possuir a capacidade para criação de regras baseada na
+uta exam
+detecção por expressões regulares;
+3.17. Deve possuir a capacidade de implementar comunicação segura
+via TLS (Transport Layer Security);
+3.18. Deve possuir capacidade de configurar criptografia TLS por
+ 
+ 
+40 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 40 de 50( EXTE)
+ 
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+domínio;
+3.19. Deve suportar as seguintes tecnologias para detectar e filtrar a
+entrada de e-mails indesejados em nível de transmissão:
+3.19.1. A verificação de DNS reverso (RDNS);
+3.19.2. . SPF (Sender Policy Framework);
+3.19.3. Listade autorizados / lista negra;
+ 
+ 
+3.19.4. Ataque de captura de diretório (harvest attack);
+3.19.5. — Verificação de remetente/destinatário;
+3.20. Deve permitir bloquear anexos pela extensão, pelo tipo real do
+ino Kulka Ribas, An
+   
+arquivo, nome, tamanho, e número de anexos;
+3.21. Deve permitir a verificação em arquivos compactados nos
+formatos mais utilizados em até 20 níveis de compactação;
+4. Funcionalidades do Anti-malware, integrante do Antispam
+4.1.  Deve ter a capacidade de deleção total de mensagens enviadas
+por “Mass-Mailing Worms”, com opção de ações diferenciadas por
+tráfego de entrada e saída;
+4.2. Deve ter a capacidade de reconhecimento de Spywares e
+Adwares;
+4.3. Deve possuir módulo de antivírus para detecção de conteúdo
+malicioso nas mensagens. Este módulo deverá ser totalmente
+integrado à solução antispam, mesmo que seja de fabricante
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+diferente;
+4.4. O mecanismo de detecção de vírus deve suportar varredura para
+as direções inbound e outbound;
+4.5.  Deve oferecer métodos proativos de detecção dos novos vírus
+dia-zero, presentes nos e-mails;
+4.6. O mecanismo de antivírus deve ser capaz de remover os anexos
+infectados;
+4.7. Deveter a capacidade de bloquear arquivos anexos por extensão,
+tipo real do arquivo (True Type File), e nome do arquivo;
+ 
+4.8. Deve detectar URLs com risco de segurança, conhecidos ou
+ 
+ 
+41 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018. z
+LICITAÇÃO Nº. 017.2018 &
+Página 41 de 50.Ç. —
+ES
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+suspeitos, embutidos no e-mail que sejam indicadores de ataques de
+spyware, malware ou phishing;
+5. Quarentena
+5.1. Quarentena por usuário, possibilitando que cada usuário possa
+administrar sua própria quarentena, removendo mensagens ou
+liberando as que não considerar SPAM, diminuindo a
+responsabilidade do administrador e também a possibilidade de
+bloqueio de e-mails legítimos;
+5.2. O módulo de quarentena deverá ser capaz de enviar uma
+notificação periódica para os usuários, informando as mensagens
+consideradas como SPAM que foram inseridas na quarentena;
+5.3. Remoção automática das mensagens armazenadas em
+quarentena de acordo com as configurações definidas pelo
+administrador;
+5.4. Deve permitir que o usuário cadastre endereços de e-mail em
+listas negras/listas brancas pessoais;
+5.5. Ainterface com o usuário final deve ser no idioma português.
+ 
+ 
+ 
+Lote 01 Instalação e configuração da solução Quantidad
+ote
+integrada e treinamento Hands-On com e
+Item 05 repasse do conhecimento o1
+ 
+ 
+ 
+ 
+1. Implantação e configuração
+1.1. Todo o processo de configuração será precedido de um estudo e
+entendimento da atual infraestrutura em funcionamento hoje na
+ALGÁS e ALGÁS CONFORTO, englobando sua topologia e as
+configurações em uso;
+1.2. A infraestrutura física e lógica de segurança de rede hoje é
+composta por:
+1.2.1. Dois Firewalls CISCO ASA 5510 com módulo IPS ASA SSM-
+10 em modo standalone na sede da ALGÁS, cada um
+ 
+ 
+42 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+ 
+ 
+ino Kulka Ribas, An
+   
+P
+õ
+D
+5
+2
+o
+3
+s
+8
+ 
+2
+ú
+Página 42 de 50ALGÁS
+Gás de Alagoas SÀ
+.Ç. —
+ 
+ 
+ 
+recebendo um link dedicado de Internet;
+1.2.2. Um Firewall FORTIGATE 100A no ALGÁS CONFORTO
+recebendo um link dedicado de Internet;
+1.2.3. Solução de filtto de conteúdo de Internet e antispam
+WEBSENSE, composta por appliance V5000 G2 versão 7.7.3,
+servidores de gerenciamento TRITON, Mail Security, Log
+Server e Content Gateway;
+1.2.4. Dois Switchs CISCO CATALYST 3750 operando em cluster
+como Switch Core e Router para Internet.
+1.2.5. Dois links dedicados de Internet na sede da ALGÁS (50MB e
+20MB) e um link dedicado de Internet no ALGÁS CONFORTO
+(20MB);
+1.2.6. Solução WIFI CISCO, composta por Wireless Controller —
+WLAN 2500 e oito Access Points AIR-LAP1041N-A-K9
+1.2.7. Switchs de borda da marca CISCO e 3COM;
+1.3.
+Devem ser migradas para a solução proposta todas as
+configurações já existentes:
+1.3.1. Aproximadamente 350 regras de Firewall;
+1.3.2. Aproximadamente 700 objetos de Firewall;
+1.3.3. 5 (cinco) configurações de VPN site-to-site;
+1.3.4. Configuração de VPN SSL client-to-site;
+1.3.5. Perfis de filtro de conteúdo web;
+1.3.6. Gateway de e-mail e antispam;
+1.4. Devem ser configurados, na solução, as funções de sandbox e ss!
+decryption;
+1.5.  Antes da implantação da solução proposta, deverá ser realizada
+uma reunião com a presença dos técnicos da empresa
+CONTRATADA e dos técnicos da ALGÁS envolvidos no projeto, para
+elaboração do plano do projeto, de forma a seguir as boas práticas
+de gerenciamento de projetos, incluindo:
+1.5.1. Estudos de viabilidade, configuração, instalação e migração;
+ 
+ 
+43 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+    
+>
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+õ
+   
+ 
+Este documento tev.
+Página 43 de 50— ANDS
+ALGÁS
+Gás de Alagoas SÀ
+ 
+ 
+ 
+1.5.2. Detalhamento das atividades;
+1.5.3. Escopo;
+1.5.4. Cronograma;
+1.5.5. Recursos;
+1.5.6. Análise de riscos e impacto;
+1.5.7. Plano de contingências;
+1.5.8. Marcos do projeto;
+1.5.9. Reuniões de acompanhamento, entre outros;
+1.5.10. . Documentação necessária.
+1.6. Todo o processo de migração da solução para a nova
+infraestrutura, instalação e configuração dos novos equipamentos é
+nte por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+de responsabilidade da empresa CONTRATADA, devendo ser
+ 
+realizado por pessoal capacitado, comprovadamente certificado e
+autorizado pelo fabricante dos equipamentos adquiridos, sob a
+supervisão da equipe técnica da ALGÁS, que deverão fornecer à
+empresa CONTRATADA as informações necessárias para tal;
+1.7. Ainstalação dos equipamentos adquiridos deve ser feita de forma
+paralela à infraestrutura atual e a migração para o novo núcleo deve
+acontecer de forma programada e definida pela equipe técnica da
+ALGÁS, com o mínimo possível de interrupção dos serviços
+suportados pela solução atual, devendo toda e qualquer interrupção
+ser comunicada, programada e autorizada pela equipe técnica da
+ALGÁS;
+1.8. Deverá ser configurada uma VPN site-to-site entre os Firewalls da
+sede da ALGÁS e ALGÁS CONFORTO utilizando-se os links
+dedicados de Internet disponíveis nas duas localidades;
+s
+8g
+o
+8
+õ
+o
+õ
+5
+3
+õ
+3
+&
+S
+B
+o
+ê
+o
+  
+ 
+ 
+1.9. Soluções alternativas à VPN site-to-site para integração entre as
+redes da sede da ALGÁS e ALGÁS CONFORTO poderão ser
+sugeridas, desde que apresentem vantagens técnicas em
+uta exam
+desempenho e confiabilidade. Caberá à equipe técnica da ALGÁS
+decidir entre a substituir a implementação da VPN site-to-site pela
+ 
+ 
+44 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua n
+Página 44 de 50ALG.
+Gás de Alagoas SÀ
+ÁS
+.Ç. —
+ 
+ 
+ 
+2.
+sugestão apresentada;
+1.10. A CONTRATADA deverá entregar certificação final da solução,
+mediante testes de comunicação e apresentação de relatórios com
+os dados gerados. Os testes devem apresentar a comprovação de
+forma inequívoca do perfeito funcionamento dos mecanismos
+implementados. Todos os testes devem ser realizados com o
+acompanhamento da equipe técnica da ALGÁS;
+1.11. A CONTRATADA deverá entregar documentação As-Built de todo
+o projeto;
+1.12. A CONTRATADA poderá atualizar firmwares e softwares, bem
+como implementar configurações nos equipamentos adquiridos antes
+de entregá-los à ALGÁS, desde que o fornecimento não exceda o
+prazo máximo de 30 dias corridos após assinatura do CONTRATO;
+1.13. Todos os serviços de instalação física dos equipamentos devem
+ser executados presencialmente pela equipe da CONTRATADA
+dentro da sede da ALGÁS e ALGÁS CONFORTO, ou seja, no
+formato On-site;
+1.14. A CONTRATADA deve possuir em seu quadro profissional, no
+mínimo, 1 (um) gerente de projetos com contrato de trabalho vigente
+ou outro contrato na forma da Lei que comprove o vínculo
+permanente com a CONTRATADA.
+Treinamento Hands-On e repasse de conhecimento sobre a solução
+implantada
+2.1. Ao final dos serviços de implantação, configuração e migração
+deve ser oferecido um treinamento “in loco” para repasse tecnológico
+de conhecimento de todo o ambiente implantado, para 03 (três)
+técnicos da ALGÁS;
+2.2. Deve ser conduzido por profissional possuidor de certificação
+emitida pelo(s) fabricante(s) das soluções de Firewall NextGen, filtro
+de conteúdo web e antispam, que detenha todas as condições
+técnicas (teóricas e práticas) necessárias. O responsável pelo
+ 
+ 
+45 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018,
+LICITAÇÃO Nº. 017.2018
+S
+&
+3
+-
+2
+<
+o
+õ
+o
+o
+E
+8
+o
+o
+e
+<
+Z
+<
+º
+õ
+&
+2
+ 
+a e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado di
+ 
+Este documento teve sua n
+Página 45 de 50A
+GA:
+de Alagoas S À
+.Ç. . TT
+PÚBLICA
+ 
+ 
+ 
+treinamento “in loco” deve preferencialmente ser o mesmo
+profissional que participou das fases de elaboração de projeto e
+implantação da solução, e somente será aceita a sua substituição em
+casos excepcionais e com a concordância da equipe técnica da
+ALGÁS;
+2.3. Deve ser realizado nas dependências físicas da ALGÁS entre 08h
+e 17h, de segunda à sexta-feira;
+2.4. Deve contemplar a apresentação da implantação, explanando a
+topologia adotada e os equipamentos envolvidos;
+2.5. — Deve abordar todas as funcionalidades envolvidas no projeto da
+nova solução implantada;
+2.6. Deve capacitar a equipe técnica da ALGÁS a executarem tarefas
+rotineiras de configuração, operação, suporte, manutenção e
+monitoramento dos equipamentos adquiridos.
+ 
+ 
+46 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+uta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+ 
+Este documento teve sua mi
+Página 46 de 50ALGÁS
+Gásde Alagoas SA
+ANEXO Q7 - Proposta do CONTRATADO datada de 15/10/2018 e
+( EXEE)
+PÚBLICA
+Planilha de Preços Unitários .
+ 
+Security comes first .
+ANEXO K PROPOSTA DE PREÇOS
+À ALGAS,
+Ref: Licitação Nº 017.
+ 
+Submetemos à apreciação da ALGÁS a nossa proposta de preços relativa à licitação supra, o que fazemos mediante oferta de preço
+global e demais detalhamentos constantes na Planilha de Preços Unitários anexa: Pelo presente, declaramos ainda que:
+1a) Nossa proposta de preços foi elaborada considerando todas as despesas increntes ao forecimento dos bens licitados, inclusive
+frete, despesas de pessoal, taxas de embarque etc., estando também incluso todos os tributos, diretos e indiretos, inclusive
+1PIL e ICMS, considerando a aliquota interna de ICMS de 18% no Estado de Alag:
+ 
+b) Manteremos válida a proposta pelo prazo de 60 (sessenta) dias consecutivos, contados da data de recebimento desta proposta de
+preços, ressalvando que, na hipótese de RECURSO, e tendo em vista o seu efeito suspensivo, o prazo de validade desta proposta
+de proços não correrá durante o período de recebimento e julgamento dos recursos;
+) No fomecimento dos bens objeto desta proposta observaremos rigorosamente as especificações técnicas, as condições e os prazos
+de entrega estabelecidos no cdital e em seus respectivos anexos, assumindo desde já a integral responsabilidade pela perfeita
+exccução das obrigações assumidas, inclusive quanto aos prazos de garantia minimos previstos no edital c em seus anexos;
+d) O nº da conta do Banco, onde serão depositados os pagamentos referentes ao Contrato, é 19315-1.
+€) Estamos cicntes que, nos termos do edital, o futuro instrumento contratual poderá ser assinado digitalmente, com fundamento na
+Medida Provisória nº 2.200-2/2001, mediante uso de certificados digitais expedidos por Autoridade Certificadora integrante da
+Infraestrutura de Chaves Públicas Brasileira — ICP-Brasil, de modo que, nesta hipótese, o representante para assinatura dos
+instrumentos contratuais será:
+ 
+- E-mail: daniloênetconn.com.br; vivianefânetconn.com.br
+1) Não sendo a hipótese de assinatura digital, o Representante Legal para assinatura dos instrumentos contratuais, será: - Nome:
+Danilo Massad Kuznecovas
+* CPF: 040.769.098-01
+- Cargo: CEO
+- E-mail: danilo(ânetconn.com.br; vivianeênciconn.com.br
+Assim, sendo essa proposta a expressão da verdade, firmamo-la para que seja válida e produza
+  
+“os efeitos jurídicos descjados.
+São Paulo, 15 de outubro de 2018
+P
+Y &AJ
+i Av. Queiroz Filhe la 108 - 05319-000 — São Paulo/SP
+— ncom.br r
+=
+47 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+ 
+Netconn' E= vi '
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+Página 47 de 50—ANÍIS ó nÍc
+aa | &S B
+d.AI-n—-sA
+Netconn'
+Security comes first
+ 
+Danilo Massad Kuznecovas
+cFO *
+ANEXOL
+PLANILHA DE PREÇOS UNITÁRIOS - PPU ”
+À ALGAS,
+Ref: Licitação Nº 017.2018
+OBJETO DA LICITAÇÃO: Aquisição de solução integrada de Firewall - NGFW, Filtro de Conteúdo para Internet e
+Antispam para e-mail, bem como a contratação dos serviços de instalação e configuração para a sede da ALGÁS é ALGÁS
+CONFORTO.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EWALL TIPO 01 - NEXTGEN
+'ARA SOLUÇÃO EM CLUSTER PARA A | 01 RS 161.004,00 RS 161.004,00 5657%
+DA ALGÁS
+'ALL TIPO 02 - NEXTGEN
+'ANDALONE PARA ALGÁS or R$ 1477400 R$ 14.774,00 486m
+JONFORTO
+UÇÃO DE GERÊNCIA,
+ELATÓRIOS E ARMAZENAMENTO DE | 01 R$3.885,00 R$ 3.885,00 958%
+S
+UÇÃO DE ANTISPAM or R$35.177,00 R$35.177,00 119%
+€ configuração da solução
+rada e treinamento Hands-On com or R$31.800,00 R$ 31.800,00 1507%
+do conhecimento
+Valor Global R$ 246.640,00 100%
+ 
+ 
+ 
+ 
+OOBS: Os preços unitários informados neste Anexo L é o resultado da porcentagem definida no Anexo P do edital 017.201%
+multiplicada pelo Preço Global ofertado em nossa proposta inicial ou negociada com a Autoridade Julgadora.
+Restrito
+Av. Queiroz Filho, 1.700 — Torre A-— sala 108 — 05319-000 — São Paulo/SP
+www.netconn.com.br r
+48 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+Página 48 de 50( —EXTE
+Géásx de Alagoas SÀ
+i Netconn' LNA
+Security comes fitst ”
+ÃO DO ITEM 1-TIPO 1
+PÚBLICA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forcepoint NGFW 1105 Appliance (Warranty - Advanced RMA (36 months) o
+Essential Support for Forcepoint NGFW 1105 Appliance o
+Forcepoint NGFW URL Filtering for NLOS
+Forcepoint Advanced Malware Detection for NGFW N1065 and NVHOS
+4 Port Gigabit Ethernet SFP Module (Warranty - Advanced RMA (36 months) o
+ 
+ 
+DI ÃO DO ITEM 2- TIPO 2
+Forcepoint NGFW 330 Appliance (Warranty - Advanced RMA (36 months)
+ 
+Essential Support for Forcepoint NGFW 330 Appliance
+ 
+Forcepoint NGFW URL Filtering for N330
+or
+ 
+Forcepoint Advanced Malware Detection for NGFW N1065 and N330
+or
+ 
+DESCRIÇÃO DO ITEM 3
+Forcepoint NGFW Management Center
+ 
+Essential Support for Forcepoint NGFW Management Center
+ 
+DI ÃO DO ITEM 4 - Email Sec:
+Forcepoint Email Security Cloud Access & network Security, Essential Support — 36 meses
+ 
+ 
+250
+ 
+ 
+Restrito
+Av. Queiroz Filho, 1.700 — Torre A — sala 108 — 05319-000 — São Paulo/SP
+$ Wwww.netconn.com.br
+49 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+lho e Danilo Massad Kuznecovas. Para verifi
+ 
+E
+$
+2
+S
+s
+&
+o
+2
+F
+e
+É
+Z
+õ
+$
+2
+x
+S
+=
+S
+x
+e
+g
+sS
+5
+8
+3
+2
+E
+s
+E
+S
+=Z
+e
+H
+8
+%
+E
+3
+8
+$
+s
+o
+o
+8
+É
+&
+õ
+S
+3
+s
+õ
+Ô
+s
+5
+3
+$
+2
+(o)
+g
+S
+3
+8
+ê
+8
+8
+g
+-
+o
+&
+S
+3
+8
+$
+ê
+&
+&
+o
+S
+Z
+8
+E
+É
+5
+R
+õ
+g
+3
+E
+E
+s
+E
+3
+2
+3
+2
+E
+5
+É
+5
+3
+8
+8
+2
+o
+ú
+Página 49 de 50— Ç.Ç
+Gás de Alagoas SA
+<
+Netconn'
+Security comes first
+DESCRIÇÃO DO ITEM 5 - Serviços (valo
+res em reais)
+ 
+Implementação e Configuração (NGFW c Email Security)
+PÚBLICA
+ 
+ 
+Treinamento “in loco” para repasse tecnológico de conhecimento de todo o ambicnte implantado, para 03 (três)
+técnicos da ALGÁS, no dia sequente do serviço de implantação.
+ 
+ 
+ 
+ 
+Condições Comerciais
+Pagamento: 45 dias corridos após emissão da Nota Fiscal
+Impostos « Taxas: Os valores incluem todos os impostos vigentes até esta data
+Entrega HW: 45 dias após pedido | Validade da propasta: 60 dias
+Os preços apresentados em dólares serão convertidos para reais na data do faturamento utilizando-se a taxa do dólar comercial
+disponível no dia anterior ao faturamento.
+São Paulo, 15 de outubro de 2018
+ 
+Restrito
+'Av. Queiroz Filho, 1.700 — Torre A — sala 108 — 05319-000 — São Paulo/SP
+www .netconn.com.br
+pm
+50 de 50
+PROCESSO ADMINISTRATIVO Nº 178.2018.
+LICITAÇÃO Nº. 017.2018
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e Danilo Massad Kuznecovas. Para verifi
+Página 50 de 50PROTOCOLO DE ASSINATURA(S)
+O documento acima foi proposto para assinatura digital na plataforma Portal de Assinaturas Certisign.
+Para verificar as assinaturas clique no link: https://portaldeassinaturas.com.br/Verificar/28AF-B4A0-6E4A-
+1D91 ou vá até o site https://portaldeassinaturas.com.br/Verificar/ e utilize o código abaixo para verificar se
+este documento é válido.
+Código para verificação: 28AF-B4A0-6E4A-1D91
+Hash do Documento
+4512AB81E11FE8S9DD55D1FDDO3ED6AE160F101742B51A26F8FO6GS3SAD430B2F4B
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 27/11/2018 é(são) :
+& Arnobio Cavalcanti Filho (Signatário - Gás de Alagoas S/A -
+ALGÁS) - 308.202.354-15 em 23/11/2018 12:31 UTC-02:00
+Tipo: Certificado Digital
+m& Luciano Kulka Ribas (Signatário - Gás de Alagoas S/A - ALGÁS) -
+022.426.849-06 em 23/11/2018 13:03 UTC-02:00
+Tipo: Certificado Digital
+m& Danilo Massad Kuznecovas (Parte - NET & CO COMÉRCIO E
+SERVIÇOS EM INFORMÁTICA LTDA) - 040.769.098-01 em
+26/11/2018 17:39 UTC-02:00
+Tipo: Certificado Digital
+O(s) nome(s) indicado(s) para autorizar, bem como seu(s) status em 27/11/2018 é(são) :
+Gledson Souza Santos - 045.629.784-73 em 23/11/2018 11:55
+UTC-02:00ESPSOTEIPOI| O-L9FLIOO -laxã%ízgmqa LIOT/PIS600 0007
+I16-L1€THOLST| — 8-9990800 VHIH?I;[IEEII?E[SOI 810Z/950500'0081
+OHTVYA
+ESPESPSLTHE | — [SCISVOO |- UVYOVUWIHAITO AA| LIOZ/Z65hTO 0007
+VRI9LINO VRIVW
+. VATIS VA ,
+I6OGL6EINT | 8 6EGS9OO | on Sn vWIVÇa | 810228100 soTOT
+: OFLQKIL STA á
+OTHer6LoIIR| orporOO | q s%q VRIVW | 210Z/P81600'0081
+OIN
+SILT6L6GPBS | — ISGTLEDO | -OMAISSINVAVL | 8102/107500/0081
+ZIN71 SAATINAAA
+SISSV JJA ON
+16-PL9'EB6'BRO | — OP9EIVOO | -VIODITEA OATVUA | pIOZ/IFIO010'S01OZ
+1do VINORIIVW noa OSSADONA
+“IANAS OMA AWNON
+ 
+ 
+ 
+ 
+ 
+ 
+“etopejuasode ap opipad 9p omuatutIaAfap op opuenh souanosd
+sop ojuaureSvd o ered orómynsut v1sap faNO o uos (00/ oróeIAdo) otrETes enuoo
+9p emnuaqe ved oróemioap semas op ounju ou eisugprasag seofery — rioadsa
+embremy e159 v umsareduros srow serp (o9to) so op ozeid ou “anb ered sopeuoio
+FEJo1 OXIPQE S9JOPIAIOS SO 98-B90AUO9 “JuINOS UTA Op 900T/TOL' E OBSNJOSayM e
+o1sodsip ov ojuauudeamo ua Tesapag eoNuOUO9F EXFEI EP OUAUIPUAR O OPLPSIA,
+STLOCAIAHAS HA OVYÍVIOANOO
+BIIU9pIADIA SeoSENy
+u ———————w ——
+'SYDTV - sIeUOIoEZIVEÊIO
+SOSS9204M 9D 9IUAISISSY — SAJEARI, IUEINEARI UMLIIA] :Bijuasos vjad [onvsuOdsoy
+“BIOT'£ZO u OpupIIIQISIXAU] oóm (8[0Z'18T :0SSa90AR fotenNOS
+ENE EP EIIBUISSE EP BEP ep INIBd e Seip (oIWA 9 o1ua9) OZ| :elousSia Q0 0SL+
+SU IPqolO JOJeA !sazopriqiçes 2p sasnfe no/o oróeqIT “oonsouBeip “ordad
+7SUI 9p soótAIOS ap OBSEJENTOS :femenuos o1afao “07-1000/ET11$68'6S :LANO
+fepr] Sewolsis o SoSUMASUT SÁsSI] :OpeeNTos “EI0Z/08O sU :OIENUOI ELTRI
+ 
+ 
+“8IOZ/TI/10 :oBóeBoJouoF] $ 107/S00 oU :OBSTIAIT '810Z'980 0559201
+isosou 21 sBI9U9SIA (00 0b L00'T SA “Iego(o JOfe “QVId 2p soqm ap ogórsinbe
+Iemuaas sodaag ap onsifay :Tenjenuos 02(90 “75-1000/L1L'010'Sh :dNO fepr]
+O19I9UIOI 9 BLISNDU] Slo1Og :Opelenuos “g107/C00 .U :S0dad ap onsifoy ap exy
+BIOUIVAT
+oBdeSoJoWoH (810T'LIO SU OBSENOIT :OBSMIOIT "$ 10T'$L1 OSsadoIg “stementos
+sapSeSLNqO sE sepo) 9p ouatuudumo o 91e oRSeIGJ9? ENS 9p eJep np Ined e :elouas
+“IA (00'0b9'96Z $4 :Tegolo sofeA “reu-o esed wedsnuy 2 [Temoi; p epesfora
+oBónIoS ap oIIaIIATIOA :Tenentos 012fgO *$0-1000/9S'SLL'8O :dNO "eprT em
+“BULOJU] ta SOSIAIOS 9 OLAIIUIOI I 8 LAN OpEIeNDOS “$10Z/81O oU :O1enHoo
+B102/11/10 :orSeSojowoH *$10T'T10 JU
+OBSENIT :ORÓRIIAIT *8107T'S9] :Ossa9OIA “sosauu (azop) Z | :eIousSA (00'0000€1'T
+S$U “Teqo]O J0eA “SYOTY EP NO EP OBSPAIASUOS a (TVAd 2p ompose3 tu ftaio
+oruanTEU! 9p SOÓIAIOS SOP OESEILANNHOS :[ementos o12f90 “L8-1000/E6€ 6900
+!fdNO fepiq sreimsnpug soótaias IeWI[eA :Operentos “gIOZ/L10 U :OIBNUHO
+ 
+Tetiaie op
+OuounaauIog ap oróezuoNny 9 soda1g ap OnsiSay op EV “OIENHOS 9p SOTENXA
+ioxIPqE 9UNOJUOS
+“sowoUuenpe 9p o jettojeu ap omuouDaAOJ ap oEdezuONE “soda1d 9p onsiãas ap
+SeIe 9p “Sotentoo op sotenxo so “corqud eumor SyYOTY — V/S SEoBEIV 9p SE V
+I W/S - SeEOBB[V 9p SED - SYOTV
+ 
+ 
+—
+SIVHOW 30 OWIXYW NOTIAO
+SYO9Y TV 3A IVNAV1SA JQVOISYIANNN - TVANN
+V1S09 VUIIAITO 3A ANOIINAH
+SVO9VIVY 3A JANVS VA SVIONIO 3A IWNAVLS3 JQVOISYIAINN - TVSIONN
+OH7I4 VZNOS 3A O1SaANHA 3SOr
+VIS SYOSOV V 3A VINVHN3ONA 30 OÓNIS - IVaNHIS
+OLLIN OMNLSVI 3A SIVAON VETVO
+SYOIVTV 39 HOGINNSNOS OA VSI3A 3 OYÍFLOMd 3A OLNLUSNI - NODONA
+S3ZANAW OWHV9 0A VHCNYS
+VIS * SVOSVIV 3O COLLNJOVINSV4 IVILLSNONI OIOLVUCEY1- TVA
+VH90U SAQTVA VUIINId SIUVAVA AdiTIA
+SIYVWTVd SOC IENNZ OLNLUSNI- d)
+VNTIS SVISSIW IWIVC
+SVOOVTVY 3A VINYUOV VWMOS3H 3 SVAMIL J0 OLNLILSNI- IVH3LI
+HOINDr SOLNVS SOA ONVIONT 3SOr
+SYO9YIY 39 OGVYLS3 DA OYÍVITHOJNI 3 VOLLYWBOJNI W3 VIDOTOND3L 3A OLALILSNI - 99LI
+WNAWO 3A OlN3SIAA ISOF
+SYO9V1V 3A OAV1S3 0JA SIMOACIANIS SOAC ICNVS Y VIONZLSISSV JC OLNLILSNI - JANYS TASYd|
+OVANVUA VUNAZAS OuAId ZNT
+SVYO9Y TV 30 JAVANVYNO 3 VIDOTIONLIW 3A OLNLUSNI- D3ANI
+S3d07 OYÓIFUUNSSAY OAVLSNO
+SYO9YIV 3A OAV1S3 OC FLN3/ENV OIIW OJ OLNLLLSNI - TWIVWI
+OL3N OUI2LNOW OMIZEIS OINITAH ISOr
+SVO9YIV 30 OLNANIOZLSVEV 3 IVUNY OLNINIATOANISIA 3A OLNLLSNI - i0
+SAWO9 S3AINO OLEVENA
+SVO9VTV 30 OIV1SA 0A VSINDSId Y ONVANV 3A OYÍVANNI - TWadvs
+09734 3sOr NazIIA
+TBAYLNGASNS TVUNY OLNIWNIATOANISIA O VeVd OYÓVAONI 30 OLNLILSNI - N3IVYWA
+ANTVW 8VA VIIIHS
+SYO9V1V 30 OQVLS7 DA SOMLVAL 3A VIMOLIMIO - IVALIA
+VIZANOS 3A ONTIW SVLITU4 SOTUVI OINÇLNY.
+SVOSYTIV 30 OQV1S3 OC OLISNYHL 3A TVNAV1S3 OLNIWNVLUVAAA - TWINVHLIO
+S3W09 OINVZZV9 HaCTAH
+SYO9VYTY 3A WIOVCON 3A SYAVHLSA 30 OLNINVLVIIA - TW830
+WNWO 3A VATIS VISOO OlUASO9vA
+SVO9YTV 3A OYÍVINANd 3 OYSSINdNI OYÍIAI C VIKNVANDO - Wdã0
+UYINATV 3O OVITV4 019779 JM
+SVOSVTV 3A OLNINVINYS 2A VIKNVYAWOO - TWSYo
+VONVTIOH OG39VW OINQLNV OANVNHA4
+SIVINOWNIMLVd 3 SONVAWNH SOSMNIIN 3A OYÍVALSININAY 3A VIHNYENOO - dHuVO
+SIWO09 VUIIUNA4 NOSTIVI
+SVO9VTIV 3A OGV1S3 OC SOIMENA SOÍLNMAS 3A VACAVINOIN VIINIOV - TSV
+WWIT 20 SIVHOW HINOVM
+SOSS3DONd 3A OY1S79 VA OVÍVZINHICON JA VIONZOV - dSI9NY
+SOLNVS SOC SASIOW OLUIGOU
+VIONTCIABNA SVOIVIVY )
+099HIVd ALIIT ATUWA
+VIS SONLV SYO9VTV
+/OHTId LINVITVAVO OISONHV.
+VIS- SVO9VI 3A SY9 - SyOTV
+WIHQO VOHIN OIINT OIAVIA
+SYOIVIVY 3A CINIWO4 30 VIONJOY
+OMIZLNOW SIUVATV OATVNOUI
+SVO9VY 1V 30 OGV1SA OI VINYNIIdONOY OVÔFTASNI 3 VS2d3AC JA VIONZOV - TvACY
+VATIS VA VSOSGHYV9E ONVI9NT Asor
+SYOOVTIVY 32A OAVLSA OA HOAVNHIADO-FIIA
+OHTIH SOHI9HTVO SOTAONOOSVA NVNHH 3SOr
+SVOOVIY 3A OAVLSA OA HOIVNHAAOO
+ 
+ 
+ 
+= OALLNIAXA NAAOd =Z -= ——
+TVIQIO ORIYIA 'ª
+SEOBE[V 9p Ope)IST
+ 
+)
+ 
+ 
+  
+E
+e-zo11pul, OBSEISIUINUPY
+weo: 5) OAIFNoSDSxX3 19pod
+ 
+   
+b SZ
+se: opeisa
+1e1PHO OlHBIG
+   
+TIOZ/L6E'L oN 1A1 ouuojuoo
+UU BNSIA EPEOHIVAS EoIUENAIA OBÓIPA
+8TOT ap oiquazap ap Z
+E119)-eXos - 01992hW
+oOv

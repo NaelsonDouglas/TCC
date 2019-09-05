@@ -1,0 +1,994 @@
+r as assin
+ 
+ALGÁS
+Gás de Alagoas SA.
+ 
+.
+-
+t==
+—
+ 
+ 
+CARTA-CONTRATO DE COMPRA DE MATERIAIS Nº 087.2018
+ 
+GÁS DE ALAGOAS S/A — ALGÁS, sociedade de economia mista inscrita no CNPJ/MF
+CONTRATANTE: | sob o nº 69.983.484/0001-32, sediada na Rua Artur Vital da Silva, nº 04, Gruta de
+Lourdes, Maceió/AL, neste ato representado pelos seus diretores, que esta subscrevem.
+ 
+ 
+Filho e Jos:
+FORNCEDOR: ELITE AUTOMAÇÃO COMERCIO E SERVIÇOS LTDA
+ 
+ENDEREÇO: RUA DOLORES CRETTI, Nº 29 - VILA CRETTI - BARUERI - SP - CEP: 06404-110
+ 
+CPF/CNPJ 03.407.308/0001-44 Fone:(11) 4201-8800
+ 
+ 
+ 
+Por meio deste instrumento contratual, as partes acima qualificadas celebram o presente contrato de
+compra e venda, o qual será regido pela Lei 13.303/2016 e pelas demais condições específicas contratuais
+abaixo dispostas, pelas condições gerais contratuais dispostas nas páginas seguintes e pelos demais
+documentos que expressamente lhe integrarem.
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+«
+Proc. Adm. nº 284.2018 * Modalidade: DISPENSA DE LICITAÇÃO Nº da Modal: É
+CONDIÇÓES CONTRATUAIS ESPECÍFICAS Ê
+1. OBJETO DA CARTA-CONTRATO: Aquisição de módulo de controle para automação do 3
+funcionamento dos climatizadores de ar do Datacenter õ
+2. DOCUMENTOS INTEGRANTES DESTA CARTA-CONTRATO: %
+X | Termo de Referência- (Anexo |) * x * Proposta Comercial- (Anexo |l) * - * -X-X-X- (Anexo |) =
+inã ; iári Preço Total
+em Descrição QGtd | Unid | Preço Unitário do ttem s
+S
+KIT DE MÓDULO DE CONTROLE PARA 03 (TRÊS) ã
+? | MÁQUINAS COM ETHERNET E GSM 1 | KT | R$7,79800 R$7.798,00 — |É
+KIT DE MÓDULO DE CONTROLE PARA 02 (DUAS) -
+2 — | MÁQUINAS COM ETHERNET E GSM 1K R$7.160,00 R$7.160,00 $
+7 S
+INST. DOS SISTEMAS DE AUTOMAÇÃO DE AR COND. on
+3 | (TRANSPORTE, HOSPEDAGEM, ALIMENTAÇÃO. 1 | MO |  R$9.000,00 R$9.000,00 — |q
+Õ
+4 DIFERENÇA DE ICMS 1 UN R$2.006,56 R$2.006,56 É
+5 KKKKKKKKKKKKKKKK o R$0,00 R$0,00 :%
+VALOR GLOBAL DO CONTRATO | R$25.964,56
+o s< Wu
+S 8 Em até 30 (trinta) dias a partir da gãº Pagamento em até 30 (trinta) dias após a conclusão dos
+T E emissão da  Autorização de g N '6 serviços, mediante apresentação da NF, através de depósito
+& E | Fornecimento. RE | bancário.
+s á o
+8 ls— 'ã S Os serviços de conserto em garantia deverão ser concluídos
+ZuwZ |12 (doze) meses a partir do| 38 iços d garar
+EZ | recebimento dos serviços 6 no prazo máximo de 30 dias. Após esse prazo, o fornecedor
+; ã ços. ÉE deverá substituir o produto defeituoso por outro novo.
+7. SERVIÇOS COMPLEMENTARES 8. GESTOR / FISCAL DO CONTRATO
+ 
+Alessandra Quintiliano/Gustavo Nassar
+KKKKKKKKK KKK KKKA de Lima
+ 
+ 
+ 
+ 
+11. OBS: A título de emissão de N.F o fornecedor deve considerar o valor de R$ 23.958,00, correspondente
+ao valor do produto e serviços,conforme proposta apresentada.
+ 
+ 
+ 
+A.
+1de5 o f
+CARTA-CONTRATO N. * 087.2018 .
+Rev-o6 < VISTO ?
+conPágRing/! de 17ALGÁS
+Gás de Alagoas SA.
+ 
+ 
+ 
+ 
+CONDIÇÕES GERAIS CONTRATUAIS
+1. REGÊNCIA CONTRATUAL
+1.1. O presente contrato será regido primeiramente pelas suas condições contratuais específicas,
+aplicando-se, quando não lhes forem contrarias, as disposições destas condições gerais contratuais,
+a proposta comercial, entre outros documentos que expressamente forem referidos neste contrato,
+e os preceitos de direito privado.
+2. PREÇO — O FORNECEDOR declara que nos preços previstos neste contrato estão incluídos todos os
+tributos, bem como todas as despesas de administração, encargos sociais e trabalhistas, despesas de
+transporte, inclusive frete, e, ainda, todos os custos com providências auxiliares e complementares
+necessárias à completa execução contratual.
+ 
+Kulka
+3. DA ENTREGA E RECEBIMENTO DOS BENS
+3.1. No ato da entrega dos produtos, a ALGÁS procederá à conferência dos materiais, para
+verificação de possíveis danos, sem que tal procedimento acarrete a perda da garantia
+originalmente prevista.
+3.2. O recebimento dos equipamentos far-se-á mediante termo circunstanciado e ocorrerá:
+a) provisoriamente, para efeito de posterior verificação da conformidade do material com a
+especificação;
+b) definitivamente, no prazo máximo de 30 (trinta) dias corridos, após a verificação da qualidade,
+bem como das especificações e consequente aceitação.
+3.3. Os equipamentos que não respeitarem as condições estabelecidas neste Contrato e no Edital
+serão recusados pelo servidor da ALGÁS responsável pelo recebimento e colocados à disposição do
+FORNECEDOR, para que no prazo de 08 (oito) dias úteis seja retirada, com a pertinente reparação ou
+substituição. Caso o FORNECEDOR não providencie a retirada dos equipamentos recusados no prazo
+estabelecido, a ALGÁS poderá, a seu critério, recolhê-los em depósito de terceiros, correndo todas
+as despesas e riscos por conta do FORNECEDOR.
+3.4. Em caso de devolução por não conformidade ou por necessidade de reposição por dano, os
+fretes de retorno ao FORNECEDOR e de reposição à ALGÁS correrão à custa total do FORNECEDOR.
+ 
+E
+S
+(
+o
+N
+õ
+Õ
+s
+    
+ 
+ 
+  
+   
+  
+   
+ 
+   
+3.5. Salvo disposições em contrário, os ensaios, testes e demais provas exigidos por normas técnicas
+oficiais para a boa execução do objeto do contrato corem por conta do FORNECEDOR.
+4. PAGAMENTO
+4.1. Salvo disposição em contrário prevista nas condições específicas contratuais, o pagamento
+parcial por cada entrega, a depender do caso, será realizado em até 30 (trinta) dias da data do
+adimplemento da obrigação pelo FORNECEDOR, assim considerada a data em que ocorrer a
+aceitação dos materiais mediante a celebração de “Termo de Recebimento Provisório” (TRPS) ou
+“Termo de Recebimento Definitivo” (TRD), ou do simples recibo, conforme for o caso.
+4.2. Salvo disposição em contrário, os pagamentos serão realizados através de cheque nominal ao
+FORNECEDOR, a ser entregue na sede da ALGÁS na data do vencimento do pagamento, durante
+horário normal de expediente.
+4.3. Entre a data do adimplemento da obrigação e o respectivo pagamento não haverá atualização
+financeira dos valores a serem pagos, salvo na hipótese do pagamento ocorrer fora do vencimento,
+caso em que a ALGÁS pagará uma multa de 2% (dois por cento) e juros de mora de 1% (um por
+cento) ao mês, esta última calculada proporcionalmente ao tempo da mora.
+2dos
+CARTA-CONTRATO N. * 087.2018
+Rev-06ALGÃS E
+ 
+ 
+ 
+EX
+4.4. Caso o dia de pagamento recaia em dia não útil, o mesmo será efetuado no próximo dia útil. ;
+4.5. A critério da ALGÁS, poderão ser exigidos do CONTRATADO, para fins de pagamento, a =
+comprovação de sua regularidade fiscal relativa à previdência social (INSS), ao FGTS, à Fazenda
+Federal, à Fazenda Estadual e Fazenda Municipal, estas duas últimas do domicílio ou sede do
+CONTRATADO, sob pena de seu pagamento permanecer retido até a apresentação dos documentos
+referidos.
+ 
+ilho e José Luiz
+   
+5. ALTERAÇÕES CONTRATUAIS — O presente contrato admite alteração, mediante acordo formal
+entre as partes, nas hipóteses previstas nos incisos do art. 81 da Lei 13.303/16.
+6. SANÇÕES
+6.1. O atraso na entrega dos bens, ou, por outra qualquer forma, o FORNECEDOR não cumprir as
+normas contratuais, este estará sujeito, assegurado o contraditório e a ampla defesa, às seguintes
+sanções: advertência; multa; suspensão temporária de participação em licitação e impedimento de
+contratar com a Administração Pública estadual enquanto perdurarem os motivos determinantes da
+punição e; declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+6.2. Ressalvada a hipótese de força maior ou caso fortuito, a multa acima prevista será calculada,
+progressivamente, por cada dia de inadimplemento, na forma abaixo:
+| — 0,5% (cinco décimos por cento) ao dia, até o quinto dia corrido, calculado sobre o valor
+correspondente à parte inadimplente;
+11— 0,7% (sete décimos por cento) ao dia, para cada dia corrido, do sexto até o décimo dia, calculado
+sobre o valor correspondente à parte inadimplente;
+Ill — 1,0% (um por cento) ao dia, a partir do décimo primeiro dia corrido, calculado sobre o valor
+correspondente à parte inadimplente, limitado ao valor integral do contrato.
+6.3. A multa acima poderá ser aplicada concomitantemente com as demais sanções previstas, e sem
+prejuízo do FORNECEDOR responder por perdas e danos pelos prejuízos, que, por seu atraso, causar
+a ALGÁS, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e
+honorários de advogado.
+6.4. Se a prestação, devido à mora, se tornar inútil à ALGÁS, o FORNECEDOR, além da devolução dos
+valores eventualmente adiantados e não aproveitados, pagará uma multa de, no mínimo 50%
+(cinquenta por cento) e no máximo 100% do valor atualizado do contrato, independentemente da
+comprovação dos prejuízos, facultando à ALGÁS exigir a satisfação das perdas e danos quando estes
+forem superiores à pena ora convencionada.
+6.5. Nos casos de infração contratual por parte do FORNECEDOR que não resulte em atraso na
+entrega bens ou, ainda, em inutilidade da manutenção do contrato para a ALGÁS, será aplicada no
+FORNECEDOR uma multa equivalente a 5% (cinco por cento) do valor atualizado do contrato,
+respeitado o mínimo de 1/3 (um terço) do salário mínimo vigente e o máximo de 30% (trinta por
+cento) do valor atualizado do contrato, prevalecendo o teto em relação ao piso, podendo a
+penalidade prevista nesta cláusula, em qualquer caso, ser reduzida proporcionalmente à gravidade
+da infração.
+S
+<
+ 
+E
+S
+(
+o
+N
+õ
+Õ
+s
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+  
+7. DOS CASOS DE RESCISÃO
+7.1. O presente Contrato poderá ser rescindido, a critério da ALGÁS, e independente de qualquer
+interpelação ou notificação judicial ou extrajudicial, com antecedência mínima de OS5 (cinco) dias
+úteis, sem que ao FORNECEDOR caiba qualquer indenização e/ou retenção sobre os materiais e
+serviços a ela confiados, no caso de inadimplemento de qualquer condição do presente contrato ou
+quando não atender integralmente, dentro de cinco (5) dias, às exigências que lhe forem feitas pela
+ALGÁS, por notificação escrita, ou ainda, na hipótese de insolvência ou falência do FORNECEDOR.
+3dos
+CARTA-CONTRATO N. * 087.2018
+Rev-06r as assin
+ 
+ALGÁS
+Gás de Alagoas SA.
+ 
+ 
+ 
+8. OBRIGAÇÕES DO FORNECEDOR:
+8.1. Caberá ao FORNECEDOR, dentre outras, o cumprimento das seguintes obrigações:
+| — Entregar o objeto deste contrato obedecendo às especificações e as quantidades ora previstas.
+|l — Programar entrega eficiente, sendo responsável por quaisquer atrasos resultantes de
+planejamento inadequado ou de deficiência de estoque.
+Ill — Acatar e facilitar a ação da fiscalização da ALGÁS e cumprindo as exigências da mesma;
+IV — Retirar os equipamentos recusados dos locais de entrega de forma imediata, a partir da data em
+que o FORNECEDOR for notificado sobre a recusa pelo servidor de Recebimento;
+V — Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações
+assumidas, todas as condições de habilitação e qualificação exigidas na Licitação;
+VI — Manter a ALGÁS, durante e após a vigência deste Contrato, à margem de quaisquer
+reivindicações dos seus empregados, assumindo a responsabilidade, por si e/ou sucessores, por
+quaisquer ônus que venham a ser-lhe imputados, em qualquer época, decorrentes de tais
+reivindicações ou reclamações.
+VII - Apresentar Certificado de Garantia dos equipamentos no ato da entrega do mesmo;
+VIII - Entregar o equipamento acompanhado de Manual de Uso em português;
+IX - Observar para transporte, seja ele de que tipo for, as normas adequadas relativas a embalagens,
+volumes, etc.
+X — Cumprir rigorosamente a legislação ambiental aplicável, além das diretrizes de proteção
+ambiental expressamente definidas neste instrumento e em seus anexos.
+8.2. Citado para se defender em processo judicial de terceiros, de natureza civil ou trabalhista,
+inclusive, mas não exclusivamente de empregado ou ex-empregado do FORNECEDOR, a ALGÁS fará
+o cálculo dos direitos pleiteados e, após dele notificar o FORNECEDOR, reterá o correspondente
+valor para fazer frente à eventual condenação, deduzindo-o de importâncias dos pagamentos
+futuros ou da garantia contratual.
+9. DA FISCALIZAÇÃO — Durante a vigência deste contrato, a execução do objeto será acompanhada e
+fiscalizada por Gestor designado pela ALGÁS, o qual terá, entre outras, as seguintes atribuições:
+expedir autorização de fornecimento; fiscalizar a execução do contrato quanto à qualidade e
+quantidade desejada; comunicar ao FORNECEDOR o descumprimento do contrato e indicar os
+procedimentos necessários ao seu correto cumprimento; solicitar a aplicação de sanções pelo
+descumprimento de cláusula contratual; fornecer atestados de capacidade técnica quando
+solicitado, desde que atendidas às obrigações contratuais; atestar as notas fiscais para efeito de
+pagamento; recusar e devolver os bens entregues em desconformidade contratual; solicitar
+reparação, correção, remoção, reconstrução ou substituição, no total ou em parte, dos bens
+recusados e devolvidos; notificar o FORNECEDOR para apresentar defesa administrativa no prazo
+legal antes da aplicação das sanções, salvo no caso da advertência, cuja aplicação será aplicada pelo
+gestor do contrato.
+10. INCIDÊNCIAS FISCAIS
+10.1 Os tributos (impostos, taxas, emolumentos fiscais e parafiscais) devidos em decorrência, direta
+ou indiretamente do presente Contrato ou de sua execução, serão da exclusiva responsabilidade do
+contribuinte, assim definido em norma tributária, sem direito a reembolso. A ALGÁS, nos casos em
+que a lei lhe enquadrar como fonte retentora, descontará e recolherá, dos pagamentos que efetuar,
+os tributos a que estiver obrigada pela legislação vigente.
+CARTA-CONTRATO N. * 0872018
+Rev-06
+nte por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e José Luiz Vieira. P4
+ 
+8
+3
+8
+o
+E
+S
+õ
+«
+NS
+õ
+8
+õ
+3
+o
+3
+3
+8
+&
+&
+o
+&
+s
+3
+ê
+E
+ê
+o
+sr as assin
+ 
+ALGÁS
+Gás de Alagoas SA.
+UE
+ 
+   
+ 
+11. DAS DISPOSIÇÕES GERAIS
+11.1. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento dos
+termos e condições deste contrato ou ao exercer qualquer prerrogativa dele decorrente, não
+constituirá renovação ou renúncia e nem afetará o direito das partes de exercê-lo a qualquer tempo.
+11.2. Quando assinado eletronicamente, mediante certificados digitais, o contrato considerar-se-á
+celebrado somente após a assinatura eletrônica de todos os representantes das partes com
+capacidade ou poderes de representação.
+12. DO FORO - Fica eleito o Foro da Comarca de Maceió/AL, que será o competente para dirimir as
+questões decorrentes deste Contrato, renunciando as partes a qualquer outro por mais privilegiado
+que seja.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maceió, de de20 .
+o
+<
+o
+=
+<
+F
+o
+o
+u
+& z
+E ELITE AUTOMAÇÃO COMERCIO E SERVIÇOS LTDA
+g 03.407.308/0001-44
+TESTEMUNHAS:
+1. NOME: 2. NOME:
+CPF: CPF:
+ 
+ 
+ 
+CARTA-CONTRATO N. * 087.2018
+Rev-06
+lho e José Luiz Vieira. P:
+  
+S
+S
+z
+S
+Õ
+2
+&
+5
+S
+X
+s
+<
+2
+S
+3
+a
+s
+à
+2
+ 
+8
+3
+8
+o
+E
+S
+õ
+«
+NS
+õ
+8
+õ
+3
+o
+3
+3
+8
+&
+&
+o
+&
+s
+3
+ê
+E
+ê
+o
+sQ o
+.(.,ooâ 7
+: FÓLHA 3
+cor
+NS
+?,mm CsSS
+Nº do TR: 047/2018
+Revisão: 00
+ 
+Aquisição de módulo de controle para mp.n.mmgmnmm,.
+do funcionamento dos climatizadores de ar do
+Datacenter
+Gustavo Nassar de Lima
+17/08/2018
+RECEBIDO EM:
+Q 7 MX
+Pal
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 6 de 17IAIrTTAE
+ 
+ALGÁS
+Góm de Alsgoas SA.
+ 
+TERMO DE REFERÊNCIA
+ 
+1. INFORMAÇÕES INICIAIS
+Setor: CSS
+Responsável: Gustavo Nassar de
+Cargo: Engenheiro
+Data Desejada para Recebimento dos Materi
+ 
+ 
+: 17/10/2018
+2. DO OBJETO
+O presente termo de referência tem por objeto a aquisição de 02 (dois) módulos de comando para a
+automação do funcionamento dos climatizadores de ar do Datacenter da ALGÁS e do ALGÁS
+CONFORTO, com o serviço de instalação dos módulos cujas condições de fornecimento e demais
+definições seguem descritas abaixo e em seus anexos.
+3. NECESSIDADE DA AQUISIÇÃO
+A aquisição acima se faz necessária para automatizar o funcionamento dos aparelhos de ar
+condicionado do Datacenter, de modo a prover o revezamento entre às máquinas existentes e fornecer
+dados para o controle e monitoramento remotos de toda a operação de climatização naquele setor.
+ 
+4, ESPECIFICAÇÃO DOS ITENS
+Os materiais/bens a serem adquiridos encontram-se especificados conforme aba
+ 
+Item 01 - Conjunto de módulos de controle para automação de aparelhos de ar condicionado - TIPO |
+Especificação: Sistema modulado de controle para O: ionado, através de
+sensores para detectar falhas de operação e controlar a temperatura, o controle deverá ser realizado
+através da alimentação da unidade interna (evaporadora), não interferindo na garantia do equipamento
+ou na instalação padrão do equipamento.
+  
+Modelos dos equipamentos a serem automatizados:
+Equipamento 01:
+* “Marca/Modelo: Electrolux TI30R
+* —Potênciade refrigeração: 30.000 BTU/h, 31.650Kj/h
+* Tensão/frequência nominal: 220V-60Hz
+ 
+Página 1 de 5
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 7 de 17ILITTARa E
+PUBLICA
+ALGÁS
+Equipamento 02:
+* “Marca/Modelo: ELGIN HEFILSB2IA
+* — Potênciade refrigeração: 18.000 BTU/h, 5274W
+* Tensão/frequência nominal: 220V-60Hz
+Equipamento 03:
+* “Marca/Modelo: ELGIN HEFI18B2IA
+* —Potênciade refrigeração: 18.000 BTU/h, 5274W
+* Tensão/frequência nominal: 220V*60Hz
+Características técnicas:
+* — Deve possuir sensores de corrente, para detectar falha no acionamento das unidades;
+* O sistema deverá ser dividido em módulos, sendo um módulo central que é o mestre que
+controla todo o sistema e os módulos escravos que fazem o acionamento e monitoramento das
+unidades evaporadoras. Esses módulos devem ser interligados ao módulo central com cabos de
+comando;
+* — Deve possuir a função que permita o rodízio de operação da unidade reserva à cada semana.
+controiador deve detectar o defeito e acionar a unidade reserva.
+* —“Quando ocorrer uma falha em uma unidade, o sistema deverá mostra no display a condição de
+alarme e bloquear a operação da unidade com defeito até que se faça o reset no controlador via
+comando no sistema.
+* —Deve possuir a função para caso seja detectado falha Beral nos equipamentos, ou seja, se as três
+unidades apresentem defeito, o sistema deverá resetar e imediatamente recolocar em operação
+o sistema novamente.
+unidades simultaneamente até que a temperatura atinja o valor definido.
+equipamento, assim como os limites de temperatura.
+até 5 (cinco) destinatários, em caso de falha no sistema.
+dados da Companhia, com notificação por e-mail, em caso de defeito detectado no sistema.
+Página 2 de 5
+ 
+Deve possuir a função de rodízio por falha, onde sistema fará o monitoramento contínuo do
+status do equipamento de ar condicionado, caso o equipamento, após receber o comando de
+ligar, não acione por motivos adversos, ou em operação o equipamento se desligue, o
+Deve possuir a função para, caso à temperatura suba acima do limite preestabelecido pela
+Companhia, a unidade reserva seja acionada sem desligar as operantes, atuando as três
+Deve possuir interface para que os modos de operação possam ser configurados diretamente no
+Deve possuir alarmes e possibilidade do envio dos alarmes via mensagem de voz e texto para
+Deve permitir o monitoramento remoto do status de operação do sistema através da rede de
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 8 de 17o
+É& FOLHA
+J
+ALGAS
+Item 02 — Conjunto de módulos de controle para automação de aparelhos de ar condicionado - TIPO |l
+Especificação: Sistema modulado de controle para 02 (dois) aparelhos de ar condicionado, através de
+sensores para detectar falhas de operação e controlar a temperatura, o controle deverá ser realizado
+através da alimentação da unidade interna (evaporadora), não interferindo na garantia do equipamento
+Oou na instalação padrão do equipamento.
+TTAA
+ÁWQ;J
+UNA
+ 
+ 
+Características técnicas:
+* — Deve possuirsensores de corrente, para detectar falha no acionamento das unidades;
+* O sistema deverá ser dividido em módulos, sendo um módulo central que é o mestre que
+controla todo o sistema e os módulos escravos que fazem o acionamento e monitoramento das
+unidades evaporadoras. Esses módulos devem ser interligados ao módulo central com cabos de
+comando;
+* —“Deve possuirafunção que permita o rodízio de operação da unidade reserva à cada semana.
+* — Deve possuir a função de rodízio por falha, onde sistema fará o monitoramento contínuo do
+status do equipamento de ar condicionado, caso o equipamento, após receber o comando de
+ligar, não acione por motivos adversos, ou em operação o equipamento se desligue, o
+controlador deve detectar o defeito e acionar a unidade reserva.
+* —“Quando ocorrer uma falha na unidade, o sistema deverá mostrar no display a condição de
+alarme e bloquear a operação da unidade com defeito até que se faça o reset no controlador via
+comando no sistema.
+ 
+* —Deve possuir a função para, caso seja detectado falha geral no equipamento, o sistema deverá
+fazer o auto reset, buscando colocar em operação o sistema novamente.
+* — Deve possuir a função para, caso a temperatura suba acima do limite preestabelecido pela
+Companhia, a unidade reserva seja acionada sem desligar a operante, atuando as duas unidades
+simultaneamente até que a temperatura atinja o valor definido.
+* — Deve possuir interface para que os modos de operação possam ser configurados diretamente no
+equipamento, assim como os |i es de temperatura.
+* —Deve possuir alarmes e possibilidade do envio dos alarmes via mensagem de voz e texto para
+até 5 (cinca) destinatários, em caso de falha no sistema.
+ 
+* — Deve permitir o monitoramento remoto do status de operação do sistema através da rede de
+dados da Companhia, com notificação por e-mail em caso de defeito detectado no sistema.
+Página 3 de 5
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 9 de 17ERASIA NEA
+P
+& FOes W fA
+ALGÁS x E
+ 
+Gasdo Alagoas SA.
+5. RELAÇÃO DE QUANTIDADES
+Segue abaixo a relação das quantidades dos itens a serem adquiridas:
+ 
+ 
+ 
+ 
+ 
+!
+Unidade — Quantidade
+ES : DENOMINAÇÃO DO ITEM e
+" Conjunto de módulos de controle para automação de aparelhos de f o
+ar condicionado — TIPO |
+”” Conjunto de módulos de controle para automação de aparelhos de tonfúnia o
+ar condicionado — TIPO 1l
+03 | Serviço de Instalação Uund o
+ 
+ 
+ 
+ 
+ 
+6. JUSTIFICATIVA DA ESCOLHA DO FORNECEDOR (apenas nos casos de inexigibilidade de licitação)
+ 
+7. PRAZOS DE GARANTIA
+Os bens adquiridos e o serviço de instalação destes devem possui garantia contra vícios e defeitos com
+prazo de 12 (doze) meses, contados a partir da instalação dos mesmos.
+8. PRAZOS DE ENTREGA
+Os bens adquiridos devem ser entregues e instalados na sede da ALGÁS no prazo máximo de 30 (trinta)
+dias, contados a partir do recebimento da respectiva Autorização de Fornecimento de Material - AFM.
+9. INDICAÇÃO DE MARCAS/MODELOS/FABRICANTES
+Não existe indicação de modelos/marcas/fabricantes para os materiais.
+10. CONDIÇÕES DE TRANSPORTE E ENTREGA
+A responsabilidade pelo transporte, frete, descarga ficarão por conta do fornecedor, ficando a ALGÁS
+isenta de qualquer custo ou responsabilidade.
+11. SERVIÇOS ACESSÓRIOS
+O conjunto de módulos adquiridos devem ser instalados na sede da ALGÁS, dentro do prazo
+estabelecido no Item 8 acima.
+Página 4 de 5
+Pági
+ 
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+E
+o
+a
+&
+|ILIAII SZE
+[QU:ADe
+ALGÁS
+Gásce Algoas SA
+ 
+12. ASSISTÊNCIA TÉCNICA
+Para os serviços de manutenção e conserto dentro do prazo de garantia dos bens adquiridos, e no caso
+de inexistir assistência autorizada do fabricante na cidade de Maceió/AL, os bens serão encaminhados
+para conserto ou manutenção pelos correios ou por transportadora, ficando os custos de frete, carga,
+descarga ou correios por conta do fornecedor. Nessa hipótese, a ALGÁS poderá descontar os seus custos
+dos eventuais pagamentos ainda pendentes.
+Os serviços de conserto em garantia deverão ser concluídos no prazo máximo de 30 dias, contados da
+entrada na assistência técnica e, caso este prazo seja ultrapassado, deverá o fornecedor substituir o
+produto defeituoso por outro novo.
+13. REQUISITO DE SAÚDE, MEIO AMBIENTE E SEGURANÇA
+O serviço será realizado mediante os seguintes requisitos:
+* —Aprovação dos documentos estabelecidos no Anexo |;
+* Realizaçãoda Análise Preliminar de Riscos — APR;
+* Emissãoda Permissão de Trabalho — PT;
+* Utilização dos EPI| básicos (Capacete de Segurança com jugular, Botas de Segurança,
+Protetor Auricular, Óculos de Segurança);
+* — Portar crachá de identificação à altura do tórax.
+  
+    
+  
+oWu
+14. REQUISITOS TÉCNICOS DOS MATERIAIS 5 SA
+!.orm
+Os módulos e o serviço de instalação a serem contratados não devem interferir na garantia dos
+con mnadores de ar instalados ou nos que vierem a ser instalados.
+ 
+15. ANEXOS
+Anexo | - Documentos SMS
+Maceió, 17 de agosto de 2018.
+ 
+Engenheiro
+Coordenação deWSuporte Administrativo e Serviços
+Página 5 de 5
+Pági
+ 
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+E
+a
+&
+|ALGÁS
+Gas do Alagans RA,
+ 
+DIRETRIZES DE SMS - SERVIÇOS
+ANEXO 1
+DOCUMENTOS DE SMS
+ 
+   
+EAA AN
+CORPORATIVA
+ 
+ 
+ 
+CSS TR 047-18 Aquisição de módulo de controle para automação do funcionamento dos
+climatizadores de ar do Datacenter
+ 
+ITEM DA DIRETRIZ
+ 
+ 
+ 
+ 
+ 
+ITEM DOCUMENTOS PRAZO DE ENTREGA
+á Até 30 dias após a assinatura do
+o1 REAA o DESSOS! DEIS NEIAMBNOS |.4 1 Contrato e 5 M.W antes do início
+de SMS a
+dos serviços
+Funcionários diretos do serviço: é ,
+- M.Mohwuonmo Saúde oncom%on:a_ s ED OESAADS E ma«_..m:..:w “._n
+o2 ASO; 4.13;:416 Contrato e 5 dias antes do início
+- Ficha de entrega de EP! te
+Certificado de Treinamento dos Até 30 dias após a assinatura do
+os trabalhadores autorizados a intervir 423 Contrato e 5 dias antes do início
+em instatações elétricas (NR-10) dos serviços
+Certificado de Treinamento dos Até 30 dias após a assinatura do
+o4 trabalhadores autorizados a atuarem |4.2.10 Contrato e 5 dias antes do início
+altura (NR-35) dos serviços
+Declaração de Conformidade Até 30 dias após a assinatura do |
+os5 Funcional de Equipamentos, 42.4:42.11;4,2,12; Contrato e 5 dias antes d
+Ferramentas, Máquinas e Veiculos 4213 dos serviços, e no 1º dia
+la ) (Anexo 8) cada mês
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 12 de 17LOGOMARCA DA DIRETRIZES DE SMS — SERVI
+EMPRESA ./mrw & 8
+CONTRATADA SEGURANÇA, MEIO AMBIENTE E SAUDE-T—
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARAÇÃO DE CONFORMIDADE FUNCIONAL DE
+EQUIPAMENTOS, FERRAMENTAS, MÁQUINAS E VEÍCULOS
+CONTRATO: / MÊS: Á
+ 
+DECLARO PARA OS DEVIDOS FINS QUE OS EQUIPAMENTOS, FERRAMENTAS,
+MÁQUINAS E VEÍCULOS ALOCADOS PARA OS SERVIÇOS DESTE CONTRATO ESTÃO EM
+PERFEITAS CONDIÇÕES DE FUNCIONAMENTO E DE SEGURANÇA PARA A UTILIZAÇÃO
+A QUE SE DESTINAM, SEM QUE POSSAM COMPROMETER O BOM ANDAMENTO DOS
+SERVIÇOS E A VIDA DOS COLABORADORES ENVOLVIDOS.
+ESTOU CIENTE DE QUE PODERÃO SER AFASTADOS DOS RESPECTIVOS
+SERVIÇOS, EM DECORRÊNCIA DE IRREGULARIDADES OU CONDIÇÕES INSEGURAS
+IDENTIFICADAS PELA FISCALIZIÇÃO DA ALGÁS, DEVENDO ATENDER ÀS
+RECOMENDAÇÕES E SUBMETER AOS REPAROS NECESSÁRIOS AO PLENO
+RESTABELECIMENTO DAS CONDIÇÕES FUNCIONAIS.
+ 
+ 
+GESTOR DO CONTRATO
+EMPRESA CONTRATADA
+ 
+ 
+ 
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Página 13 de 17Elite ACS
+MONITORAMENTO INTEGRADO
+Automação de ar
+condicionado.
+Proposta comercial
+ 
+ALGÁS
+Gás de Alanoas SA.
+Cliente:
+ umento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+ 
+Rua Dolores Cretti, 29 — Vila Cretti — Barueri — SP
+CEP 06.404-110 — Tel (11) 42018800
+comercial&eliteacs.com.br — http://www.eliteacs.com.br
+Este d
+Página 14 de 17Elite ACS
+MONITORAMENTO INTEGRADO
+Proposta:23082018/1 revisão 1
+Data: 18/10/2018
+Solicitante: Eng. Gustavo Nassar de Lima
+Referência: Proposta de fornecimento de sistema de automação para ar condicionado.
+Proposta técnica:
+ 
+Conforme solicitado, segue nossa proposta comercial para o fornecimento
+produtos e serviços para a automação de ar condicionado.
+1.0 Objetivo:
+Fornecimento e instalação de sistema de automação de ar condicionado para os
+ambientes:
+Datacenter:
+03 equipamentos de ar condicionado tipo split
+Escritório:
+02 equipamentos de ar condicionado tipo spl
+ 
+2.0 Características:
+O datacenter é um ambiente de missão crítica, logo o sistema de automação desse
+ambiente tem características especialmente desenvolvidas para esse fim como:
+Toda a operação é realizada por um CLP de última geração, com display e teclado
+incorporado.
+Rodízio de operação dos equipamentos por tempos determinados no sistema;
+Acionamento simultâneo em caso de alta temperatura;
+Acionamento da unidade reserva em caso de falha na unidade operante;
+Status da operação é realizado via sensores de corrente para detectar falha no
+acionamento das unidades.
+O equipamento utilizado para esse fim será totalmente ethernet e programado
+rede ethernet, ligado a um discador GSM com alertas por SMS e E-mail.
+A programação horária para ligar e desligar pode assumir horários diferentes de
+acordo com o dia da semana.
+Uma chave manual permitirá fazer o acionamento manual das unidades caso
+necessário.
+ 
+ 
+Todos os sistemas serão instalados em painéis elétricos separados
+3.0 Escopo:
+Fornecimento e instalação de dois sistemas de automação sendo um para o controle
+de automação do ar condicionado split instalados no datacenter conforme as características
+acima e outro para controle horário das 2 unidades de ar condicionado do escritório.
+Rua Dolores Cretti, 29 — Vila Cretti — Barueri — SP
+CEP 06.404-110 — Tel (11) 42018800
+comercial&eliteacs.com.br — http://www.eliteacs.com.br
+ssinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin.
+ 
+s
+o
+õ
+3
+<
+N
+8
+õ
+o
+o
+E
+E
+g
+o
+ê
+2
+<
+&
+2
+A
+&
+o
+e
+K
+x
+õ
+a
+S
+g
+2
+2
+2
+Este d
+Página 15 de 17Elite ACS
+MONITORAMENTO INTEGRADO
+ 
+A instalação será realizada por equipe espe
+profissionalismo.
+Serão utilizados eletrodutos galvanizados para a infraestrutura de cabeamento
+suportados por abraçadeiras.
+Os cabos utilizados serão do tipo anti chama nas bitolas recomendadas de acordo
+com as normas nacionais e internacionais.
+O painel elétrico do datacenter será instalado dentro do ambiente para faci
+acesso e visualização.
+O painel de automação de programação horária será instalado na sala de maquinas
+de ar condicionado.
+A ligação entre andares será realizada via shaft existente.
+Não prevemos a passagem de infraestrutura externa ao prédio ou furos em lajes.
+Os sistemas não irão interferir nos controles dos equipamentos efetuando apenas o
+acionamento / desligamento das unidades através de seus comandos.
+zada com total segurança e
+ 
+ 
+ 
+ 
+aro
+Proposta Comercial:
+ 
+Visando atender a especificação técnica acima, apresentamos nossa proposta
+comercial para os fornecimentos:
+Estamos considerando o fornecimento de materi
+individual de acordo com os locais acima descritos.
+A instalação deverá ser realizada em horário comercial salvo instrução contrária
+em comum acordo e o cliente deverá providenciar acesso aos colaboradores para que possam
+realizar suas tarefas.
+Os acessos aos ambientes deverão ser garantidos pelo cliente em data e hora
+programada anteriormente devido à distância das localidades e os custos de mobilização.
+O cliente deverá fornecer ponto de alimentação elétrica para os equipamentos e
+ponto de rede para o módulo de programação horária.
+ 
+s e instalação de forma
+ 
+ 
+Proposta de produto:
+ 
+ 
+ 
+ltem | Qt | Descrição UN | Valor Sub total
+Unitário
+ 
+o1 1 | Kit de Módulo de Controle para 3 Máquinas com | KIT | R$7.798,00 | R$7.798,00
+Ethernet e GSM ( Opcional )
+ 
+o2 1 | Kit de Módulo de Controle para 2 Máquinas com | KIT | R$7.160,00 | R$7.160,00
+Ethernet e GSM (Opcional)
+ 
+o3 1 |Instalação dos sistemas de automação de ar|MO | R$9.000,00 | R$9.000,00
+condicionado (Transporte, hospedagem,
+alimentação )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total R$ 23.958,00
+ 
+ 
+Rua Dolores Cretti, 29 — Vila Cretti — Barueri — SP
+CEP 06.404-110 — Tel (11) 42018800
+comercial&eliteacs.com.br — http://www.eliteacs.com.br
+ssinado digitalmente por Luciano Kulka Ribas, Arnobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin.
+ 
+s
+o
+õ
+3
+<
+N
+8
+õ
+o
+o
+E
+E
+g
+o
+ê
+2
+<
+&
+2
+A
+&
+o
+e
+K
+x
+õ
+a
+S
+g
+2
+2
+2
+Este d
+Página 16 de 17Elite ACS
+MONITORAMENTO INTEGRADO
+Garantia: 1 ano para os produtos e 1 ano para serviços.
+Impostos: Inclusos
+Frete: CIF.
+Forma de pagamento: 100 % em 30 DDL.
+Prazo de entrega: Materiais 15 dias úteis.
+Mão de obra: Conforme programação de instalação a ser discutida.
+ 
+Vendas Técnicas
+Rua Dolores Cretti, 29 — Vila Cretti — Barueri — SP
+CEP 06.404-110 — Tel (11) 42018800
+comercial&eliteacs.com.br — http://www.eliteacs.com.br
+ 
+ umento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Luciano Kulka Ribas, Amobio Cavalcanti Filho e José Luiz Vieira. Para verificar as assin
+Este d
+Página 17 de 17PROTOCOLO DE ASSINATURA(S)
+O documento acima foi proposto para assinatura digital na plataforma Portal de Assinaturas Certisign.
+Para verificar as assinaturas clique no link: https://portaldeassinaturas.com.br/Verificar/8461-1C22-F911-
+A2A7 ou vá até o site https://portaldeassinaturas.com.br/Verificar/ e utilize o código abaixo para verificar se
+este documento é válido.
+Código para verificação: 8461-1C22-F911-A2A7
+Hash do Documento
+AE3S5282FA2C2A913E7B58C6O6S49D226E5SOFB51638844A69508983148458DC15
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 01/11/2018 é(são) :
+& Luciano Kulka Ribas (Diretor Administrativo e Financeiro - Gás de
+Alagoas S/A) - 022.426.849-06 em 25/10/2018 16:58 UTC-03:00
+Tipo: Certificado Digital
+& Arnobio Cavalcanti Filho (Diretor Presidente - Gás de Alagoas
+S/A) - 308.202.354-15 em 26/10/2018 12:15 UTC-03:00
+Tipo: Certificado Digital
+& José Luiz Vieira (ELITE AUTOMAÇÃO COMÉRCIO E SERVIÇOS
+LTDA) - 213.946.638-11 em 31/10/2018 15:14 UTC-03:00
+Tipo: Certificado Digital - ELITE AUTOMACAO COMERCIO E
+SERVICOS LTDA ME - 03.407.308/0001-44
+O(s) nome(s) indicado(s) para autorizar, bem como seu(s) status em 01/11/2018 é(são) :
+& Gledson Souza Santos - 045.629.784-73 em 25/10/2018 16:34
+UTC-03:00

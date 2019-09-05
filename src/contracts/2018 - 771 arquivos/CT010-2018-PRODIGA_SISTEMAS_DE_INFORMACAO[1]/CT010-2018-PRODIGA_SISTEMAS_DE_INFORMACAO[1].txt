@@ -1,0 +1,4122 @@
+WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ 
+  
+  
+  
+  
+  
+CONTRATO Nº 010.2018 QUE ENTRE
+SI CELEBRAM GÁS DE ALAGOAS S.A -
+ALGÁS E PRÓDIGA SISTEMAS DE
+INFORMAÇÃO LTDA.
+Pelo presente instrumento particular, a GÁS DE ALAGOAS S/A - ALGÁS, com sede na
+Rua Artur Vital da Silva, n.º O4, Bairro Gruta de Lourdes, Maceió/AL, inscrita no
+CNPJ/MF sob o n.º 69.983.484/0001-32, doravante denominada ALGÁS, representada
+neste ato pelos seus diretores que esta subscrevem, na forma do seu Estatuto Social, e
+a Sociedade Empresária PRÓDIGA SISTEMAS DE INFORMAÇÃO LTDA, estabelecida
+na Rua Roque Barbosa Lima, 73 — Vila Paulo Silas — São Paulo/SP — CEP 03.264-040,
+inscrita no CNPJ/MF sob o n.º 67.666.461/0001-79, doravante denominada
+CONTRATADO, neste ato representada por JOELMA GONÇALVES FERNANDES,
+celebram o presente CONTRATO, oriundo de licitação na modalidade LICITAÇÃO n.º
+017.2017 segundo as CLÁUSULAS E CONDIÇÕES abaixo dispostas:
+CLÁUSULA PRIMEIRA - DAS DISPOSIÇÕES INICIAIS
+1.1. Este Contrato decorre de LICITAÇÃO, nos termos e condições do Edital Nº.
+017.2017, cujo objeto foi adjudicado ao licitante vencedor em 16.03.2018 e o resultado
+homologado pelo Diretor Presidente da ALGÁS em 08/05/2018.
+CLÁUSULA SEGUNDA - OBJETO
+2.1. O contrato tem como objeto a contratação de serviços técnicos profissionais
+especializados em informática para desenvolvimento, implantação e manutenção
+do sistema GGÁS (Sistema de Gestão Comercial de Gás Natural), pelo prazo de 24
+(vinte e quatro) meses, conforme Memorial Descritivo do ANEXO Q4.
+CLÁUSULA TERCEIRA - DO PREÇO
+3.1 - O valor do presente Contrato é de R$ 781.062,16 (setecentos e oitenta e um mil,
+sessenta e dois reais e dezesseis centavos), a preços referenciados ao dia 16 de
+março de 2018, data da apresentação da proposta.
+3.2. Os preços dos serviços contratados são os constantes da proposta escrita do
+CONTRATADO, sendo parte integrante do presente instrumento contratual.
+3.3. A cada período de 12 (doze) meses, contados da data limite da apresentação da
+proposta durante a fase de licitação, será permitido o reajuste dos preços unitários
+1de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+contratados, conforme a variação do IGP-M no período, o que se dará mediante
+simples apostila.
+CLÁUSULA QUARTA - DO PAGAMENTO
+4.1. O pagamento será efetuado mediante apresentação à ALGÁS de Faturas, Notas
+Fiscais e Recibos, em 02 (duas) vias, expressas em Reais, constando nos seus
+anversos o número do Contrato firmado, correspondente ao fornecimento.
+4.1.1. Toda a documentação apresentada será conferida e atestada pelo Gestor do
+Contrato designado pela ALGÁS, e encaminhada posteriormente para processamento
+e posterior pagamento.
+4.2. Os documentos de cobrança deverão ser apresentados para pagamento no
+escritório da ALGÁS, localizado na Rua Artur Vital da Silva, nº 04, Gruta de Lourdes,
+Cidade de Maceió, Estado de Alagoas, ou em outro local por ela indicado, emitindo
+separadamente, Nota Fiscal dos serviços e de eventual reajuste, entre os dias 01 e 03
+do mês posterior ao do período de medição mensal. O descumprimento desse prazo
+acarretará a postergação do pagamento conforme cronograma abaixo:
+ 
+ 
+ 
+ 
+z PROTOCOLO NA ALGÁS
+EMISSÃO (NÚCLEO FINANCEIRO) PAGAMENTO
+ENTRE OS DIAS ATÉ O DIA NO DIA
+01 — 03 03 11
+04 - 18 18 26
+ 
+ 
+ 
+Obs 1: Em função de adequação do trâmite de documentos ao calendário
+tributário, a ALGÁS não aceitará nenhum tipo de documento de cobrança com
+emissão após o dia 18.
+Obs 2: Caso o dia de pagamento recaia em dia não útil, o mesmo será efetuado
+no próximo dia útil.
+ 
+ 
+ 
+4.3. O pagamento será efetuado pela ALGÁS mediante ordem bancária creditada em
+conta corrente do CONTRATADO, Banco do Brasil — agência 1686-1, conta corrente
+15044-4.
+4.4. As faturas pagas em atraso serão atualizadas pela variação do IGP-M, calculando-
+se o período compreendido entre a data do inadimplemento e a data do efetivo
+pagamento. As partes acordam que sobre as faturas em atraso, incidirão juros de mora
+de 0,5% (cinco décimos por cento) ao mês, devidos a partir da citação válida.
+4.5. Havendo erro na Nota Fiscal/Fatura ou circunstância que impeça o pagamento da
+despesa, aquela será devolvida pelo Fiscal ao CONTRATADO e o pagamento ficará
+2de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+zWPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+pendente até que a mesma providencie as medidas saneadoras. Nesta hipótese, o
+prazo para pagamento iniciar-se-á após a regularização da situação ou reapresentação
+do documento fiscal, não acarretando qualquer ônus para a ALGÁS.
+4.,6. A ALGÁS poderá deduzir dos pagamentos a serem efetuados, quaisquer quantias
+que, a qualquer título, sejam devidas pelo CONTRATADO. Este direito de retenção e
+compensação, exercido pela ALGÁS, ocorrerá nos casos de violação aos termos do
+instrumento convocatório e do presente Contrato.
+ino Kulka Ribas
+   
+4.7. Citado para se defender em processo judicial de terceiros, de natureza civil ou
+trabalhista, inclusive, mas não exclusivamente de empregado ou ex-empregado do
+CONTRATADO, a ALGÁS fará o cálculo dos direitos pleiteados e, após dele notificar o
+CONTRATADO, reterá o correspondente valor para fazer frente a eventual
+condenação, deduzindo-o de importâncias devidas ao CONTRATADO.
+4.7.1. O valor será restituído ao CONTRATADO somente após a prova cabal do acerto
+definitivo entre o CONTRATADO e o terceiro litigante, quando restar demonstrada a
+inexistência de qualquer risco de condenação para a ALGÁS.
+4.7.2. O CONTRATADO se obriga a exibir à ALGÁS, sempre que solicitada, os
+documentos comprobatórios do efetivo cumprimento das obrigações referentes ao
+processo judicial mencionado neste item.
+4.7.3. O valor a que faz referência este item não renderá juros ou correção monetária, o
+qual poderá ser substituído, a pedido do CONTRATADO, por outra modalidade de
+garantia que, a critério da ALGÁS, for considerada idônea.
+CLÁUSULA QUINTA — DA GARANTIA — NÃO APLICÁVEL
+CLÁUSULA SEXTA - DA VIGÊNCIA
+6.1. O prazo de vigência deste contrato é de 24 (vinte e quatro) meses contados a
+partir da emissão da primeira Autorização de Serviço (AS) pela ALGÁS, podendo ser
+prorrogado caso haja dilação do prazo de execução, conforme item 6.2 desta cláusula;
+6.2. O prazo de execução dos serviços é de 24 (vinte e quatro) meses, devendo ser
+executado de acordo com o descrito no ANEXO Q4 — Memorial Descritivo, podendo ser
+prorrogado nos termos do art. 71 da Lei Federal nº 13.303/16.
+6.3 No seu exclusivo interesse, a ALGÁS poderá emitir tantas Ordens de Serviço de
+paralisação e de reinício quantas se façam necessárias para o bom desenvolvimento
+dos serviços.
+3de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+AB6-0117-59]WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+6.4. Serão acrescidos ao referido prazo os dias de paralisação do serviço por causas
+que independam da vontade ou do controle do CONTRATADO, isto é, por motivos de
+comprovada força maior ou caso fortuito, verificados e aceitos pela ALGÁS.
+6.5. O prazo de execução dos serviços é de 24 (vinte e quatro) meses, devendo ser
+executados de acordo com o descrito no Projeto Executivo e Cronograma, podendo ser
+prorrogado nos termos da Lei Federal nº 13.303/16 e suas alterações, mediante a
+celebração de Termo de Aditamento, após Parecer emitido pela Assessoria Jurídica
+ino Kulka Ribas
+   
+6.6. A prorrogação de prazos deste contrato será efetuada mediante Termo de
+Aditamento, após Parecer emitido pela Assessoria Jurídica da ALGÁS.
+6.7. A publicação resumida do instrumento de contrato na imprensa oficial, que é
+condição indispensável para a sua eficácia, será providenciada pela ALGÁS até o
+quinto dia útil do mês seguinte ao da assinatura, para ocorrer no prazo de vinte dias
+daquela data.
+CLÁUSULA SÉTIMA - DOS RECURSOS ORÇAMENTÁRIOS
+7.1. Os recursos financeiros necessários aos pagamentos da execução dos serviços
+estão devidamente equacionados e assegurados especificamente no orçamento do
+exercício de 2018/2019, nas Rubricas de Software/Investimento e Suporte Tecnologia
+da Informação/ Despesas.
+CLÁUSULA OITAVA - DAS OBRIGAÇÕES DO CONTRATADO
+1. O CONTRATADO obriga-se a:
+a) Responder pelos serviços relacionados na Cláusula Primeira deste Contrato,
+realizando as tarefas especificadas no ANEXO Q4 — MEMORIAL DESCRITIVO, do
+Edital da LICITAÇÃO n.º 017.2017, que deu origem a este contrato;
+b) Executar diretamente o objeto deste Contrato, sem transferência de
+responsabilidades ou subcontratações não autorizadas pela ALGÁS;
+c) Respeitar normas e procedimentos de controle interno, inclusive de acesso às
+dependências da ALGÁS;
+d) Responder pelos danos causados diretamente à ALGÁS, ou ainda a terceiros,
+durante a execução deste contrato, não excluindo ou reduzindo essa
+responsabilidade a fiscalização ou o acompanhamento feito pela ALGÁS;
+e) Comunicar à ALGÁS qualquer anormalidade constatada e prestar os
+esclarecimentos solicitados;
+f) Manter, durante toda a execução deste contrato, em compatibilidade com as
+4de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+AB6-0117-59]TIXIDINTIO)
+WPmEANos BI.
+obrigações por ela assumidas, todas as condições de habilitação e qualificação
+exigidas na licitação;
+ 
+ALGÁS
+Gás de Alagoas SA
+ 
+  
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+g) Arcar com as despesas decorrentes de qualquer infração cometida por seus
+empregados quando da execução do objeto contratado;
+h) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou <
+em parte, os serviços recusados e devolvidos pela ALGÁS, sem que caiba
+qualquer acréscimo no preço contratado;
+i) Executar, às suas expensas, os serviços objeto deste Contrato a partir da ciência
+da autorização do serviço;
+j) Comunicar à ALGÁS os motivos que impossibilitaram o cumprimento dos prazos
+previstos neste contrato.
+k) Manter preposto, aceito pela ALGÁS, durante o período de vigência deste contrato,
+para representa-la sempre que for necessário.
+|) Assumir a responsabilidade em relação aos seus funcionários, que não manterão
+qualquer vínculo empregatício com a ALGÁS, todas as despesas decorrentes da
+execução deste contrato e outras correlatas, tais como salários, seguros de
+acidentes, tributos, inclusive encargos previdenciários e obrigações sociais
+previstos na legislação social e trabalhista em vigor, indenizações, vales-refeições,
+vales-transportes e outras que porventura venham a ser criadas e exigidas pelo
+Poder Público;
+m) Responsabilizar-se por todos os encargos de possível demanda trabalhista, civil ou :
+penal relacionada à execução deste contrato, originariamente ou vinculada por
+prevenção, conexão ou continência, bem como os encargos fiscais e comerciais
+resultantes desta contratação.
+8.1.1. A inadimplência do CONTRATADO, com referência aos encargos estabelecidos
+na alínea m do item 8.1, não transfere a responsabilidade por seu pagamento à
+ALGÁS, nem pode onerar o objeto deste contrato, razão pela qual o CONTRATADO
+renuncia expressamente a qualquer vínculo de solidariedade, ativa ou passiva, com a
+ALGÁS.
+CLÁUSULA NONA - DAS OBRIGAÇÕES DO CONTRATANTE
+9.1 AÀ ALGÁS obriga-se a:
+a) Utilizar-se dos serviços do CONTRATADO somente nos limites que o objeto do
+contrato permitir;
+T
+5de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 5 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+b) Efetuar pagamento ao CONTRATADO de acordo com o estabelecido neste
+contrato;
+ 
+c)  Acompanhar e fiscalizar a prestação dos serviços;
+a
+d)  Proporcionar todas as facilidades para que o CONTRATADO possa executar seus
+serviços dentro do estabelecido neste contrato;
+      
+e)  Permitiro acesso do representante e empregados do CONTRATADO ao local de
+prestação dos serviços, desde que devidamente identificados;
+) Disponibilizar local para a guarda dos pertences pessoais do empregado
+envolvido na prestação dos serviços objeto do presente contrato;
+g) Aplicar ao CONTRATADO as sanções cabíveis;
+h) Documentar as ocorrências havidas na execução do contrato;
+AB6-0117-59]
+CLAUSULA DÉCIMA — DAS SANÇÕES ADMINISTRATIVAS
+10.1. O(s) licitante(s) ou contratado que, por qualquer forma, não cumprir(em) as
+normas de licitação ou dos contratos celebrados está(ão) sujeita(s) às seguintes
+sanções, assegurado o contraditório e ampla defesa:
+a) advertência;
+b) multa;
+c) suspensão temporária de participação em licitação e impedimento de contratar com
+ALGÁS;
+10.1.1. A sanção previstas na alínea c do item anterior poderá ser aplicada às
+empresas ou aos profissionais que, em razão dos contratos regidos pela Lei Federal nº.
+13.303/2016:
+a) tenham sofrido condenação definitiva por praticarem, por meio dolosos, fraude fiscal
+no recolhimento de quaisquer tributos;
+b) tenham praticado atos ilícitos, visando frustrar os objetivos da licitação; e
+c) demonstrarem não possuir idoneidade para contratar com a Administração Direta,
+Autárquica e Fundacional, as Empresas Públicas e Sociedades de Economia Mista e
+6de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017TIXIDINTIO)
+WPmEANos BI.
+demais entidades controladas direta ou indiretamente pelo Estado de Alagoas, em
+virtude de atos ilícitos praticados.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+ 
+ 
+  
+    
+   
+   
+  
+ 
+  
+ 
+ 
+10.1.2. As sanções previstas nas alíneas a e c do item 10.1 deste Edital poderão ser
+aplicadas juntamente com a sanção de multa, facultada a defesa prévia da interessada, õ
+no respectivo processo, no prazo de 5 (cinco) dias úteis.
+10.2. A advertência consiste em repreensão por escrito imposta pelo não cumprimento
+das normas de licitação ou dos contratos celebrados.
+10.3. A multa aplicável será de:
+a) 0,33% (trinta e três centésimos por cento) por dia, pelo atraso, na execução de
+serviços, calculado sobre o valor correspondente à parte inadimplente, até o limite de
+9,9%, correspondentes a até 30 (trinta) dias de atraso;
+b) 0,66 % (sessenta e seis centésimos por cento) por dia, pelo atraso na execução de
+serviços, calculado, desde o primeiro dia de atraso, sobre o valor correspondente à
+parte inadimplente, em caráter excepcional e a critério da ALGÁS, quando o atraso
+ultrapassar 30 (trinta) dias;
+c) 5% (cinco por cento) por descumprimento do prazo de execução do serviço,
+calculados sobre o valor total do contrato, sem prejuízo da aplicação das multas “
+previstas nas alíneas a e b deste item;
+d) 15% (quinze por cento) pela recusa injustificada em assinar o contrato ou retirar o
+instrumento equivalente no prazo estabelecido, em concluir o serviço, calculados sobre
+o valor correspondente à parte inadimplente;
+e) 15% (quinze por cento) pela rescisão da avença, calculados sobre o valor total do
+contrato;
+f) 20% (vinte por cento) pelo não cumprimento de qualquer cláusula do contrato, exceto
+quanto ao prazo de entrega, calculados sobre o valor total do contrato;
+10.3.1. A multa apenas será executada após regular processo administrativo, facultada
+a defesa prévia da licitante ou contratada, no prazo de 10 (dez) dias úteis, a contar do
+recebimento da notificação.
+10.3.2. Se a multa aplicada for superior ao valor da garantia prestada, além da perda
+desta, responderá a licitante ou contratada pela sua diferença, devidamente atualizada
+T
+7de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 7 de 79TIXIDINTIO)
+WPmEANos BI.
+pelo Índice Geral de Preços - Mercado (IGP-M) ou equivalente, a qual será descontada
+dos pagamentos eventualmente a ela devidos ou cobrada judicialmente.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+   
+ 
+   
+   
+   
+  
+   
+  
+  
+  
+10.3.3. O atraso, para efeito de cálculo de multa, será contado em dias corridos, a partir
+do dia seguinte ao do vencimento do prazo de entrega de material ou execução de
+serviços, se dia de expediente normal no órgão ou entidade interessada, ou do primeiro
+dia útil seguinte.
+10.4. A multa prevista na alínea e do item 10.3 não será aplica nas hipóteses de
+rescisão contratual que não ensejem sanções.
+10.5. A multa poderá ser aplicada juntamente com outras sanções segundo a natureza
+e a gravidade da falta cometida, desde que observado o princípio da proporcionalidade.
+10.6. Decorridos 30 (trinta) dias de atraso injustificado na execução de serviços, o
+contrato poderá ser rescindido, a critério da ALGÁS, sem prejuízo das multas cabíveis.
+10.7. A suspensão e o impedimento são sanções administrativas que temporariamente
+obstam a participação em licitação e a contratação com a ALGÁS, sendo aplicadas nos
+seguintes prazos e hipóteses:
+a) por até 30 (trinta) dias, quando, vencido o prazo da Advertência, a contratada
+permanecer inadimplente; Ú
+b) por até 90 (noventa) dias, quando a contratada deixar de entregar, no prazo
+estabelecido no Edital, os documentos exigidos, quer, via fax ou Internet, de forma
+provisória, quer, em original ou cópia autenticada, de forma definitiva;
+c) por até 12 (doze) meses, quando a contratada ensejar o retardamento da execução
+do certame, não mantiver a proposta, falhar ou fraudar na execução do contrato,
+comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude fiscal; e
+d) por até 24 (vinte e quatro) meses, quando a contratada: apresentar documentos
+fraudulentos, adulterados ou falsificados nas licitações, objetivando obter, para si ou
+para outrem, vantagem indevida; praticar atos ilegais ou imorais visando frustrar os
+objetivos da licitação ou da contratação; ou for multada, e não efetuar o pagamento.
+CLÁUSULA DÉCIMA PRIMEIRA - DA RESCISÃO
+11.1. A inexecução total ou parcial do Contrato pelo CONTRATADO ensejará sua
+rescisão pela ALGÁS, com as consequências previstas neste Contrato e na legislação
+que rege Administração Pública e seus contratos.
+T
+8de79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 8 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+11.2 Considera-se em mora o CONTRATADO, pelo simples descumprimento das
+obrigações assumidas neste contrato, independentemente de qualquer interpelação º
+judicial ou extrajudicial.
+11.3. Este contrato poderá ser rescindido:
+ino Kulka Ribas
+   
+a) amigavelmente, por acordo entre as partes, reduzido a termo no processo de
+licitação, desde que haja conveniência para a ALGÁS; e
+b) judicialmente, nos termos da legislação vigente sobre a matéria;
+c) unilateramente pela ALGÁS, quando o CONTRATADO, após notificação,
+permanecer inadimplente por pelo menos 30 (trinta) dias.
+11.4. A rescisão deste contrato implicará retenção de créditos decorrentes da
+contratação, até o limite dos prejuízos causados à ALGÁS, bem como na
+assunção dos serviços pela ALGÁS na forma que a mesma determinar.
+CLÁUSULA DÉCIMA TERCEIRA - GERENCIAMENTO E FISCALIZAÇÃO DOS
+SERVIÇOS
+13.1. A ALGÁS exercerá a ampla, irrestrita e permanente fiscalização relativamente ao
+objeto deste contrato, obrigando-se a ALGÁS a facilitar o pleno desempenho das
+atribuições dos técnicos do CONTRATADO.
+13.2. O Gestor do Contrato e respectivos fiscais serão designados por meio de
+documento específico emitido pela ALGÁS.
+13.3. A FISCALIZAÇÃO terá os mais amplos poderes, especificados no CONTRATO e
+em especial para:
+a) Dirimir dúvidas encontradas em procedimentos ou especificações;
+b) Solicitar do CONTRATADO todas as informações e esclarecimentos necessários ao
+perfeito conhecimento, monitoramento, supervisão e controle dos serviços;
+c) Promover a efetivação de modificações ou alterações propostas pelo
+CONTRATADO e aceitas pela ALGÁS;
+d) Ordenar, correndo por conta exclusiva do CONTRATADO quaisquer ônus
+trabalhistas ou outras despesas, a imediata substituição de empregado do
+9de7o
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+AB6-0117-59]WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+CONTRATADO que embaraçar ou dificultar sua ação fiscalizadora, ou cuja habilitação
+e experiência profissional julgar inadequadas para o exercício da função ou que
+execute serviço que a fiscalização repute de rendimento e qualidade não satisfatórios;
+ 
+e) Recusar serviço que não tenha sido executado de acordo com os procedimentos
+elou especificações;
+     
+ 
+f) Sustar, desde que lhe venha ao conhecimento e esteja dentro de sua competência,
+qualquer serviço executado em desacordo com os procedimentos estabelecidos,
+especificações ou com a boa técnica, ou ainda que atente contra a segurança do
+pessoal ou bens da ALGÁS e/ou de terceiros;
+g) Determinar a prioridade de serviços e controle das suas condições de execução e
+solucionar quaisquer casos concernentes a esses mesmos assuntos;
+h) Autorizar a retirada de máquinas, equipamentos e materiais do CONTRATADO,
+desde que essa medida não acarrete prejuízo ao bom andamento dos serviços;
+AB6-0117-59]
+i) Verificar o tempo despendido pelo pessoal e equipamentos na execução dos serviços
+e exigir do CONTRATADO a exibição de todos os documentos, dados e registros que
+julgar necessários, bem como as informações completas relativas ao assunto;
+j) Ordenar que sejam refeitos os serviços executados, se suspeitar da existência de
+vícios ocultos, correndo por conta do CONTRATADO os custos da recomposição, caso
+os defeitos sejam comprovados.
+13.4. A ação ou omissão, total ou parcial, da fiscalização não exime o CONTRATADO
+da total responsabilidade pela execução dos serviços contratados.
+13.5. No caso da inobservância, pelo CONTRATADO, das exigências da fiscalização,
+terá esta, além do direito de aplicação das sanções previstas no Contrato, também o de
+suspender a execução dos serviços contratados e sustar o pagamento de quaisquer
+documentos de cobrança.
+CLÁUSULA DÉCIMA QUARTA - DA RESPONSABILIDADE CIVIL
+14.1. Qualquer dano físico ou material ocasionado a terceiros, por ocasião da execução
+dos serviços, objeto deste instrumento, é de inteira responsabilidade do
+CONTRATADO, nos termos do Novo Código Civil.
+CLÁUSULA DÉCIMA QUINTA —DA VINCULAÇÃO AO EDITAL E À PROPOSTA
+ 
+e
+10 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 10 de 79TIXIDINTIO)
+WPmEANos BI.
+15.1. O presente contrato vincula-se aos termos do Processo nº 400.2017,
+especialmente:
+ 
+ALGÁS
+Gás de Alagoas SA
+  
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+a) Ao Edital de LICITAÇÃO n.º 017.2017, bem como seus anexos;
+b) Proposta do CONTRATADO;
+CLÁUSULA DÉCIMA QUINTA - DAS DISPOSIÇÕES FINAIS
+15.1. O presente Contrato obriga as partes contratantes e os seus sucessores. Não
+pode ser subcontratado nem cedido, total ou parcialmente, salvo quando
+expressamente autorizado pela ALGÁS.
+15.2. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito
+cumprimento dos termos e condições deste contrato ou ao exercer qualquer
+prerrogativa dele decorrente, não constituirá renovação ou renúncia, nem afetará o
+direito das partes de exercê-lo a qualquer tempo.
+15.3. A ALGÁS poderá, em respeito aos interesses da Administração, emitir ordens de
+serviços parciais determinando a quantidade de profissionais a serem alocados, motivo
+pelo qual se obrigará a pagar somente pelos serviços efetivamente prestados.
+15.4. O CONTRATADO fica obrigado a aceitar, nas mesmas condições contratuais, os
+acréscimos ou supressões que se fizerem necessários, limitados a até 25% (vinte e
+cinco por cento) do valor inicial atualizado do Contrato. Em caso de supressão acima
+dos limites ora estabelecidos, somente poderá ser efetivada mediante acordo entre as
+partes contratantes.
+15.5. Fica eleito o Foro da Comarca de Maceió, Estado de Alagoas, que será o
+competente para dirimir as questões decorrentes do cumprimento deste Contrato,
+renunciando as partes a qualquer outro por mais privilegiado que seja.
+Assim, por estarem de comum acordo, a ALGÁS e o FORNECEDOR firmam este
+Instrumento na forma eletrônica, por certificados digitais ICP-Brasil, e tem validade
+jurídica conforme Medida Provisória n.º 2.200-2/2001.
+Maceió/AL, documento emitido eletronicamente em 22 de junho de 2018.
+T
+11 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 11 de 79TIXIDINTIO)
+WPmEANos BI.
+Anexo Q4 - Memorial Descritivo
+ 
+ALGÁS
+Gás de Alagoas SA
+    
+    
+ 
+    
+    
+1. OBJETO
+O presente Memorial Descritivo tem por objeto o adequado detalhamento visando à
+contratação de empresa para prestação de serviços técnicos profissionais
+especializados em informática para Desenvolvimento, Implantação e Manutenção do
+software público e livre denominado “Sistema de Gestão Comercial de Gás Natural, ou
+simplesmente GGAS”, disponível no portal do Software Público Brasileiro
+(http://www.softwarepublico.gov.br) e mantido no ambiente de gerenciamento e
+controle de versão e qualidade do site www.ggas.com.br.
+2. DESCRIÇÃO DO SISTEMA
+O GGAS - Sistema de Gestão Comercial de Gás Natural foi desenvolvido visando
+atender, de forma abrangente, as necessidades inerentes à Área Comercial de uma
+Empresa Distribuidora de Gás Natural (CDL), no que se refere à Gestão dos
+Cadastros, da Medição, dos Contratos, do Faturamento (incluindo emissão das NF-e's),
+da Cobrança, da Arrecadação, do Atendimento a Clientes e da Agência Virtual, além de
+disponibilizar dados para a integração com sistemas das Áreas Contábil, Financeira,
+Operacional e Gerencial.
+O GGAS é um software livre, licenciado pelo modelo de licença Creative Commons
+General Public License - GPL (“Licença Pública Geral”), na versão 2.0, em português.
+O Sistema foi desenvolvido para utilizaçção em ambiente WEB, utilizando as -
+tecnologias: JAVA, JAVASCRIPT, JSP, HTML, CSS, Hibernate, Struts, Spring e Spring
+MVC, e nos servidores de aplicação TOMCAT, JIBOSS e JETTY, juntamente com o
+banco de dados Oracle. Entretanto, o sistema pode funcionar também em outros
+SGBDs e servidores de aplicação.
+Os relatórios implementados no sistema utilizam a tecnologia JasperReports, que
+permite a geração em vários formatos, como PDF, RTF, XLS e HTML, e possibilita o
+armazenamento e a disponibilização destes de forma simples. Como exemplo, o
+usuário pode gerar um relatório e enviá-lo por e-mail anexando o arquivo no formato
+PDF.
+Todos os softwares utilizados no desenvolvimento do GGAS possuem características
+de serem livres e abertos, permitindo multiplicidade de plataformas para o seu
+desenvolvimento e total independência na escolha pelas CLDs de fornecedores de
+hardware e de softwares.
+A característica integradora do GGAS oferece mecanismos que facilitam a troca de
+informações com outros sistemas, tais como: ERPs - Enterprise Resource Planning e
+BI - Bussines Intelligence, facilitando trabalhos de conciliação contábil e bancária, e de
+análise de dados para a gestão de indicadores, sistema de medição de grandes
+clientes a partir do sistema supervisório e de pequenos clientes a partir de leituras in
+loco (dispositivos móveis), respectivamente.
+T
+12 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 12 de 79TIXIDINTIO)
+WPmEANos BI.
+3. DESCRIÇÃO DAS FUNCIONALIDADES DO SISTEMA
+ 
+ALGÁS
+Gás de Alagoas SA
+  
+   
+  
+O sistema contempla um conjunto de módulos e funcionalidades que permitem às
+empresas utilizadoras a gestão plena das atividades comerciais de forma integrada, em
+uma única ferramenta.
+O conjunto de módulos que integrcam o GGAS contempla os conteúdos e
+funcionalidades detalhados a seguir:
+3.1 Módulo de Cadastro
+Este módulo é responsável pelos cadastros básicos do sistema, sendo, portanto, a
+base para diversos outros módulos e funcionalidades do sistema.
+Neste módulo estão definidas as bases de registros dos dados de identificação dos
+clientes (sendo pessoas físicas ou jurídicas) da Distribuidora de Gás Natural e dos
+imóveis vinculados a estes clientes, dos pontos físicos das ligações de gás (pontos de
+consumo) associadas aos imóveis, da sua vinculação com as tabelas básicas de
+abastecimento do sistema (City Gates).
+O Módulo de Cadastro compreende de forma resumida, as seguintes funcionalidades:
+e Localização;
+* Gerência Regional;
+* Localidade;
+e Setor Comercial;
+* Quadra;
+e Operacional;
+* Rede Externa;
+* Ramal;
+e Estação;
+* Empresa;
+* Unidade Organizacional;
+* Funcionário;
+e Cliente (Pessoa ou empresa);
+* Imóvel;
+* Segmento.
+3.2 Módulo de Medição
+Este módulo trata do processamento dos dados obtidos juntos aos medidores
+instalados nos pontos de consumos dos clientes, análise das informações e controle
+dos volumes apurados, possibilitando a emissão de alertas para os operadores do
+sistema de possíveis inconsistências ou ocorrências que apontem para um consumo
+T
+13 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 13 de 79TIXIDINTIO)
+WPmEANos BI.
+fora do padrão e o controle de ligações inativas (cortadas ou desativadas) existentes
+nas rotas.
+O GGAS permite que o processo de leitura em campo seja integrado a dispositivos
+móveis, tidos como coletores de informações portáteis (tipo smartphone), efetuando a
+troca de informações pertinentes às rotas de leitura.
+Este módulo também é responsável por várias rotinas de controle físico dos medidores ;
+de gás da companhia, compreendendo, entre outros, os seguintes elementos: situação
+dos medidores existentes; histórico da vida útil do medidor (data de aquisição, data de
+instalação/reinstalação, datas de aferições, motivos e resultados, informações
+contendo os volumes medidos de cada medidor durante toda sua vida útil, dentre
+outras ocorrências); e a possibilidade de cadastramento de medidores novos por lotes.
+O Módulo de Medição compreende de forma resumida, as seguintes funcionalidades:
+* Medidor;
+ 
+ALGÁS
+Gás de Alagoas SA
+ 
+  
+  
+  
+    
+   
+  
+ 
+ 
+  
+e Histórico de Operação do Medidor;
+e Histórico de Movimentação do Medidor;
+e Corretor de Vazão;
+* Leitura;
+* Leiturista;
+e Rota;
+* Análise de Exceção de Leituras e Consumos;
+* Histórico de Leitura e Consumo;
+* Anormalidade;
+* Dados de Compra de Gás;
+e CityGate;
+* Imóvel;
+* Dados de Pressão e Temperatura;
+e Associar Ponto de Consumo ao Medidor / Corretor de Vazão;
+* Cromatografia;
+e Faixade Variação de Consumo;
+e Importar Dados de Dispositivos Móveis;
+* Exportar Dados para Dispositivos Móveis.
+3.3 Módulo de Faturamento
+Este módulo é responsável pelo cruzamento dos dados provenientes do módulo de
+medição (consumo apurado e corrigido), das regras dos contratos associados aos
+pontos de consumo, das informações de débitos anteriores (pagamentos em atraso,
+financiamentos e parcelamento de débitos, contidas no módulo de arrecadação e
+cobrança, para efetuar os cálculos acerca dos valores a serem cobrados dos clientes) e
+14 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 14 de 79TIXIDINTIO)
+WPmEANos BI.
+da emissão das contas de consumo ou faturas de cobrança de cada período pr:
+definido.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+Neste módulo é possível também efetuar a revisão de erros no processamento do
+faturamento ou da re-emissão de faturas. O módulo formata as faturas geradas par;
+impressão local ou remota (ambiente de terceiros) e da integração com o módulo de
+NF-e para que seja efetuado o processo de emissão das notas fiscais eletrônica:
+Quando necessário, o GGAS permite neste módulo a impressão do DANFE relativo à
+nota fiscal eletrônica.
+O Módulo de Faturamento compreende de forma resumida, as seguintes
+funcionalidades:
+* Rubrica;
+* Tarifa;
+* Índice Financeiro;
+* Registro de Preço do Gás;
+e Associação Temporária de Tarifa a Ponto de Consumo;
+* Simular Cálculo do Fornecimento de Gás;
+* Dados Reais;
+e Dados Fictícios (simulados);
+* Notas de Crédito / Débito;
+* Crédito / Débito a Realizar;
+e Fatura;
+e Cronograma;
+* Mensagens de Faturamento;
+* Análise de Anomalias de Faturamento.
+3.4 Módulo de Nota Fiscal Eletrônica
+O modulo de Nota Fiscal Eletrônica é responsável pela comunicação e transmissão de
+informações geradas pelo módulo de Faturamento com os portais de Notas Fiscais
+Eletrônicas da Secretária da Fazenda.
+São funcionalidades do módulo de NFe:
+* Emissão de Nfe;
+e Inutilização de Números de Séries;
+* Envio em lotes;
+* Impressão da DANFE.
+3.5 Módulo de Arrecadação
+Este Módulo é responsável pela gestão dos recebíveis da Distribuidora (provenientes
+de faturas). Neste módulo é que tratada a questão da integração com os agentes
+T
+15 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 15 de 79WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+arrecadadores (bancos) para que seja efetuado o processo de troca e processamentos
+de arquivos necessários para o registro de recebimentos e devoluções da Distribuidora
+inerentes à atividade comercial. Nele é possível visualizar funções como: controle da
+arrecadação diária, controle de avisos bancários, baixa da arrecadação e débito
+automático em conta corrente, além da geração de relatórios de controle
+financeiro/contábil da Arrecadação. S
+O Módulo de Arrecadação compreende de forma resumida as seguintes
+funcionalidades:
+* Recebimento;
+* Devolução;
+* Arrecadador;
+e Banco;
+   
+* Convênio Arrecadador;
+   
+e Carteirade Cobrança;
+e Contrato Arrecadador;
+e Agência Bancária.
+OAB6-0117-59E8-B2)
+3.6 Módulo de Cobrança
+Efetua a geração e o acompanhamento das ações que visam o recebimento de
+débitos, contemplando posições gerais sobre a dívida global e/ou individual por tipo de
+serviço, produto ou de débito, acordos de parcelamentos, períodos de atraso etc.
+O Módulo de Cobrança compreende de forma resumida, as seguintes funcionalidades:
+e Perfil de Parcelamento de Débitos
+e Parcelamento de Débitos
+* Extrato de Débitos
+* Declaração de Quitação Anual
+e Ação de Cobrança
+* Executar Ação de Cobrança
+e Controle de Entrega de Documento;
+e Tipo de Documento;
+* Emissão 2-Via Aviso Corte;
+e Controle de Notificação de Corte.
+3.7 Módulo de Contratos
+Este módulo trata do processo de gestão das propostas e dos contratos com os
+clientes, além de possibilitar o gerenciamento da execução dos contratos, aplicando
+compensações, multas e penalidades, permitindo ainda o controle de aditamentos,
+alterações, rescisão, cancelamentos e todo o processo de encerramento dos contratos
+õ
+16 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 16 de 79TIXIDINTIO)
+WPmEANos BI.
+de fornecimento de gás. O módulo também registra as programações de consumo de
+gás. Gera, ainda, relatórios de execução dos contratos.
+O Módulo de Contratos compreende de forma resumida, as seguintes funcionalidades.
+ 
+ALGÁS
+Gás de Alagoas SA
+    
+   
+ 
+e Proposta;
+* Modelo (de Contrato);
+e Contrato;
+e Programação de Consumo;
+e Solicitação de Consumo;
+* Paradas;
+* Programadas;
+e Não Programadas;
+e Caso Fortuito ou Força Maior;
+e Falhade Fornecimento;
+* Gás Fora de Especificação;
+* Extrato de Execução;
+e Apuração de Penalidades contratuais;
+e Controle de Contratos Complementares (Mercado secundário e leilão);
+e Regras de Take or Pay e Penalidades de Retirada a Maior/Menor por contrato ou
+por ponto de consumo;
+e Controle de vigência das regras de aplicação de Take or Pay e Penalidades de
+Retirada a Maior/Menor;
+e Configuração de Paradas Programadas parciais;
+e Regras da quantidade faltante nas Paradas Programadas;
+e Cobrança dos Compromissos e Penalidades pela tarifa média, tarifa vigente no
+último dia da apuração e tarifa;
+e Regras de recuperação de Take or Pay.
+3.8 Módulo de Informações Gerenciais / Relatórios
+Este módulo possibilita efetuar o acompanhamento gerencial das atividades comerciais
+da Distribuidora a partir de relatórios.
+O Módulo Gerencial consolida as informações necessárias para o tomador de decisão
+e tem como característica a integração com os demais módulos do GGAS, facilitando o
+agrupamento das informações e a disponibilização das mesmas.
+O Módulo Gerencial compreende de forma resumida, os seguintes relatórios:
+* Faturas Emitidas;
+* Tarifas Cadastradas;
+* Resumo de Volumes;
+T
+17 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 17 de 79WeEaNos
+ALGÁS
+Gss de Algoas SA
+* Movimentos Mensais de Consumo por Cliente;
+* Número de Clientes e Número de Unidades Consumidoras;
+* Quantidades Contratadas;
+* Faturamento;
+e Volume Comprado X Volume Distribuído;
+e Inadimplentes;
+* Descontos Concedidos;
+e Volumes Faturados;
+* Movimentos Mensais de Consumo por Cliente;
+* Análise de Demanda;
+* Análise de Consumo;
+* Exportação de Dados;
+e Clientes por Rota;
+e Autorizações de Serviço;
+* Chamados;
+e Autorizações de Serviço;
+* Previsão/Captação de Clientes;
+e Prazo Mínimo de Antecedência para Envio de Notificação de Corte;
+e Prazo Mínimo de Antecedência para Envio do Aviso de Corte;
+e Cobrança e Recuperação de penalidades;
+* Residencial e Comercial mensal;
+e Acompanhamento de Clientes.
+3.9 Módulo de Segurança
+Este módulo é o responsável pelos procedimentos de segurança de acesso por parte
+dos usuários do sistema e das transações executadas por eles.
+Nele é possível determinar que qualquer atividade executada pelos usuários do
+sistema será registrada em um log, estando assim à disposição para questões de
+auditoria.
+O controle de acesso é feito com base nas ações (incluir, alterar, excluir, aditar,
+consultar, imprimir, dentre outras) que podem ser executadas nas tabelas do sistema,
+permitindo assim, restringir Oos acessos por grupo ou por usuário específico,
+possibilitando tratar permissões especiais individualmente.
+3.10 — Interface com outros Sistemas
+18 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+    
+OAB6-0117-59E8-B2D8.
+Página 18 de 79TIXIDINTIO)
+WPmEANos BI.
+O sistema permite, a partir desta funcionalidade, a possibilidade da Distribuidora gerar
+diversas informações com base nos dados contidos na base de dados do GGAS para a
+integração a outros sistemas.
+A partir de uma interface que possibilite a gestão de consultas no banco de dados,
+outros sistemas podem ter sua base “populada” com estas informações.
+Como exemplo desta possibilidade, destacamos a integração com sistemas ERP”s, Bl,
+Balance Score Card, sistemas de telemetria, coleta de dados e Georeferenciamento,
+dentre outros.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+  
+  
+  
+  
+  
+  
+  
+  
+3.11 — Agência Virtual
+Esse módulo do sistema permite que os clientes da empresa possam efetuar
+operações simples que visam agilizar processos de obtenção de informações e
+solicitações de serviços relativos aos contratos, tais como:
+* Emissão de Fatura (NFe, Boleto, DANFE);
+e Visualização do Histórico de Consumo;
+* Consultado Contrato;
+e Solicitação de Alteração dos Dados Cadastrais;
+e Visualização dos Dados da Cromatografia;
+e Solicitação da Alteração da Data de Vencimento das Faturas;
+* Programação de Consumo (mensal, diária e intradiária);
+e Solicitação de Ligação;
+e Solicitação de Interrupção de Fornecimento;
+e Solicitação de Religação;
+* Emissão e Autenticação da Declaração de Quitação Anual de Débitos;
+e Fale conosco.
+3.12 — Atendimento a Clientes / Gestão de Ordens de Serviços
+A partir desse módulo, a empresa efetua o registro, tramitação e o acompanhamento e
+o encerramento das ordens de serviços relativas aos serviços e providências
+solicitados por clientes e não clientes:
+e Registro dos atendimentos a clientes e não clientes;
+* Tramitação de ordens de serviços entre unidades;
+e Reiteração, reabertura, cancelamento entre outras operações;
+e Geração das ordens de serviço;
+* Agendamento de execução dos serviços;
+* Execução e encerramento;
+e Controle do tempo máximo de execução dos atendimentos e serviços;
+e Pesquisa de satisfação dos clientes em relação aos serviços prestados.
+T
+19 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 19 de 79TIXIDINTIO)
+WPmEANos BI.
+Obs: Como o GGAS é um software de desenvolvimento colaborativo e continuo, o
+mesmo pode ganhar novas funcionalidades durante o processo licitatório.
+ 
+ALGÁS
+Gás de Alagoas SA
+  
+   
+  
+   
+   
+   
+  
+ 
+   
+4. OBJETIVOS ESPECÍFICOS
+O CONTRATADO deverá disponibilizar uma equipe de profissionais nas metodologias
+e tecnologias empregadas tanto no desenvolvimento do sistema GGAS quanto no
+ambiente de gerenciamento e controle de versões utilizado e com domínio de
+conhecimentos inerentes às diversas áreas que compõem os processos de negócio
+das áreas de gerenciamento de contratos, de medições, de arrecadação e cobrança,
+do faturamento, do atendimento a clientes, da gestão de ordens de serviços, da
+integração entre sistemas, de empresas de prestação de serviços públicos (gás,
+energia, saneamento e telefonia).
+4.1Dos serviços a serem contratados:
+4.1.1/ Desenvolvimento
+Esse item refere-se à Manutenção evolutiva do GGAS e tem como objetivo descrever
+OS serviços inerentes ao desenvolvimento de novas funcionalidades ou de adaptação
+de funcionalidades já existentes (customização) do sistema GGAS.
+A Manutenção Evolutiva de sistemas é caracterizada pelo desenvolvimento de novos
+requisitos, ajustando, aprimorando ou criando novas funcionalidades que atendam às
+necessidades dos processos de negócio e do mercado de gás da CONTRATANTE.
+Durante a execução dos serviços relativos ao desenvolvimento de novos requisitos ou
+da adequação de requisitos já existentes para o atendimento às necessidades da -
+CONTRATANTE serão envolvidas as atividades do Processo de Desenvolvimento de *
+Software seguindo as fases descritas abaixo:
+e Concepção / Iniciação
+e Elaboração
+e Construção
+e Aprovação funcional e não funcional
+e Transição
+e Asfases estarão baseadas nas disciplinas:
+* Modelagem de Negócios
+e Requisitos
+e Analise e Design
+* Implementação
+e Teste
+* Implantação
+e Gerenciamento de Configuração e Mudança
+* Gerenciamento de Projeto
+T
+20 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 20 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+* Ambiente
+Para toda e qualquer implementação futura de novos requisitos (funcionais e não
+funcionais) ou da adequação de algum requisito já existente, realizado pela
+CONTRATANTE, será obrigatório, como parte do processo de aceitação das
+implementações realizadas, a aceitação do código fonte com base em critérios de
+aceitação definidos no ambiente de gerenciamento e controle de versões conforme
+processo descrito no ANEXO Q4.3 - CRITÉRIOS DE ACEITAÇÃO.
+O CONTRATADO deverá possuir e disponibilizar, dentro desse item do contrato, uma
+área de projetos, destinada para o provimento de serviços oriundos dessa natureza (1.
+Desenvolvimento relativo à manutenção evolutiva do sistema) para que as ordens de
+serviço referenciadas a esse item sejam conduzidas com base no item 8.3 DA
+METODOLOGIA DE EXECUÇÃO DO PLANO DE PROJETO subitem 8.3.1.
+Para o referido item o CONTRATADO deverá efetuar, com base no Sistema de
+Gerenciamento de Demandas (SGD), disponibilizado no ambiente de gerenciamento e
+controle de versão e qualidade (no endereço http://redmine.ggas.com.br/), onde o
+registto e a atualização dos status das ordens de serviços geradas pelo
+CONTRATANTE e associadas à CONTRATADA sejam regidas conforme definido no
+processo indicado no ANEXO Q4.6 PROCESSO DE GESTÃO DE DEMANDAS (SGD).
+4.1.2 Implantação
+Serão consideradas atividades de implantação todas as etapas que envolvem desde o
+entendimento das funcionalidades do sistema por parte da CONTRATANTE até a
+conclusão dos treinamentos e da assinatura do termo de implantação, a exemplo:
+e Consultoria técnica especializada para a instalação do GGAS no ambiente da
+CONTRATANTE;
+* Desenvolver plano de implantação;
+* Parametrizações do sistema;
+* Migração e conversão dos dados contidos nos sistemas legados para o sistema
+GGAS;
+e Validação e comprovação da integridade dos dados migrados;
+e Integração entre sistemas: de medição (sistema supervisório), de leitura in loco
+(dispositivos móveis), gerenciados pelos Enterprise Resource Planing (ERP),
+bancários (agentes arrecadadores), Business Intelligence (BI) em uso pela
+CONTRATANTE;
+* Treinamento dos usuários;
+e Acompanhamento das fases de processamento em paralelo e posterior implantação
+definitiva;
+* Revisão e correção de funcionalidades visando à adequação do sistema às
+exigências legais.
+A implantação dos módulos e funcionalidades do GGAS para o provimento de serviços
+voltados para o público externo e clientes da CONTRATANTE deverão ser
+21 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gós de Alagoas SA
+implementados em um ambiente de zona desmilitarizada (DMZ) que será
+disponibilizado pela CONTRATANTE.
+O CONTRATADO deverá possuir e disponibilizar, dentro desse item do contrato, uma
+área de projetos, destinada para o provimento de serviços oriundos dessa natureza
+(Implantação) para que as ordens de serviço referenciadas a esse item sejam
+conduzidas com base no item 8.3 DA METODOLOGIA DE EXECUÇÃO DO PLANO
+DE PROJETO subitem 8.3.2.
+Para o referido item o CONTRATADO deverá efetuar, com base no Sistema de
+Gerenciamento de Demandas (SGD), disponibilizado no ambiente de gerenciamento e
+controle de versão e qualidade (no endereço http://redmine.ggas.com.br/), o registro e
+a atualização do status das ordens de serviço geradas pelo CONTRATANTE e
+associadas à CONTRATADA conforme definido no processo referenciado no ANEXO
+Q4.6 PROCESSO DE GESTÃO DE DEMANDAS (SGD).
+ 
+z
+   
+  
+   
+  
+4.1.3 Manutenção
+Entendem-se como manutenção todas as atividades executadas com objetivo de
+garantir a prevenção de falhas e a correção de problemas encontrados no sistema,
+bem como da adequação deste para a cobertura de questões relativas às alterações da
+legislação na qual a CONTRATANTE está obrigada a seguir.
+Fazem parte do escopo de trabalho desse item os seguintes tipos de manutenção:
+Preventiva e Corretiva.
+Onde:
+A Manutenção Preventiva é a atividade prestada pelo CONTRATADO destinada a
+prevenir e evitar a ocorrência de falhas funcionais e/ou paralisações do sistema com
+base em ações regulares e frequentes no ambiente da CONTRATANTE.
+A Manutenção Corretiva é outra atividade prestada pelo CONTRATADO que
+compreende as atividades para diagnóstico e correção de defeitos / não conformidades
+não identificadas na versão do sistema utilizado pela CONTRATANTE durante o
+processo de implantação.
+Não serão consideradas como manutenção corretiva as atividades para corrigir erros
+provenientes da manutenção evolutiva indicada no item 1. Desenvolvimento, realizado
+pelo próprio CONTRATADO, onde, todo e qualquer custo relativo aos ajustes que se
+fizerem por consequência de uma implementação errada feita pelo CONTRATADO e
+que não tenham sido descobertos há tempo e no processo de homologação das
+entregas serão arcados pelo mesmo, sem ônus para a CONTRATANTE.
+Estão cobertos nessa modalidade de contratação os serviços de apoio e suporte
+técnico ao ambiente operacional que visa manter ativo, seguro e disponível o ambiente
+de software sobre o qual o GGAS é executado, envolvendo o servidor de aplicações,
+sistema operacional e outros recursos necessários ao funcionamento do sistema. Estão
+inclusas nessas adaptações todas as alterações que o sistema deverá sofrer para
+manter-se fiel à legislação Federal, Estadual, Municipal, principalmente aquelas de
+natureza tributária e trabalhista, bem como que atenda aos regulamentos provenientes
+de entidades reguladoras.
+O CONTRATADO deverá possuir e disponibilizar, dentro desse item, um centro de
+atendimento e de suporte para o cliente para o provimento de serviços de suporte
+técnico especializado tanto para os módulos, funcionalidades, rotinas e processos
+cobertos do GGAS quanto para o ambiente computacional da CONTRATANTE que irá
+suportar esse sistema.
+22 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+Esse centro de suporte deverá possuir profissionais qualificados para serem
+contatados pela CONTRATANTE por meio de número de telefone fixo e estarem
+disponíveis para o atendimento no horário que compreende os períodos abaixo
+indicados:
+L Parte da manhã: das 08h00 às 12h00; e,
+Il. — Parte da tarde: das 13h00 às 17h00.
+O horário acima indicado corresponde ao horário de funcionamento da
+CONTRATANTE.
+Para o referido item o CONTRATADO deverá, com base no Sistema de Gerenciamento
+de Incidentes (SGlI) próprio, disponibilizar acesso para que a CONTRATANTE efetue o *
+registro e a atualização do status das ocorrências / incidentes que representem uma
+não conformidade em quaisquer rotinas, processo ou procedimento do GGAS.
+O SGl deverá possuir, minimamente, os campos, relatórios, processos e
+procedimentos definidos no ANEXO Q4.5 SISTEMA DE GESTÃO DE INCIDENTES
+(SG]).
+Será a partir desse SGl que a CONTRATANTE efetuará a apuração do nível do
+Service Level of Agreement (SLA) do CONTRATADO relativo aos atendimentos
+realizados, para que sejam apurados os descontos com base nas regras definidas no
+ANEXO Q4.2 SERVICE LEVEL AGREEMENT (SLA).
+5. — DOCUMENTAÇÃO TÉCNICA E FUNCIONAL DOS SERVIÇOS
+A cada entrega de um serviço relativo ao item “Desenvolvimento”, a seguinte
+documentação deverá ser entregue a CONTRATANTE:
+* Documentação específica para administradores do sistema contendo, não só, mas
+principalmente, questões de natureza técnica a cada nova versão com o indicativo
+do que está sendo alterado e que impactos essas alterações podem trazer para a
+empresa CONTRATANTE;
+e Atualização da Wiki do projeto GGAS;
+* Manual de integração do sistema atualizado contendo as informações relativas ao
+que foi desenvolvido / customizado pela CONTRATANTE;
+e Casos de uso relativos aos requisitos desenvolvidos / customizados;
+e Projetos e planos de teste;
+* Documentação específica de regras de negócio que dão suporte às
+implementações;
+e Release Notes contendo os desenvolvimentos / customizações realizados no
+software;
+e Projeto de Desenvolvimento;
+e Processos Implementados / Alterados / Excluídos no Software;
+* Documentação de homologação da versão;
+e Relatório de Acoplamento;
+e Scripts de carga / correção / alteração de dados;
+23 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+e Scripts de automação de testes;
+e Testes unitários relativos ao que fora desenvolvimento / customizado;
+* Documentação específica para Usuários;
+* Manualdo sistema;
+e Help on-line.
+Todos os documentos produzidos deverão ser entregues no idioma português.
+6. — GARANTIA DOS PRODUTOS
+Será exigida do CONTRATADO a garantia dos produtos gerados pela prestação dos
+serviços, pelo prazo de 12 (doze) meses, contados da data de aceite formal realizado
+pela CONTRATANTE durante o processo de homologação, formalizado atraves da
+assinatura do TERMO DE RECEBIMENTO PROVISÓRIO DE SERVIÇO - TRPS,
+cabendo à CONTRATADA corrigir todas as falhas, erros e defeitos encontrados nos
+módulos e funcionalidades implementadas, decorrentes dos desenvolvimentos e
+implementações promovidas pela CONTRATADA. A CONTRATADA efetuará as
+devidas correções, desde que reclamadas pela CONTRATANTE dentro do período de
+12 (doze) meses da garantia, mesmo que o tempo para essa correção ultrapasse o
+termo final da garantia.
+7. MEDIÇÃO, FATURAMENTO E PAGAMENTO DOS SERVIÇOS.
+7.1 DaMedição dos Serviços
+A medição dos serviços ocorrerá em periodicidade mensal, considerando todos os
+serviços concluídos e aceitos no mês anterior, mediante Boletim de Medição emitido
+pelo CONTRATADO e aprovado pela CONTRATANTE.
+Os serviços de Desenvolvimento e Implantação serão medidos após a conclusão de
+cada uma das fases especificadas no PLANO DE PROJETO, levando em consideração
+quantidade de horas técnicas executadas pelos profissionais alocadas, limitadas ao
+previsto no PLANO DE PROJETO, bem como considerando os preços unitários por
+profissionais constantes no ANEXO L, preenchido e entregue pela CONTRATADA.
+Os serviços de manutenção serão medidos por mês, levando em consideração os
+preços contratuais apresentados pelo CONTRATADO durante a licitação, constantes
+nos ANEXO L, preenchido e entregue pela CONTRATADA, relativos à quantidade de
+usuários do sistema, abatido dos descontos decorrentes da avaliação dos níveis de
+qualidade do serviço, conforme especificado no ANEXO Q4.2 - SERVICE LEVEL
+AGREEMENT (SLA), utilizando-se a fórmula abaixo:
+SMM = (VFU) — ((VFU) x DSLA)
+Onde:
+SMM corresponde ao valor mensal a ser pago à CONTRATADA pelos serviços de
+manutenção;
+VFU corresponde ao valor a ser pago pela quantidade de usuarios simultânoes
+contratados; e
+24 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ino Kulka RibasWPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+  
+DSLA corresponde ao percentual de desconto eventualmente existente em razão da
+medição da qualidade dos serviços de manutenção segundo o ANEXO Q4.2 -
+SERVICE LEVEL AGREEMENT (SLA).
+Exemplo para os serviços de manutenção:
+Serviço de manutenção - Usuários do Sistema:
+ 
+* Quantidade de usuários na Distribuidora: 30
+ 
+ 
+ 
+ 
+ 
+Nº de usuários Formato de
+simultânoes do Preço Unitário Preço Total
+: Cobrança
+Sistema
+30 Valor fixo R$ 1,00 R$ 1,00
+Valor total R$ 1,00
+ 
+ 
+ 
+ 
+SMM = (VFU) — ((VFU) x DSLA)
+SMM = R$ 1,00 — (R$ 1,00 X O)
+SMM = R$ 1,00
+No caso hipotético acima, o valor a ser pago para os serviços de manutenção será de
+R$ 1,00, pois não houve nenhum desconto eventual aplicado nesse mês.
+7.2 Dos Pagamentos
+Os pagamentos dos serviços de manutenção ocorrerão em periodicidade mensal,
+conforme Boletim de Medição aprovado pela CONTRATANTE. Os serviços de
+manutenção se iniciam após a implantação do software,"Sistema em Produção”, e da
+emissão da respectiva Autorização de Serviço.
+8. GESTÃO DA AUTORIZAÇÃO DE SERVIÇO
+A manifestação da solicitação de execução de um serviço relativo aos itens 1.
+Desenvolvimento e 2. Implantação deverão seguir o processo de evolução do sistema
+com base no ANEXO Q4.6 PROCESSO DE GESTÃO DE DEMANDAS (SGD),
+caracterizando este evento como uma AUTORIZAÇÃO DE SERVIÇO.
+Recebida a AUTORIZAÇÃO DE SERVIÇO o CONTRATADO deverá elaborar e enviar
+para a CONTRATANTE, em um prazo máximo de 15 (quinze) dias úteis, o respectivo
+PLANO DO PROJETO. Para tanto, o CONTRATADO deverá reunir-se com o gestor do
+contrato por parte da CONTRATANTE neste período, visando sua aprovação.
+O PLANO DO PROJETO deverá ser elaborado com base no template indicado no
+ANEXO Q4.1 PLANO DE PROJETO:
+8.1 Plano do projeto
+Será avaliado e, se pertinente, aprovado pela CONTRATANTE para que o
+CONTRATADO inicie a execução num prazo máximo de 10 (dez) dias úteis, a contar
+da data de aprovação.
+e
+25 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 25 de 79WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+8.2 Conclusão de fase do projeto
+Caracteriza-se pela entrega dos documentos / produtos especificados no PLANO DO
+PROJETO, condicionada ao aceite formal da CONTRATANTE que será feito com base
+na homologação das entregas do código fonte pelo CONTRATADO, quando houver,
+conforme critérios de aceitação definidos no ANEXO Q4.3 - CRITÉRIOS DE
+ACEITAÇÃO e da homologação das funcionalidades que foram desenvolvidas /
+customizadas. A próxima FASE somente poderá ter início após este aceite por parte da
+CONTRATANTE.
+ 
+ino Kulka Ribas
+   
+8.2.1 Não serão aceitos documentos / produtos que apresentem divergências,
+erros, defeitos ou irregularidades, desde que os mesmos não sejam decorrentes de
+dados ou informações inadequadas fornecidas pela CONTRATANTE.
+8.2.2 Em função da prioridade, complexidade e impacto para continuidade do
+projeto, a CONTRATANTE, a seu critério, poderá autorizar o início da próxima FASE
+com o compromisso do CONTRATADO para correção dos documentos / produtos
+entregues.
+8.2.3 As correções inerentes a desenvolvimentos realizados pelo CONTRATADO
+são de responsabilidade do mesmo, não incorrendo em qualquer custo à
+CONTRATANTE e não serão considerados como atividades remuneráveis do
+PROJETO.
+8.3 Da metodologia de execução do plano de projeto
+Visando a adoção de metodologias eficientes para cada item do contrato, descrevemos
+abaixo aquelas que devem ser empregadas para os itens de Desenvolvimento e
+Implantação.
+8.3.1 Para o item Desenvolvimento, o Plano de Projeto deverá ser executado
+utilizando-se da metodologia ágil Scrum, juntamente com as práticas ágeis definidas
+na metodologia Xtreme Program (XP), onde:
+8.3.1.1 O CONTRATANTE deverá ser indicado como sendo o product owner e
+ser responsável pela validação do escopo de trabalho de cada Sprint, bem
+como pelos demais entregáveis do Plano de Projeto;
+8.3.2 Para o item Implantação, o Plano de Projeto deverá ser executado utilizando-
+se das boas práticas de gerenciamento de projetos definidos na 5º Edição do
+PMBOK (Project Management Body of Knowledge), onde:
+8.3.2.1 O PLANO DO PROJETO será elaborado e assinado pelo Gerente de
+Projeto do CONTRATADO.
+8.3.2.2 Alterações no PLANO DO PROJETO deverão ser efetuadas mediante
+emissão de SOLICITAÇÃO DE MUDANÇA devidamente analisadas e
+aprovadas por ambas as partes;
+8.3.2.3 A SOLICITAÇÃO DE MUDANÇA deverá conter a indicação do impacto no
+escopo, custo e prazo originalmente pactuados.
+ 
+26 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+9. DO CRONOGRAMA E PRAZO DE EXECUÇÃO
+ 
+O prazo de vigência do contrato será de 24 (vinte e quatro) meses contados a partir
+da assinatura do contrato, sendo que para os serviços de Desenvolvimento e
+Implantação serão definidos quando da elaboração e aprovação dos respectivos
+Planos de Projeto, observando o prazo máximo de elaboração do Plano de Projeto
+estabelecido no item 8 deste Memorial Descritivo.
+O cronograma de trabalho para os itens “Desenvolvimento e Implantação” serão
+desenvolvidos conforme autorização de serviço emitida, e de acordo com o item 8.
+GESTAO DA AUTORIZAÇÃO DE SERVIÇO.
+ 
+A depender dos entendimentos durante as fases (Desenvolvimento e Implantação)
+para a aprovação das autorizações de serviço, do esforço indicado e da estratégia de
+implantação da CONTRATANTE, o cronograma poderá sofrer alterações no futuro,
+sem que caiba ao CONTRATADO qualquer direito à indenização ou compensação.
+O cronograma de trabalho para o item “Manutenção” será regido em base mensal, com
+base na prestação de serviços por parte do CONTRATADO inerentes e necessários
+para que o GGAS seja mantido dentro da infraestrutura da CONTRATANTE, depois da
+implantação do software, “Sistema em Produção” e emitida a respectiva Autorização de
+Serviço.
+10. — EQUIPE MÍNIMA E REQUISITOS DE QUALIFICAÇÃO PROFISSIONAL
+O CONTRATADO deverá dispor de uma equipe mínima de 10 (dez) profissionais
+qualificados para a execução dos serviços, devendo dispor, minimamente, em seu
+quadro de pessoal ou de profissionais, de pelo menos 1 (um) profissional de cada área
+de conhecimento indicadas nos itens de 10.1 a 10.10, não sendo permitido que 1 (um)
+profissional acumule 2 (duas) funções. Salientamos que, mediante requisição da
+CONTRATANTE, alguns serviços poderão ter sua execução na sede da ALGÁS, tais
+como aqueles que necessitem da interação direta e pessoal dos profissionais da
+CONTRATADA com a equipe da CONTRATANTE.
+A CONTRATADA deverá possuir dentro da sua equipe técnica mínima as certificações
+abaixo indicadas:
+A. Certified Scrum Master - Emitido pela Scrum Alliance ou outra certificadora
+ofiícial - No mínimo 03 (três) certificações / diplomas na equipe;
+B. Certificação em  gerenciamento de Projeto Project Management
+Professional (PMP) - Emitido pelo Project Management Institute (PMI) - No mínimo
+01 (uma) certificação / diploma na equipe;
+C. Oracle Certified Associate, Java SE 5/SE 6 ou SCJA - Sun Certified Java
+Associate, Java SE 7 Programmer ou superior - No mínimo 03 (três) certificações
+/ diplomas na equipe;
+D. Oracle Certified Professional, Java SE 5 Programmer, SCJP 5, Java SE 6
+Programmer ou SCJP (Exame 12Z0-851) ou superior - No mínimo 03 (três)
+certificações / diplomas na equipe;
+27 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017TIXIDINTIO)
+WPmEANos BI.
+E. Oracle Database 10g Administrator Certified Associate ou superior - No
+mínimo 01 (uma) certificação / diploma na equipe;
+F. Certified Tester Foundation Level (CTFL) ou superior - Emitido pela ISTQB
+ou outra certificadora oficial - No mínimo 01 (uma) certificação / diploma na equipe.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+  
+  
+   
+   
+10.1  Serviços de Gerência de Projetos
+Profissional: Gerente de Projetos
+e Ter capacidade para aplicar os conceitos existentes no PMBOK sobre
+gerenciamento de escopo, tempo, custo, qualidade, recursos humanos,
+comunicação, riscos, aquisição e integração, prezando pela satisfação do cliente;
+e Ser apto a gerenciar o projeto com base em metodologias ágeis Scrum e XP;
+e Experiência em gerenciamento de projetos de desenvolvimento, implantação ou
+manutenção em sistemas em arquitetura web, linguagem Java e SGBD Oracle 10g
+ou superior.
+10.2 Serviços de Análise de Negócios
+Profissional: Analista de Negócios
+e Ter a capacidade de manter o bom relacionamento com os usuários do projeto,
+promovendo o levantando requisitos com foco no negócio do cliente;
+e Experiência em análise de sistemas ou na função de consultor de negócios em
+sistemas em arquitetura web, linguagem Java e SGBD Oracle 10g ou superior.
+10.3 Serviços de Análise de Sistemas
+Profissional: Analista de Sistemas
+e Ter capacidade para concepção e modelagem de processos, utilizando metodologia
+RUP para desenvolvimento de sistemas;
+* Experiência em Desenvolvimento de Sistemas, na função de analista de sistemas.
+10.4 . Serviços de Manutenção e Desenvolvimento Web
+Profissional: Desenvolvedor de Sistemas Web
+e Ter capacidade para elaborar programas e desenvolvimento de aplicativos,
+utilizando metodologias RUP, Scrum e XP, e nas tecnologias utilizadas no
+desenvolvimento do GGAS: Java com os frameworks do Struts, Spring, Hibernate, <
+juntamente com HTML, CSS, Javascript, jQuery, Tomcat ou JBOSS ou JETTY,
+Gradle, conhecimento em ferramentas de integração continua como Jenkins e de
+Qualidade de Código como o Sonar, conhecimentos na ferramenta de controle e
+versão GIT e conhecimentos de modelagem de processos de negócio.
+* Experiência em desenvolvimento de sistemas, na função de programador de
+computador.
+10.5 Serviços de Suporte Técnico do Ambiente Operacional
+28 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+PáginTIXIDINTIO)
+WPmEANos BI.
+Profissional: Analista de Suporte
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+    
+   
+e Ter a capacidade de administrar servidor de aplicação Tomcat ou IBOSS ou JETTY
+e tecnologias utilizadas no desenvolvimento do GGAS: Java, Struts, Spring,
+Hibernate, HTML, CSS, Javascript, jQuery, SGBD Oracle, Jenkins, Sonar e GIT;
+* Experiência em arquitetura de sistemas em ambiente Linux/Windows 2012 ou
+superior.
+10.6 Serviços de Administração de Banco de Dados / AD
+Profissional: Administrador de Banco de Dados / AD
+e Ter capacidade para definir esquemas de Banco de Dados Oracle, criar, manipular,
+zelar pela segurança do banco e dar suporte à área de desenvolvimento;
+* Domínio dos recursos existentes para melhoria do desempenho do Banco de Dados;
+e Atuar como gestor do Banco de Dados, visando assegurar o melhor uso dos
+recursos;
+* Experiência em Administração de Banco de dados Oracle.
+10.77 Serviços de Gerencia de Configuração
+Profissional: Gerente de Configuração
+e Estabelecer o plano de configuração;
+e Oferecer suporte para que os analistas e desenvolvedores tenham espaços de 5
+trabalho adequados para criar e testar seus trabalhos; R
+e Ter conhecimento: na ferramenta de controle de versionamento distribuído
+denominado GIT, no processo de integração contínua de desenvolvimento de
+sistemas utilizando o software Jenkins e no software de gerenciamento de qualidade
+no desenvolvimento de sistemas Sonar;
+e Facilitar as atividades de revisão do produto e controle de mudanças e defeitos;
+e Controlar as versões dos entregáveis.
+10.8 Serviços de Arquitetura de Software
+Profissional: Arquiteto de Software
+* Determinar soluções técnicas para o desenvolvimento e evolução do sistema;
+e Ter conhecimento no processo de elaboração e desenvolvimento de testes unitários
+utilizando JUnit;
+e Ser responsável pelas decisões no nível do sistema.
+10.9 Serviços de Design de Interface
+Profissional: Designer de Interface
+e Capturar os requisitos da interface do usuário, incluindo requisitos de usabilidade;
+e Construir protótipos de interface do usuário;
+T
+29 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 29 de 79TIXIDINTIO)
+WPmEANos BI.
+e Subsidiar os desenvolvedores na criação das interfaces.
+ 
+ALGÁS
+Gás de Alagoas SA
+10.10 Serviços de Testes
+Profissional: Analista de Testes
+e Elaborar planos e projetos de teste;
+* Implementar automação de testes utilizando a ferramenta Selenium ou Junit;
+* Realizar testes.
+11.  OBRIGAÇÕES DA CONTRATADA
+* Nomear os profissionais alocados conforme demanda do CONTRATANTE;
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+* Não se utilizar de bibliotecas, componentes, ferramentas ou utilitários proprietários
+para a manutenção e desenvolvimento do código fonte do GGAS;
+e Prover apoio e suporte técnico aos profissionais de TI da CONTRATANTE, no que
+concerne à análise, especificação e implementação de alterações de
+funcionalidades e/ou desenvolvimento de novas funcionalidades, com uso das
+tecnologias e metodologias de desenvolvimento de sistemas adotadas pelo GGAS;
+e Prover aplicação via Web para registro e acompanhamentos de serviços;
+e Prover centro de atendimento remoto com a alocação de profissionais aptos a
+prestarem suporte telefônico e remoto (via conexões seguras disponibilizadas pelo
+CONTRATADO, tais como, conexões via Remote Desktop Protocol (RDP) ou
+através de Virtual Private Network (VPN)); Ú
+* Prover a seus profissionais alocados no contrato a infraestrutura necessária para
+execução dos serviços demandados;
+* Disponibilizar a cada entrega o código fonte e documentação associada a este
+(artefatos, documentos, scripts, modelo de dados relacional atualizado para a
+CONTRATANTE) junto ao ambiente de gerenciamento e controle de versão do site
+WWW.ggas.com.br;
+* Deverão também ser atualizadas todas as modificações nas estruturas das tabelas
+do banco de dados com o respectivo histórico das atualizações e descritivos de
+casos de uso afetados, bem como os novos caso de uso e/ou sua atualização;
+e Será disponibilizado pelo CONTRATADO um profissional que será o Gerente do
+Projeto, responsável pela coordenação das equipes, relacionamento entre a
+CONTRATANTE e o CONTRATADO, planejamento, execução e acompanhamento
+dos serviços contratados;
+e Substituir de imediato, ante a expressa manifestação escrita da CONTRATANTE,
+quaisquer de seus profissionais encarregados da execução de serviços, que não
+corresponda aos princípios éticos e morais nas dependências das unidades da
+CONTRATANTE;
+* Garantir que todas as atividades sejam realizadas dentro dos padrões de qualidade,
+segurança, higiene e medicina do trabalho;
+T
+30 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 30 de 79TIXIDINTIO)
+WPmEANos BI.
+* Garantir o cumprimento dos prazos contratuais e os estabelecidos em todas as
+atividades do objeto contratado, conforme cronograma estabelecido entre as partes;
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+    
+    
+   
+ 
+  
+   
+   
+ 
+  
+  
+e Assegurar o sigilo das informações da CONTRATANTE;
+e Assegurar a capacitação necessária para a equipe que realizará os trabalhos do
+objeto contratado;
+e Garantir aos empregados alocados à prestação de serviço do objeto da licitação,
+todas as obrigações sociais exigidas por Lei, sem custos adicionais para a
+CONTRATANTE;
+e Apresentar, mensalmente, mapa detalhado informando as atividades desenvolvidas
+e as horas trabalhadas em atividades de Desenvolvimento, Implantação e
+Manutenção, para fins de controle, gerenciamento e criação de histórico de
+atividades realizadas.
+* Repassar os conhecimentos técnicos utilizados para a geração dos produtos. À
+transferência será repassada aos colaboradores indicados pela CONTRATANTE,
+conforme solicitado por esta, seja pela conclusão de uma ou mais etapas.
+e A transferência de conhecimento, direcionada aos técnicos indicados pela
+CONTRATANTE deverá ser focada na solução adotada, de forma que haja
+transferência do conhecimento das tecnologias utilizadas no desenvolvimento de
+todos os produtos
+12. OBRIGAÇÕES DA CONTRATANTE
+* Nomear o Gerente de Projeto que atuará durante o período de vigência do contrato. 5
+O Gerente de Projeto é o ponto focal entre a CONTRATANTE e o CONTRATADO f
+que, juntamente com o Gerente de Projeto do CONTRATADO, será responsável
+pelo planejamento, coordenação, controle, e outras atividades correlatas dos
+projetos, que fazem parte do objeto contratado;
+e Executar as atividades a cargo da CONTRATANTE, dentro dos prazos
+estabelecidos;
+e Inspecionar as condições técnicas e operacionais do CONTRATADO, através de
+acompanhamento sistemático, relatórios gerenciais, questionários de avaliação dos
+usuários dos serviços;
+e Agendar reuniões periódicas com o CONTRATADO para avaliação dos serviços
+prestados e recomendar alternativas de soluções para eventuais problemas;
+e Permitir acesso dos técnicos do CONTRATADO às dependências da
+CONTRATANTE, por ocasião das intervenções técnicas a fim de fazer cumprir o
+objeto licitado.
+T
+31 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 31 de 79INFORMAÇÃO
+m... DA
+ 
+ 
+ 
+ 
+ 
+ 
+ALGÁS
+Gss de Algoas SA
+ANEXO Q4.1 — Modelo de Plano de Projeto
+PLANO DO PROJETO
+Versão xx.xx
+<Nome do Projeto>
+Responsável: <nome responsável>
+Sistema de Gestão Comercial
+de Gás Natural
+<logo fornecedor>
+Histórico de Alterações
+Autor/Aprovador Data Versão Motivo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+    
+OAB6-0117-59E8-B2D8.
+Página 32 de 79WPmEANos
+ 
+ 
+ 
+  
+ 
+ALGÁS
+Gss de Algoas SA
+Sumário
+1. INIrOdução...ciolciicilcicilicc s 35
+1.1 . Visão Geral do Projeto
+1.2 Convenções, Termos e Abreviações
+2. ESCOPO..cissiiicic ss
+2.1 Escopo do Projeto
+2.1.1 Requisitos Funcionais 35
+2.1.2 —Requisitos não Funcionai:
+2.1.3 — Escopo Negativo.......
+2.1.4  Objetivose Prioridades.
+2.2 — PIeMISSAS....idcsnnnn o 35
+2.3 — RESriçõeS ..sc 35
+24 WBSc ss 35
+2.5 — ControledeMudanças de Escopo
+3. Critérios de Aceitação do Projeto..
+4. Equipe do Projeto
+41
+4.2
+43
+44
+4.5
+5. Infraestrutura.
+ 
+ 
+ 
+EQUIPE ..sc 36
+OTganograma......isccciiiiiiiii ss 36
+Papéis e Responsabilidades .......iiicciiiiiiisnnnnnas 36
+OUtros INteressadoS ......iiscnnnnnnnnnnnsnsssnsnssnnnnas 37
+TIeinamMentos ......iiscnnnsssss ssn 37
+ 
+ 
+ 
+ 
+ 
+5.1 / Recursos de Hardware.
+5.2 —Recursos de Software..
+6. COMUNICAÇÃO.....iciiciccc s 37
+7. Metodologia de Desenvolvimento de SOftWare.......iiicicicccccç 37
+8. Metodologia para Acompanhamento do ProOjeto.......iccicccç 38
+9. Cronograma € CUStOS......iiicccccc s 38
+9.1. Marcos do Projeto € CIONOgramMa .....issci s 38
+9.2 —“Planejamento da Alocação
+9.3 — Planejamento das Atividades X Custo 38
+9.4 Custodo Projeto
+10. Gerênciade RiSCOS ...n 39
+11. Gerênciade COnfiguração......iiccciiicicicccccc s 39
+33 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+Kulka Ribas
+    
+É
+Z
+E
+F
+g
+&
+o
+-=
+E
+<
+-
+    
+e
+Página 33 de 79WeEaNos
+ALGÁS
+Gss de Algoas SA
+12. Qualidadede SOftware......iicicccccc s
+12.1. Objetivos de Qualidade .......iissic s
+12.2 Processo de Desenvolvimento de Software
+12.2.1 . Artefatos do Projeto
+12.3 AUditorias ...c
+12.3.1 . Auditorias de Processo
+12.3.2. Auditorias de Produto
+12.3.3 Testes
+12.3.4 Tipos de Testes
+12.3.5 Artefatos de Testes
+12.3.6 Registro de Erros Encontrados
+13. "Garantia do Produto
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+14. — REferênCiaS.....isnnnnnnnnnnnnnnnnnnas 41
+34 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+1 e utilize o código 0AB6-0117-59E8-B2D8.
+     
+ 
+n Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+ 
+s
+8
+€
+o
+o
+&
+s
+S
+3
+E
+&
+o
+s
+%
+E
+E
+X
+õ
+s
+õ
+E
+s
+o
+2
+Ê
+E
+S
+E
+  
+Fernandes. Para verificar as assinaturas vá ao site https://portaldeassinaturas.c:
+2
+W
+Página 34 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+Introdução
+Visão Geral do Projeto
+Essa seção descreve em linhas gerais os objetivos do projeto, explicitando o contexto
+de negócio, a importância do projeto para todas as pessoas envolvidas e os resultados
+que deverão ser atingidos com o projeto.
+Convenções, Termos e Abreviações
+Essa seção funciona como uma forma de glossário do projeto, com termos técnicos e
+abreviações por ventura utilizadas.
+Escopo
+ 
+Escopo do Projeto
+Os requisitos representam o produto a ser desenvolvido, sejam eles funcionais ou não
+funcionais (performance, usabilidade, portabilidade, confiabilidade, etc.). Estes devem
+estar descritos de forma sucinta.
+   
+   
+Requisitos Funcionais
+Os requisitos funcionais do sistema devem ser descritos nesta seção.
+OAB6-0117-59E8-B2)
+Requisitos não Funcionais
+Os requisitos não funcionais do sistema devem ser descritos nesta seção.
+Escopo Negativo
+ltens que compõem o escopo negativo do sistema devem ser descritos nesta seção.
+Objetivos e Prioridades
+Essa subseção descreve os objetivos gerenciais do projeto e as prioridades
+estabelecidas com o cliente relativas aos objetivos do projeto: requisitos, cronograma,
+orçamento e qualidade. Estas prioridades irão embasar a tomada de decisão do
+gerente do projeto, em situações de demandas competitivas entre estes objetivos.
+Premissas
+Se aplicável, esta subseção descreve as premissas para a execução do escopo do
+projeto.
+Restrições
+Se aplicável, esta subseção descreve as possíveis restrições para a execução do
+escopo do projeto.
+WBS
+Ilustrar o WBS do projeto.
+Controle de Mudanças de Escopo
+O controle de mudanças de escopo do projeto considerará solicitações referentes a
+alterações nas especificações funcionais ou técnicas, adição de novos requisitos,
+õ
+35 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 35 de 79WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+serviços adicionais de consultoria ou apoio técnico, alterações de cronograma e/ou na
+administração do projeto como um todo. Tais solicitações podem ser propostas pelo
+cliente ou pela equipe de desenvolvimento, sendo passíveis de um novo
+dimensionamento do esforço e custo necessários à sua implementação. As solicitações
+de mudança devem ser registradas na ferramenta de controle de mudanças.
+O controle de mudanças permite a realização de acordo entre as partes, considerando s
+o impacto sobre o sistema em desenvolvimento, sobre os acordos e compromissos
+previamente estabelecidos, e sobre os cronogramas físico e financeiro do projeto. Os
+custos associados à mudança deverão ser suportados pelo cliente.
+Critérios de Aceitação do Projeto
+ 
+Essa seção visa documentar os critérios de aceitação do projeto, relativos tanto ao
+produto em desenvolvimento, quanto a aspectos da execução do projeto (custos,
+cronograma, esforço), como apropriado para o contexto do projeto. Os custos do
+projeto não ultrapassam o orçamento realizado, entre outros.
+Equipe do Projeto
+ 
+Nessa seção deve ser descrita a equipe e a organização do projeto, incluindo
+organograma e a definição de papéis e responsabilidades.
+Equipe
+Essa seção compreende informações a respeito da equipe fixa de profissionais alocada
+em tempo integral ou parcial para desenvolvimento do projeto indicando o número de
+recursos necessários para cada um dos papéis e contatos. Informar os recursos
+humanos envolvidos no projeto. Exemplo:
+ 
+ 
+Dedicaç
+: ão s
+Nome Equipe Papel (Integral E-mail / Telefone
+| Parcial)
+Integrante 1 Desenvolvime |Programad |Integral lintegranteO&fornecedor.co
+nto or m.br
+(xx) 8888.8888
+Integrante 2 Testes Testador Parcial — lintegranteOfornecedor.co
+m.br
+(xx) 8888.8888
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organograma
+Ilustrar o organograma da empresa para contemplar a realidade do projeto.
+Papéis e Responsabilidades
+Descrever os papeis e responsabilidades do projeto.
+ 
+õ
+36 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 36 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+Outros Interessados
+Nesse tópico serão apresentados outros membros internos e externos à organização
+que estão envolvidos diretamente ou não com o resultado do projeto. Exemplo:
+ 
+ 
+Nome Rela(:?ºname Descrição E-mail / Telefone
+Interessado 1 Gestor do Gestor do interessado&empresa.com.
+Contrato Contrato br
+(xx1) 8888.8888
+Interessado 2 Gerente do Membro do interessado&empresa.com.
+Setor de X Comitê do Cliente |br
+x (81) 8888.8888
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Treinamentos
+Opcional. Esta subseção descreve como é garantida a capacitação dos profissionais
+para realização das atividades e utilização das ferramentas adotadas no
+desenvolvimento do projeto.
+Infraestrutura
+ 
+Nessa seção deve ser descrita a infraestrutura utilizada para o desenvolvimento do
+projeto, incluindo: equipamentos, ferramentas, software de apoio, materiais, etc.
+Recursos de Hardware
+Nesta subseção são relacionados os equipamentos e comunicação necessários para a
+equipe de desenvolvimento do projeto, sua finalidade (por exemplo, realização de
+testes de aceitação), as quantidades necessárias e o período de utilização do
+equipamento.
+Recursos de Software
+Nesta subseção são relacionadas às ferramentas adotadas para a realização das
+atividades fundamentais e de apoio ao projeto. Devem ser incluídas novas ferramentas
+relevantes para o projeto, e excluídas aquelas não relevantes.
+Comunicação
+ 
+Descrever nesta sessão como deverá acontecer a comunicação do projeto, conforme
+definido no Plano de Comunicação do Projeto, que indica de quem, para quem, quando
+e como deverá ser a comunicação.
+Metodologia de Desenvolvimento de Software
+ 
+Nesta seção deve ser descrito e ilustrado o processo utilizado para desenvolvimento do
+projeto.
+ 
+õ
+37 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 37 de 79TIXIDINTIO)
+WPmEANos BI.
+Metodologia para Acompanhamento do Projeto
+Nesta seção devem ser relacionados os momentos para realização das atividades de
+verificação do projeto, as quais poderão ser feitas pela equipe técnica ou em conjunto
+com o cliente, e também a forma como estas atividades serão realizadas.
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+   
+ 
+Cronograma e Custos
+ 
+Essa seção deve fazer referência ao cronograma elaborado no MSProject. No
+cronograma devem constar as atividades, milestones, dependências e recursos
+humanos alocados. É importante que o baseline seja registrado, a fim de garantir
+dados para análise de planejado versus realizado.
+Marcos do Projeto e Cronograma
+Adicionar o cronograma com as principais entregas.
+Planejamento da Alocação
+Adicionar quadro com a alocação mensal da equipe.
+Planejamento das Atividades X Custo
+Descrever o planejamento das atividades por fase do projeto, com a descrição dos
+responsáveis, período das atividades e custo. Exemplo:
+Fase 1 - Planejamento:
+ 
+ 
+ 
+Atividad |Profissiona| Função do | Qtd. | Data de | Data de Valor Total
+e | Responsá | Hora | Início | Término Horas
+Responsáv vel s
+el
+Elaborar |Nome Gerente de
+PGP Projetos
+Realizar |Nome Analista de
+análise Negócio
+de
+negócio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fase 1 — Total de Horas: xxxh
+ 
+Fase 1 — Total: R$ 000,xx
+ 
+ 
+Fase 2 — Especificação dos requisitos:
+Qtd.
+Hora
+Data de
+Término
+Data de
+Início
+Atividad
+e
+Profissiona
+l
+Função do
+Responsáv
+Valor Total
+Horas
+ 
+ 
+ 
+ 
+ 
+ 
+T
+38 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 38 de 79TIXIDINTIO)
+WPmEANos BI.
+Responsáv el s
+el
+ 
+ALGÁS
+Gás de Alagoas SA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fase 1 — Total de Horas: xxxh
+ 
+Fase 1 — Total: R$ 000,xx
+ 
+Custo do Projeto
+ 
+ 
+Fases Total de Valor Total
+Horas
+Fase 1 — Planejamento XXXx XXXx
+Fase 2 — Especificação dos Requisitos XXXx XXXx
+Total Projeto XXx XXXx
+ 
+ 
+ 
+ 
+ 
+Gerência de Riscos
+Essa seção referencia o planilha de gerência de riscos do projeto.
+Gerência de Configuração
+Essa subseção referencia o plano de gerência de configuração do projeto.
+Qualidade de Software
+Essa subseção referencia o plano de gerência de qualidade do projeto.
+   
+Exemplo do Plano de Qualidade
+O objetivo da Garantia da Qualidade de Software é aumentar a qualidade do software
+monitorando o produto e seu processo de desenvolvimento. Este papel é
+desempenhado pelo Engenheiro de qualidades alocado em tempo parcial ao projeto.
+Objetivos de Qualidade
+O projeto deverá atender aos requisitos de qualidade listados
+* Garantira qualidade do processo de desenvolvimento de software adotado;
+e Garantir a qualidade dos produtos gerados durante o desenvolvimento do
+projeto.
+Processo de Desenvolvimento de Software
+Essa seção indica a metodologia de desenvolvimento de software adotada pelo projeto.
+T
+39 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 39 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+Artefatos do Projeto
+Essa subseção descreve os artefatos que serão gerados pelo projeto, de acordo com a
+metodologia de desenvolvimento adotada. Aqui, são incluídos artefatos de uso interno,
+assim como os artefatos que devem ser gerados para o cliente. A tabela a seguir é
+uma sugestão, atualize-a para contemplar a realidade do projeto.
+ 
+Auditorias
+Uma das responsabilidades da Garantia da Qualidade é assegurar que o produto e o
+processo de desenvolvimento estão de acordo com os padrões e procedimentos
+estabelecidos e que inadequações a eles são tratadas para serem corrigidas. Desta
+forma, auditorias de produto e processo serão realizadas no decorrer do projeto,
+visando:
+e Identificar desvios de processo e dos padrões estabelecidos e atuar para corrigi-
+los;
+e Identificar oportunidades de melhoria de processo;
+e Analisaro entendimento da equipe em relação ao processo.
+  
+ 
+OAB6-0117-59E8-B2
+Auditorias de Processo
+Deve ser planejadas o tipo e o que será auditado.
+ 
+Auditorias de Produto
+Deve ser planejadas inspeções e auditoria nos testes.
+Testes
+Essa seção descreve o plano de testes do projeto, incluindo detalhamento dos estágios
+e tipos de testes a serem realizados para garantir a conformidade do produto com as
+especificações de requisitos funcionais e não funcionais e a aceitação do cliente,
+descrevendo os artefatos de testes que devem ser gerados.
+Tipos de Testes
+Utilize esta seção se for importante para o cliente saber os tipos de testes a serem
+realizados no projeto.
+Artefatos de Testes
+Essa seção descreve quais os artefatos serão gerados por cada estágio de testes.
+Registro de Erros Encontrados
+Essa seção descreve como os bugs encontrados serão registrados para resolução por
+estágio de testes.
+Garantia do Produto
+ 
+Essa seção compreende informações sobre o período e condições de garantia do
+produto após sua entrega. A garantia das entregas compreende o período de 12 (doze)
+meses após o termino da vigência do contrato.
+   
+õ
+40 de 79 -
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 40 de 79INFORMAÇÃO
+m... DA
+ 
+ALGÁS
+Gás de Alagoas SA
+Referências
+ 
+Essa seção deve prover uma lista de todos os documentos relacionados a este
+documento. Para documentos internos (produzidos pela equipe de desenvolvimento do
+projeto), deve-se informar o título do documento, sua identificação e versão. Para
+documentos externos (produzidos por terceiros), forneça o máximo de informações
+possível, de forma a facilitar o acesso ao documento.
+'sinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+igo OAB6-0117-59E8-B2D8.
+ 
+;antos, e foi
+e utilize o c
+ 
+1a minuta examinada e a
+r as assinaturas vá ao si
+     
+ 
+des. Para verifi
+  
+2
+W
+o
+2
+41 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 41 de 79ALGÁS
+WPmEANos
+ 
+Gás de Alagoas SA
+ANEXO Q4.2
+SERVICE LEVEL AGREEMENT (SLA)
+O SLA relativo à prestação de serviços para o item 3. Manutenção será auferido com
+base nas regras abaixo definidas e, estando os níveis de atendimento dentro dos
+Índices máximos de tolerância estabelecidos, não haverá a incidência de descontos
+nos valores mensais pagos pela CONTRATANTE à CONTRATADA.
+ 
+ino Kulka Ribas
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. CLASSIFICAÇÃO DO GRAU DE SEVERIDADE:
+1.1. O grau de severidade de cada incidente registrado pela CONTRATANTE será
+ser definido do cruzamento entre o nível de criticidade e o nível de
+complexidade, conforme tabela abaixo:
+Nível de Complexidade
+Nível de Baixo Médio Alto
+Criticidade
+Baixo Grau de Severidade | Grau de Grau de Severidad
+3 Severidade 2 1
+Médio Grau de Severidade | Grau de Grau de Severidad
+4 Severidade 3 2
+Alto Grau de Severidade | Grau de Grau de Severidad
+5 Severidade 4 3
+Tabela 1 - Classificação do Grau de Severidade
+2. DEFINIÇÃO DO NIVEL DE CRITICIDADE:
+2.1. A CONTRATANTE irá indicar, quando da abertura dos chamados para o registro
+das não conformidades encontradas, os seguintes critérios para atribuir o nível
+de criticidade de uma ocorrência:
+2.1.1. Nível de Criticidade Baixo: chamados que caracterizam situações que causem
+quase nenhum impacto no fluxo de trabalho do GGAS, ou situações de
+esclarecimentos sobre a utilização do sistema. Tal problema causa dificuldade
+para efetuar o trabalho normal da CONTRATANTE, embora existam alternativas
+disponíveis no sistema para sua realização. A não solução do problema pode
+resultar em redução da produtividade, porém não afeta, de maneira alguma, a
+geração de receitas monetárias;
+2.1.2. Nível de Criticidade Médio: chamados que caracterizam uma situação de médio
+impacto no fluxo de trabalho do GGAS, intervindo em atividades com prazo
+ocasionando perdas financeiras ou comprometimento da imagem da
+42 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017ALGÁS
+Gás de Alagoas SA
+2.1.8.
+3.1.
+3.2.
+3.3.
+4.1.
+4.2.
+WPmEANos
+ 
+CONTRATANTE, sem que exista alternativa sistêmica para que os usuários
+deem continuidade no trabalho.
+ 
+Nível de Criticidade Alto: chamados que caracterizem a impossibilidade da e
+continuidade de fluxos de processo do GGAS, atingindo diretamente os
+processos críticos como os processos de: medição, faturamento, integração
+entre sistemas, fechamento contábil e/ou entregas de obrigações acessórias que
+impedem a continuidade do negócio da CONTRATANTE.
+ino Kulka Ribas
+    
+DEFINIÇÃO DO NIVEL DE COMPLEXIDADE:
+O CONTRATADO deverá indicar, quando da abertura dos chamados realizados
+pela CONTRATANTE, o nível de complexidade que a ocorrência possui em
+detrimento do esforço necessário para que ela proceda para com a correção do
+problema que afeta o GGAS;
+Esse nível de complexidade deverá cobrir todo o tempo despendido pela equipe
+do CONTRATADO desde o levantamento / investigação do problema até a
+execução dos procedimentos de desenvolvimento de código, criação de scripts e
+de ajuste do problema dentro da infraestrutura da CONTRATANTE;
+A CONTRATANTE poderá solicitar que o CONTRATADO justifique, com
+argumentos técnicos, o nível de complexidade definido pela sua equipe, e caso
+julgue, após avaliação dos argumentos técnicos, que o nível de complexidade da
+ocorrência é menor, solicitar ao CONTRATADO a sua alteração para nível
+inferior.
+TEMPO DE RESOLUÇÃO DE INCIDENTES
+O tempo máximo aceitável para que a CONTRATADA resolva os incidentes
+registrados pela CONTRATANTE será definido em função do seu grau de
+severidade de cada ocorrência.
+O tempo de resolução determinado para cada incidente será indicado em função
+do seu grau de severidade, conforme tabela abaixo:
+ 
+  
+TEMPO MÁXIMO DE RESOLUÇÃO ACEITÁVEL POR;
+GRAU DE SEVERIDADE
+(Demandas resolvidas no prazo em relação ao total d
+demandas no mês calendário)
+GRAU DE
+SEVERIDADE
+ 
+30 (Trinta) horas úteis
+ 
+24 (Vinte e Quatro) horas úteis
+ 
+ 
+ 
+1
+2
+3 16 (Dezesseis) horas úteis
+4
+ 
+ 
+12 (Doze) horas úteis
+ 
+ 
+43 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ 
+ 
+ 
+5 6 (Seis) horas úteis
+Tabela 2 - Tempo Máximo
+ 
+ 
+ 
+Joelmfa Go
+4.3. Havendo a necessidade de promover prazos diferenciados para demandas em
+caráter especial ou extraordinário, o prazo de conclusão da demanda deverá ser
+deliberado pela CONTRATANTE em comum acordo com o CONTRATADO.
+5. DESCONTOS DE ACORDO COM O NÍVEL DOS SERVIÇOS
+nti Filho, Luciano Kulka Ribas e
+  
+5.1. A inobservância pelo CONTRATADO no que se refere ao tempo máximo para a
+resolução dos incidentes registrados, resultará em um desconto estipulado de
+acordo com a tabela a seguir:
+5.2. Todos os tempos definidos na tabela abaixo deverão considerar, para fins de
+contabilização, dias úteis e horários comercias.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NÍVEL MÍNIMO DE SERVIÇO DESCONTOS
+E Percentual de Desconto por
+EEA Tempo de Conclusão Hora que Ultrapassar o Tempo
+de Conclusão
+? - -
+1 30 (Trinta) horas úteis 0,02% (zero vírgula zero dois por
+cento)
+? 7
+2 24 (Vinte e Quatro) horas úteis 0,04% (zero vírgula zero quatro
+por cento)
+: o 0,125% (zero vígula e cento e
+3 16 (Dezesseis) horas úteis vinte e cinco por cento)
+? - - -
+4 12 (Doze) horas úteis 0,25% (zero vírgula vinte e cinco
+por cento)
+5 6 (Seis) horas úteis 0,8% (zero vírgula oito por cento)
+ 
+ 
+Tabela 3 - Valores dos Descontos
+5.3. Os percentuais acima indicados incidirão sobre o valor mensal relativo ao item
+de Manutenção.
+5.3.1. Caso a CONTRATANTE efetue o registro de uma ou mais não conformidades
+no SGI do CONTRATADO fora do horário de atendimento que está definido no
+ANEXO Q4 MEMORIAL DESCRITIVO - GGAS, item 4. Objetivos
+Específicos, subitem 4.1.3. Manutenção, teremos como hora inicial da
+contagem do tempo para que o problema seja sanado na primeira hora útil do
+período seguinte à abertura da ocorrência.
+5.4. Quando um incidente, independente do grau de severidade no qual ele está
+enquadrado, não for resolvido pelo CONTRATADO dentro do prazo máximo
+ 
+e
+44 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 44 de 79WPmEANos
+ 
+ALGÁS
+Gss de Algoas SA
+indicado pela CONTRATANTE, a cobrança incidirá sobre a quantidade de
+horas, arredondada em uma casa decimal, que ultrapasse este prazo, até que :
+o CONTRATADO efetue o ajuste da rotina, processo e/ou funcionalidade do &
+sistema:
+ 
+5.4.1. Os valores dos descontos ficarão limitados ao valor pago mensalmente
+pela CONTRATANTE a título de Manutenção;
+Ino Kulka Ribas e
+   
+5.4.2. Caso o valor do desconto relativo à cobrança do SLA seja menor do que o
+valor pago mensalmente pela CONTRATANTE, haverá, por parte da
+CONTRATANTE, o pagamento a título de Manutenção, somente da
+diferença entre o valor total devido menos o valor relativo à cobrança de
+SLA do período de apuração;
+5.4.3. Caso o valor do desconto relativo à cobrança do SLA seja igual ao valor
+pago MENSALMENTE pela CONTRATANTE, não haverá, por parte da
+CONTRATANTE, nenhum pagamento a título de Manutenção;
+Z
+e
+=
+Õ
+3
+<
+      
+5.4.4. Caso o desconto relativo à cobrança do SLA seja maior ao valor pago
+mensalmente  pela CONTRATANTE, não haverá, por parte da
+CONTRATANTE, nenhum  pagamento a título de Manutenção.
+AB6-0117-59E8-B2D8.
+45 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017ANEXO Q4.3
+CRITÉRIOS DE ACEITAÇÃO
+Regra para Aceitação das Submissões
+Para que o código produzido pelo CONTRATADO seja aceito, e, consequentemente mesclado para a linha principal pelo
+mantenedor, ele deverá antes passar por todas as etapas do processo ilustrado na imagem abaixo:
+&
+2
+S
+S
+E
+ 
+ 
+ 
+ 
+ 
+  
+[auditnra de codigo.
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ar/ e utilize o código 0AB6-0117-59E8-B2D8.
+    
+la examinada e a
+ 
+ 
+ 
+brzSoi
+ 
+Página 46 de 79Dessa forma, os critérios para aceitação do código seguirão as regras descritas a
+seguir:
+1.
+2.
+O Jenkins deve conseguir compilar o código fonte com sucesso;
+O Jenkins deve conseguir construir o pacote de trabalho com sucesso;
+O Jenkins deve executar os testes unitários disponíveis na versão e TODOS os :
+testes devem retornar sucesso em sua execução;
+O Sonar deve executar a ferramenta de inspeção automática do código com o
+Quality Profile GGAS (arquivo de regras customizado pela equipe de
+conformidade do mantenedor do ambiente com 646 regras) e TODOS os níveis
+de não conformidades NÃO poderão, em hipótese alguma, subir as
+quantidades anteriormente indicadas no Sonar. Os níveis de não conformidade
+configurados no Sonar são:
+- Blocker
+- Critical
+- Major
+- Minor
+- Info
+Por exemplo, se a quantidade de não conformidades do tipo Critical for 445, em
+um dado momento do projeto, e após a submissão do fornecedor ela aumentar
+para 446 (ou qualquer número superior) o código será classificado com
+rejeitado, ou seja, ele não atendeu ao critério 4 deste conjunto de regras e o
+fornecedor deverá corrigi-lo até que ele seja menor ou igual a 445.
+O Sonar deve executar a ferramenta EclEmma para aferir a cobertura dos
+testes automáticos e, se o percentual de cobertura do código for igual ou
+inferior ao percentual anteriormente indicado no Sonar, o código será
+classificado com rejeitado, ou seja, ele não atendeu ao critério 5 deste conjunto
+de regras e o fornecedor deverá corrigi-lo até que ele seja obrigatoriamente
+superior ao percentual de testes automáticos anteriormente indicados na
+ferramenta.
+A Equipe de Conformidade do Mantenedor deve executar uma bateria de
+testes realizando testes automatizados no Selenium, testes funcionais
+exploratórios e testes de performance. Para que seja possível a realização dos
+testes, o CONTRATADO deverá incluir obrigatoriamente os scripts necessários
+para atualização do banco de dados, se for o caso. Caso não seja possível
+testar a aplicação em virtude do não envio dos scripts do banco de dados; ou
+caso algum Bug crítico seja encontrado e a Equipe de Conformidade
+considerar este suficientemente relevante, esta Equipe deverá registrar uma
+nota técnica na própria tarefa de requisição da ferramenta Redmine, e a
+CONTRATANTE proprietária da tarefa, será convidada a decidir pela rejeição
+ou não da submissão. Caso a CONTRATANTE opte pela não aprovação do
+código, o mesmo será classificado com rejeitado, ou seja, ele não atendeu ao
+47 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+2
+Página 47 de 79critério 6 deste conjunto de regras e o fornecedor deverá corrigi-lo para que o
+código possa ser mesclado ao Branch Develop.
+  
+  
+ 
+  
+  
+    
+  
+7. A Equipe de Conformidade do Mantenedor deve realizar o processo de
+inspeção manual do código e NÃO deve encontrar não conformidades no
+código submetido pelo CONTRATADO. Caso a não conformidade seja
+encontrada, e a Equipe de Conformidade considerar essa suficientemente «
+relevante, esta Equipe deverá registrar uma nota técnica na própria tarefa de
+requisição da ferramenta Redmine, e a CONTRATANTE proprietária da tarefa,
+será convidada a decidir pela rejeição ou não da submissão. Caso a
+CONTRATANTE opte pela não aprovação do código, o mesmo será
+classificado com rejeitado, ou seja, ele não atendeu ao critério 7 deste conjunto
+de regras e o fornecedor deverá corrigi-lo para que o código possa ser
+mesclado ao Branch Develop.
+Caso todas as 7 regras descritas anteriormente passem com sucesso pelo processo de
+auditoria descrito acima, e as implementações entregues atendam aos parâmetros de
+performance indicados pelo processo, estará o código submetido pelo CONTRATADO
+aprovado pela equipe mantenedora do GGAS.
+T
+48 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 48 de 79ANEXO Q4.4
+    
+ 
+    
+ 
+   
+  
+AMBIENTE DE GERENCIAMENTO, CONTROLE E VERSIONAMENTO
+ÍNDICE
+INtrOdução ......iiscic s
+Ambientes de Trabalho no Projeto GGAS
+ACesso ao PIOjeto......vissis s
+O Ambiente Local de Desenvolvimento no Projeto GGAS.......iiicics
+Fluxo de Desenvolvimento do Projeto GGAS .
+Regra de Nomenclatura dos BranCches.......isisiiicii s
+Regra da Numeração do Versionamento do Sistema GGAS
+ 
+49 de 79 F.
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 49 de 79Introdução
+   
+   
+Esse documento tem por objetivo descrever tecnicamente o ambiente utilizado no
+processo de gerenciamento, auditoria e controle de versões do sistema do GGAS, bem
+como, o fluxo de desenvolvimento utilizado através do GIT.
+Ambientes de Trabalho no Projeto GGAS
+Esta sessão descreve os conceitos e ferramentas utilizados nos ambientes de trabalho
+do GGAS e fornece instruções para acesso ao ambiente.
+O Ambiente Remoto de Gerenciamento, Controle e Versionamento do Projeto GGAS
+O ambiente remoto de gerenciamento, controle e versionamento do projeto GGAS tem
+por objetivo principal gerenciar o versionamento do projeto GGAS e aplicar conceitos
+tidos como boas práticas de Engenharia de Software como:
+U Versionamento distribuído;
+. Integração Contínua;
+. Análise estática de código;
+. Auditoria especializada de código e
+. Execução de testes automatizados.
+Para implementar os conceitos descritos acima, foram utilizadas as seguintes
+ferramentas:
+Versionamento distribuído:
+º A tecnologia que será utilizada como sistema de controle de versão do projeto
+GGAS será o Git. Os projetos serão armazenados e gerenciados pela ferramenta
+GitLab (v. 7.5.1), que pode ser visualizada no endereço: http://www.ggas.com.br.
+Integração Contínua:
+º O conceito de integração contínua está atendido no ambiente através da
+ferramenta Jenkins (v. 1.598), que tem a tarefa de monitorar a atualização no
+repositório GIT e, quando este é atualizado, rodar todas as tasks configuradas no
+arquivo build.gradle, que está localizado na raiz do projeto GGAS. Desta forma, o
+Jenkins irá rodar automaticamente a compilação do código; a geração do pacote de
+trabalho (.war); a execução dos testes unitários implementados, e a execução da
+análise estática do código através da ferramenta SonarQube. Os resultados dos builds
+executados pelo Jenkins podem ser visualizados publicamente no endereço: <
+http://jenkins.ggas.com.br.
+Análise estática de código:
+º A análise estática do código é realizada através da ferramenta SonarQube (v.
+5.0) que é um software open-source que se propõe a ser a central de qualidade do seu
+código-fonte, possibilitando o controle sobre um grande número de métricas de
+software, e ainda apontando uma série de possíveis bugs e práticas desaconselháveis
+de programação. Tudo isso é gerado através de uma análise completa do código, e
+após isso os resultados obtidos são mostrados através de uma interface web, em forma
+T
+50 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 50 de 79de dashboards e gráficos. O SonarQube configurado para o projeto GGAS pode ser
+visualizado publicamente no endereço: http://sonar.ggas.com.br.
+    
+ 
+    
+   
+  
+   
+  
+Auditoria especializada de código:
+º Após a conclusão com sucesso do build na ferramenta Jenkins, o código
+submetido será analisado por uma equipe especializada que irá avaliar se a quantidade ?
+de violações do SonarQube aumentou, se a cobertura de testes do código aumentou e
+irá analisar, de uma forma geral, a qualidade do código implementado.
+Execução de testes automatizados:
+º Os testes automatizados são executados através de uma task durante o
+processo de geração de build do Jenkins. Caso algum teste falhe durante o processo, o
+build não será concluído e será enviado automaticamente um e-mail para os envolvidos
+no projeto com a notificação da falha.
+Em virtude do exposto, pode-se dizer que o ambiente remoto de gerenciamento,
+controle e versionamento do projeto GGAS é composto pela utilização integrada das
+ferramentas: GitLab, Jenkins e SonarQube.
+Acesso ao Projeto
+O projeto GGAS está disponível publicamente na ferramenta Gitlab no endereço
+http://www.ggas.com.br, através dos seguintes projetos:
+Código Principal do GGAS:
+º http://www.ggas.com.br/root/ggas
+Código Relativo ao Projeto da Agência Virtual:
+º http://www.ggas.com.br/root/ggas agencia
+Código Relativo ao Projeto da Nota Fiscal Eletrônica:
+º http://www.ggas.com.br/root/ggas nfe
+Documento do GGAS*
+º http://redmine.ggas.com.br/projects/ggas-evolucao-sistema/documents
+Obs.: *Os documentos listados nesse repositório estão em constate atualização.
+Para desenvolver no projeto GGAS, é necessário ter uma credencial de acesso
+(usuário e senha) na ferramenta GitLab. Essa credencial será fornecida mediante a
+prévia solicitação ao endereço de e-mail: contatoO& ggas.com.br.
+A solicitação será analisada pelo mantenedor do sistema e, caso aprovada, serão <
+enviadas as instruções de acesso ao Gitlab do sistema GGAS, bem como, a URL do
+repositório para que seja possível baixar a respectiva branch, e assim poder
+desenvolver para o GGAS.
+O Ambiente Local de Desenvolvimento no Projeto GGAS
+Para configuração do ambiente local de desenvolvimento no projeto GGAS, é
+necessário instalar e configurar minimamente as seguintes ferramentas:
+Java Development Kit (JDK) 7: ferramenta para o desenvolvimento de aplicações na
+linguagem de programação Java. Pode ser obtida gratuitamente no endereço:
+T
+51 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 51 de 79º http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk7-downloads-
+1880260.html
+IDE para desenvolvimento em Java: recomenda-se a utilização da ferramenta
+Eclipse (Luna Release) que pode ser obtida gratuitamente no endereço:
+ 
+  
+ 
+   
+   
+   
+  
+   
+   
+ 
+ 
+ 
+ 
+    
+º http://www .eclipse.org/downloads/packages/eclipse-ide-java-ee-
+developers/lunasr2
+Sistema de controle de versão GIT (v. 1.9.4): a ferramenta pode ser obtida
+gratuitamente no endereço:
+º https://git-sem.com/downloads
+Gradle (v. 2.2.1): O GGAS foi construído utilizando a IDE Eclipse como ferramenta de
+desenvolvimento. Mesmo sendo sabedores de que o Eclipse IDE é a IDE de
+desenvolvimento Java mais utilizada no mercado não devemos restringir que o
+desenvolvimento seja feito única e exclusivamente por esta IDE. Por este motivo, foi
+feito um trabalho de adequação do projeto do GGAS utilizando o framework Gradle. O
+Gradle é um sistema de automatização de builds, assim como o Apache Ant e Apache
+Maven, que tem a finalidade de combinar a flexibilidade do Ant com o gerenciamento
+de dependências e convenções do Maven de maneira eficaz. Essa ferramenta pode ser
+obtida gratuitamente no endereço:
+º https://gradle.org/downloads
+Banco de Dados Relacional Oracle Express Edition 11g: Após a instalação do
+banco de dados, será necessário: (1) criar os usuários GGAS ADMIN e GGAS OPER;
+(2) dar permissão de DBA as mesmos e (3) executar os scripts”.sql” localizados na
+pasta SQL da raiz da projeto. O SGBD pode ser obtido gratuitamente no endereço:
+º http://www.oracle.com/technetwork/pt/database/express-
+edition/downloads/index.html
+Além das ferramentas acima descritas, recomenda-se que seja montada localmente
+uma infraestrutura semelhante à descrita no item que trata do Ambiente Remoto de
+Gerenciamento, Controle e Versionamento do Projeto GGAS. Esse espelho local da
+infraestrutura definida remotamente dará a oportunidade de o fornecedor poder
+antecipar possíveis problemas que seriam encontrados remotamente pela equipe de
+conformidade do GGAS. Desta forma, o fornecedor poderá corrigir estes problemas
+antes da submissão (push) no ambiente remoto descrito . Caso o fornecedor entenda
+ser importante essa montagem do ambiente local de auditoria e controle, será
+necessário instalar e configurar as seguintes ferramentas:
+GitLab: é uma solução open-source, rápida, segura e estável que tem como objetivo
+montar um servidor próprio de gerenciamento de projetos Git privados. Essa
+ferramenta pode ser obtida gratuitamente no endereço:
+º https://about.gitlab.com/downloads
+Jenkins: é um sistema de Integração Contínua (CI), projetado para fazer builds
+automáticos de um projeto a partir de gatilhos pré-definidos (periódico, a cada push no
+repositório, ao acessar uma URL, etc.). Essa ferramenta pode ser obtida gratuitamente
+no endereço:
+º https://jenkins-ci.org
+SonarQube: Para a instalação local do Sonar será necessário seguir os seguintes &
+passos:
+T
+52 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 52 de 79º Instalar o banco de dados MySQL;
+º Baixar o arquivo SQL indicado no link abaixo:
+. http://sonar.ggas.com.br/download/sonar.sq!l
+º Abrir o banco de dados MySQL e executar o script sonar.sql;
+º Fazer o download do Sonar em:
+. http://sonar.ggas.com.br/download/sonarqube-5.0.tar.gz
+º Descompactar o arquivo, entrar no diretório sonarqube-5.0/conf/ e editar o arquivo
+sonar.properties, colocando o usuário e senha do banco MySQL instalado
+anteriormente;
+º Entrar no diretório sonarqube-5.0/bin/<seu sistema> e executar o arquivo
+sonar.bat ou sonar.sh respectivamente para Windows e Linux;
+º Verificar se o Sonar está rodando corretamente no endereço: http://localhost:9000
+º Utilizando o eclipse, instalar o plugin do sonar através do Eclipse Market Place.
+Instale o plugin SonarQube 3.4.0.
+º Abra o arquivo build.gradle localizado na raiz do projeto, e edite a task
+sonarProperties, com as informações específicas do seu ambiente;
+º No Eclipse, clique com o botão direito no projeto e execute a opção: Run As —
+Gradle Build ... ; execute a task sonarRunner.
+º Após a conclusão da task sonarRunner, já será possível visualizar o resultado no
+endereço http://localhost:9000.
+º No eclipse, clique com o botão direito no projeto e execute a opção: Configure —
+Associate with SonarQube ... ; faça a associação do projeto com o projeto criado
+pela Task sonarRunner.
+º Após o projeto estar associado, é possível rodar a análise do projeto. Clique com
+o botão direito no projeto e execute a opção: SonarQube — Analyze.
+Fluxo de Desenvolvimento do Projeto GGAS
+Conforme dito em sessões anteriores, o processo de trabalho proposto utilizará o
+sistema de controle de versão Git. Mas antes de apresentar o fluxo, faz-se necessário
+um bom entendimento do conceito de Branch.
+Quase todos os Sistemas de Controle de Versão têm alguma forma de suporte à
+ramificação (branching). Criar um branch significa que você vai clonar a última versão
+da linha principal de desenvolvimento e continuar a trabalhar em possíveis bugs e
+novas funcionalidades sem causar danos na linha principal de produção que «
+provavelmente está no ar em alguma empresa e não pode receber falhas. Desta forma,
+pode-se dizer que um branch é uma cópia do projeto. Cada branch pode ser editado e
+evoluído independentemente em linhas paralelas a linha principal do projeto.
+ 
+o o o branch master
+branch feature1
+53 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+ 
+   
+ 
+  
+ 
+    
+T
+Página 53 de 79Figura 1 — Exemplo de um Branch.
+Dentro do processo proposto, haverá um fluxo de trabalho baseado no
+desenvolvimento com várias linhas de desenvolvimento (branches) podendo o branch
+ser o Master principal (caixa verde da Figura 2), Develop (caixa vermelha), Master do
+Fornecedor/CDL (caixas em azul-claro), de Features do Fornecedor/CDL (círculos azul-
+escuro) ou de Bugfixes (círculos rosas), conforme pode ser visualizado na Figura 2.
+    
+OAB6-0117-59E8-B2D8.
+54 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 54 de 79Fluxo de Trabalho do Projeto GGAS no Git
+. Linha principal do GGAS . Linha Principal do Formecedor (Auditada)
+Linha de Desenvolvimento e : :
+Integração dos Fornecedores (Auditada) . Linhas de Desenvolvimento (1..n)
+O Linhas de Correções (1..n) (Auditada)
+Acesso: Acesso: Acesso: “Acesso: Acesso: Acesso:
+- Mantenedor - Nantenedor - Fornecedor À - Fornecedor B -CDLA - Mantenedor
+   
+examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+Iaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o código 0AB6-0117-59E8-B2D8,
+Figura 2 — Exemplo do Fluxo de Trabalho do GGAS no Git.
+ 
+Neste fluxo, os branches Master e Develop são considerados históricos — isso porque
+eles guardarão a história do projeto. As tags de marcação de release são feitas no
+º
+2
+ê
+2
+É
+S
+E
+2
+8
+s
+2
+Ú
+Fernandes. Para vei
+55 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 55 de 79Master e o Develop serve como branch de integração para branches de features de 7
+fornecedores e/ou CDL's.
+ 
+A versão disponibilizada na linha principal do projeto (Master) receberá o número de
+versão 1.0.0 e será evoluída conforme descrito na sessão “Regra de Nomenclatura dos
+Branches” deste documento.
+A Figura 2 mostra um exemplo hipotético de um determinado momento do ciclo de
+desenvolvimento do GGAS, na ilustração, é clonado o projeto na versão 1.0.0 do
+branch Master para o Branch Develop e depois para Branch do Fornecedor B. Isso
+significa que o Fornecedor B iniciará o desenvolvimento de alguma Requisição de
+trabalho de uma CDL. Desta forma, será disponibilizado o Branch para o Fornecedor B
+que poderá cloná-la para um repositório local nas estações de trabalho da sua própria
+empresa, o Fornecedor B trabalhará por algum tempo naquela Requisição e, durante
+esse tempo, ele poderá dar vários commits no seu repositório local. Quando a
+requisição estiver totalmente pronta, o fornecedor dará um Push (envia as modificações
+para o servidor) para o Branch do servidor remoto (representadas nas bolas azuis
+escuras) e o fornecedor fará o merge para a sua Branch principal (representada na
+bola azul clara), assim que o Branch principal do fornecedor for atualizado, será dado
+automaticamente o start para o processo de auditoria automática do código e logo em
+seguida para todas as etapas previstas no processo de Controle e Auditoria do sistema
+GGAS (descritas no ANEXO Q4.3 CRITÉRIOS DE ACEITAÇÃO). Caso o código
+avaliado no branch principal do Fornecedor B passe pelos critérios de qualidade
+estabelecidos no processo e seja aprovado, o Mantenedor será notíificado e ele será
+mesclado no Branch Develop pelo Mantenedor.
+Icanti Filho, Luciano Kulka Ribas
+ 
+O branch Develop será o Branch que conterá os merges de todos os
+fornecedores/CDL's antes de irem para a versão oficial do sistema, desta forma,
+quando chegar um código no Branch Develop proveniente do merge dos Branches dos
+fornecedores/CDL's, esse código também será auditado no processo de Controle e
+Auditoria do sistema. Caso todas as etapas do processo de controle de qualidade
+passem com sucesso, o Mantenedor fará um merge para o Master e será gerada uma
+versão para a disponibilização no Portal de Software Público.
+Em virtude do exposto, tem-se que o processo de Controle e Auditoria do sistema será
+executado em dois momentos dentro do ciclo de vida de uma requisição de trabalho. O
+primeiro momento será quando do merge do fornecedor para o seu respectivo Branch
+principal e o segundo momento será quando do merge do código do Branch do
+fornecedor para o Branch Develop que terá o código concluído de todos os
+fornecedores. Passados por esses dois momentos de auditoria, a requisição do
+fornecedor será incluída na versão disponibilizada no Master.
+Outro ponto importante a ser explicado na figura, é o funcionamento do Branch Hotfix
+(representados pelas bolas rosa claro). Cada fornecedor terá nenhum ou vários
+Branches de Hotfix que serão criados pelo Mantenedor no momento que for aberta
+e
+56 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 56 de 79uma requisição de correção no Redmine. Ao concluir a correção, o fornecedor dará o
+push no código e, assim que o servidor receber as modificações, o processo de
+Controle e Auditoria do sistema será executado, ou seja, todos os Branches de Hotfix &
+criados pelo Mantenedor para os fornecedores, também serão monitorados pelo[
+processo de auditoria automática do código. Caso todas as etapas passem com
+sucesso, o fornecedor será notificado e ele poderá gerar uma versão emergencial e
+disponibilizá-la para seu respectivo cliente (CDL). Após entregar a versão emergencial
+para a CDL, o fornecedor deverá obrigatoriamente fazer um merge para o seu Branch
+principal. Quando o código chegar na linha principal, será rodado o processo de
+auditoria e o Mantenedor será notificado quando da conclusão com sucesso, este fará
+o merge para a Branch Develp e posteriormente para o Master, onde o código de
+correção realizado pelo fornecedor poderá ser disponibilizado na versão principal do
+sistema.
+   
+Em síntese, o processo de correção de bugs seguirá as seguintes etapas:
+É aberta uma requisição de trabalho no Redmine para correção do(s) problema(s);
+2. O mantenedor cria um Branch de Hotfix para o fornecedor com a última versão do
+código disponível no Portal de Software Público;
+3. O Fornecedor atua e conclui as correções especificadas na requisição aberta;
+O Fornecedor dá um Push no código do Branch de Hotfix;
+O servidor reconhece a atualização do código do Branch de Hotfix e roda o
+processo de auditoria automática do código;
+6. Após o sucesso do processo de auditoria, o Fornecedor é notificado e o mesmo
+gera uma versão emergencial a partir do Branch de Hotfix e disponibiliza a CDL;
+ 
+7. O Fornecedor faz o merge do código do Branch de Hotfix para o seu Branch
+principal;
+ 
+8. O servidor reconhece a atualização do código do Branch principal do fornecedor e
+roda o processo de auditoria automática do código;
+9. Após o sucesso do processo de auditoria, o mantenedor será notificado e este fará
+o merge para o Branch Develop e posteriormente para o Master.
+Vale salientar a importância do passo 7 no processo descrito acima, essa atividade é
+obrigatória por parte do fornecedor e caso o mesmo não faça o merge para o seu
+Branch principal, a correção ficará armazenada apenas no Branch de Hotfix, isso :
+resultará na perca do código de correção quando o fornecedor atualizar a versão do
+sistema a partir do Portal de Software Público.
+O objetivo deste fluxo de trabalho é possibilitar o desenvolvimento em paralelo de
+vários fornecedores simultaneamente através da utilização boas práticas de controle de
+versionamento de sistemas e de técnicas e ferramentas eficientes e consolidados na
+indústria de engenharia de software.
+ 
+e
+57 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 57 de 79Regra de Nomencilatura dos Branches
+O projeto possuirá Branches fixos e Branches criados sobre demanda. Os Branches
+fixos são:
+GGAS
+º MASTER — utilizado pelo mantenedor.
+º “DEVELOP - utilizado pelo mantenedor.
+MANTENEDOR
+º “MASTER — linha principal do mantenedor.
+FORNECEDOR AÀ
+º “MASTER — linha principal do fornecedor A.
+FORNECEDOR B
+º “MASTER — linha principal do fornecedor B.
+CDLA
+º “MASTER — linha principal da CDLA.
+Desta forma, cada ator terá no mínimo uma linha principal de desenvolvimento.
+Os Branches sob demanda serão criados para atendimento de requisições de trabalho
+do Redmine (Tarefas cadastradas pelas CDL's), para atendimento de novas
+funcionalidades e/ou correção de Bugs. Esses Branches sob demanda seguirão o
+seguinte padrão de nomenclatura:
+<nome fornecedor> <tipo do branch> <número da tarefa do redmine>.
+O Branch poderá ser de dois tipos:
+* DEV: para indicar branches de novas funcionalidades;
+* HOTFIX: para indicar branches de correções;
+Desta forma, a estrutura de Branches existentes no projeto poderá ser representada
+pelo exemplo abaixo:
+GGAS
+º MASTER — utilizado pelo mantenedor.
+º “DEVELOP - utilizado pelo mantenedor.
+MANTENEDOR
+º “MASTER — linha principal do mantenedor.
+º MANTENEDOR DEV 7764
+58 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+Ú
+Página
+ 
+2º MANTENEDOR DEV 8810
+º MANTENEDOR HOTFIX 0909
+FORNECEDOR A
+º “MASTER — linha principal do fornecedor A.
+º "FORNECEDORA DEV 1122
+º FORNECEDORA DEV 1414
+º FORNECEDORA DEV 9851
+FORNECEDOR B
+º “MASTER — linha principal do fornecedor B.
+º FORNECEDORA DEV 8712
+º FORNECEDORA HOTFIX 0010
+º FORNECEDORA HOTFIX 0011
+º FORNECEDORA HOTFIX 0801
+CDLA
+º “MASTER — linha principal da CDLA.
+º CDLA HOTFIX 7410
+Regra da Numeração do Versionamento do Sistema GGAS
+A versão disponibilizada na linha principal do projeto (Master) receberá o número de
+versão 1.0.0 e evoluirá de acordo com a seguinte regra:
+O primeiro número, antes do primeiro ponto (3.8.2), representará a versão principal do
+sistema e será incrementado apenas no caso de alterações significativas. Por exemplo,
+quando da mudança da arquitetura interna do sistema, quando da mudança da
+interface gráfica, quando da inclusão de um novo módulo com representação
+significativa dentro do sistema e etc. Desta forma, se a versão do GGAS for, por
+exemplo, 3.8.2, pode se dizer que os sistemas estão na sua 3º. Versão.
+    
+O segundo número, após o primeiro ponto (3.8.2), representará a disponibilização de
+novas funcionalidades significativas ou não dentro da versão atual do sistema. Por
+exemplo, quando da inclusão de novas informações em alguma tela, ou a inclusão de
+alguma nova regra de negócio de algum processo interno. Desta forma, se a versão do
+GGAS for, por exemplo, 3.8.2, pode se dizer que já foram disponibilizadas 8 versões
+com novas funcionalidades para a 3º. versão do sistema.
+O terceiro número, após o segundo ponto (3.8.2), representará a disponibilização de
+versões de correção para a versão atual do sistema. Por exemplo, quando da
+necessidade de se corrigir algum bug em uma tela, ou alguma regra de negócio
+e
+59 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 59 de 79implementada incorretamente. Desta forma, se a versão do GGAS for, por exemplo,
+3.8.2, pode se dizer que já foram disponibilizadas 2 versões de correção para a versão
+3.8 do sistema.
+g
+=
+S
+5
+o
+S
+E
+ 
+talmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Jo
+e o código OAB6-0117-59E8-B2D8.
+      
+  
+   
+ 
+on Souza San
+ 
+ar as assinaturas vá ao site https://po!
+Fernandes. Para ve
+Este
+60 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 60 de 79ANEXO Q4.5
+ 
+SISTEMA DE GESTÃO DE INCIDENTE (SGI)
+1. ASPECTOS GERAIS:
+1.1. É de responsabilidade do CONTRATADO disponibilizar um Sistema de Gestão
+de Incidentes (SGI) web e fornecer o acesso para a CONTRATANTE por meio
+de usuário e senha.
+1.2. A CONTRATANTE efetuará o ingresso, quando se fizer necessário, do registro
+de uma ou mais ocorrências de não conformidade do GGAS no SGI fornecido
+pelo CONTRATADO, seguindo o processo de gerenciamento de bug tracking a
+ser definido entre as partes, quando da assinatura do contrato, para fins de
+acompanhamento e controle da execução das demandas e resolução dos
+incidentes.
+z
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2. AVALIAÇÃO DOS ATENDIMENTOS:
+2.1. Deverão estar descritos nesse processo todas as etapas para o atendimento da
+demanda que vai desde o registro da ocorrência de não conformidade até o
+encerramento desta ocorrência que deverá ser validada e avaliada pela
+CONTRATANTE para futura medição do nível de satisfação para com os
+serviços prestados pelo CONTRATADO.
+2.2. Assim sendo, a ferramenta de SGI deverá dispor de painel de bordo onde a
+CONTRATANTE possa acompanhar, além da evolução que trata das
+ocorrências abertas por ela, até a pontuação atribuída para os atendimentos
+realizados que terão os seguintes valores de avaliação (após a finalização do
+ticket de serviço associado ao atendimento):
+* O-— Não atendeu a demanda dentro das necessidades da CONTRATANTE
+e 5 — Atendeu parciamente a demanda dentro das necessidades da
+CONTRATANTE;
+* 10 — Atendeu completamente a demanda dentro das necessidades da
+CONTRATANTE.
+3. ITENS MÍNIMOS OBRIGATÓRIOS DO SGI A SER FORNECIDO PELO
+CONTRATADO:
+3.1. Para todo registro de ocorrências para relatar um incidente / não conformidade
+pela CONTRATANTE, deverão ser armazenadas, minimante, as seguintes
+informações:
+3.1.1. Identificação do requisitante que fez o registro;
+3.1.2. Data/hora de abertura;
+e
+61 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 61 de 793.1.3.
+3.1..
+3.1.5.
+3.1.6.
+3.1.7.
+3.1.8.
+3.1.9.
+3.1.10.
+3.1.11.
+3.1.12.
+Módulo afetado;
+Rotina afetada;
+Nesse item deverá ser possível indicar, a partir de um filtro predefinido, se a
+rotina afetada implica na perda de receita por parte da CONTRATANTE.
+Nível de criticidade (definido pelo CONTRATANTE e imutável pelo
+CONTRATADO);
+Descrição do incidente;
+Identificação do responsável pela resolução do incidente (a ser preenchido
+pelo CONTRATADO após a análise do problema e da indicação de qual
+profissional da sua equipe será indicado como sendo o ponto focal e
+responsável pela solução);
+Nível de complexidade (definido pelo CONTRATADO com base no esforço
+necessário para a resolução da não conformidade registrada pela
+CONTRATANTE);
+Grau de severidade (que será definido automaticamente a partir do
+cruzamento entre o Nível de criticidade e do Nível de complexidade) e
+definido no ANEXO Q4. 2 SERVICE LEVEL AGREEMENT (SLA);
+Prazo limite para resolução definido automaticamente pelo Grau de
+severidade;
+Status da tarefa;
+3.1.12.1. Os status relativos aos atendimentos deverão ser definidos no momento da
+3.1.13.
+3.1.14.
+indicação do processo de gerenciamento de bug tracking citado
+anteriormente.
+Registro dos procedimentos adotados pelas partes como eventos do processo
+de correção;
+Controle de atividade:
+3.1.14.1. Para esse item em especifico, a solução de SGI deverá ser dotada de uma
+3.1.15.
+3.1.16.
+3.1.17.
+funcionalidade de “parar a contagem do tempo” sobre as ocorrências abertas
+para que o tempo relativo à interação entre CONTRATANTE e
+CONTRATADA não seja contabilizado como tempo de atendimento e não ser
+considerado no processo de apuração do tempo do SLA definidos no ANEXO
+Q4.2 SERVICE LEVEL AGREEMENT (SLA);
+Data/hora de conclusão;
+Descrição da solução implementada (quando do encerramento da
+ocorrência);
+Outras informações consideradas necessárias para a execução ou para a
+avaliação do incidente.
+62 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017
+ 
+ 
+canti Filho, Luciano Kulka Ribas e3.2. Para toda e qualquer alteração de status e de acompanhamento a ser feitana —
+ocorrência, independente se essa seja promovida pelo CONTRATADO ou É
+pela CONTRATANTE, o SGlI deverá, por meio de e-mail (definido no processo
+de gerenciamento de bug tracking), notificar a alteração para que a
+CONTRATANTE tenha a ciência do que está sendo feito pelo
+CONTRATADO.
+ 
+8
+4. RELA,TÓRIO PARA ACOMPANHAMENTO DAS OCORRÊNCIAS E APURAÇÃO
+DO NÍVEL DE SLA:
+4.1. Mensalmente, a CONTRATANTE  efetuará, a partir de relatórios
+disponibilizados pelo CONTRATADO no SGl, a análise sobre o quantitativo e o
+percentual de ocorrências registradas, resolvidas e não resolvidas pelo
+CONTRATADO dentro do período de apuração (mensal) segregado por grau
+de severidade.
+canti Filho, Luciano Kulka Ribas e
+ 
+4.1.1. Será com base nos relatórios de apuração mensal, e da funcionalidade
+indicada no item 3.1.14 deste anexo, que será feita a contabilização do tempo
+real total decorrido entre a data e hora indicados na abertura do ticket de
+serviço e a data e hora indicados no momento do encerramento do ticket de
+serviço, descontando o tempo de interação entre CONTRATANTE e
+CONTRATADA, sendo considerado para o cálculo deste último, apenas as
+horas úteis, desconsiderando as horas fora do horário comercial descrito no
+item 4.1.3.Manutenção do ANEXO Q4 MEMORIAL DESCRITIVO, finais de
+semana e feriados nacionais.
+ 
+e
+63 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017 Página 63 de 79Para o gerenciamento do fluxo estabelecido para o processo de evolução funcional
+e não funcional do sistema e da implantação de parte ou todo desse, será utilizada
+a ferramenta Redmine como software de gerenciamento das demandas (SGD) da
+CONTRATANTE.
+1. Gerenciamento e Acompanhamento do Processo
+1.1.
+1.2.
+1.3.
+ANEXO Q4.6
+ 
+Joelm
+PROCESSO DE GESTÃO DE DEMANDA (SGD)
+nti Filho, Luciano Kulka Ribas e
+  
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Para acessar ao SGD utilizado para controlar as demandas do projeto
+GGAS, deve-se acessar o endereço: http://redmine.ggas.com.br realizar o
+cadastro do CONTRATADO no link “Cadastre-se”, e aguardar a ativação
+de seu usuário pela Equipe de Conformidade do Mantenedor do Ambiente
+que gerencia a plataforma de controle de qualidade do sistema.
+Quando o acesso à plataforma for concedido pela Equipe de
+Conformidade, caberá ao requisitante da demanda (a empresa
+CONTRATANTE nesse caso), efetuar o ingresso de um ticket de
+atendimento e descrever neste, todas as questões relacionadas à sua
+necessidade e indicadas como sendo “obrigatórias” de informe por parte
+da plataforma.
+As requisições serão cadastradas no menu “Nova Tarefa” do Redmine, e
+seguirão os seguintes estados dentro do processo de controle e auditoria
+do código
+64 de 79
+PROCESSO ADMINISTRATIVO nº 400.2017
+Licitação nº 17.2017BCZE-B36S-/TTO-9GVO OB1Poo O aziInN a /JedYIIAA/I9'UWOISEINBUISSEAaprevod//:sdny
+S 0E PA SEJNJBUISSE SE JENAA BEA 'Sapueular Sanjeauos) euwW|j2aor à SEqIM EXINH OUBIONT 'OUIIH AUBOJENEO OIgOUIy
+10d auauenbip opeuisse 10 a 'solues eznos uospaio (e)opeBonpe (e)ojad epenoude a epeulwexa enuuu ens 2191 ouawWnoop a1sa
+  
+Página 65 de 79
+bRSS
+ 
+ 
+S
+ 
+   
+< VISTO
+65 de 79
+PROCESSO ADMINISTRATIVO |
+Licitação nº 17.2017
+ 
+ 
+g
+ 
+s
+ 
+ 
+  
+ 
+Figura 1 - Estados das requisições no processo de Controle e Auditoria do sistema GGAS.WeEaNos
+ALGÁS
+Gás de Alagoas SA
+ 
+1.4.De acordo com a Figura 1, os usuários da ferramenta poderão pertencer a três
+categorias de perfis de usuário:
+CONTRATANTE (CDL): Esse perfil de acesso será dado aos usuários
+pertencentes às Companhias Distribuidoras Locais (CDL). São estes usuários
+que iniciarão o processo ao criar uma tarefa na ferramenta. Essa tarefa pode
+representar qualquer necessidade de desenvolvimento e/ou implementação no
+sistema GGAS e pode variar desde a solicitação de implementação de um
+simples botão, à implementação de um novo módulo. A granularidade de cada
+tarefa, será definido pela própria CONTRATANTE em conjunto com o
+CONTRATADO. Salienta-se que, toda e qualquer entrega de código por parte
+do CONTRATADO, deverá estar vinculada a pelo menos uma tarefa no º
+sistema Redmine.
+z
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+Além de criar tarefas, esse perfil de acesso é o único que poderá modificar a
+tarefa para os seguintes status: “Nova”, “Em Negociação”, “Cancelada” e
+“Atribuída”. Este último status, é quando uma CDL conclui o processo de
+negociação (custo, tempo, escopo e etc.) com o CONTRATADO e atribui a
+atividade ao mesmo, a partir disso, apenas usuários com o perfil de acesso
+“Fornecedor”, poderá modificar a tarefa.
+CONTRATADA (Fornecedor): Esse perfil de acesso será dado aos usuários
+pertencentes aos fornecedores que tiverem contratos de Desenvolvimento,
+Implantação e Manutenção do sistema GGAS, para com as CDLs. Estes
+usuários receberão as tarefas atribuídas pelas CDLs e poderão modificar o
+status para “Aguardando Criação de Branch”, na qual o fornecedor indicará
+para o mantenedor que está aguardando a criação de um novo branch de
+trabalho; “Em Andamento”, nesse momento cada fornecedor trabalhará com
+base no item 8.4 DA METODOLOGIA DE EXECUÇÃO DO PROJETO subitem
+8.4.1 do ANEXO Q4 - MEMORIAL DESCRITIVO e poderá modificar o status da
+tarefa para “Concluída” ou “Cancelada”. Para o caso das tarefas “Concluídas”,
+os fornecedores poderão colocá-las no status “Disponível para Merge" em
+“Master” e isso indicará que eles mesclaram o código produzido na “Branch
+Master" do fornecedor e este código está disponível para avaliação da
+qualidade no processo de testes e auditoria realizado pelos usuários com perfil
+Mantenedor e definidos no ANEXO Q4.3 CRITÉRIOS DE ACEITAÇÃO.
+Mantenedor: Esse perfil de acesso será dado aos usuários pertencentes à
+Equipe de Conformidade, que serão responsáveis por iniciar, após receberem
+as submissões de código enviada pelos fornecedores, o processo de testes e
+auditoria de código. O processo de testes e auditoria seguira o descrito na
+Figura 1 e, caso todas as etapas do processo de aceitação definidos no
+ANEXO Q4.3 - CRITÉRIOS DE ACEITAÇÃO sejam concluídos com sucesso,
+os status das tarefas poderão ser modificados para: “Integrado ao Develop”
+“Aguardando Integração na Mainline”; “Integrada na Mainline”; “Aguardando
+Liberação de Versão” e “Disponível em Versão”.
+Rua Artur Vital da Silva, 04 66
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2 E
+Tel.: 82 3218-7700 Fax: 82 3218-7742 2
+algasQalgas.com.br - www.algas.com.br
+Página 66 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+  
+    
+1.5.As tarefas cadastradas no Redmine, poderão estar, em um dado momento, nos
+status descritos abaixo:
+Nova: Indica que a tarefa foi criada pelo usuário de perfil CDL e que ainda não
+iniciou o processo de negociação com o fornecedor. Desta forma, todo o
+backlog do sistema que ainda não tenha iniciado o desenvolvimento, estará
+com esse status.
+Em Negociação: Indica que se deu inicio ao processo de negociação para
+desenvolvimento da demanda especificada na tarefa. Essa negociação, em
+alguns fornecedores, envolve atividades como reuniões para definição e
+detalhamento do escopo, estimativas de prazos e custos, entre outras.
+Cancelada: Indica que a demanda especificada pela tarefa não será mais
+atendida, ou seja, ela está cancelada. A tarefa poderá ir para esse status em
+dois momentos, ou após a conclusão do status Em Negociação, quando uma
+CDL não aprova o orçamento estabelecido pela negociação da tarefa, ou após
+o início do desenvolvimento da tarefa pelo Fornecedor (status Em Andamento),
+em virtude de algum problema técnico e devidamente alinhado com a CDL
+proprietária da tarefa.
+Atribuída: Indica que a negociação para desenvolvimento da tarefa foi
+concluída e o fornecedor poderá iniciar o desenvolvimento da mesma.
+Aguardando Criação de Branch: Indica que o Fornecedor está aguardando
+que o Mantenedor crie uma Branch para o Fornecedor começar o
+desenvolvimento do escopo indicado na Requisição;
+Branch Criado. Aguardando Início do Desenvolvimento: Indica que o
+Mantenedor já criou a Branch de trabalho e que o fornecedor pode iniciar o
+desenvolvimento da Requisição.
+Em Andamento: Indica que o fornecedor iniciou o desenvolvimento da tarefa.
+Concluída: Indica que o fornecedor concluiu o desenvolvimento da tarefa,
+porém, ainda não disponibilizou a mesma para o processo de auditoria e
+controle de qualidade. Nesse status a tarefa ainda está sob responsabilidade
+do fornecedor e a mesma está aguardando algum processo interno para
+disponibilização ao mantenedor.
+Disponível para Merge: Indica que o fornecedor concluiu a tarefa e submeteu
+para o servidor Git remoto para ser avaliada no processo de controle de
+qualidade e auditoria do código desenvolvido.
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+o
+2
+Página 67 de 79WeEaNos
+ALGÁS
+Gás de Alagoas SA
+   
+  
+ 
+  
+ 
+ 
+ 
+   
+ 
+   
+ 
+  
+   
+    
+ 
+  
+  
+  
+ 
+   
+  
+   
+Em Processo de Testes e Auditoria: Indica que a tarefa está passando por
+todas as etapas do processo de controle de qualidade e auditoria do código,
+demonstradas na Figura 5.
+Rejeitada: Indica que tarefa não passou por alguma etapa do controle de
+qualidade e auditoria e está sendo devolvida ao fornecedor para as devidas
+correções.
+Integrado ao Develop: Indica que o processo de testes e auditoria do código
+foi executado com sucesso no Branch Master do Fornecedor e que o código foi
+mesclado ao Branch Develop para dar início aos testes de integração.
+Aguardando Integração na Mainline: Indica que a tarefa foi aprovada em
+todas as etapas do processo de controle de qualidade e auditoria do código e
+está aguardando a Equipe de Conformidade realizar o merge a versão principal
+do sistema.
+Aguardando Liberação de Versão: Indica que a tarefa foi integrada a versão
+principal do sistema e está aguardando a próxima liberação de versão por parte
+da Equipe de Conformidade.
+Disponível em Versão: Indica que a tarefa está disponível na versão para
+distribuição através do Portal de Software Público Brasileiro.
+1.6. Vale ressaltar que o Redmine não substituirá a ferramenta de bug tracking que :
+seja gerenciado a partir do SGl do CONTRATADO conforme definido no
+ANEXO Q4.5 SISTEMA DE GESTÃO DE INCIDENTES (SGI) dos
+fornecedores, ou seja, os bugs encontrados pelas CDLs continuarão sendo
+cadastrados nas ferramentas de cada fornecedor para controle dos seus
+respectivos SLAs estabelecidos em cada contrato.
+1.6.1. Porém, para efeito de comunicação e publicidade para com todas as
+LDCs que são utilizadores deste mesmo software, aquela que efetuar o
+levantamento do registro do incidente no seu ambiente e registrar no SGI
+do Fornecedor, deverá registrar também uma ocorrência de não
+conformidade no SGD mantido no ambiente de qualidade e controle.
+1.7. O que deverá ocorrer é que, como todas as requisições para serem
+incorporadas à versão principal do sistema, devem estar necessariamente
+vinculadas a uma tarefa no Redmine, consequentemente, essa tarefa deverá
+ser criada no Redmine para passar pelo processo de auditoria e controle de
+qualidade como qualquer requisição normal.
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742 2
+algasQalgas.com.br - www.algas.com.br
+Página 68 de 79Ws.sNos
+ALGÁS
+Gás de Alagoas SA
+ 
+ANEXO Q4.7
+Das
+DEMONSTRATIVO DE DEMANDA POR TIPO DE SERVIÇO
+1. Serviços de desenvolvimento e implantação:
+ 
+Total de horas | Valor hora por
+por profissional | profissional (R$)
+ 
+(canti Filho, Luciano Kulka R
+Demanda de horas para Serviços
+de Análise de Negócios
+Demanda de horas para Serviços
+de Gerência de Projetos
+Demanda de horas para Serviços
+de Análise de Sistemas
+Demanda de horas para Serviços
+de Manutenção e Desenvolvimento
+Web
+Demanda de horas para Serviços
+de Suporte Técnico do Ambiente
+Operacional
+Demanda de horas para Serviços
+de Administração de Banco de
+Dados / AD
+Demanda de horas para Serviços
+de Gerência de Configuração
+Demanda de horas para Serviços
+de Arquitetura de Software
+Demanda de horas para Serviços
+de Design de Interface
+Demanda de horas para Serviços
+de Testes
+Total
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Serviços de manutenção:
+ 
+ 
+Usuários Valor fixo
+simultâneos do 30 Mmensal (R$)
+Sistema
+ 
+ 
+ 
+ 
+ 
+3. Cronograma de desenvolvimento /Implantação e manutenção do contrato
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2
+Tel.: 82 3218-7700 Fax: 82 3218-7742 E
+algasQalgas.com.br - www.algas.com.br
+Página 69 de 79WeEaNos
+ALGÁS
+Gás de Alagoas SA
+     
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+  
+A CONTRATADA deverá executar as atividades de 1. Desenvolvimento de
+funcionalidades, 2. Implantação e 3. Manutenção do GGAS. A contratante
+encontra-se na fase que abrange as atividades dos itens 1 e 2, sendo que as
+atividades do item 3, só poderão ser inicializadas, e consequentemente
+cobradas, após a finalização das atividades do item 2, que inclui também o
+processo de homologação, obedecendo o cronograma a ser definido pela
+CONTRATANTE.
+É com base na tabela 1 - Cronograma Físico do Projeto deste item que a
+CONTRATADA deverá se basear para poder dimensionar o tamanho do projeto,
+a complexidade e o esforço que será demandado pela CONTRATANTE.
+3.1 Cronograma Físico do Projeto
+3.1.1 Para fins de referência, está dividido na Tabela 1, o status da
+CONTRATANTE dentro do processo de implantação.
+3.1.2 Dessa forma, competirá à CONTRATADA, estar apta a, no período de
+contrato indicado no ANEXO Q4 - MEMORIAL DESCRITIVO - GGAS item 9. DO
+CRONOGRAMA E PRAZO DE EXECUÇÃO e, com base no cronograma físico
+apresentado abaixo, prestar os serviços relativos aos itens 1. Desenvolvimento
+(de requisitos funcionais e não funcionais), 2. Implantação e 3. Manutenção (em
+ambiente de produção) com equipes multidisciplinares e com os conhecimentos
+técnicos necessários.
+3.1.3 Os serviços relativos aos itens Desenvolvimento e Implantação, durante o
+período de tempo indicado no ANEXO Q4 MEMORIAL DESCRITIVO - GGAS
+item 9. DO CRONOGRAMA E PRAZO DE EXECUÇÃO foram ordenados de tal
+forma que permita a conciliação dos dois, sendo esses executados
+paralelamente ou sequencialmente pela CONTRATADA, a depender da
+negociação que será feita durante o processo de aprovação das ordens de
+serviço.
+3.1.4/ O cronograma de trabalho para o item “Manutenção” será regido em base
+mensal, com base na prestação de serviços por parte do CONTRATADO
+inerentes e necessários para que o GGAS seja mantido dentro da infraestrutu
+da CONTRATANTE, depois da implantação do software, “Sistema em Produçã
+e emitida a respectiva Autorização de Serviço.
+3.1.5 A depender dos entendimentos durante a fase de negociação para a
+aprovação das autorizações de serviço, do esforço indicado e da estratégia de
+implantação da CONTRATANTE, esse cronograma poderá sofrer alterações no
+futuro, sem que caiba ao CONTRATADO qualquer direito à indenização ou
+compensação.
+Rua Artur Vital da Silva, 04 70
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742 2
+algasQalgas.com.br - www.algas.com.br
+Página 70 de 79..— PÚBLICA
+ 
+ALGÁS
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Gss de Algoas SA
+Cronograma GGAS
+Empresa Meses
+p 1/2[3[/4[5/ 6 7...24
+ALGÁS
+Tabela 1 - Status sobre o processo de implantação do GGAS.
+Onde:
+ 
+ 
+Refere-se às fases de 1. Desenvolvimento e 2. Implantação
+Refere-se à fase de 3. Manutenção
+ 
+ 
+Rua Artur Vital da Silva, 04 71
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+ 
+-"
+o
+S
+o
+o
+&
+a
+o
+s
+-
+Z
+s
+s
+E
+$
+2
+>
+s
+3
+8
+o
+2
+s
+º
+z
+g
+õ
+Z
+ã
+E
+8
+8
+4
+8
+2
+z
+E
+3
+3
+$
+$
+z
+e
+Ê
+H
+Ê
+3
+Ê
+E
+2
+o
+º
+8
+<
+S
+2
+8
+2
+z
+E
+7
+3
+8
+2
+8
+z
+g
+S
+g
+&
+S
+É
+ú
+$
+8
+2
+&
+E
+S
+&
+Página 71 de 79WeEaNos
+ALGÁS
+Gás de Alagoas SA
+ANEXO Q4.8
+TERMO DE CONFIDENCIALIDADE
+  
+. A CONTRATADA tem acesso a informações privadas da CONTRATANTE, que podem é
+devem ser conceituadas como segredo de indústria ou de negócio. Estas mformaço%
+devem ser tratadas confidencialmente sob qualquer condição e não podem ser divulgadas
+a terceiros não autorizados, incluindo os empregados da CONTRATANTE, sem à
+expressa e escrita autorização do representante legal da CONTRATANTE.
+ 
+. As informações a serem tratadas confidencialmente são aquelas assim consideradas nb
+âmbito da CONTRATANTE e que, por sua natureza, não são ou não deveriam ser de es
+conhecimento de terceiros, tais como:
+   
+   
+ 
+ 
+ 
+ 
+  
+   
+   
+    
+|. Listagens e documentações com informações confidenciais, inclusive aquel
+relativas ao sigilo bancário que a CONTRATANTE deve observar, por imposiç:
+legal;
+Il. Documentos relativos a estratégias econômicas, financeiras, de investimentos, di
+captações de recursos, de marketing, de clientes e respectivas informaçõe:
+armazenadas sob qualquer forma, inclusive informatizadas;
+IIl. Metodologias e Ferramentas de desenvolvimento de produtos e serviç
+desenvolvidas pela CONTRATANTE, ou para ela por terceiros, que estejam e
+utilização;
+IV. Valores e informações de natureza operacional, financeira, administrativa, contábi
+jurídica;
+Vv. Documentos e informações utilizados na execução dos serviços objeto de
+CONTRATO.
+. As referências dos incisos | a V do item 2, acima, são meramente exemplificativas, e qui
+outras hipóteses de confidencialidade que já existam ou venham ser como tal definidas n
+futuro devem ser mantidas sob sigilo.
+. Em caso de dúvida acerca da natureza confidencial de determinada informação,
+CONTRATADA deverá mantê-la sob sigilo até que venha a ser autorizado expressamentt
+pela CONTRATANTE. Em hipótese alguma a ausência de manifestação expressa d
+CONTRATANTE poderá ser interpretada como liberação de qualquer dos compromiss:
+ora assumidos.
+. A CONTRATADA determina a todos os seus empregados, prepostos e prestadores de
+serviço que estejam, direta ou indiretamente, envolvidos com a prestação de serviços
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742 E
+algasQalgas.com.br - www.algas.com.br
+ 
+ 
+Página 72 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ma Goncalves
+objeto deste CONTRATO, a observância do presente Termo, adotando todas
+precauções e medidas para que as obrigações oriundas do presente instrumento seja!
+efetivamente observadas.
+a Ribas &S)
+. A CONTRATADA obriga-se a informar imediatamente à CONTRATANTE qualquê'
+violação das regras de sigilo ora estabelecidas que tenha ocorrido por sua ação ou
+omissão, independentemente da existência de dolo, bem como de seus empregados,
+prepostos e prestadores de serviço. z
+. O descumprimento de quaisquer das cláusulas do presente Termo acarretará
+responsabilidade civil e criminal dos que, comprovadamente, estiverem envolvidos
+descumprimento ou violação.
+gitalmente por Arnobio CaviBap Filho,
+igo OAB6-0117-59E8-B2D8.
+  
+;antos, e foi
+e utilize o c
+ 
+1a minuta examinada e a
+r as assinaturas vá ao si
+     
+ 
+des. Para verifi
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Maceió/AL CEP 57052-790 £
+Tel.: 82 3218-7700 Fax: 82 3218-7742 ú
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 73 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ANEXO Q7 - PROPOSTA DO CONTRATADO DATADA DE 16/03/2018 .
+ 
+. São Paulo Belém
+W Rua Roque Barbosa Lima, 73 — Rua Ângelo Custódio,
+Vila Paulo Silas, São Paulo, — wCidade Velha- Belém
+Pródiga Sistemas de Informação Ltda. Capital, CEP. 03264-040 CEP: 66020-710
+CNP) 67.666.461/0001-79 Tel;: (11) 2211-2467 Tel: (91) 3038-8821
+PROPOSTA DE PREÇOS
+ 
+Belém, 16 de Março de 2018.
+À Gás de Alagoas S/A - ALGÁS
+Ref: Licitação nº 017/2017
+Apresentamos e submetemos à apreciação de V.Sas. nossa Proposta de Preços para os serviços
+especializados em Informática para Desenvolvimento, Implantação e Manutenção do Software Público e
+Livre denominado GGAS - Sistema de Gestão Comercial de Gás Natural, objeto da presente Licitação, no
+valor global de R$ 781.062,16 (setecentos e oitenta e um mil sessenta e dois reais e dezesseis centavos),
+sendo os preços unitários em conformidade com a Planilha de Preços Unitários anexo, resultante da
+multiplicação do preço global ora ofertado pelos percentuais de preços unitários definidos no Anexo P
+do edital.
+icar/ e utilize o código 0AB6-0117-59E8-B2D8.
+Pelo presente, declaramos ainda que:
+ 
+) Nossa proposta de preços foi elaborada considerando todas as despesas diretas, como mão-de-obra
+direta, equipamentos, materiais, subcontratados etc..., e quaisquer outras despesas indiretas como
+mãode-obra indireta, ferramentas, EPI, tributos, encargos da legislação social, trabalhista,
+previdenciária, fiscal e comercial, e outros componentes da Taxa de Bonificação e Despesas Indiretas
+(BD1), enfim, todos os componentes de custo dos serviços necessários à perfeita execução do objeto
+deste Edital e seus anexos;
+b) Manteremos válida a proposta pelo prazo de 90 (noventa) dias consecutivos, contados da data de
+recebimento desta proposta de preços, ressalvando que, na hipótese de RECURSO, e tendo em vista o
+seu efeito suspensivo, o prazo de validade desta proposta de preços não correrá durante o período de
+recebimento e julgamento dos recursos;
+€) No fornecimento dos bens objeto desta proposta observaremos rigorosamente as especificações
+técnicas, as condições e os prazos de entrega estabelecidos no edital e em seus respectivos anexos,
+assumindo desde já a integral responsabilidade pela perfeita execução das obrigações assumidas;
+X&* R
+sE
+ 
+ 
+Rua Artur Vital da Silva, 04 74
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+Femandes. Para veríficar as assinaturas vá ao site https://portaldeassinaturas.com.br/Ve
+Página 74 de 79INFORMAÇÃO
+ 
+wPEANoS
+Gásde Alagoas SA
+o São Paulo Belém
+mª Rua Roque Barbosa Lima, 73 — Rua Ângelo Custódio, 72!
+Vila Paulo Silas, São Paulo, — Cidade Velha - Belém — P)
+Pródiga Sistemas de Informação Ltda. Capital, CEP. 03264-040 CEP: 66020-710
+CNPJ 67.666.461/0001-79 Tel: (11) 2211-2467 Tet: (91) 3038-8821
+d) Estou ciente que, nos termos do item 14.1.2 do edital, ola) futuro(a) Contrato/Ata de Registro de
+Preços poderá ser assinado(a) digitalmente, com fundamento na Medida Provisória no 2.200-2/2001,
+mediante uso de certificados digitais expedidos por Autoridade Certificadora integrante da
+Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, de modo que, nesta hipótese, a representante
+para assinatura dos instrumentos contratuais será:
+ 
+1) Nome: Joelma Gonçalves Fernandes
+) CPF: 431.768,874-34
+li) Cargo: Coord. Projetos e Sistemas
+w) E-mail: joelma& prodigasistemas.com.br
+e) Não sendo a hipótese de assinatura digital, a Representante Legal para assinatura dos instrumentos
+contratuais, será:
+1) Nome: Joelma Gonçalves Fernandes
+) CPF: 431.768.874-34
+ih) Cargo: Coord. Projetos e Sistemas
+) E-mail: joeima&O prodigasistemas.com.br
+Maceió, 16 de Março de 2018
+ 
+CPF: 431.768.874-34 T
+ 
+* :
+Rua Artur Vital da Silva, 04 75
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti Filho, Luciano Kulka Ribas e Joelma Goncalves
+Fernandes. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e utilize o código 0AB6-0117-59E8-B2D8.
+Página 75 de 79INFORMAÇÃO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANOS Y o
+J d& PúBLica |É
+8
+ALGÁS
+<
+E
+ss 2
+: 3
+o
+sa São Paulo Belém g
+m Rua Roque Barbosa Lima, 73 — Rua Ângelo Custódio, 748A — Ê
+Vila Paulo Silas, São Paulo, Cidade Velha - Belém - N5 X
+Pródiga Sistemas de Informação Ltda. Capital, CEP. 03264-040 CEP: 66020-710 FA , g
+(CNP) 67.666.461/0001-79 Tel: (11) 2211-2467 Tel: (91) 3038-8821 -
+2
+s
+Planilha de Preços Unitário 3
+S
+Ref: Licitação nº 017/2017 ã
+SERVIÇOS DE DESENVOLVIMENTO E IMPLANTAÇÃO.
+“Serviço de análise de negócios 336| Hora R$142,22) R$47.784/
+Serviço de gerência de projetos 240) Hora R$185,76 R$44,582,25) É
+Serviços de anáfise de sistemas 720) Hora R$121,36 RA$87.382,11 a
+F
+) iin al ol 1760 Hora R$106,58] R$187.584,57] &
+3
+m-«wmwwm 72| Hom A$109,44| A$7/879,26) S
+=
+ESA TTNA ARONANA || 14 Hm R$117,13] RA$16.866 26) b
+Z
+Serviços de gerência de configuração 120 Homa RA$117,79| A$14.127,07 <
+Serviços de arquitetura de software 72 Hom A$140,2] R$10.096 79 s
+Serviços de design de mterface 144| Hora R$101,7) R$14.655,07] 8
+Serviços de testes. 576| Hora R$94,07] A$54 18697
+Serviços de Desenvolvimento e Impiantação - Suttotal R$ A$485.145,04]
+SERVIÇOS DE MANUTENÇÃO
+mem om UNID | PREÇO UNITARIO R$ | PREÇO UNITARIO TOTAL RS |
+) mpA Csrindden lmseneol 18| Mês RA$16.429,64 A$295.917,12
+(Serviços de Desenvotvimento / Impiantação / Manutenção) - PREÇO GLOBAL R$ R$781.062,16) X«
+(08S: Os preços unitários Informados pela Pródiga Sistemas de Informação Ltda , neste Anexo L é o resultado da
+definida no Anexo P deste edital multiplicada pelo Preço Globe! ofertado por nós em nossa proposta
+Inícial ou negociada com a CL.
+    
+e
+CPF: 431.768.874-34 X
+3
+Rua Artur Vital da Silva, 04 76
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Este documento teve sua minuta examinada e aprovada pelo(a) advogado(a) Gledson Souza Santos, e foi assinado digitalmente por Arnobio Cavalcanti
+Fernandes. Para verificar as assinaturas vá ao site https://portaldeassinaturas.com.br/Verificar/ e ut
+Página 76 de 79WeEaNos
+ALGÁS
+Gás de Alagoas SA
+ANEXO Q15.1 - TERMO DE RECEBIMENTO PROVISÓRIO DE SERVIÇO - TRPS
+TERMO DE RECEBIMENTO PROVISÓRIO DE SERVIÇO(S)
+Tendo sido concluído (s) no dia ..../..../.... o(s) serviço(s) iniciado(s) no
+dia.../.../... e objeto do Contrato. .., assinado em ..../.../... entre a
+Gás de Alagoas SA - ALGÁS e o
+.relativamente à etapa/plano de  projeto
+.. foram os trabalhos considerados em condições
+de aceitação provisória e de comum acordo, as partes contratantes, pelos seus
+representantes abaixo assinados, lavram este Termo de Recebimento Provisório,
+em 2 (duas) vias de igual teor.
+ 
+   
+Local, Data
+ 
+Gás de Alagoas S.A - ALGÁS-
+(Nome do Representante da ALGÁS)
+ 
+Nome do CONTRATADO
+(Nome do Representante do CONTRATADO)
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+ 
+8
+z
+S
+<
+    
+    
+AB6-0117-59E8-B2D8.
+Fe
+u
+Página 77 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ANEXO Q15.2 - TERMO DE RECEBIMENTO DEFINITIVO DE SERVIÇO - TRDS
+ 
+TERMO DE RECEBIMENTO DEFINITIVO DE SERVIÇO (S)
+a
+<
+  
+ 
+ 
+   
+1. Tendo sido concluído(s) no dia o(s) serviço(s) iniciado(s) no
+dia.../.../... e objeto do Contrato.. assinado em ..../.../... entre a
+Gás de Alagoas ALGÁS e o
+CONTRATADO.........clcl ,felativamente à etapa/pblano de  projeto
+.. foram os trabalhos considerados em condições de aceitação
+definitiva e, consequentemente, lavrado o presente Termo de Recebimento
+Definitivo de Serviço(s).
+2. Todo(s) o(s) serviço(s) foi(ram) executado(s) pelo CONTRATADO acima
+referido dentro das especificações determinadas e foram atendidas as
+exigências da fiscalização.
+AB6-0117-59]
+  
+3. De comum acordo, as partes contratantes, pelos seus representantes abaixo
+assinados, lavram este Termo de Recebimento Definitivo, em 2 (duas) vias de
+igual teor.
+Local, Data
+ 
+Gás de Alagoas S.A - ALGÁS-
+(Nome do Representante da ALGÁS)
+ 
+Nome do CONTRATADO
+(Nome do Representante do CONTRATADO)
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Fe
+u
+Página 78 de 79WPmEANos
+ 
+ALGÁS
+Gás de Alagoas SA
+ANEXO Q15.3 - TERMO DE ENCERRAMENTO DO CONTRATO - TEC
+ 
+TERMO DE ENCERRAMENTO DO CONTRATO
+ 
+       
+ 
+E
+1. Tendo sido concluído(s) no dia o(s) serviço(s) iniciado(s) no É
+dia.../.../... e objeto do Contrato. .., assinado em ..../.../... entre a 2
+Gás de Alagoas SA - ALGÁS e o
+CONTRATADO ... .relativamente à contratação dos Serviços de
+  
+  
+e já considerados em condições de aceitação
+definitiva — conforme Termo de Recebimento Detfinitivo de Serviço(s),
+consequentemente lavra-se o presente Termo de Encerramento do Contrato.
+2. O CONTRATADO dá à ALGÁS neste ato, plena, rasa e geral quitação de
+todos os seus direitos relativos ao Contrato acima mencionado, especialmente
+aqueles correspondentes ao preço ajustado, para nada mais reclamar, sob
+qualquer título ou pretexto, com fundamento no Contrato ora definitivamente
+quitado.
+AB6-0117-59]
+3. De comum acordo, as partes contratantes, pelos seus representantes
+abaixo assinados, lavram este Termo de Encerramento do Contrato, em 2 (duas)
+vias de igual teor.
+Local, Data
+ 
+Gás de Alagoas S.A - ALGÁS-
+(Nome do Representante da ALGÁS)
+ 
+Nome do CONTRATADO
+(Nome do Representante do CONTRATADO)
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2
+Tel.: 82 3218-7700 Fax: 82 3218-7742 ú
+algasQalgas.com.br - www.algas.com.br
+Fe
+Página 79 de 79PROTOCOLO DE ASSINATURA(S)
+O documento acima foi proposto para assinatura digital na plataforma Portal de Assinaturas Certisign.
+Para verificar as assinaturas clique no link: https://portaldeassinaturas.com.br/Verificar/0AB6-0117-59E8-
+B2D8 ou vá até o site https://portaldeassinaturas.com.br/Verificar/ e utilize o código abaixo para verificar se
+este documento é válido.
+Código para verificação: OAB6-0117-59E8-B2D8
+Hash do Documento
+9F5SCC1E00A4411AC35FESEEGEB772E356B20FO8FF89B972C75CDO26ADA3160DO
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 27/06/2018 é(são) :
+& Arnobio Cavalcanti Filho (Diretor Presidente - Gás de Alagoas S/A) -
+308.202.354-15 em 25/06/2018 16:45 UTC-03:00
+Tipo: Certificado Digital
+& Luciano Kulka Ribas (Diretor Administrativo e Financeiro - Gás de Alagoas
+S/A) - 022.426.849-06 em 26/06/2018 11:59 UTC-03:00
+Tipo: Certificado Digital
+&m Joelma Goncalves Fernandes (Coord. Projetos e Sistemas - Pródiga
+Sistemas de Informação Ltda) - 431.768.874-34 em 27/06/2018 09:36
+UTC-03:00
+Tipo: Certificado Digital - PRODIGA SISTEMAS DE INFORMACAO LTDA -
+67.666.461/0001-79
+O(s) nome(s) indicado(s) para autorizar, bem como seu(s) status em 27/06/2018 é(são) :
+& Gledson Souza Santos - 045.629.784-73 em 22/06/2018 15:34 UTC-03:00Diário Oficial
+Estado de Alagoas
+ 
+dição Eletrônica Certificada Digitalmente
+conforme LE
+ 
+Maceio - sexta-feira
+Nº 7,397/2012 6 de julho de 2018
+ 
+Poder Executivo
+Administração Indireta
+)
+ 
+ 
+ 
+Estado de Alagoas
+DIÁRIO OFICIAL
+ 
+5
+ 
+ 
+ 
+PODER EXECUTIVO
+ 
+ 
+ 
+.GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ RENAN VASCONCELOS CALHEIROS FILHO
+VICE-GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO BARBOSA DA SILVA
+ 
+AADEAL - AGÊNCIA DE DEFESA E INSPEÇÃO AGROPECUÁRIA DO ESTADO DE ALAGOAS
+AUGUSTO CÉSAR DE OLIVEIRA JATOBÁ
+AGÊNCIA DE FOMENTO DE ALAGOAS.
+FLÁVIO LUCIO UCHÔA DÓRIA
+ALGAS - GÁS DE ALAGOAS - S/A
+ARNÓBIO CAVALCANTI FILHO
+ALAGOAS ATIVOS S/A
+HELDER GONÇALVES LIMA
+ALAGOAS PREVIDÊNCIA
+ROBERTO MOISÉS DOS SANTOS
+ANMGESP - AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+WAGNER MORAIS DE LIMA
+ARSAL - AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS.
+LAILSON FERREIRA GOMES
+CARHP - COMPANHIA DE ADMINISTRAÇÃO DE RECURSOS HUMANOS E PATRIMONIAIS.
+FERNANDO ANTÔNIO MACEDO HOLANDA
+CASAL - COMPANHIA DE SANEAMENTO DE ALAGOAS
+WILDE CLÉCIO FALCAO DE ALENCAR
+CEPAL - COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+DAGOBERTO COSTA SILVA DE OMENA
+DERIAL - DEPARTAMENTO DE ESTRADAS DE RODAGEM DE ALAGOAS
+HELDER GAZZANEO GOMES
+DETRANIAL - DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DE ALAGOAS
+AANTÔNIO CARLOS FREITAS MELRO DE GOUVEIA
+DITEAL - DIRETORIA DE TEATROS DO ESTADO DE ALAGOAS
+SHEILA DIAB MALUF
+EMATER - INSTITUTO DE INOVAÇÃO PARAO DESENVOLVIMENTO RURAL SUSTENTÁVEL
+ELIZEU JOSÉ RéGO
+FAPEAL - FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE ALAGOAS
+FABIO GUEDES GOMES
+IDERAL - INSTITUTO DE DESENVOLVIMENTO RURAL E ABASTECIMENTO DE ALAGOAS
+JOSEÉ HELENILDO RIBEIRO MONTEIRO NETO
+IMAAL = INSTITUTO DO MEIO AMBIENTE DO ESTADO DE ALAGOAS
+GUSTAVO RESSURREIÇÃO LOPES
+INMEO - INSTITUTO DE METROLOGIA E QUALIDADE DE ALAGOAS.
+ARISTEU JOSÉ LOPES CAVALCANTI
+IPASEAL SAÚDE - INSTITUTO DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES DO ESTADO DE ALAGOAS
+JOSÉ EDIBERTO DE OMENA
+ITEC - INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO DOS SANTOS JÚNIOR
+ITERAL - INSTITUTO DE TERRAS E REFORMA AGRÁRIA DE ALAGOAS.
+JAIME MESSIAS SILVA
+1ZP - INSTITUTO ZUMBI DOS PALMARES
+ROBERTO RIVELINO DE AMORIM
+LIFAL - LABORATÓRIO INDUSTRIAL FARMACÊUTICO DE ALAGOAS - SIA
+SANDRA DO CARMO MENEZES
+PROCON - INSTÍTUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR DE ALAGOAS
+GALBA NOVAIS DE CASTRO NETTO
+SERVEAL - SERVIÇO DE ENGENHARIA DE ALAGOAS S/A
+JOSÉ ERNESTO DE SOUZA FILHO
+UNCISAL - UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS
+HENRIQUE DE OLIVEIRA COSTA
+UNEAL - UNIVERSIDADE ESTADUAL DE ALAGOAS.
+CLÉBIO CORREIA DE ARAÚJO - Vice-Reitor
+ 
+ 
+ 
+Alagoas Previdência
+ 
+AA Diretora de Bencfícios Previdenciários da Alagoas Previd
+Indeferiu, na data de 25 de junho de 2018, o seguinte processo:
+Proce: 967/2018
+): Maria Adriana Teodózio dos Santos Menezes
+Assunto: Revisão de Aposcntadoria
+Váubia Duarte Garrote - Diretora de Bene!
+ 
+cia Despachou e
+   
+ 
+ 
+jos Previdenciários
+Protocolo 364681
+ 
+“nstituto do Meio Ambiente do Estado de Alagoas
+(IMA)
+INSTRUÇÃO NORMATIVA IMAVAL Nº 01, DI
+ 
+E 04 DE JULHO DE 2018.
+Estabelece procedimentos para a aplicação do art. 3o, IV e V e os Capítulos IV.
+V e VI da Lei Estadual no 6,787, de 22 de dezembro de 2006 pela fiscaliza
+do Instituto do Meio Ambiente de Alagoas - IMA/AL, dispõe sobre as infrações
+administrativas contra o meio ambiente e normatiza o processo administrativo para
+Sua apura
+ 
+ 
+ 
+Para visualização da instrução normativa completa acessar link abaixo
+http2/Auwwima.algov.br/wp-content/upla, Um/ 121
+C2MBA-01.2018-
+   
+tavo Ressurreição Lopes
+Diretor-Presidente
+Protocolo 364635
+ 
+——
+ALGÁS - Gás de Alagoas - S/A
+ 
+A Gás de Alagoas S/A — ALGÁS torna público, os extratos de contratos, de atas
+de registro de preços, autorização de fornecimento de material e de aditamentos,
+conforme abaixo:
+   
+de Fornecimento
+   
+tratos de Contrato, Ata de Registro de Preços e Autorizaçã
+de Material
+ 
+: nº 008/2018; Contratado: Matuto de Luxo
+Empreendimentos Artísticos Ltda; CNPJ; 07,958.624/0001-65; Objeto Contratual
+Contratação de atração musical para o evento junino da ALGÁS:; Valor Global: R$
+3.500,00: Processo: 118.2018; Licitação: Inexigibilidade nº 014.2018,
+ 
+ 
+   
+Carta Contrato: nº 041/2018; Contratado: EAM Sistemas de Informatica Ltda -
+EPP; CNPJ: 07,537.669/0001-66; Objeto Contratual: Contratação dos serviços de
+suporte do software ENGEMAN; Valor Global: R$ 9.873,23; Vigência: 12 (doze)
+meses a partir da cmissão da Autorização de Forecimento; Processo: 104.2018.
+Licitação: Inexigibilidade nº 007.2018,
+Extrato de Aditamento
+ 
+ 
+Aditamento: nº 03; Contrato: nº 023/2016; Contratado: Printpage Produtos e Servi-
+ços de Informática Eireli - EPP; CNPJ: 09.392.052/0001-25; Objeto do Aditamen-
+to: prorrogação do prazo de vigência; Valor Global do Aditamento: RS 38.068,16:
+S0: 050.2016/ARPO07.2016.
+ 
+ 
+   
+ 
+Responsável pela resenha: Mirian Cavalcante Tavares — Assistente Técnico de
+ 
+Suprimentos — ALGÁ!
+ 
+..é
+yo
+:
+m ETER,... :
+ALGÁS — t22 .
+TERMO DE DESIGNAÇÃO DO GESTOR E FISCAL DE CONTRATO
+ 
+ 
+CONTRATO N.º 010/2018
+OBJETO: Contratação de serviços técnicos profissionais especializados em informática para
+desenvolvimento, implantação e manutenção do sistema GGÁS (Sistema de Gestão Comercial
+de Gás Natural), pelo prazo de 24 (vinte e quatro) meses, conforme Memorial Descritivo do
+ANEXO Q4.
+ 
+ 
+Designamos o Sr. Danilo Dantas Varela, Gerente de Tecnologia da Informação, como Gestor,
+e o Sr. Luiz Marcelo Freitas da Silva, Analista de Processos Organizacionais, como Fiscal do
+Contrato nº 010/2018, de acordo com a Cláusula Décima Terceira — Gerenciamento e
+Fiscalização dos Serviços do Contrato em referência, para acompanhar e certificar o correto
+cumprimento do contrato, tendo como atribuições principais:
+| - zelar pelo cumprimento do escopo do contrato, das cláusulas e condições contratuais
+pactuadas, com todos os direitos e obrigações das partes, responsabilizando-se pelos
+documentos decorrentes de sua atuação como Gestor;
+11 - diligenciar de forma efetiva, acompanhando atentamente a execução do objeto, pagamentos
+e valor do contrato, controlando os prazos de vigência, a execução e os respectivos
+aditamentos, determinando, sempre que necessário, as correções e adequações pertinentes,
+com as anotações necessárias e, se for o caso, proceder à apuração de irregularidades
+constatadas na execução do contrato;
+ 
+ll — comunicar ao superior hierár] situações cujas providências extrapolem sua
+competência, propondo as correções nécessárias. Ú
+ 
+ 
+28/06/2018
+ 
+ 
+ 
+ 
+Gestorx do Contrato Fiscal do Contrato
+G Mh EB L
+“*LUÍZ MARCELO FREITAS DA SILVA
+      
+ 
+ 
+ 
+ANILS)n%NIA'G)VÉBELA
+tonmação
+ 
+ 
+ 
+ 
+ETA TEAA
+c(,ªev,ªx; atagoas SA Luiz Marcelo Freitas da Silva
+á Analista de Proc. Organizacionais
+Gãás de Alagoas S/A - ALGÁS
+1de1
+TERMO DE DESIGNAÇÃO DO GESTOR E FISCAL DE CONTRATO
+CONTRATO Nº 002/2018
+X :
+N ª//
+S

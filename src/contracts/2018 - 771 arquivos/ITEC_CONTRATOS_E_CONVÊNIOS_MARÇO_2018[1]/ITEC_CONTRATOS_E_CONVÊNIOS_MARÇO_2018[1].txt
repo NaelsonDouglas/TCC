@@ -1,0 +1,997 @@
+ITEC
+CONTRATOS
+E
+CONVÊNIOS
+MARÇO/2018Controladorila Geral
+aovEenso Do Eevico
+Relatório Estatístico de Licitações e Contratos
+Assessoria Técnica de Contratos e Convênios — ASSTCC
+Instituto de Tecnologia em Informática e Informação do Estado de Alagoas - ITEC
+Março de 2018
+CONTRATOS, CONVÊNIOS, TERMOS ADITIVOS
+ 
+Em março de 2018 houve, no âmbito do Instituto de Tecnologia em Informática e
+Informação do Estado de Alagoas (Itec/Al), a contratação emergencial ITEC nº 001/2018 que
+tem como objetivo à prestação de serviços de suporte à infraestrutura de tecnologia da
+informação, comunicação e desenvolvimento,
+Maceió, 11 de abril de 2018,
+Assessoria Técnica de Contratos e Convênios do Instituto de Tecnologia em Informática e
+Informação do Estado de Alagoas — ITEC
+Instituto de Tecnologia em Informática e Informação do Estado de Alagoas
+P A RESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INQVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEÇ
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Malo Moraes, 272 — CENTRO - MACEIÓ-AL = CEP; 57,020-330
+FONE/FAX; (82) 23315-1542
+CNP) O5.100,031/0001 3%
+TERMO DE CONTRATO EMERGENCIAL
+ITEC Nº 001/18, QUE ENTRE S[ CELEBRAM
+O ESTADO DE ALAGOAS, TOR
+INTERMÉDIO DO INSTITUTO DE
+TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO DE ALAGOAS -
+ITEC, E À XPD SOLUÇÕES TECNOLOGICA
+EIRELI - ME FPARA À PRESTAÇÃO DE
+SERVIÇOS DE SUPORTE À
+INFRAESTRUTURA DE TECNOLOGIA DA
+INFORMAÇÃO, COMUNICAÇÃO E
+DESENVOLVIMENTO.,
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEC, entidade da Administração Pública Indireta, inscrito no CNPI/MF nº
+05.100.031/0001-38, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro,
+nesra cidade, neste ato representado por seu Diretor Presidente, Sr, José Luciano dos Santos
+Júnior, inscrito no CPF/MF sob o nº 670.734.845-00,
+CONTRATADA: Empresa XPD SOLUÇÕES TECNOLOGICA EIRELI - ME, inscrita
+no CNPJ sob n.º 05.301.393/0001-97 e estabelecida na Rua Jangadeiros Alagoanos, 619,
+Shopping Pajuçara, sala 29, Pajuçara, Maceió-AL, CEP. 57030-000, fone: (82) 98869-95323,
+neste ato representada por seu representante legal, Sr. José Adilson Pereira de Oliveira,
+brasileiro, casado, empresário, portador do RG nº 893312 SSP/AL, inscrito no CPF sob o nº
+T77,218.454-9] de acordo com a representação legal que lhe é outorgada por contrato social
+Qu procuração.
+Os CONTRATANTES, nos termos do Processo nº 41 506-237/2017, inclusive Parecer Jurídico
+— PA/CIUR nº 001/2017, PGE-PLIC nº 27/2018, PGE-PLIC-CD nº 75/2018 e Despacho
+PGE/GAB nº 0333/2018, e em observância às disposições da Lei nº 8.666/93, celebram, por
+força do presente instrumento, CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE &
+SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO,
+COMUNICAÇÃO E DESENVOLVIMENTO, mediante as cláusulas e condições a seguir
+enunciadas.
+ALAGOAS
+PROCESSO N* 4L506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE /
+TERMO DE CONTRATO EMFRGENÇIAL 11 ES N º 001A08 P
+COMUNICAÇÃO E DESENVOTYIMENTO,
+ 
+PARA A PRESTAÇÃO DE SERYIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFDRMAÃX(?.ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 271 = CENTRO — MACEIÓ-AL — C£P; 57.020-330
+FONEÍFAX: (B2) 3315-1552.
+TNPI 5 100 091/001-38
+1. CLÁUSULA PRIMEIRA — OBJETO
+1.1. O presente contrato tem como objeto a contratação de empresa especializada na
+prestação de serviços de Suporte à Infraestrutura de Tecnologia da Informação e
+Comunicação é Desenvolvimento do Instituto de Tecnologia em Informática e Informação do
+Estado — ITEC, entidade gestora de TIC do Governo do Estado, contabilizados em Unidades
+de Serviços Técnicos (UST), conforme especificações discriminadas no seu Termo de
+Referência (fls. 11-30), Anexo T — Especificações Técnicas - (fls, 31-93) é/ Ancexo 1 —
+Cãloeulo da UST e proposta de preço (fls. 94-97) que o integram, sendo eles:
+» Gerenciamento e Operação de uma Central de Serviços de Tecnologia da Informação
+€ Comunicação no âmbito dos órgãos e entidades do Governo do Estado de Alagoas,
+atendendo demandas do próprio ITEC e/ou de seus clientes.
+« Serviços Têécnicos de Apoio - consiste no fernecimento de serviços específicos da
+área de informática listados abaixo:
+1.2, Objeto da contratação:
+ 
+ru de Serviços:
+ 
+Grupo 1 — Serviços de Níve! 1
+ 
+Serviços de Call Center
+ 
+Kirupo 2 — Serviços de Nívei 1
+ 
+Serviços de Apoio e Suporte a Microcomputadores e Periféricos
+ 
+Serviços de Apoic e Suporte a Infraestrutura da Rede
+ 
+BServiços de Apoio e Suporie a Servidores
+ 
+Serviços de Operação / Moniloramento
+ 
+irupo 3 — Serviços de Desenvolvimento "
+ 
+Serviços de Programação Júnior
+ 
+Serviços de Programação Sênior
+ 
+ 
+ 
+PROCESSO N.º 41506-237/2017 INSTITUTG DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE%
+ALAGOAS
+TEKMO DE CONTRATO EMERGENCIAL ITEC N.º 001/2018
+   
+ 
+ 
+PARA A PRESTAÇÃO DE SERVIÇOS DESCPORTE À INFHRALSTRUIURA DE TECNULOGIA DA INFORMAÍ RÓN
+COMUNICAÇÃO E DESENYOLVIMENTO, -
+NXESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+'GERÊNCIA EXECUTIVA ADMINISTRATIVA - GERÊA
+Rua Melo Moraçs, 277 = CENTRO = MAÇEIÓ-AL = CEP; 57.020-330
+FONE/FAX: (82) 33915-1547
+CNHIOS.L00,021/0001-38
+Serviços de WEB Design
+ 
+ 
+Kirupo 4 - Serviços de Análise
+ 
+[Serviços de Análise Júnior
+ 
+[Serviços de Análise Sênior
+ 
+irupo 5 — Serviços de Suporte
+ 
+Berviços de Apoio e Suporte a Banco de Dados
+ 
+Serviços de Apoio e Suporte a Sistemas Aplicativos
+ 
+EBerviços de Apoio e Suporte a Segurança
+ 
+ 
+ 
+2. CLÁUSULA SEGUNDA — VIGÊNCIA
+2.1. O prazo de vigência deste contrato é de 180 (cento e oitenta) dias, contados da data da
+publicação do seu extrato no Diário Oficial do Estado, a partir de quando as obrigações
+assumidas pelas partes serão exigíveis.
+3. CLÁUSULA TERCEIRA - PREÇO
+3.1. O valor da contratação para UST é de R$ 113,00, sendo o valor global R$ 4.068.000,00
+(quatro milhões e sessenta e oito mil reais), todavia, este valor global será fracionado
+mensalmente por R$ 678.099,00 (seiscentos e setenta e oito tmil reais),
+3.1.1. O valor acima é meramente estimativo, de forma que os pagamentos devidos à
+Contratada dependerão dos quantitativos de serviços efetivamente prestados,
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes
+da execução contratual, inclusive tribitos ou impostos, encargos sociais, rrabalhistas,
+previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros
+necessários 4o curmprimento jintegral do objeto da contratação.
+4. CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA
+4,1. À despesa com a prestação dos serviços de que trata o objeto deste contrato corre à conta
+do seguinte crédito orçamentário, constante do orçamento do Instituto de Tecnologia em
+Informática e Informação do Estado de Alagoas-ITEC para o exercicio financeiro de 2018;
+Programa de Trabalho 116009506191260217322] — Implantação e Implementação do Plano
+Direter de Tecenologia da Informnação e Comunicação do Estado, &/ou
+FROCESSO NJ 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE %
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N 0012018
+  
+.
+PARA A PRESTAÇÃO DE SERYIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO)
+. COMUNICAÇÃO E DESENVOLYIMENTO,
+,
+PESTADO DE ALAGDAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTL
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Malo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; 57.070-330
+r FONE/FAX: (82) 1315-1542
+CNPJ OS. 100 031/00071-34
+116005061912602173225 — Implantação da Rede Integrada Convergente e Multiserviços do
+Estado, no Elemento de Despesa 339039 — Serviços de Terceiro/Pessoa Jurídica, na Fonte de
+Recursos 010000600 - Recursos do Tesouro e/ou 0291000000 — Recursos Próprios.
+5. CLÁUSULA QUINTA — PAGAMENTO
+5.1. O pagamento será efetuado pela Contratante no prazo de até 30 dias, contados da
+apresentação da Nota Fiscal/Fatura contendo o detalhamento dos serviços executados e os
+materiais empregados, através de ordem bancária, para crádito na Caixa Econômica Federal,
+banco 104, agência 0810 (agência do Jaraguá), operação 003, centa corrente nº 00003103-6,
+favorecida a Empresa XPD SOLUÇÕES TECNOLÓGICAS EIRELI-ME, no CNPI sob o nº.:
+05.301.393/0001-97.
+5,2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que
+trata o inciso 1l do art. 24 da Lei 8.666, de 1993, deverão ser efetuaádos no prazo de até 5
+(cinco) dias úteis, contados da data da apresentação da Nota Fiscal/Fatura, nos termos do art.
+5º, $ 3º, da Lei nº 8.665, de 1993.
+5.3. A apresentação da Nota FiscalFatura deverá ocorrer no prazo de (05) dias, contado da
+dara final do período de adimplemento da parcela da contratação a que aquela se referir.
+5.3.1. Do pagamento da remuneração e das contribuições sociais (Fundo de Garantia do
+Tempoa de Serviço e Previdência Social), correspondentes ao mês da última nota fiscal ou
+farura vencida, compatível com os8 empregados vinculados à execução contratual,
+nominalmente identificados, na forma do 8 4º do Art. 31 da Lei nº 9.032, de 28 de abril de
+1995, quando 5se tratar de mão-de-obra diretamente envolvida na execução dos serviços na
+contratação de serviços continuados;
+5.3.2. Da regularidade físcal, constatada através de consuha “on-line” ao Sistema de
+Cadastramento Unificado de Fornecedores - SICAF, ou na impossibilidade de acesso ao
+referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou convocação do
+contratado a encaminhar documento válido que comprove o atendimento às exigências de
+habilitação previstas no art. 29 da Lei 8.666/93;
+5.3.3. Do cumprimento das obrigações trabalhistas, correspondentes à úllima nota
+fiscal/fatura que tenha sido paga pela Administração.
+5.4. O pagamento somente será aurorizado depois de efetuado o “atesto” pelo competente, |
+condicionado este ato à verificação da conformidade da Nota Fiscal/Fatura apresentada em
+relação aos serviços efetivamente prestados € aos materiais empregados.
+/
+PROCESSO N.º 41506 237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE %
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N.º 001/2018 ÍI
+PARA À PRESTAÇÃO DE SERVIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO;
+COMUNICAÇÃO E BESENVOLVIMENIO.ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORNMAÇÃO DO ESTADO DE ALAGOAS — |ITEC
+GERÊNCIA EXECUTIVA ADNINISTRATIVA - GEREA
+Rus Melo Morees, 272 - CENTRO - MACEIÓ-AL = CEP; 57.020-330
+FONE/FAX: (87) 3915-1547
+CNPIOS 100,031/0001-36
+5.5. Havendo erro na apresentação da Nota Fiscal/Fatura ou dos documentos pertinentes à
+contratação, ou, ainda, circunstância que impeça à liquidação da despesa, como por exemplo,
+obrigação financeira pendente, decomente de penalidade imposta eu inadimplência, o
+pagamento ficará sobrestado até que a Contratada providencie as medidas sancadoras. Nesta
+hipótese, o prazo para pagamento inicigr-se após a comprovação da regularização da
+situação, não acarretando qualguer ónus para a Contratante.
+5.6, Caso se constatê 9 descumprimento de obrigações trabalhistas ou da manutenção das
+condições exigidas para habilitação poderá ser concedido um prazo para que a Contratada
+regularize suas obrigações, quando não se identificar má-fé ou a incapacidade de corrigir à
+sinmação.
+5.6.1. Não sendo regularizada a situação da Contratada no prazo concedido, ou nos casos em
+que identificada má-fé, se não for possível a realização desses pagamentos pela própria
+Administração, o5 valofes retidos cautelarmente serão depositados junto à Justiça do
+Trabalho, com o objetiva de serem ntilizados exclusivamente no pagamento de salários &
+das demais verbas trabalhistas, bem como das contribuições sociats é FGTS decorrentes.
+5.7, Será efervada a retenção ou glosa no pagamento, proporcional à imegularidade
+verificada, sem prejuizo das sanções cabíveis, caso se constate que a Contratada:
+5.7,1. Não produziu os resultados acordados;
+5.7.2. Deixou de executar as atividades contratadas, ou não as exceutou com a qualidade
+minima exigida;
+5.7.3. Deixou de utilizar os materiais e recursos humanos exigidos para a execução do
+serviço, ou utilizou-os com qualidade ou quantídade inferior à demandada.
+5.8. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento.
+5,9, Constatando-se a situação de irregularidade da contratada, será providenciada sua
+notificação, por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou, no
+mesmo prazo, apresente sua defesa.
+5.10. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante
+deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à
+inadimplência da contratada, bem como quante à existência de pagamento a ser efetuado,
+para que sejam acionados os meios pertinentes & necessários para garantir o recebimento de
+seus créditos.
+PROCESSO N." 41506-217/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO D%
+. ALAGÇOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N.' 001/2018
+PARA A PRESTAÇÃO DE SERVIÇOS DESUPORTE À INFRAESTRUTURA DE TECNOT.OGIA DA INFORMAÇÃO :
+COMUNICAÇÃO E DESENVOLVIMENTO. ?/ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INDVAÇÃO-SECT]
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA,
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL = CEP; 57.020-120
+FONE/FAX: (82) 3315-1542
+CNPIOS,100,031/0001-38
+5.11. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à
+rescisão contratual nos autos do processo administralivo correspondente, assegurada à
+contratada a ampla defesa.
+5.12. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente,
+até que se decida pela rescisão do contrato, caso a contratada não regularize sua situação.
+5.13, Somente por motivo de economicidade, segurança nacional ou outro interesse público
+de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da
+contratante, não será rescindido o contrato em execução com a contratada inadimplente,
+5.14. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável,
+5,14.1, A Contratada regnlarmente oprante pelo Simples Nacional, exclusivamente para as
+atividades de prestação de serviços previstas no $5º-C, do artigo 18, da LC 123, de 2006,
+não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele
+regime, observando-se as exceções nele previstas, No entanto, o pagamento ficará
+condicionado à apresentação de comprovação, por meio de documento oficial, de que faz
+jus ao tratamento tributário favorecido previsto na referida lei Complementar.
+6, CLÁUSULA SEXTA — EXECUÇÃO DOS SERVIÇOS E SEU RECEBIMENTO
+6.1. À execução dos serviços será iniciada a partir do recebimento da Ordem de Execução,
+6,2. Os serviços serão recebidos provisoriamente de forma imediata, pelo(a) responsável
+pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua
+conformidade com as especificações constantes no Termo de Referência e na proposta.
+6.3. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes no Termo de Referência e na proposta, devendo ser corrigidos,
+refeitos ou substituídos no prazo fixado pelo fiscal do contrato, às custas da Contratada, sem
+prejuízo da aplicação de penalidades.
+6.4. Os serviços serão recebidos definitivamente de forma imediata, contados do
+recebimento provisório, após a verificação da qualidade e quantidade do serviço executado e
+materiais empregados, com a conscquente accitação mediante termo circunstanciado.
+6.1.1. Na hipótese de não se proceder à verificação a que se refere o subitem anterior dentro
+do prazo fixado, reputar-se-4 como realizada, consumando-se o recebimento definitivo no
+dia do esgotamento do prazo.
+PROCESSO N.' 41506-237/2017 INSTITUTO DE TÉCNOLOGIA EM INFORMÁ TICA E INFORMAÇÃO DO ESTADO DI
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL LTEC N.º 001/2018
+   
+PARA A FRESTAÇÃO DE SERVIÇOS DE SUPORTE À INFRAESTRUTURA DÊE TECNOLOGIA DA INFORNA
+COMUNICAÇÃO E DESENVOLVIMENTO,ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA,
+Rux Mélo Moraes, 272 = CENTRO = MACEIÓ-AL = CEP; 57.020-380
+FONE/FAX: (82) 3315-1542
+CNPJ 0S 100 031/0001-38
+6.5, O recebimento provisório ou definitivo do objeta não exclui a responsabilidade da
+Contratada peélos prejuízos resultantes da incorreta execução do contrato.
+7. CLÁUSULA OITAVA - FISCALIZAÇÃO
+7.1. O acompanhamento e a fiscatização da execução do contrato consistem na verificação
+da conformidade da prestação dos serviços e da alocação dos recursos necessários, de forma
+a assegurar o perfeito comprimento do ajuste, devendo ser exercidos por um Ou mais
+representantes da Contratante, especialmente designados, na forma dos arts. 67 e 73 da Lei
+nº 8.656, de 1993
+72 A fiscalização dos contratos, no que se refere ao cumprimento das obrigações
+trabalhistas, deve ser realizada com base em critérios estatísticos, levando-se em
+consideração falhas que impactem a contrato como um todo e não apenas erros e falhas
+eventuais no pagamento de alguma vantagem à um determinado empregado. T
+7.3. O representante da Contratante deverá ter a experiência necessária para O
+acompanhamento e controle da execução dos serviços e do contrato.
+7.4 As disposições previstas nesta cláusula não excluem os procedimentos de fiscalização
+i presentes em norma específica.
+7.5. À verificação da adequação da prestação do serviço deverá ser realizada com base nos
+critérios previstos no Termo de Referência e na proposta.
+7.6. A execução dos contratos deverá ser acompanhada e fiscalizada por meio de
+instrumentos de controle, que compreendam a mensuração dos seguintes aspectos:
+7,6.1. Os resultados alcançados em relação ao objeto contratado, com a verificação dos
+prazos de execução e da qualidade demandada;
+7,6,2. Os recursos humanes empregados, em função da quantidade e da formação I
+profissional exigidas;
+7.6.3. A qualidade e quantidade dos recursos materiais, equipamentos e utensílios utilizados;
+7.6.4. A adequação dos serviços prestados à rotina de execução estabelecida; |
+7.6,5. O cumprimento das demais obrigações decerrentes do contrato; e
+r 7.,6,6. A satisfação da Administração usuária. j I
+PROCESSO N.º 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE,
+ALAGOAS
+TERMO DE CONTRATO EMERÇGENCIALITECN, 001/2018
+ 
+   
+ 
+COMUNICAÇÃO E DESENVOLVIMENTO.
+ 
+PARA À PRESTAÇÃO DE SERVIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA wml%:ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLÓGIA E DA INOVAÇÃO-SECTI
+INSTISUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITFC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Maelo Moraes, 272 - CENTRO — MACCIÓ-AL — CEP, $7,020-880
+FONE/FAX: (82) 1315-1542
+CNPI DS IM0.031/00071-38
+7.7, Durante a vigência deste contrato, 2 exceução do objeto é acompanhada e fiscalizada pelo
+Sr, Renato Prado Pinto Filho, matrícula nº 34518-0, designado Gestor.
+7.7.1. O gestor deste contrato terá, entre outras, as sepuintes atribuições: expedir Ordens de
+Execução de Serviço; proceder ao acompanhamento técnico da execução dos serviços;
+fiscalizar a execução do contrato quanto à qualidade desejada; comunicar à CONTRATADA
+o descumprimento do contrato e indicar os procedimentos necessários ao seu cormreto
+cumprimento; solicitar ao CONTRATANTE a aplicação de penalidades por descumprimento
+de cláusula contratual; fornecer atestados de capacidade técnica quando solicítado, desde que
+atendidas às obrigações contratuais; atestar as notas fiscais para efeito de pagamentos;
+recusar oOs serviços cuja execução não se verifique perfeita, visto em desacordo com
+especificações discriminadas no Termo de Referência e na Proposta, bem como scolicitar sua
+reparação, correção, remoção, reconstrução ou substituição, no total ou em parte; solicitar à
+CONTRATADA & à seu preposto todas as providências necessárias à boa execução dos
+serviços,
+7.7.2. O fiscal ou gestor do contrato, ao verificar que houve subdimensionamento da
+produtividade pactuada, sem perda da qualidade na execução do serviço, deverá comunicar à
+autoridade responsável ]Elal'a que esta promova à adequação contratual à produtividade
+efetivamente realizada, respeitando-se os limites de alteração dos valores contratuais
+previstos no 8 1º do artigo 65 da Lei nº 8.666, de 1993,
+7.8 A conformidade do material à ser utilizado na execução dos serviços deverá ser verificada
+juntamente com o documento da Contratada que contenha a relação detalhada dos mesmos,
+de acordo com o estabelecido neste Termo de Referência e na proposta, informando às
+respectivas quantidades e especificações técnicas, tais como: marca, qualidade e forma de
+uso,
+7.9 O representante da Contratante deverá promover o registro das ocorrências verificadas,
+adotando as providências necessárias ao fiel cumprimento das cláusulas contratuais, conforme
+o disposto nos $5 1º e 2º do art, 67 da Lei nº 8.666 de 1993.
+7.10. Na fiscalização do cumprimento das obrigações trabalhistas e sociais nas contratações
+com dedicação exclusiva dos trabalhadores da contratada, exigir-se-á, dentre outras, as
+comprovações previstas em ato normativo específico.
+7.11. O fiscal do contrato também poderá solicitar ào preposto que forneça os seguintes
+documentos: a) extrato da conta do INSS e do FGTS de qualquer empregado, à ceritério da
+Administração contratante; b) cópia da folha de pagamento analítica de qualquer mês da
+prestação dos serviços, em que conste como tomador 0 órgão ou entidade contratante; c) cópia
+dos contracheques dos empregados relativos a qualquer mês da prestação dos serviços ou,
+TROCESSO N/º 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE e
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL [UTEC N (L2018
+FARA À FRESTAÇÃO DE SERYIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO;,
+COMUNICAÇÃO E DESENVOI VIMENTO,ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEÇ
+GERÊNCIA EXECUTIVA ACMINISTRATIVA - GEREA
+Rua Mélo Moraes, 272 = CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNP1 05.100.071/0001-38
+ainda, quando necessário, cópia de recibos de depósitos bancários; d) comprovantes de
+entrega de benefícios suplementares (vale-transporte, vale-alimentação, entre outros), a que
+estiver obrigada por força de lei ou de convenção ou acordo coletivo de trabalho, relativos a
+qualquer mês da prestação dos serviços e de qualquer empregado; e e) comprovantes de
+realização de eventuais cursos de treinamento e reciclagem que forem exigidos por lei ou pelo
+contrato. '
+7.12. Tal solicitação será realizada periodicamente, por amostragem, isto é, abrangendo, a
+cada ocasião, determinado quantitativo de empregados, de medo que, ac final de 180 (cênto &
+oitenta) dias de execução contratual, todos ou a maior parte dos empregados alocados tenham
+sido abrangidos ao menos uma vez.
+7.13. Para tanto, conforme previsto neste Termo de Referência, a empresa deverá instruir seus
+empregados, no início da execução contratual, quanto à obtenção de tais informações, bem
+como oferecer os meios necessários para que obtenham tais extratos, preferencialmente por
+meio eletrônico, quando disponível.
+7.14. Os empregados também deverão ser orientados a realizar tais verificações
+periodicamente e comunicar ao fiscal do contrato qualquer irregularidade, independentemente
+de solicitação por parte da fiscalização.
+7.15. Q fiscal do contrato poderá solicitar ao preposto os documentos comprobatórios da
+Tealização do pagamento de vale-transporte e auxilio alimentação em nome dos empregados,
+relativos ao período de execução contratual, para fios de conferência pela fiscalização.
+7.16. Tal solicitação será realizada periodiçcamente, inclusive por amostragem, isto é,
+abrangendo, a cada ocasião, determinado quantitativo de empregados, de modo que, ao final
+de 180 (cento e oitenta) dias de execução contrafual, todos ou a maior parie dos empregados
+alocados tenham sido abrangidos ao menos uma vez.
+7.17. À conformidade do material à ser utilizado nà execução dos serviços deverá ser
+verificada juntamente com 9 documento da Contratada que contenha a relação detalhada dos
+mesmos, de âcordo com o estabelecido no Termo de Referência & na proposta, informando as
+respectivas quantidades e especificações técnicas, tais como: marca, qualidade e forma de uso.
+7.18. O representante da Contratante deverá promover o registro das ocorrências verificadas,
+adotando as providências necessárias ao fiel cumprimento das cláusulas contratuais, conforme
+o disposto nos $3 1º e 2º do art. 67 da Lei nº 8.666, de 1993,
+7.19. O deseumprimento total ou parcial das demais obrigações e responsabilidades assumidas Ê
+pela Contratada ensejará à aplicação de sanções administrativas, previstas neste Termo de
+   
+   
+ 
+ 
+ 
+PROCESSO N 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIALITEC N.' 001/2018
+PARA A PRESTAÇÃO DE SERVIÇOS DE SUPOITI:E A INFRAESTHUTURA DE TECNOLOGIA DA INFORMA!
+COMUNICAÇÃO E DESENVOLVIMENTO.. ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNÇCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GERFA
+Rua Melo Moraes, 272 = CENTRO = MACEIÓ-AL — CEP; 57,020-330
+FONE/FAX: (82] 3915-1542
+CNP) O5,100.011/0001 38
+Referência e na legislação vigente, podendo culminar em rescisão contratual, conforme
+disposto nos artigos 77 e 80 da Lei nº 8.666, de 1993.
+7.20. O contrato só será considerado integralmente cumprido após a comprovação, pela
+Contratada, do pagamento de todas as obrigações trabalhistas, sociais e previdenciárias
+referentes à mão de obra alocada em sua execução, inclusive quanto às verbas rescisórias;
+7.21, Por ccasião do encerramente da prestação dos serviços ou em razão da dispensa de
+empregado vinculado à execução contratual, a contratada deverá entregar no prazo de 2 dias a
+seguinte documentação pertinente a cada trabalhador: àa) termos de rescisão dos contratos de
+trabalho dos empregados prestadores de serviço, devidamente homologados, quando exigível
+pelo sindicato da categoria; b) guias de recolhimento da contribuição previdenciária e do
+FOGTS, referentes às rescisões contratuais; c) extratos dos depósitos efetuvados nas contas
+vinculadas individuais do FGTS de cada empregado dispensado; e d) exames médicos
+demissionais dos empregados dispensados;
+7.22. Os documentos necessários à comprovação do cumprimento das obrigações sociais,
+trabalhistas e previdenciárias poderão ser apresentados em original ou por qualquer processo
+de cópia autenticada por cartório comperente ou por servidor da Administração;
+7.23. A fiscalização de que trara esta cláusula não exclui nem reduz à responsabilidade da
+Contratada, inclusive perante terceirtos, por qualquer irregularidade, ainda que resultante de
+imperfeições técnicas, vícios redibitórios, ou emprego de material inadequado qu de qualidade
+inferior e, na ocorrência desta, não implica em corresponsabilidade da Contratante ou de seus
+agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de 1993.
+8. CLÁUSULA NONA - OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+&.1. São obrigações da Contratante:
+&.1.1, Exigir 0 cumprimento de todas as obrigações assumidas pela Contratada, de acordo
+com as cláusulas contratuais e os termos de sua proposta;
+8.1.2, Exercer o acompanhamento e a fiscalização dos serviços, por servidor especialmente
+designado, anotando em registro próprio as falhas detectadas, indicando dia, mês e ano, bem
+como 6 nome dos empregados eventualmente envolvidos, e encaminhando 08 apontamentos à
+autoridade competente para as providências cabiveis;
+8.1.3. Notificar a Contratada por escrito da ocorrência de eventuais imperfeições no curso da
+excceução dos serviços, fixando prazo para a sua correção;
+PROCESSO N.' 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO D|
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N* 0012018
+TARA À PRESTAÇÃO DE SERVIÇOS DE SUPORTE À INFRAESTRUTURA BE TECNOLOGIA DA INFORM
+COMUNICAÇÃO E DESENVOLVIMENTO,ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM 'NFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEÇ
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Ruaà Melo Moraes, 272 = CENTRO - MACEIG-AL - CEP; 57 020-330
+FONE/FAX. (82) 3315-1542
+NP 05.100.031/0001-39
+8.1.4, Não permitir que os empregados da Contratada realizem horas extras, exceto em caso
+de comprovada necessidade de serviço, formalmente justificada pela autoridade do órgão para
+o qual o trabalho seja prestado e desde que observado o lunite da legislação trabalhista;
+8.1.5. Pagar à Contratada o valor resultante da prestação do serviço, no prazo e condições
+estabelecidas no Edita! e seus anexos;
+8.1.6. Efetuar as retenções tributárias devidas sobre o valor da Nota Fiscal/Fatura fornecida
+pela contratada;
+8.1.7. Não praticar atos de ingerência na administração da Contratada, tais como:
+I 8.1.7.1. Exercer o poder de mando sobre os empregados da Contratada, devendo reportar-se
+somente aos prepostos ou responsáveis por ela indicados, exceto quando o objeto da
+contratação previr o atendimento direto, tais como nos serviços de recepção e apoio ao
+usuário; .
+«
+8.1.7.2. Direcionar a contratação de pessoas para trabalhar nas empresas Contratadas;
+I 8.1.7.3. Promover ou aceitar o desvio de funções dos trabalhadores da Contratada, mediante à
+utilização destes em atividades distintas daquelas previstas no objeto da contratação é em J
+relação à função específica para a qual o trabalhador foi contratado;
+8.1.7.4. Considerar os trabalhadores da Contratada como colaboradores eventuais do próprio
+órgão ou entidade responsável pela contratação, especialmente para efeito de concessão de
+diárias & passagens.
+8.1.8. Analisar os termos de rescisão dos contratos de trabalho do pessoal empregado na
+prestação dos serviços no prazo de 30 (trinta) dias, prorrogável por igual período, após a
+extinção ou rescisão do contrato.
+8,1.9. Franquear aos prepostos credenciados pela CONTRATADA o acesso as diversas
+instituições do Governo do Estado de Alagoas, para o levantamento de dados, obtenção de
+informações pertinentes aos serviços a serem executados qu para a execução destes serviços.
+8.1.10. Os detalhes referentes a responsabilidade técnica da CONTRATANTE estão descritos
+na item 1,9 do Anexo 1 deste Termo de Referência.
+ 
+8.2. São obrigações da Contratada;
+8.2.1. Executar os serviços conforme especificações deste contrato é de sua proposta, com a
+alocação dos empregados necessários ao perfeito cumprimento das cláusulas contratuais, além
+de fornecer os materiais e equipamentos, ferramentas e utensilios necessários, na qualidade e
+quantidade especificadas neste Termo de Referência e em sua proposta;
+p .
+PROCESSO N.º 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA É INFORMAÇÃO DO ESTADO D:.%
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL [ITEC N.º 012018
+PARA AÀ PRESTAÇÃO DÉE SERVIÇOS DE SUTORTE À INFRAESTRUTURA DF TECNOLOGLA DA INFORR
+COMUNICAÇÃO E DESENYOLVIMENTO.ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEÇ
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Mua Melo Moraes, 272 = CENTRO = MACEIÓ-AL = CEP; 57,020-330
+FONE/RAX: (82] 3315-1542
+NP 05.100,031/0001-38
+8.2.2. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo
+fixado pelo fiscal do contrato, os serviços efetuados em que se verificarem vicios, defeitos ou
+incorreções resultantes da exccução ou dos materiais empregados;
+8.2.3. Manter o empregado nos horários predeterminados pela Administração;
+8.2.4, Responsabilizar-se pelos vícios e danos decorrentes da exccução do objeto, de acordo
+com os artigos 14 e 17 a 27, do Código de Defesa da Consumidor (Lei nº B.078, de 1990),
+ficando a Contratante autorizada a descontar da garantia, caso exigida no edital, ou dos
+pagamentos devidos à Contratada, o valor correspondente aos danos sofridos;
+8.2.5. Utilizar empregados habilitados e com conhecimentos básicos dos serviços à serem
+executados, em conformidade com as normas e determinações em vigor;
+8.2.6. Vedar a utilização, na execução dos serviços, de empregado que seja familiar de apente
+Público ocupante de cargo em comissão ou função de confiança no órgão Contratante;
+8.2.7. Apresentar os empregados devidamente uniformizados e identificados por meio de
+crachá, além de provê-los com os Equipamentos de Proteção Individual - EPI, quando for o
+caso; :
+E
+8.2,8. Apresentar a seguinte documentação no primeiro mês de prestação dos serviços:
+8.2.8.1. Relação dos empregados, contendo nome completo, cargo ou função, horário de posto
+de trabalho, números da carteira de identidade (RG) e da inscrição no Cadastro de Pessoas
+Físicas (CPF), com indicação dos responsáveis técnicos pela execução dos serviços, quando
+for o caso;
+3.2.8.2. Carteira de Trabalho e Previdência Social (CTPS) dos empregados admitidos e dos
+responsáveis técnicos pela execução dos serviços, quando for o caso, devidamente assinada
+pela contratada;
+82.83, Exames médicos admissionais dos empregados da contratada que prestarão os
+serviços.
+8,2.8.4. Os documentos acima mencionados deverão ser apresentados para cada novo
+empregado que se vincule à prestação do contrato administrativo. De igual modo, o
+desligamento de empregados no curso do contrato de prestação de serviços deve ser
+devidamente comunicado, com toda à documentação pertinente ao empregado dispensado, à
+semelhança do que se exige quando do encerramento do contrato administrativo,
+8.2.9. Quando não for possível a verificação da regularidade no Sistema de Cadastro de
+Fomecedores — SICAF, entregar no setor responsável pela fiscalização do contrato, até o dia
+trinta do mês seguinte ao da prestação dos serviços, os seguintes documentos: 1) prova de
+regularidade relativa à Seguridade Social; 2) certidão conjunta relatíva aos triburos federais e
+PROCESSO N. 415065-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DG ESTADO D
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N. 0012018
+PARA A PRESTAÇÃO DE SERVIÇOS DE SUPORIE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇA
+COMUNICAÇÃO E DESENVOLVIMENTO,FEA
+<
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOSIA EM INFORMÁTICA E INFORMAÇÃD DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUT /VA ADMINISTRAT!VA - GEREA
+Rua Melo Moraes, 277 = CENTRO -= MACEIÓ-AL = CEP; 57,020-330
+FONE/FAX: (82) 9315-1542
+TNP O5.100.031/0001-26
+à Dívida Ativa da União;, 3) certidões que comprovem a regularidade perante as Fazendas
+Estaduval, Distrital e Municipal do domicílio ou sede do contratado; 4) Ceridão de
+Regularidade do FGTS — CRF; c 5) Certidão Negativa de Débitos Trabalhistas — CNDT;
+8.2.10. Substituir, de imediato, em caso de eventual ausência, taís como, faltas, férias e
+licenças, o empregado posto 2 serviço da Contratante, devendo identificar previamente o
+respectivo substituto ao Fisca! do Contrato;
+8.2.11. Responsabilizar-se por todas as obrigações trabalhistas, sociais, previdenciárias,
+tributárias e as demais previstas na legislação específica, cuja inadimplência não transfere
+responsabilidade à Contratante;
+8.2.12. Efetuar o pagamento dos salários dos empregados alocados na execução contratual
+mediante depósito na conta bancária de titularidade do trabalhador, em agência situada na
+localidade ou região metropolitana em que ocorre a prestação dos serviços, de modo à
+possibilitar a conferência do pagamento por parte da Contratante;
+8.2.12.1. Em caso de impossibilidade de cumprimento desta disposição, a contratada deverá
+apresentar justificativa, a fim de que a Administração analise sua plausibilidade e possa
+verificar a realização do pagamento.
+8.2.13. Autorizar a Administração contratante, no momento da assinatura de contrato, a fazer
+o desconto nas faturas e realizar os pagamentos dos salários e demais verbas trabalhistas
+diretamente aos trabalhadores, bem como das contribuições previdenciárias e do FGTS,
+quando não demonstrado o cumprimento tempestivo € regular dessas obrigações, até o
+momento da regularização, sem prejuízo das sanções cabíveis;
+8.2.13.1. Quando não for possível a realização desses pagamentos pela própria Administração
+(ex.: por falta da documentação pertinente, tais como folha de pagamento, rescisões dos
+contratos e guias de recolhimento), os valores retidos cautelarmente serão depositados junto à
+TJustiça do Trabalho, com o objetivo de serem utilizados exclusivamente no pagamento de
+salários e das demais verbas trabalhistas, bem como das contribuições sociais é FGTS
+decorrentes;
+8.2.14, Atender as solicitações da Contratante quanto à substituição dos empregados alocados,
+no prazo fixado pelo fiscal do contrato, nos casos em que ficar constatado descumprimento
+das obrigações relativas à execução do serviço, conforme descrito neste Termo de Referência,
+8.2.15. Instruir seus empregados quanto à necessidade de acatar às normas internas da
+Administração,
+8.2.16. Instruir seus empregados a respeito das atividades a serem desempenhadas, alertando-
+os a não executar atividades não abrangidas pelo contrato, devendo a Contratada relatar à
+Contratante toda e qualquer ocorrência neste sentido, a fim de evitar desvio de função;
+F
+PROCESSO N.' 41506-237/2017 INSTITUTO DE TECNOLOGI1A EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL ITEC N.º 001/2013
+FARA À PRESTAÇÃO DE SERVIÇOS DE SUPOR'I_'EÃ INFRAESTRUTURA DE T ECNOLOGIA DA INFORMAÇÃO,
+COMUNICAÇÃO E DESENVOLVIMENTO. yESTADO DE ALAGOAS
+SECRETARIA CE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+” GERÊNCIA EXECUTIVA ADMINISTRATIVA - GERFA
+Rus Maelo Moraes, 772 = CENTRO — MACEIÓ-AL = CEP) 57.020-130
+FONE/FAX: (82) 1315-1542
+CNPIOS 200 931/0001-38
+8.2.17. Instruir seus empregados, no início da execução contratual, quanto à obtenção das
+informações de seus interesses junto aos órgãos públicos, relativas ao contrato de trabalho e
+obrigações a ele inerentes, adotando, entre outras, as seguintes medidas:
+8.2.17.1. Viabilizar o acesso de seus empregados via internet, por meio de senha própria, àos
+sistemas da Previdência Social e da Receita do Brasil, com o objetivo de verificar se as suas
+contribuições previdenciárias foram recolhidas, no prazo máximo de 60 (sessenta) dias,
+contados do início da prestação dos serviços ou da admissão do empregado;
+8.2.172. Viabilizar a emissão do cartão cidadão pela Caixa Econômica Federal para todos o5
+empregados, no prazo máximo de 60 (sessenta) dias, contados do início da prestação dos
+serviços ou da admissão do empregado;
+8.2.17.3. Oferecer todos os meios necessários aos seus empregados para a obtenção de
+extratos de recolhimentos de seus direitos sociais, preferencialmente por meio elctrônico,
+quando disponível.
+8.2.18. Deter instalações, aparelhamento e pesscal técnico adequados e disponíveis para a
+realização do objeto da licitação;
+8.2.19. Manter preposto nos locais de prestação de serviço, aceito pela Administração, para
+representá-la na execução do contrato;
+8.2.20. Relatar à Contratante toda e qualquer irregularidade verificada no decorrer da
+prestação dos serviços; ,
+8.2.21, Fornecer, sempre que solicitados pela Contratante, es comprovantes do cumprimento
+das obrigações previdenciárias, do Fundo de Garantia do Tempo de Serviço - FGTS, e do
+pagamento dos salários e demais benefícios trabalhistas dos cmpregados colocados à
+disposição da Contratante;
+$.2.22. Não permitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na
+condição de aprendiz para os maiorcs de quatorze anos; nem permitir a utilização do trabalho
+do menor de dezoito anos cm trabalho noturno, perigoso ou insalubre;
+8.2.23. Manter durante toda a vigência do contrato, em compatibilidade com as obrigações
+assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+8.2.24. Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do
+contrato;
+8.2.25, Não se beneficiar da condição de optante pelo Simples Nacional, salvo as exceções
+previstas no $ 5º-C do ar, 18 da Lei Complementar no 123, de 14 de dezembro de 2006;
+8.2.26. Comunicar formalmente à Receita Federal a assinatura do contrato de prestação de
+$erviços mediante cessão de mão de obra, salvo as exceções previstas no 8 5º-C do art. 18 da
+Lei Complementar nó 123, de 14 de dezembro de 2006, para fins de exclusão obrigatória do
+PROCESSO N.' 41506-237/2017 ENSTIÍUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIALITEC N* 001/2018
+ 
+  
+PARA À PRESTAÇÃO DE SERVIÇOS DE SUFORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO:
+COMUNICAÇÃO E DESENVOLVIMENTO.
+1ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECT!
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGGAS - ITEC
+* GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Aus Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; 57.070-330
+FONE/FANI: (82) 3315-1542
+NP) 05.100.031/0001-38
+Simples Nacienal à contar do mês seguinte ao da contratação, conforme previsão do art.17,
+XI, art.30, $1º, Tl e do art. 31, 11, todos da LC 123, de 2006;
+3$.2.26,1. Para efeito de comprovação da comunicação, a contratada deverá apresentar cópia
+do ofício enviado à Receita Federal do Brasil, com comprovante de entrega e recebimento,
+comunicando à assinatura do contrato de prestação de serviços mediante cessão de mão de
+obra, até o último dia útil do mês subsequente ao ua ocorrência da situação de vedação.
+8.2.27, Arçar com o ônus decorrente de eventual equívoco no dimensionamento dos
+quantitativos de sua proposta, devendo complementá-los, case o previsto inicialmente em sua
+proposta não seja satisfatório para o atendimento ac objeto da licitação, exceto quando ocorrer
+algum dos eventos arrolados nos incisos do $ 1º do art. 57 da Lei nº 8.666, de 1993;
+8.2.28. Sujeitar-se à retenção da garantia prestada e dos valores das faturas correspondentes a
+1 (um) mês de serviços, por ocasião do encerramento da prestação dos serviços contratados,
+podendo a Administração Contratante utilizá-los para o pagamento direto aos trabalhadores
+vinculados ao contrato no caso da não comprovação (1) do pagamento das respectivas verbas
+rescisórias ou (2) da realocação dos trabalhadores em outra atividade de prestação de serviços,
+8.2.29. Requisitar ao CONTRATANTE todas as informações e dados técnicos que julgue
+necessários à execução dos serviços, não sc admitindo, em nenhuma hipótese, a invocação de
+desconhecimento ou falta de fornecimento desses dados, quando não formalmente solicitados;
+8.2.30. Ressarcir ao CONTRATANTE o equivalente à todos os danos decorrentes de
+paralisação ou interrupção dos serviços contratados, exceto quando isto ocorrer por exigência
+De CONTRATANTE ou ainda por caso fortuito ou força maior, circunstâncias devidamente
+comunicadas ao CONTRATANTE no praze de 48 (quarenta e oito) horas após a sua
+ocorrência;
+8.2.31., Todos os dados contidos em mídias de armazenamento fixas e removíveis, magnéticas,
+óticas ou eletrônicas, folhas de papel presas em impressoras ou quaisquer outros registros são
+de exclusiva propriedade do CONTRATANTE devendo a proponente observar sigilo, não
+divulgação é não duplicação dos mesmos. A retirada e apagamento de vírus, spywares,
+arquivos danificados e outros problemas comprovados deverá ser efetuada somente após
+confirmação com 6 usuário responsável pelos dados;
+3.2.32. Os detalhes de requisitos técnicos exigidos na prestação dos serviços que atuam como
+objeto deste instrumento estão situados no 1tem 1.10 do Anexo | do Termo de Referência.
+9, ALTERAÇÃO SUBJETIVA
+9.1. É admissível a fusão, cisão ou incorporação da Contratada com ou em outra pessoa
+Íuridica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de%'
+PROCESSO N.' 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E [NFORMAÇÃO DO
+ALAGOAS
+TERMO DE CONTRATO EMERGENCÇIAL ITEC N* 0012018
+   
+COMUNICAÇÃO E DESENVOLVIMENTO.. ESTADO DE ALAGDAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+'GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA,
+Fua Melo Moraes, 277 = CENTRO - MACEIÓ-AL — CEP; 57.020-330
+' FONE/FAX: [92] 3315 1547
+CNP) 05.100.031/0001-38
+habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e condições do
+contrato; não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da
+Administração à continuidade do contrato.
+10, CLÁUSULA DEZ — SANÇÕES ADMINISTRATIVAS
+10.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Lei nº 10.520,
+de 2002, e da Lei 12.845, de 2013, a Contratada que:
+10.1.1. Inexecutar total ou'pa:cialmenle qualquer das obrigações assumidas em decorrência da
+contratação; '
+10,1.2. Ensejar o retardamento da execução do objeto;
+10.1.3. Fraudar na execução do contrato;
+10.1.4. Comportar-se de modo inidôneo;
+1D.1.5. Cometer fraude fiscal;
+10.1.5. Não mantiver a proposta;
+10.1.7. Criar, de modo fraudulento ou irregular, pessca jurídica para celebrar contrato
+administrativo;
+109.1.8. Obtiver vantagem on benefício indevido, de modo fraudulento, de modificações ou
+prorrogações de contratos celebrados com a administração pública, sem autorização em lei,
+no ato convocatório da licitação pública ou nos respectivos instrumentos contratuais;
+10.1.9. Manipular ou fraudar o equilibrio econômico-financeiro dos contratos celebrados com
+a administração pública; *
+10.2. A Contratada que cometer qualquer das infrações discriminadas no subitem acima ficará
+Sujeita, sem prejuízo da responsabilidade civil e criminal, às sanções previstas Lei nº 8.666,
+de 1993, da Lei nº 10.520, de 2002, e da Lei 12.846, de 2013, observado o Decreto nº 4,.054,
+de 19 de setembro de 2008.
+10.3. Também ficam sujeitas às penalidades do art. 87, 1Tl e TV da Lei nº 8.666, de 1993, a
+Contratada que:
+10.3.1, Tenha sofrido condenação definitiva por praticar, por meio dolosos, fraude fiscal no
+recolhimento de quaisquer tributos;
+10.3.2. Tenha praticado atos ilícitos visando a frusirar os objetivos da licitação;
+10.3.3. Demonstre não possuir idoneidade para contratar com a Administração em virtude de
+atos ilícitos praticados.
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIALSTEC Nº 001/M018
+  
+ 
+PARA & PRESTAÇÃO DE SERVIÇOS DE SUFORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFOR
+COMUNICAÇÃO E DESENVOLVIMENTO.ESTADO DE ALAGDAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORNMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+'GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 772 - CENTRO = MACÉIO-AL = CEP; 57,020-330
+FONESFAX: (82) 3315-1542
+CNFI 05 100 031/0001-28
+10.4. A aplicação de qualquer das penalidades previstas realizarse-á em proçesso
+administrativo que assegurará o contraditório e a ampla defesa à Contratada, observando-se o
+procedimento previsto na Lei nº 8 .666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+10.5. À autoridade competente, na aplicação das sanções, levará em consideração a gravidade
+da conduta do infrator, o caráter educativo da pena, bem como o dano causado à
+Adminisiração, observado c prineípio da proporcionalidade,
+19,6. Uma descrição detalhada das ponalidades aplicáveis está descrita no item 1.6 do Anexo
+1 do Termo de Referência,
+11, CLÁUSULA ONZE — RESCISÃO
+11.1. Q presente Termo de Contrato poderá ser rescindido nas hipóteses previstas no art. 78
+da Lei nº 8.666, de 1993, com as consequências indicadas no art. 80 da mesma Lei, sem
+Prejuizo das sanções aplicáveis.
+11.2. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à
+Contratada o direito à prévia e ampla defesa.
+11.3. A Contratada reconhece os direitos da Contratante em caso de rescisão administrativa
+prevista no art, 77 da Lei nº 8.665, de 1993,
+11,4, O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos,
+conforme o caso:
+11.4.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+11.4.2. Relação dos pagamentos já efetuados e ainda devidos;
+11.4,3. Indenizações e multas.
+12. CLÁUSULA DOZE - VEDAÇÕES
+12.1. É vedado à Contratada:
+12.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação financeira;
+12.1.2. Interromper à execução dos serviços sob alegação de inadimplemento por parte da
+Contratante, salvo nos cascs previstos em lei.
+ 
+13. CLÁUSULA TREZE - ALTERAÇÕES
+13.1. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666,
+de 1993, -
+PROCESSO N 41506-237/2017 INSTITUTO DE TECNOLGGIA EM [NFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO EMERGENCIAL TTEC N.º 001/2013
+      
+ 
+ 
+; n
+PARA À PRESTAÇÃO DE SERVIÇOS DE SUFOATE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO,
+COMUNICAÇÃO E DESENVOLVIMENTO,ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEÇ
+' GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melto Moraes, 272 = CENTRO — MACEIÓ-AL = CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNP) 05.100.031/0001- 38
+13.2. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor
+inicial atualizado do contrato.
+13.3. As supressões resultantes de acordo celebrado entre as partes Coniratantes poderão
+exceder o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+14., CLÁUSULA QUATORZE - DOS CASOS OMISSOS
+14.1. Os casos omissos serão decididos pela Contratante segundo as disposições contidas na
+Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, e nas demais normas de licitações e
+contratos administrativos, além de, subsidiariamente, as disposições contidas na Lei nº 8.078,
+de 1990 — Código de Defesa do Consumidor, e normas e princípios gerais dos contratos.
+15. CLÁUSULA QUINZE- PUBLICAÇÃO
+15.1. Incumbirá à Contratante providenciar a publicação deste instrumento, por extrato, no
+Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+16. CLÁUSULA DEZESSEIS - DO FORO
+16.1. O Fora para solucionar os litíigios que decorrerem da execução deste Termo de Contrato
+será o da Comarca de Maceió — AL.
+Para firmeza e validade do pactuado, o presente Termo de Contrato foi lavrado em 03 (três) vias
+de igual teor, o qual, depois de lido e achado em ordem, vaí assinado pelos contratantes.
+Maceió (AL), em 22 de 7hH62Z — de2018.
+ 
+ 
+ 
+KN '
+NT r
+TE% âmº
+x (/A d9 on
+TESTEML)'NHA CPFNCAS S SAA oA
+PROCESSO N.º 41506-237/2017 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO D£
+ALAGOAS
+TERMO DE CONTRATO EMERGENÇIAL ITEÇ N.º 0012018
+PARA À PRESTAÇÃO DE SERYIÇOS DE SUPORTE À INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO,
+CUMUNICAÇÃO E DESENVOLVIMENTO,36
+Maceio - segunda-feira
+5 de março de 2013
+Fdição Fleirônica Certificada Digitalmente
+sconforne LEI NY 7397/7017
+Diário Oficial
+Estado de Alagoas
+ 
+As despesss deverrentes da porturma correrão anaves de Programa de Trabalho
+— M BMEAMONOOR - Manaeição das Alvelades do Orgão, AGÉNCIA DE
+LIMUNTO E ALAGOAS - Tode Estado — Fonte UHOU, Elemento de Despexa
+N1 4, do Qrçaniemo Vigente.
+ 
+AGÊNCIA DU FOMENTO DE ALAGUAS
+* Macei&iaL, D2 de Março de 201R
+FLÁNIO LÚCIO UCHÕEA DÓRIA
+DIRLIOR FRESIDENTE EM EXERCKÇIO
+ 
+CEPAL - Companhia de Euição, Impressão
+e Publicação de Atageas
+ 
+TONPANHIA DE T
+ 
+IÇÃO, IMVRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+CEPA!
+CONVOCAÇAL
+A Compaatts de edição. impressão « publicação de Alagous CEPAL, vem per meio
+do Denanamento de Suprinenos, convocar EMPRESAS NO RAMO DE MATE-
+RIAIL DE UXPEDIENTE, em comprimento so 1em d 7 da vsinição nenmatrva º
+ACGLSA U62/2008, para apeesentacem proposta de preco no praze de 03(uõs) Jias
+Wc a conuarda doia desta publicação
+As propostas de presos Jeverão set ênviadas arraves do enteveço eletrônico hap 4
+mwwunpeenspotienala] com bl pai Quarsques úuvidus auaves de lelefone (08?]
+3315 R3LA3I? m sede da CEPAL smunda à Av Fernandes Lima S/, Gruta de
+Lourdes = Macvio = Alugoas CEM 57 052 000- das 0800 hs às 17/00 s
+ 
+Ohjeto' AQUISIÇÃO DE MATERIAL DC EXPEDIFENTE
+Maceis, 03 de Março de 2018
+Sidnzy Bueio dos Sancos *
+Depanamento de Suprimentos
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+EFAL
+CONVOCAÇÃO.
+A Companhia de edicão, impressão c publicação de Alegeas CCPAL, vem por meio
+do Deperiameno de Suprimentos, comvocar EMPRESAS OU PROFISSIONAIS
+NoO RAMO DE SLEVICOS GERAIS, em camprimento o to d.? ds emunmeto
+monnativa º AGESA 002/2008, para apresemarer? proposta de preça no prazo de
+MTS ) dros uveis, g contar da dola desta pablicaçõo
+AS propostas de peeços deverto ser envundas nurevéês do entereço cleuônico: huput
+MWn 14 cnsaçcio lal çom bl i Quarsaquer duvidas abaves 10 celetone 1082)
+335 AIAMDI7 na sede da CEPAL suueda à Ax Fervandes Lima SN, Gruts de
+Lourdes - Maveid = Alageas CEP 57052 000— dos 08 00 65 às 17 DO s
+Objeto: CONTRATAÇÃO DE EMPRESA OU PROVISSIONAL ESPECIALIZA-
+DO |:M SERVIÇOS GERAIS
+Maceib, 02 de Março de 201 8
+Suincy Buena dos Samos *
+Depanememo de Soprimentos
+UGMPANHIA DI TDICÃO IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+LEPAL
+E R
+A Compuaniva de edição, ampressãe e publicação de Alagoas CEPAL, vem por
+mee doe Deparamente de Soprimentos, convovar EMPRESAS NO RAMO DE
+PURLICIDADE, em cumprimento ao uem d 2 da mstução normotia nº AGESA,
+IMIDAUO8, pora apresenturea proposia de preço no praz ve Dlirês) dias uters, e
+vomar da data desia publicaçõo
+Aspraposias de proços deverdta ser enviados atrávés do enbreço clewônmco tp
+WoNLUME eLspottc aal com.bulucia! Quarsquer dúv ides airaves do eeletons (M8?)
+33ISSIIERII7 ma sede da CEPAL sitsada à Av. Fernandes Lima S/N, úiroi de
+Lourães — Maceio — Alagoas UP 37.052 000=<Jas 05.00 hs às 17 DO bs
+ 
+ 
+Obeto CONTRATAÇÃO DE EMPRESA ESPECIAS IZa DA EM CONTECÇÃO
+DI. MPAINE! MOVEL PARA UTILIZAR EM EVENTOS INSTITUCIONAIS.
+Mgacio 07 de Março de 2018
+Sutney Buena dos Suntos
+Depanamento de Supementos”
+ 
+ITEÇ - instituto de Tecaologia em Informática
+e Informação do Estado de Alagoas
+EXTRATO DO TrRMO DE CONTRATO EMERGENCIAL Nº DMANIR
+PARA A PRESTAÇÃO DE SERVIÇOS DE SUPORTE AÀ INTRAESTRUTURA
+DE TECNOLOGIA DA  INFORMAÇÃO — COMUNICAÇÃO E
+DFSENVOLVIMENTO QUE ENTRE SU CELEBRAM () INSTITUTO D
+TECNMI MGlA EM INFORMÁTICA E INFURMAÇÃO DU TSTADO DE
+ALAGOAS - ITEC E à EMPRESA XPO SOLUÇÕES TECNOL ÓGICA EIRELI
+-ME
+Processo Adnvesirauvo 41506 - 237/2017.
+Tamnao Emerngencial º 0012018
+Extreto nº CON20Z
+CONTRATANTE: O (asuwo de Tecnologa em Informatico c Intorração do
+Esado de Alaguas - 17 EC, entdade da Aúmnisiração Publica Indnela msceto
+vn UNPJ n.º 05 HIO D31N0O!-38, com sede « Rua De Ciogieto Pana 303 CFP
+S7020-450, Centro. nesta cidade, neste ava representado por seu Dereior Prosidente,
+Sr José Luciano dos Sanrtas Júnior, iscriva an CLTAMP sal n ê 670 734 RaS-4ao
+LUNIRAIADA Empresa XPD SOLUÇÕES JECNULOGILA EIRELU= Mt,
+inscita en CNPJ sob nº 05 301 93A97 é estabelveuto mº Rua d
+Alsavanas, Si9, Shonping Pajoçara, sala 29, Paguçara. Maccio-Al , U
+DO, sune 182) 2EBGA-SS33, nesie alo represcada po seu
+S Jose Adson Peresra de Oliveira, brassleino, easado, empresarno, portador do
+RG nº 893312 SSIMAL imertene CPF sob o nº 777 218 43L9! dc açody cem
+representação legal que Vhe é outorgads por contriie socml! u procucação.
+Us CONTRATANTES celebrem, por força do presente instrumenta, CONTRATO
+DE PRESTAÇÃO DE SERVIÇOS. 5 qua! se recera pelas diposições de Lai º
+E eSFAIR3 e demois normas pertinentes medianie 2$ Séguinies clávsulas
+Quyeto U presente contraio 1em cono objeto a contreiação de cimpresa esmw esalazada
+Pa Drestação de serviços de Suporte à lutraestutama de Tecnologia de ínfarmução
+e Comunicação e Desenvolvimento do Institura de Tecnolegie em lalcimabca e
+Triormação do Estada -- | TUC, entadade gestara de TIC de Governo do Enado.
+contabilizados em Un idades ds Serviços Técnicos (UST) conlorme especsicações
+disernmnigos no seu Teimo de Referência. Processa Admunnaativo nº 41 306-
+252017
+Wigêncu Este contrato tem vigência de 180Huento « euienta) dias, contados da data
+de publicação do exurato contrateal uo Dririo Cfiçia! da Estodo, 2 parta de quando
+a ob. gacões assenmdas pelas nantes serão cximiveis
+Figço D preço globel deste vantrato e de R$ 1068 500,00 (Quabe mahées é
+sessento e oto ml reaesl.
+Gestor. Durante a visência desie contrato, à execução do objewo é xeremponhada
+e fisculuada pelo Servidor St Renaio Prado Paeno Fubo: ncuparte do carso de
+Gereate de Operasões, Ioudo na Cerência de Operações — GERO, musieula nº
+34318-0, designedo Gestor
+Taota da hesinatarao OI de março de 2078
+Dotação Orçumentária. À despesã com a prestação dos serviços de que irtia o
+nbjeio deste contrsto come à conte do segulmie creúno erçumentária, tonseante
+do onçamento do Instuno de Tecnalagia em Infarmanco e Informação do
+Esmdo de Alagaas - MEC pam o exercicio finsnciico de 2018 Programa
+de Trabslho IISODISOSISI260217322] — Implantaçõão & Implementação do
+Piana Dirriwr de Tecnulogia da Tnformação c Contunicoção de Ld e/ou
+1ISOUSQISICSO2ETITOS — Impianteção da Rede Imtegreda Cumersente e
+Multiserviços do Estado. uo Elemento de Despesa 339039 — Serviços e Teioeiros!
+Pessaa Juridiva. na Fonis de Recursos DIOOCOODO — Recursos de Tessuro cleu
+291000000 - Recuesos Próprio.
+Muceio, 41 de março de 201%
+ 
+    
+  
+ 
+ 
+ 
+ 
+JOSE LUCIANG DOS SANTOS JUNIOR
+Diretor Presdente
+ 
+SERVEAL - Serviço de Engenharia de Alagoas 5%
+TORTARIA DE DIARIAS Nº D)62018 = GDh =SERVEAL
+ 
+O DIRETOR-PRESIDENTE DO SERVEAL - SERVIÇOS DE ENGEX
+TIOESTADO DF ALAGOAS S'A. no uc de suas aunbeições. em que "he nutoree
+o Repimento Intemo c &À statoro Social e tendo em vista 0 que estabelote c Decre-
+s 4 076 de 28 de novembro d2 2008, e o que Mais consis dos auzos do privesse nº
+SSSL-DI4ATOIE, RESILVE conceder diárias em 1avor dos enpreeedos
+FLAVIO TELES DE FARIAS
+Cargo: ENGENHEIRO
+CPF 159999A 73
+RG 10584
+s

@@ -1,0 +1,283 @@
+ITEC
+CONTRATOS
+E
+CONVÊNIOS
+FEVEREIRO/2018&&
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS-ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+Relatório Ouvidoria — Fevereiro de 2018
+DECLARAÇÃO
+Declaramos para fins de comprovação de que no mês de fevereiro de 2018, a Assessoria Técnica de
+Contratos e Convênios — ASSTCC, do Instituto de Tecnologia em Informática e Informação do
+Estado de Alagoas — ITEC, que houve a realização do o Primeiro Termo Aditivo de prorrogação de
+prazo do Contrato ITEC nº 001/2017 que tem como objetivo a prestação de serviços de suporte
+técnico especializado remoto e manutenção corretiva para produtos da Software AG,
+ADABAS/NATURAL, plataforma sob sistema operacional AIX.
+Maceió, 02 de abril de 2018.
+LETÍCIA CARLOTA VIEIRA TENÓRIO
+Assessora Técnica de Contratos e Convênios
+Rua Melo Moraes, Centro Maceió - Alagoas - CEP 57020-330
+Fones: (0xx) 82-3315-1542/1540 CNPJ 05.100.031/0001-38 4
+VV«
+GovEnANHO DO ESTADO
+itec ERSEFIIFAÇA F
+E ALAGÕAS: : i
+TRABALKANDO GÉRIO À GENTE CHEGA LÁESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONYÊNIOS - ASSTCC
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL - CEP; 57.020-330
+CNPJ; 05.100.031/0001-38
+FONE: (82) 3315-1542 email: geres&itec.algov.br
+PRIMEIRO TERMO ADITIVO AO CONTRATO
+* ITEC Nº 001/2017, QUE ENTRE SI CELEBRAM O
+INSTITUTO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO ESTADO
+DE ALAGOAS E AÀA EMPRESA SOFTWARE AG
+BRASIL INFORMÁTICA E SERVIÇOS LTDA,
+PARA A PRESTAÇÃO DE SERVIÇOS DE
+ATUALIZAÇÃO TÉCNICA, SUPORTE TÉCNICO
+ESPECIALIZADO REMOTO E MANUTENÇÃO
+CORRETIVA PARA PRODUTOS DA SOFTWARE
+AG, ADABAS/NATURAL, PLATAFORMA SOB
+SISTEMA OPERACIONAL AIX.
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEC, entidade da Administração Pública Indireta, inscrito no CNPJ/MF nº
+05.100.031/0001-38, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+cidade, neste ato representado por seu Diretor Presidente, Sr. José Luciano dos Santos Junior,
+inscrito no CPF/MF sob o nº 670.734.845-00,
+CONTRATADA: Empresa SOFTWARE AG BRASIL INFORMÁTICA E SERVIÇOS
+LTDA, inscrita no CNPJ sob n.º 07.594.862/0001-39, estabelecida na Avenida das Nações
+Unidas, nº. 12.901, Torre Norte, 33º andar, Centro Empresarial Nações Unidas, Brooklin Paulista,
+CEP 04578-000, São Paulo/SP, representada pelos seus Diretores, Sr. Marcio Roberto Alves de
+Souza, inscrito no CPF/MF sob o nº 278.828.878-62 e Sr. Marcelo Bergamo, inscrito no CPF/MF
+sob o nº 053.939,458-09, de acordo com a representação Iegal que lhe é outorgada por contrato
+social.
+Os CONTRATANTES, nos termos do Processo nº 41506-025/2018, inclusive Parecer da
+* Coordenadoria Jurídica do ITEC e Procuradoria Autárquica, e em observância às disposições dos
+arts. 57, inciso II, 25, $ 1, e 55, inciso IIJ da Lei Federal nº 8.666/1993, celebram o presente Termo
+Aditivo, mediante as cláusulas e condições a seguir enunciadas. %
+CLÁUSULA PRIMEIRA — DO OBJETO
+ 
+1.1. Este termo aditivo tem como objeto a alteração do Contrato ITEC nº 001/2017.
+PROCESSO N.º 41506-025/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS[]
+-ITEC
+PRIMEIRO TERMO ADITIVO AO CONTRATO ITEC N.º 001/2017 í
+PRESTAÇÃO DE SERVIÇOS %z/
+d
+vESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+Rua Melo Moraes, 2727 - CENTRO - MACEIÓ-AL - CEP; 57.020-330
+CNPJ; 05.100.031/0001-38
+FONE: (82) 3315-1542 email: gereaitec.algov.br
+1.1.1. O prazo de vngencla e execução do Contrato ITEC nº 001/2017 fica prorrogado por mais 12
+(doze) meses consecutivos e ininterruptos, contados a partir de 22/02/2018, data do término do
+prazo anteriormente acordado.
+1.1.2. O preço da Contratação do Objeto é o constante da Proposta escrita da CONTRATADA,
+proposta PS ITEC-AL 2018011.
+1.1.3. O valor mensal do contrato durante 12 meses, que era de R$ 53.676,73 (cinquenta e três mil,
+seiscentos e setenta e seis reais e setenta e três centavos), perfazendo o valor total de R$
+644.120,67 (seiscentos e quarenta e quatro mil, cento e vinte reais e sessenta e sete centavos),
+permanecerá o mesmo valor no período de 2018, conforme aplicação do IGP-M (FGV) e a
+apresentação da proposta comercial fornecida pela empresa Software AG, a partir de 01/2018 data
+do primeiro “aniversário” da apresentação da proposta/dos efeitos financeiros do último reajuste.
+CLÁUSULA SEGUNDA - A DESPESA
+2.1. As despesas decorrentes do presente Termo Aditivo estão programadas em dotação
+orçamentária própria, prevista no orçamento do Estado de Alagoas, para o exercício de (2018), na
+classificação do Programa de Trabalho 1912200042001 — Manutenção das Atividades do Órgão e
+191260217322]1 — Implantação e Implementação do Plano Diretor de Tecnologia da Informação e
+Comunicação do Estado, Fonte de Recursos 0100000000 — rec. do tesouro e/ou 0291000000 — rec.
+próprios, no Elemento de Despesa 339039 — contratação de serviços.
+CLÁUSULA TERCEIRA - DA RATIFICAÇÃO
+3.1. Ficam ratificadas todas as cláusulas do Contrato ITEC nº 001/20017 não alteradas por este
+termo aditivo.
+CLÁUSULA QUARTA - DO FORO
+4.1. O Foro para solucionar os litígios que decorrerem da execução deste Termo Aditivo será o 67:,/
+Comarca de Maceió — AL.
+ 
+PROCESSO N.º 41506-025/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+-ITEC
+PRIMEIRO TERMO ADITIVO AQO CONTRATO ITEC N.º 001/2017 o
+PRESTAÇÃO DE SERVIÇOS %ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+Rua Melo Moraes, 272 - CENTRO - MACEIÓ-AL — CEP; 57.020-330
+CNPJ; 05,100.031/0001-38
+FONE: (82) 3315-1542 email: gerea(Qitec.algov.br
+Para firmeza e validade do pactuado, o presente Termo Aditivo foi lavrado em 3 (três) vias de
+igual teor, o qual, depois de lido e achado em ordem, vai assinado pelos contratantes.
+Maceió (AL), em? 7 de 2a rrarnde 2018.
+B Ç LT
+)CÚÃ?ADW%
+GESTOR ONTRATU
+    
+    
+RS Vice=P
+A
+M á//áí/ Lánito Tum
+TESTEMUNHA CPFÉ“OS/ SZ »7—) FSP
+[Lm”uª A = -
+7ESTEMUNHA;FN"'3=,> 5'1/ b()»( 1&
+ 
+PROCESSO N.* 41506-025/2018 INSTITUTO DE TECNOLOGIA EM lNl"ORMÁTICA EINFORMAÇÃO DO ESTADO DE ALAGOAS
+PRIMEIRO TERMO ADITIVO AO CON'I'RA'I'O 1ITEC N.º 001/2017
+PRESTAÇÃO DE SERVIÇOSCOMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+- CEPAL
+CONVYOCAÇÃO
+ 
+Maceio - quinta-!
+22 de fevereiro de 2018
+A Companhia de cdição, impressão e publicação de Alagoas CEPAL, vem por
+meio do Departamento de Suprimentos, convocar EMPRESAS NO RAMO DE
+MATERIAIS DE MANUTENÇÃO, em cumprimento ao item d2 da instrução
+normativa nº AGESA 002/2008, para apresentarem proposta de preço no prazo de
+O3(três) dias úteis, a contar da data desta publicação.
+AAs propostas de preços deverão ser enviadas através do endereço eletrônico: hup:/
+www imprensaoficialal.com.br/licita/ Quaisquer dúvidas através do telefone (082)
+1315 8316/8317 na sede da CEPAL situada à Av. Fernandes Lima S/N, Gruta de
+Lourdes — Maceió — Alagoas CEP: 57.052.000- das 05:00 hs às 17:00 hs
+Objeto; AQUISIÇÃO DE 92 (DUAS) CAIXAS DE SPRAY DE SILICONE.
+Maceió, 22 de Fevereiro de 2018
+Sidney Bueno dos Santos
+Departamento de Suprimentos
+COMPANIIIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+- CEPAL
+CONVOCAÇÃO
+A Companhia de cdição, impressão e publicação de Alagoas CEPAL, vem por
+meio do Departamento de Suprimentos, convocar EMPRESAS NO RAMO DE
+MATERIAIS GRÁFICOS, em cumprimento ao item d.2 da instrução normativa nº
+AGESA 002/2008, para apresentarem proposta de preço no prazo de 03(três) dias
+Tnteis, a contar da data desta publicação.
+AAs propostas de preços deverão ser enviadas atravês do endereço eletrônico: hup//
+www imprensaoficiatal.com.brlicita/ Quaisquer dúvidas através do telefone (082)
+3315 8316/8317 nasede da CEPAL sinuada à Av, Fernandes Lima S/N, Gruta de
+Lourdes — Maceió — Alagoas CEP: 57.052.000- das 08:00 hs às 17:00 bs.
+Objeto: AQUISIÇÃO DE 50 (CINQUENTA) LITROS DE DESOXIDADOR DE
+CHAPA DE ALUMÍNIO.
+Macció. 22 de Feverciro de 2018
+Sidney Bueno dos Santos
+Depariamento de Suprimentos
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+- CEPAL
+CONVOCAÇÃO
+.A Companhia de edição, impressão e publicação de Alagoas CEPAL, vem por
+meio do Departamento de Suprimentos, convocar EMPRESAS NO RAMO
+DE BUFFET, em cumprimento no item d.2 da instrução nonmativa nº AGESA
+002/2008. para apresentarem proposta de preço no prazo de 03(três) dias úteis, &
+contar da data desta publicação.
+AAs proposias de preços deverão ser enviadas através do endereço eletrônico: htpy/
+www .imprensaoficialal.com.br/licita/ Quaisquer dúvidas através do telefone (082)
+3315 8354/8314 na sede da CEPAL situada à Av. Fernandes Lima S/N, Gruta de
+Lourdes — Maceió — Alagoas CEP: 57.052.000- das 08:00 hs às 17:00 hs
+ 
+ 
+Objeto: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS
+DE BUFFET PARA UM PERÍODO DE 12 (DOZE) MES
+ 
+Maceió, 21 de Fevereiro de 2018
+Sidney Bueno dos Santos
+Departamento de Suprimentos
+ 
+ITEC - Instituto de Tecnologia em Informática
+e Informação do Estado de Alagoas Í
+EXTRATO DO PRIMEIRO TERMO ADITIVO AO CONTRATO Nº. 001/2017
+PARA A PRESTAÇÃO DE SERVIÇO DE ATUALIZAÇÃO TÉCNICA, SUPOR-
+TE TÉCNICO ESPECIALIZADO REMOTO E MANU1TENÇÃO CORRETIVA
+PARA PRODUTOS DA SOFTWARE AG PARA O AMINENTE ADABAS/NA-
+TURAL, PLATAFORMA SOB SISTEMA OPERACIONAL ATX QUE ENTRE
+SI CELEBRAM O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E IN-
+FORMAÇÃO DO ESTADO DE ALAGOAS - ITEC E À EMPRESA SOFTWA-
+RE AG BRASIL INFORMÁTICA E SERVIÇOS LTDA.
+ira Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Diário Oficial
+Estado de Alagoas
+Prucesso Administrativo: 41506 - 025/2018.
+Contrato nº. 001/2017.
+Extrato: nº. 001/2018.
+CONTRATANTE: O Instítuto de Tecnologia em Informática « informação do Es-
+t12do de Alagoas - ITEC. entídade da Adminisração Pública Indircta, inserito no
+CNPJ nº 05.100.031/0001-38, com sede à Rua Dr. Cincinato Pinto, 503, CEP:
+57020-059, Ceniro, nesta cidade, neste ato representado por seu Diretor Presidente,
+Sr. José Luciano dos Santos Júnior, inscrito no CPF/MF sob o nº 670.734.545-44;
+CONTRATADA: Empresa SOFTWARE AG BRASIL INFORMÁTICA E SER-
+VIÇOS LTDA, inscrita no CNPJ sob n.º 07.594,862/0001-39, com sede na Cidade
+de São Paulo, Estado de São Paulo, na Avenida das Nações Unidas, nº,12,901,
+TForre Norte, 33º andar, nosic arto representada, por seus Diretores, Sr. Marcio Ru-
+berto Aives de Souza, brasileiro, casado, economista, portador do RG 25,121.214-2
+SSP-SP, CPF/MF n.º 278.828.878-62 e Sr. Marcelo Bergamo, brasileiro, casado,
+bacharel em ciências da computação, portador do RG nº | 1.069.804-6, CPF/MF
+sob e nº 053.939.458-09, de acordo com a representação legal que lhe é ouorgada
+pela 9º aireração contratual do Contrato Social.
+Os CONTRATANTES celebram, pos força do presente instrumento, CONTRATO
+DE PRESTAÇÃO DE SERVIÇOS, o qual se rezerá pelas disposições da Lei nº
+R.666/1993 e demais normas pertinentes, mediante s seguintes cláusulas:
+Objero: Este termo aditivo tem como objeto a alteração do Contrato ITEC nº
+001/2017.
+O prazo e vigência e execução do Contrato ITEC nº 001/2017 fica promrogado por
+mais 12 (doze) meses consecutivos e ininterruptos, contados a partir de 22/62/2018,
+data do término do prazo anteriormente acoráado.
+O preço da Contratação do Objeto é o constante da Proposta escrita da CONTRA-
+TADA, proposta PS ITEC-AL 2018011.
+Preço: O valor mensal do contrato durante 12 mescs, que era de R$ 53.676,73
+(cinquenta e três mil, seiscentos e setenta e seis reais e setenta e três centavos), per-
+fazendo o valor total de R$ 644.120.67 (seiscentos e quarênta e quatro mil. cento e
+vinte reais e sessenta e sete centavos), permanecerá o mesmo valor no periodo de
+2018. conforme aplicação do IGP-M(FGV) e a aprescntação da proposta comercial
+forecida pela empresa Saftware AG, a partir de 01/2018 data do primeiro vani-
+versário” da apresentação da propostaídos efeitos financeiros do último rezjuste.
+Gestor: Durante a vígência deste contrato, a exceução do objeto é acompanhada
+e fiscalizada pelo Servidor Sr. Renato Prado Pinto Filho, ocupante do cargo de
+Gerente de Operações, lotado na Gerência de Operações — GERO, meicicula nº
+34518-0, designado Gestur. -
+2 de fevereiro de 2018.
+Dotação Orçamentária: As despesas decorrentes do presente Terma Aditivo estão
+programadas em dortação orçamentária própria, prevista no orçamento do Estado
+de Alagoas, para 0 exereício, de (2018), na classificação do Programa de Traba-
+lho 191220004200] — Manutenção das Atividades do Órgão e 1912602 73221 —
+tmplantação e Implementação do Plano Diretor de Tecnologia da Inferinação €
+Comunicação do Estado, Fonte de Recursos 0100000000 — rec. do tesouto c/nu
+0291000000 — rec. próprios, no Elemento de Despesa 339039 — contraração de
+serviços.
+ 
+ 
+ 
+   
+Maceiô, 21 de favereiro de 2018.
+JOSÉ LUCIANO DOS SANTOS JÚNIOR
+Presidonte do ITEC
+ 
+UNCISAL - Universidade Estadual de
+. Ciências da Saúde de Alagoas
+O REITOR DA UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SALDE DE
+ALAGOAS - UNCISAL DESPACHOU EM DATA DE 21/02/2018 OS SEGUIN-
+TES PROCESSOS
+PROC: 41010-19055/2017 — INT: MINISTÉRIO PUBLICO DO TRABALHO —
+ASS: REDESIGNAÇÃO DE AUDIÊNCIA — DESP: Acolho o entendimerto posto
+mo DESPACHO-CUJSUR/UNCISAL Nº 143/2018, pelas razões nele conti
+PROC: 41010-1925/2018 — INT: SULOG/UNCISAL — ASS: AQUIS!
+CORRELATOS PARA HEHA E MESM — DESP: Acolho o entendimemnto posto
+no PARECER-COJUR/UNCISAL Nº 114/20138, pelas razões nele contdas.
+PROC: 41010-1924/2018 - INT: SULOG/UNCISAL - ASS: AQUISIÇÃO DE
+CORRELATOS PARA HEHA E MESM — DESP: Acolho o entendimento posto
+mo P ER-COJUR/UNCÍSAL Nº 115/2018, pelas razões nele conticlas,
+PROC: 41010-7742/2016 — INT; SULOG/UNCISAL — ASS: CONTRATAÇÃO
+DE EMPRESA ESPECIALIZADA EM MÁQUINA MULTIFUNCIONAL
+— DESP: Acolho o entendimento posto no PARECER-COJUR/UNCISAL Nº
+110/2018, pelas razô:s nele contidas.
+PROC: 41010-1099/2018 — ÍNT: PODER JUDICIÁRIO DE ALAGOAS — ASS:
+MANDADO DE INTIMAÇÃO DA SENTENÇA - DESP: Acolho o entendimento
+posto no DESPACHO-COJUR/UNCISAL Nº 145/2018, pelas razões nele conti-
+ças.

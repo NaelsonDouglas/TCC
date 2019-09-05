@@ -1,0 +1,430 @@
+CARTA-CONTRATO DE SERVIÇOS Nº 041.2018
+ 
+Q ALGÁS
+Gascraigoas EA
+GÁS DE ALAGOAS S/A — ALGÁS, sociedade de economia mista inscrita no CNPJ/MF
+CONTRATANTE: | sob o nº 69.983.484/0001-32, sediada na Rua Artur Vital da Silva, nº 04, Gruta de
+Lourdes, Maceió/AL, neste ato representado pelos seus diretores, que esta subscrevem.
+ 
+CONTRATADO: | EAM SISTEMAS DE INFORMÁTICA LTDA - EPP
+ 
+ENDEREÇO: R. João Dornas, 60, Centro, ITUANA, MINAS GERAIS - CEP: 35.680-335
+ 
+CPFICNPJ 07.537.669/0001-66 Fone:(37) 3242-6654
+ 
+ 
+ 
+Por meio deste instrumento contratual, as partes acima qualificadas celebram o presente contrato de
+prestação de serviços, o qual será regido pela Lei 13.303/2016 e pelas demais condições especiíficas
+contratuais abaixo dispostas, pelas condições gerais contratuais dispostas nas páginas seguintes e pelos
+demais documentos que expressamente lhe integrarem
+ 
+ 
+ 
+Proc. Adm. nº 104.2018 Modalidade: INEXIGIBILIDADE DE LICITAÇÃO Nº da Modal:007.2018
+ 
+CONDIÇÕES CONTRATUAIS ESPECÍFICAS
+ 
+1. OBJETO DA CARTA-CONTRATO: Contratação de Serviços de Suporte Técnico e Atualização para 05
+(cinco) usuários simultâneos do módulo básico de versão plena e 02 (dois) usuários do módulo Mobile
+do ENGEMAN, por um período de 12 (doze) meses, conforme descrito no Termo de Referência (Anexo
+).
+ 
+2. DOCUMENTOS INTEGRANTES DESTA CARTA-CONTRATO:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X | Termo de Referência (Anexo |) X | Proposta comercial (Anexo |) I - l -X-X-X- (Anexo Ill)
+“ E < g Em até 30 (trinta) dias após a emissão da Autorização
+9 5 É R$ 987323 (nove mil| É w À de Fornecylmento de Sewlço (AFS) e mediante
+LAE | gitocentos setenta e três) | om = | apresentação da nota fiscal, aplicando-se, no que
+= ã u ã couber, as disposições contidas no item 4 das
+mo “ & |CondiçõesGerais Contratuais
+S
+2S
+o < 2 (doze) meses, contados a 2 £'$ | O prazo de execução dos serviços de suporte tecnico e
+NO a $ P í
+< w Z | partir da emissão da | < 8 % atualizações é de 12 (doze) meses, contados a partir da
+É º% Autorização de Fornecimento | K; 8s emissão da primeira Autorização de Fornecimento de
+w >)|]deServiço(AFS). « N O | Serviço (AFS).
+i o
+u o xoo
+EB ee
+o —
+do > | Empreitada por Preço Global | < É | Danilo Dantas Varela/Paulo Rogério Barbosa Silva.
+vAZ uos
+&É 07
+N o SrO
+ 
+ 
+ 
+ 
+ 
+09. OBSERVAÇÕES: Contrato de Suporte Técnico e Upgrade (para 12 meses) que consiste em Suporte aos
+usuários do sistema via telefone, e-mail e chat e Atualizações Tecnológicas.
+ 
+ 
+Y
+Mod Rev-09
+1de5
+CARTA-CONTRATO N. º 041 2018Q ALGÁS
+ESA
+1. REGÊNCIA CONTRATUAL
+1.1. O presente contrato será regido primeiramente pelas suas condições contratuais específicas,
+aplicando-se, quando não lhes forem contrarias, as disposições destas condições gerais contratuais, a
+proposta comercial, entre outros documentos que expressamente forem referidos neste contrato, e os
+preceitos de direito privado.
+ 
+ 
+CONDIÇÕES GERAIS CONTRATUAIS
+ 
+2. PREÇO — O CONTRATADO declara que nos preços previstos neste contrato estão incluídas todas as
+despesas de administração e todos os encargos sociais e trabalhistas e, ainda, todos os custos com
+providências auxiliares e complementares necessárias à completa execução dos serviços contratados, tal
+como despesas de transporte, hospedagem etc.
+3. DA MEDIÇÃO E ACEITAÇÃO
+3.1. A cada etapa que for concluída, a ALGÁS promoverá a medição e verificação dos serviços executados
+e, se for o caso, a aceitação dos mesmos mediante lavratura de “Termo de Recebimento Provisório de
+Serviços” (TRPS) assinado pelas partes em até 15 (quinze) dias da comunicação do CONTRATADO,
+podendo ser dispensado no caso de serviços profissionais, caso em que o recebimento dos serviços será
+feito mediante simples recibo.
+3.2. A aceitação definitiva dos serviços dar-se-á após sua conclusão total e após a assinatura, pelas partes
+contratantes, do “Termo de Recebimento Definitivo de Serviços “(TRDS) que se dará em prazo não
+superior a 90 (noventa) dias, contados a partir da realização da medição final correspondente, salvo em
+casos excepcionais devidamente justificados.
+3.3. A ALGÁS não aceitará os serviços ou suas etapas que se mostrarem incompletos, em desacordo com
+as normas técnicas aplicáveis, fora das especificações contratuais, viciados sob qualquer forma, os quais
+serão considerados como não entregues, sujeitando-se o Contratado às penalidades contratuais e legais
+previstas por atraso.
+3.4. A fiscalização exercida pela ALGÁS, bem como o recebimento provisório ou definitivo dos serviços
+não exclui a responsabilidade civil do CONTRATADO pelos padrões adequados de qualidade, segurança,
+durabilidade e solidez dos serviços prestados, nem ético-profissional pela perfeita execução deste
+contrato.
+3.5. Salvo disposições em contrário, os ensaios, testes e demais provas exigidos por normas técnicas
+oficiais para a boa execução do objeto do contrato corem por conta do CONTRATADO
+4. PAGAMENTO
+4.1. Salvo disposição em contrário prevista nas condições específica contratuais, o pagamento parcial por
+cada etapa ou total dos serviços executados, a depender do caso, será realizado em até 30 (trinta) dias
+da data do adimplemento da obrigação pelo CONTRATADO, assim considerada a data em que ocorrer a
+aceitação dos serviços mediante a celebração de “Termo de Recebimento Provisório de Serviços” (TRPS)
+ou “Termo de Recebimento Definitivo de Serviços” (TRDS), ou do simples recibo dos serviços, conforme
+for o caso.
+4.2. Salvo disposição em contrário, os pagamentos serão realizados através de cheque nominal ao
+CONTRATADO, a ser entregue na sede da ALGÁS na data do vencimento do pagamento, durante horário
+normal de expediente.
+4.3. Entre a data do adimplemento da obrigação e o respectivo pagamento não haverá atualização
+financeira dos valores a serem pagos, salvo na hipótese do pagamento ocorrer fora do vencimento, caso
+em que a ALGÁS pagará uma multa de 2% (dois por cento) e juros de mora de 1% (um por cento) ao mês,
+esta última calculada proporcionalmente ao tempo da mora.
+4.4. Caso o dia de pagamento recaia em dia não útil, o mesmo será efetuado no próximo dia útil.
+Mod Rev-os e PE
+2005 -
+CARTA-CONTRATO N. º 041.2018Q ALGÁS "
+4.5. A critério da ALGÁS, poderão ser exigidos do CONTRATADO, para fins de pagamento, a co ºro E=
+de sua regularidade fiscal relativa à previdência social (INSS), ao FGTS, à Fazenda Federal, à End
+Estadual e Fazenda Municipal, estas duas últimas do domicílio ou sede do CONTRATADO, sob pena de
+seu pagamento permanecer retido até a apresentação dos documentos referidos.
+ 
+ 
+ 
+5. ALTERAÇÕES CONTRATUAIS — A carta-contrato admite alteração, mediante acordo formal entre as
+partes, nas hipóteses previstas nos incisos do art. 81 da Lei 13.303/16.
+6. SANÇÕES
+6.1. O atraso no início, na conclusão e na entrega dos serviços, ou, por outra qualquer forma, o
+CONTRATADO não cumprir as normas contratuais, este estará sujeito, assegurado o contraditório e a
+ampla defesa, às seguintes sanções: advertência; multa; e suspensão temporária de participação em
+licitação e impedimento de contratar com a ALGÁS por prazo não superior a 2 (dois) anos.
+6.2. Ressalvada a hipótese de força maior ou caso fortuito, a multa acima prevista será calculada,
+progressivamente, por cada dia de inadimplemento, na forma abaixo:
+| — 0,5% (cinco décimos por cento) ao dia, até o quinto dia corrido, calculado sobre o valor
+correspondente à parte inadimplente;
+11 — 0,7% (sete décimos por cento) ao dia, para cada dia corrido, do sexto até o décimo dia, calculado
+sobre o valor correspondente à parte inadimplente;
+l — 1,0% (um por cento) ao dia, a partir do décimo primeiro dia corrido, calculado sobre o valor
+correspondente à parte inadimplente, limitado ao valor integral do contrato.
+6.3. A multa acima poderá ser aplicada concomitantemente com as demais sanções previstas, e sem
+prejuízo do CONTRATADO responder por perdas e danos pelos prejuízos, que, por seu atraso, causar a
+ALGÁS, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e
+honorários de advogado.
+6.4. Se a prestação, devido à mora, se tornar inútil à ALGÁS, o CONTRATADO, além da devolução dos
+valores eventualmente adiantados e não aproveitados, pagará uma multa de, no mínimo 50% (cinquenta
+por cento) e no máximo 100% (cem por cento) do valor atualizado do contrato, independentemente da
+comprovação dos prejuízos, facultando à ALGÁS exigir a satisfação das perdas e danos quando estes
+forem superiores à pena ora convencionada.
+6.5. Nos casos de infração contratual por parte do CONTRATADO que não resulte em atraso na entrega
+das etapas ou na conclusão dos serviços ou, ainda, em inutilidade da manutenção do contrato para a
+ALGÁS, será aplicada no CONTRATADO uma multa equivalente a 5% (cinco por cento) do valor atualizado
+do contrato, respeitado o mínimo de 1/3 (um terço) do salário mínimo vigente e o máximo de 30%
+(trinta por cento) do valor atualizado do contrato, prevalecendo o teto em relação ao piso conforme for
+o caso, podendo a penalidade prevista nesta cláusula, a qualquer caso, ser reduzida proporcionalmente à
+gravidade da infração.
+7. DOS CASOS DE RESCISÃO
+7.1. O presente Contrato poderá ser rescindido, a critério da ALGÁS, e independente de qualquer
+interpelação ou notificação judicial ou extrajudicial, com antecedência mínima de O5 (cinco) dias úteis,
+sem que ao CONTRATADO caiba qualquer indenização e/ou retenção sobre os materiais e serviços a ela
+confiados, no caso de inadimplemento de qualquer condição da presente ou quando não atender
+integralmente, dentro de cinco (5) dias, às exigências que lhe forem feitas pela ALGÁS, por notificação
+escrita, ou ainda, na hipótese de insolvência ou falência do CONTRATADO.
+8. OBRIGAÇÕES DO CONTRATADO:
+8.1. Caberá ao CONTRATADO, dentre outras, o cumprimento das seguintes obrigações:
+| — Responsabilizar-se tecnicamente pela execução dos serviços na forma de legislação em vigor;
+Mod Rev-0s seh -
+30es
+CARTA-CONTRATO N. º 041 2018 %º ALGÁS
+Adtrtsçar sa
+1l — Responsabilizar-se integralmente pela execução dos serviços contratados, não podendo é in
+ainda que parcialmente, atribuindo quaisquer falhas ou deficiências dos serviços a erros de espec?%
+dos serviços contratados;
+ll — Acatar e facilitar a ação da fiscalização da ALGÁS e cumprindo as exigências da mesma;
+IV — Não divulgar nem fornecer a terceiros, dados e informações referentes aos serviços por ela
+realizados, a menos que seja expressamente autorizada por escrito, pela Diretoria da ALGÁS;
+V — Manter, durante toda a execução do Contrato, em compatibilidade com as obrigações assumidas,
+todas as condições de habilitação e qualificação exigidas na Licitação;
+VI — Buscar manter a ALGÁS, durante e após a vigência deste Contrato, à margem de quaisquer
+reivindicações dos seus empregados, assumindo a responsabilidade, por si e/ou sucessores, por
+quaisquer ônus que venham a ser-lhe imputados por decisão judicial transitada em julgado, em qualquer
+época, decorrentes de tais reivindicações ou reclamações;
+VIIl — Cumprir rigorosamente a legislação aplicável à segurança e saúde de seus empregados e
+trabalhadores, especialmente as Normas Regulamentadoras do Ministério do Trabalho e Emprego que
+lhe forem aplicáveis, além das diretrizes de segurança e saúde expressamente definidas neste
+instrumento e em seus anexos;
+VIII — Cumprir rigorosamente a legislação ambiental aplicável, além das diretrizes de proteção ambiental
+expressamente definidas neste instrumento e em seus anexos.
+8.2. Citado para se defender em processo judicial de terceiros, de natureza civil ou trabalhista, inclusive,
+mas não exclusivamente de empregado ou ex-empregado do CONTRATADO, a ALGÁS fará o cálculo dos
+direitos pleiteados e, após dele notificar o CONTRATADO, reterá o correspondente valor para fazer
+frente à eventual condenação, deduzindo-o de importâncias dos pagamentos futuros ou da garantia
+contratual.
+ 
+9. DA FISCALIZAÇÃO — Durante a vigência deste contrato, a execução do objeto será acompanhada e
+fiscalizada por Gestor designado pela ALGÁS, o qual terá, entre outras, as seguintes atribuições: expedir
+autorização de execução de serviços; proceder ao acompanhamento técnico da execução dos serviços;
+fiscalizar a execução do contrato quanto à qualidade desejada; comunicar ao CONTRATADO o
+descumprimento do contrato e indicar os procedimentos necessários ao seu correto cumprimento;
+solicitar a aplicação de sanções pelo descumprimento de cláusula contratual; fornecer atestados de
+capacidade técnica quando solicitado, desde que atendidas às obrigações contratuais; atestar as notas
+fiscais para efeito de pagamento; recusar e devolver os serviços cuja execução não se verifique perfeita;
+solicitar reparação, correção, remoção, reconstrução ou substituição, no total ou em parte, dos serviços
+recusados e devolvidos; solicitar ao CONTRATADO e ao seu preposto todas as providências necessárias á
+boa execução dos serviços contratados; notificar o CONTRATADO para apresentar defesa administrativa
+no prazo legal antes da aplicação das sanções, salvo no caso da advertência, cuja aplicação será aplicada
+pelo gestor do contrato.
+10. INCIDÊNCIAS FISCAIS
+10.1 Os tributos (impostos, taxas, emolumentos fiscais e parafiscais) devidos em decorrência, direta ou
+indiretamente do presente Contrato ou de sua execução, serão da exclusiva responsabilidade do
+contribuinte, assim definido em norma tributária, sem direito a reembolso. A ALGÁS, nos casos em que a
+lei lhe enquadrar como fonte retentora, descontará e recolherá, dos pagamentos que efetuar, os
+tributos a que estiver obrigada pela legislação vigente.
+10.2 Os serviços executados na cidade de Maceió/AL terão o Imposto Sobre Serviços (ISS) retido na Nota
+Fiscal, independentemente da localização da empresa, conforme Lei Complementar n.º 116/2003 e
+Decreto Municipal n.º 6.939/2009, este último enquadrando esta ALGÁS como contribuinte substituto
+tributário do ISS.
+Mod. Rev-0s
+4de5
+CARTA-CONTRATO N. º 0412018QALGÁS
+oc
+11. DAS DISPOSIÇÕES GERAIS
+11.1. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento dos t W
+condições deste contrato ou ao exercer qualquer prerrogativa dele decorrente, não consti
+renovação ou renúncia e nem afetará o direito das partes de exercê-lo a qualquer tempo.
+11.2. Quando assinado eletronicamente, mediante certificados digitais, o contrato considerar-se-á
+celebrado somente após a assinatura eletrônica de todos os representantes das partes com capacidade
+ou poderes de representação.
+ 
+ 
+ 
+ 
+12. DO FORO - Fica eleito o Foro da Comarca de Maceió/AL, que será o competente para dirimir as
+questões decorrentes deste Contrato, renunciando as partes a qualquer outro por mais privilegiado que
+seja.
+Maceió, dLÀ de JUNHO — dezolf.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a
+<
+z
+- ALGÁS
+o
+a
+ê s
+Ê EAM SISTEMASIDE INFORMÁTICA LTDA - EPP
+$ 07.537.669/0001-66
+TESTEMUNHAS:
+& |x|0ME7D'MQ'ºQ ãº*á”ª S L.r— 2. NOME: W//M
+CPF: - f CPF: Valério M. Moreira
+B0 355.6 1S CPF 071 756 856-37
+ 
+ 
+ 
+Mod. Rev-0s
+5de5
+CARTA-CONTRATO N. º 041 2018Diário Oficial Edição Eletrônica Certificada Digitalmente Maceio - sexta-feira 65
+Estado de Alagoas conforme LEI Nº 7,397/2012 6 de julho de 2018
+F00AS g
+fx P
+o er MXecurIVoO Í& z
+i g FoLHA S
+Administração Indireta ú O &.
+— — == L
+Estado de Alagoas B A —
+íª DIÁRIO OFICIAL Alagoas Previdência
+— PODER EXECUTIVO A Diretora de Benefícios Previdenciários da Alagoas Previdência Despachou e
+ 
+ 
+ 
+.GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ RENAN VASCONCELOS CALHEIROS FILHO
+VICE-GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO BARBOSA DA SILVA
+ 
+'ADEAL - AGÊNCIA DE DEFESA E INSPEÇÃO AGROPECUÁRIA DO ESTADO DE ALAGOAS
+AUGUSTO CÉSAR DE OLIVEIRA JATOBÁ
+AGÊNCIA DE FOMENTO DE ALAGOAS
+FLÁVIO LÚCIO UCHÔA DÓRIA
+ALGÁS - GÁS DE ALAGOAS - SIA
+ARNÓBIO CAVALCANTI FILHO
+ALAGOAS ATIVOS SIA
+HELDER GONÇALVES LIMA
+AALAGOAS PREVIDÊNCIA
+ROBERTO MOISÉS DOS SANTOS
+AAMGESP - AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+WAGNER MORAIS DE LIMA
+ARSAL - AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS
+LAILSON FERREIRA GOMES
+CARHP - COMPANHIA DE ADINISTRAÇÃO DE RECURSOS HUMANOS E PATRIMONIIS
+FERNANDO ANTÔNIO MACEDO HOLANDA
+CASAL - COMPANHIA DE SANEAMENTO DE ALAGOAS
+WILDE CLÉCIO FALCAO DE ALENCAR
+CEPAL - COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+DAGOBERTO COSTA SILVA DE OMENA
+DER/AL - DEPARTAMENTO DE ESTRADAS DE RODAGEM DE ALAGOAS
+HELDER GAZZANEO GOMES
+DETRANAL - DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DE ALAGOAS
+ANTÔNIO CARLOS FREITAS MELRO DE GOUVEIA
+DITEAL - DIRETORIA DE TEATROS DO ESTADO DE ALAGOAS
+SHEILA DIAB MALUF
+EMATER - INSTITUTO DE INOVAÇÃO PARA O DESENVOLVIMENTO RURAL SUSTENTÁVEL
+ELIZEU JOSÉ RÊGO
+FAPEAL - FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE ALAGOAS
+FABIO GUEDES GOMES
+IDERAL - INSTITUTO DE DESENVOLVIMENTO RURAL E ABASTECIMENTO DE ALAGOAS
+JOSÉ HELENILDO RIBEIRO MONTEIRO NETO
+IMA/AL - INSTITUTO DO MEIO AMBIENTE DO ESTADO DE ALAGOAS
+GUSTAVO RESSURREIÇÃO LOPES
+INMEQ - INSTITUTO DE METROLOGIA E QUALIDADE DE ALAGOAS
+ARISTEU JOSÉ LOPES CAVALCANTI
+IPASEAL SAÚDE - INSTITUTO DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES DO ESTADO DE ALAGOAS
+JOSÉ EDIBERTO DE OMENA
+ITEC - INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO DOS SANTOS JÚNIOR
+L - INSTITUTO DE TERRAS E REFORMA AGRÁRIA DE ALAGOAS
+JAIME MESSIAS SILVA
+ 
+IZP - INSTITUTO ZUMBI DOS PALMARES
+ROBERTO RIVELINO DE AMORIM
+LIFAL - LABORATÓRIO INDUSTRIAL FARMACÊUTICO DE ALAGOAS - SA
+SANDRA DO CARMO MENEZES
+PROCON - INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR DE ALAGOAS
+GALBA NOVAIS DE CASTRO NETTO
+SERVEAL - SERVIÇO DE ENGENHARIA DE ALAGOAS S/A
+JOSÉ ERNESTO DE SOUZA FILHO
+UNCISAL - UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS
+MHENRIQUE DE OLIVEIRA COSTA
+UNEAL - UNIVERSIDADE ESTADUAL DE ALAGOAS
+CLÉBIO CORREIA DE ARAÚJO - Vice-Reitor
+ 
+ 
+ 
+Indeferiu, na data de 25 de junho de 2018, o seguinte processo:
+Processo: 4799-2967/2018
+Interessado(a): Maria Adriana Teodózio dos Santos Menezes
+Assunto: Revisão de Aposentadoria
+Váubia Duarte Garrote - Diretora de Benefícios Previdenciários
+Protocolo 364681
+ 
+—— —— — aaa
+Tnstituto do Meio Ambiente do Estado de Alagoas
+(IMA)
+INSTRUÇÃO NORMATIVA IMA/AL Nº 01, DE 04 DE JULHO DE 2018,
+ 
+Estabelece procedimentos para a aplicação do art. 3o, IV e V e os Capítulos IV,
+V e VI da Lei Estadual no 6.787, de 22 de dezembro de 2006 pela fiscalização
+do Instítito do Meio Ambiente de Alagoas - IMA/AL, dispõe sobre as infrações
+administrativas contra o meio ambiente e normatiza o processo administrativo para
+sua apuração.
+ 
+ 
+ 
+Para visuali
+ 
+ão da instrução normativa completa acessar link abaixo:
+hup:/www.ima.al.gov.br/wp-content/uploads/2017/11
+INSTRUC%CCMATA%CCAS3O-NORMATIVA-Nº%C2%BA-01.2
+Infrac%CC%ATo%CC%83es-Administrativas.pdf
+ 
+Macció, 06 de julho de 2018.
+Gustavo Ressurreição Lopes
+Diretor-Presidente
+Protocolo 364635
+ 
+ 
+ALGÁS - Gás de Alagoas - S/A
+  
+A Gás de Alagoas S 3ÁS torna público, os extratos de contratos, de atas
+de registro de preços, autorização de fornecimento de material e de adi
+conforme abaixo:
+   
+Exitratos de Contrato, Ata de Registro de Preços e Autorização de Fornecimento
+de Material
+Contrato: nº 010/2018; Contratado: Pródiga Sistem:
+67.666.461/0001-79; Objeto Contratual: Contratação de serviços técnicos profis-
+sionais especializados em informática; Valor Global: R$ 781.062,
+(vinte e quatro) meses contados a partir da emissão da 1º Autorização de Serviço:
+Processo: 400.2017; Licitação: Licitação nº 017.2017; Homologação: 08/05/2018,
+de Informação Ltda; CNP!):
+ 
+   
+    
+   
+ 
+   
+Autorização Autônoma de Serviços: nº 008/2018: Contratado: Matuto de Luxo
+Empreendimentos Artísticos Ltda; CNPJ: 07.958.624/0001-65; Objeto Contratual:
+Contratação de atração musical para o evento junino da ALGÁS; Valor Global: R$
+3.500,00; Processo: 118,2018; Licitação: Inexigibilidade nº 014,2018.
+  
+ 
+ 
+ 
+Carta Contrato: nº 041/2018; Contratado: EAM Sistemas de Informatica Ltda -
+EPP; CNPJ: 07.537.669/0001-66; Objeto Contratual: Contratação dos serviços de
+suporte do software ENGEMAN; Valor Global: R$ 9.873,23; Vigência: 12 (doze)
+meses a partir da emissão da Autorização de Fornecimento; Processo: 104.2018;
+Licitação: Inexigibilidade nº 007.2018,
+ 
+   
+    
+ 
+Aditamento: nº 03; Contrato: nº Servi-
+  
+  
+ 
+016: Contratado: Printpage Produtos e
+ços de Informática Eireli - EPP; CNPJ: 09,392.052/0001-25; Objeto do Aditamen-
+to: prorrogação do prazo de vigência; Valor Global do Aditamento: R$ 38.068.16,
+Processo: 050.2016/ARPO07.2016.
+ 
+Responsável pela resenha: Mirian Caval
+Suprimentos — ALGÁ:
+inte Tavares - Assistente Técnico de

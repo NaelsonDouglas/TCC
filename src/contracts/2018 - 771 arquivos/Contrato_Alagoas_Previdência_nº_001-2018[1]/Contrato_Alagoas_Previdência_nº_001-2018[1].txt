@@ -1,0 +1,682 @@
+Ó ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+mEE
+ 
+TERMO DE CONTRATO
+TERMO DE CONTRATO  ALAGOAS
+PREVIDÊNCIA Nº 01/2018, QUE ENTRE SI
+CELEBRAM O ESTADO DE ALAGOAS, POR
+INTERMÉDIO DA ALAGOAS PREVIDÊNCIA,
+E A EMPRESA AUDORA TECNOLOGIA E
+SERVIÇOS LTDA-ME PARA A PRESTAÇÃO
+DE SERVIÇOS.
+CONTRATANTE: O Estado de Alagoas, por intermédio da ALAGOAS
+PREVIDÊNCIA, inscrita no CNPJ sob o nº 23.658.211/0001-11 e com sede na
+Avenida da Paz, 1864, Edifício Empresarial Terra Brasilis Corporate, 1864,
+térreo, 13º, 14º e 15º andar, Centro, Maceió/AL, CEP 57.020-440, representado
+pelo seu Diretor-Presidente, o Sr. ROBERTO MOISES DOS SANTOS, inscrito
+no CPF sob o nº 962.364.427-20, conforme ato governamental publicado no
+Diário Oficial do Estado de Alagoas de 24/05/2016;
+CONTRATADA: A empresa AUDORA TECNOLOGIA E SERVIÇOS LTDA-ME,
+inscrita no CNPJ sob o nº 06.101.150/0001-78 e estabelecida na Rua José
+Pontes Magalhães, 70, Jatiúca, JTR — Comercial, Ed. Espanha, Sala 402/403,
+Maceió/AL, CEP 57.036-250, representada pelo seu Sócio Administrador, Sr.
+FABRÍCIO JOSÉ FARIAS DOS SANTOS, inscrito no CPF sob o nº 007.959.404-
+24, de acordo com a representação legal que lhe é outorgada por contrato
+social;
+Os CONTRATANTES, nos termos do Processo nº 4799-7103/2017, e em
+observância às disposições da Lei nº 8.666, de 1993, e da Lei nº 8.078, de 1990
+— Código de Defesa do Consumidor, celebram o presente Termo de Contrato,
+mediante as cláusulas e condições a seguir enunciadas.
+1. CLÁUSULA PRIMEIRA — OBJETO
+1.1. O objeto do presente Termo de Contrato é a contratação de empresa
+especializada em serviços de tecnologia da informação para fornecimento de
+solução de Governança Eletrônica para a ALAGOAS PREVIDÊNCIA.
+1.2. Objeto da Contratação
+1.2.1.Sofiwares:
+ 
+Item Descrição Quantidade
+ 
+Sistema de Processo Eletrônico (e-PAT), com
+fornecimento —de — código-fonte (CEDIDO VIA
+COOPERAÇÃO TÉCNICA AVENÇADO ENTRE A 1 unidade
+FAZENDA DO ESTADO DE ALAGOAS COM
+ 
+ 
+ 
+ANUÊNCIA DA AUDORA TECNOLOGIA E
+ALAGOAS PREVIDÊNCIA E A SECRETARIA DA | (Não Faturável)
+ 
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis - Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNPJ 23.658.211/0001-11 - Telefones - Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 d-,bz&
+ALAGOAS
+Dm
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ 
+[ SERVIÇOS LTDA)
+ 
+ 
+ 
+ 
+1.2.2. Serviços:
+Itens Descrição Quantidade
+2 Serviços de customização, integração e implantação 1 unidade
+Treinamento com turmas de até 20 usuários, com
+3 carga horária mínima de 8 horas OBsitumias
+Suporte técnico com inclusão de manutenção
+4 corretiva, atualização tecnológica e funcional e 12meses
+helpdesk receptivo e ativo
+ 
+ 
+Serviços de manutenção evolutiva de software, para
+desenvolvimento de funcionalidades não
+5 contempladas no sistema absorvido pela
+ 
+autarquia.
+cooperação, bem como dos sistemas legados desta
+2.500 pontos de
+função
+ 
+ 
+ 
+2. CLÁUSULA SEGUNDA — VIGÊNCIA E EXECUÇÃO
+2.1. Este Termo de Contrato tem prazo de vigência e execução de 12 (doze)
+meses, contados da data de publicação do extrato contratual no Diário Oficial do
+Estado, a partir de quando as obrigações assumidas pelas partes serão
+exigíveis, sendo prorrogável na forma do art. 57, inciso Il, da Lei nº 8.666, de
+1993.
+2.1.1. A Contratada não tem direito subjetivo à prorrogação contratual.
+2.1.2. A prorrogação de contrato deverá ser promovida mediante celebração de
+termo aditivo.
+3. CLÁUSULA TERCEIRA - PREÇO
+3.1. O valor global estimado da contratação é estimado de R$ 2.987.800,00
+(dois milhões, novecentos e oitenta e sete. mil e oitocentos reais), conforme
+tabela descrita abaixo:
+ 
+ 
+ 
+Preço Preço Total Máximo
+ltem Descrição Qtde. Unitário (EM R$)
+Máximo
+(EM R$)
+Sistema de Processo Eletrônico (e- 0'0,0
+PAT), com fornecimento de código Velorem Y"md,e da
+1 binário (CEDIDO VIA 1 COOPERAÇÃO TÉCNICA
+COOPERAÇÃO TÉCNICA 500.000,00 AVENÇADO ENTRE O
+AVENÇADO ENTRE O TRIBUNAL TRIBUNAL DE CONTAS
+DE CONTAS DO ESTADO DE Valor da DO ESTADO ALAGOAS E
+ALAGOAS E A SECRETARIA DA Licença A SECRETARIA DA
+TOSENDADO s TADO DE Contratado | FAZENDA DO ESTADO DE
+ALAGOAS COM ANUÊNCIA DA
+AUDORA TECNOLOGIA E pela ALAGOAS COM
+SEFAZ/AL ANUÊNCIA DA AUDORA
+SERVIÇOS LTDA)
+ 
+ 
+ 
+ 
+TECNOLOGIA E
+SERVIÇOS LTDA.
+ 
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 ã— a
+NmESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ 
+ 
+ 
+ALAGOAS
+EEENNTNENTE
+Serviços de customização,
+2 integração e implantação 1 571.000,00 571.000,00
+Treinamento com turmas de até 20
+3 usuários, com carga horária mínima| — O8 1.500,00 12.000,00
+de 8 horas
+Suporte técnico com inclusão de
+4 manutenção corretiva, atualização 12
+100.400,00 1.204.800,00
+tecnológica e funcional e helpdesk | meses
+receptivo e ativo
+ 
+Serviços de manutenção evolutiva
+ 
+ 
+ 
+ 
+ 
+& de software, para desenvolvimento| — 2500
+de funcionalidades não pontos 480,00 1.200.000,00
+contempladas no sistema absorvido| de '
+pela cooperação. função
+Preço Total para execução em 12 meses 2.987.800,00
+ 
+ 
+ 
+3.1.1. O valor acima é meramente estimativo, de forma que os pagamentos
+devidos à Contratada dependerão dos quantitativos de serviços efetivamente
+prestados.
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e
+indiretas decorrentes da execução contratual, inclusive tributos ou impostos,
+encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes,
+taxa de administração, frete, seguro e outros necessários ao cumprimento
+integral do objeto da contratação.
+4. CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA
+4.1. As despesas decorrentes desta contratação estão programadas em
+dotação orçamentária própria, prevista no orçamento do Estado de Alagoas,
+para o exercício de 2018.
+4.2. No(s) exercício(s) seguinte(s), correrão à conta dos recursos próprios para
+atender às despesas da mesma natureza, cuja alocação será feita no início de
+cada exercício financeiro.
+5. CLÁUSULA QUINTA - PAGAMENTO
+5.1. O pagamento será efetuado pela Contratante no prazo de até 30 dias, de
+acordo com a entrega dos serviços, contados da apresentação da Nota
+Fiscal/Fatura contendo o detalhamento dos serviços executados, através de
+ordem bancária, para crédito em banco, agência e conta corrente indicados pelo
+contratado.
+5.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o
+limite de que trata o inciso |l do art. 24 da Lei 8.666, de 1993, deverão ser
+efetuados no prazo de até 5 (cinco) dias úteis, contados da data da
+apresentação da Nota Fiscal/Fatura, nos termos do art. 5º, $ 3º, da Lei nº 8.666,
+de 1993.
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440. 4
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 J—v T /.)ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+ENENA
+5.3. A apresentação da Nota Fiscal/Fatura deverá ocorrer no prazo de máximo
+10 dias, contado da data final do período de adimplemento da parcela da
+contratação a que aquela se referir.
+5.4. O pagamento somente será autorizado depois de efetuado o “atesto” pelo
+servidor competente, condicionado este ato à verificação da conformidade da
+Nota Fiscal/Fatura apresentada em relação aos serviços efetivamente prestados
+e aos materiais empregados.
+5.5. Havendo erro na apresentação da Nota Fiscal/Fatura ou dos documentos
+pertinentes à contratação, ou, ainda, circunstância que impeça a liquidação da
+despesa, como por exemplo, obrigação financeira pendente, decorrente de
+penalidade imposta ou inadimplência, o pagamento ficará sobrestado até que a
+Contratada providencie as medidas saneadoras. Nesta hipótese, o prazo para
+pagamento iniciar-se-á após a comprovação da regularização da situação, não
+acarretando qualquer ônus para a Contratante.
+5.6. Será efetuada a retenção ou glosa no pagamento, proporcional à
+irregularidade verificada, sem prejuízo das sanções cabíveis, caso se constate
+que a Contratada:
+5.6.1. Não produziu os resultados acordados;
+5.6.2. Deixou de executar as atividades contratadas, ou não as executou com a
+qualidade mínima exigida;
+5.6.3. Deixou de utilizar os materiais e recursos humanos exigidos para a
+execução do serviço, ou utilizou-os com qualidade ou quantidade inferior à
+demandada.
+5.7. Será considerada data do pagamento o dia em que constar como emitida a
+ordem bancária para pagamento.
+5.8. Antes de cada pagamento à contratada, será realizada consulta ao SICAF
+para verificar a manutenção das condições de habilitação exigidas no edital.
+5.8.1. Não estando o contratado cadastrado no SICAF, deverão ser consultados
+os sítios oficialis emissores de certidões ou convocado o contratado a
+encaminhar documento válido que comprove o atendimento das exigências de
+habilitação.
+5.9. Constatando-se a situação de irregularidade da contratada, será
+providenciada sua notificação, por escrito, para que, no prazo de 10 (dez) dias,
+regularize sua situação ou, no mesmo prazo, apresente sua defesa.
+5.10. Não havendo regularização ou sendo a defesa considerada improcedente,
+a Contratante deverá comunicar aos órgãos responsáveis pela fiscalização da
+regularidade fiscal quanto à inadimplência da contratada, bem como quanto à
+existência de pagamento a ser efetuado, para que sejam acionados os meios
+pertinentes e necessários para garantir o recebimento de seus créditos.
+5.11. Persistindo a irregularidade, a Contratante deverá adotar as medidas
+necessárias à rescisão contratual nos autos do processo administrativo
+correspondente, assegurada à contratada a ampla defesa.
+5.12. Havendo a efetiva execução do objeto, os pagamentos serão realizados
+normalmente, até que se decida pela rescisão do contrato, caso a contratada
+não regularize sua situação.
+5.13. Somente por motivo de economicidade, segurança nacional ou outro
+interesse público de alta relevância, devidamente justificado, em qualquer caso,
+pela máxima autoridade da Contratante, não será rescindido o conirato em
+execução com a contratada inadimplente.
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 -ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+EXENKENNENCANO
+5.14. Quando do pagamento, será efetuada a retenção tributária prevista na
+legislação aplicável.
+5.14.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a
+retenção tributária quanto aos impostos e contribuições abrangidos por aquele
+regime. No entanto, o pagamento ficará condicionado à apresentação de
+comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na Lei Complementar nº 123, de 2006.
+6. CLÁUSULA SEXTA - REAJUSTE
+6.1. O preço consignado no contrato será corrigido anualmente, observado o
+interregno mínimo de um ano, contado a partir da data limite para a
+apresentação da proposta, pela variação do IPCA — IBGE.
+6.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano
+será contado a partir dos efeitos financeiros do último reajuste.
+6.3. Competirá à Contratada exercer, perante o Contratante, seu direito ao
+reajuste, sendo que, se não o fizer de forma tempestiva e, por via de
+consequência, prorrogar o contrato ou deixar expirar o prazo de vigência,
+ocorrerá a preclusão do seu direito ao reajuste.
+O07. CLÁUSULA SÉTIMA - EXECUÇÃO DOS SERVIÇOS E SEU
+RECEBIMENTO
+7.1. A execução dos serviços será iniciada a partir do recebimento da Ordem de
+Execução.
+7.2. Os serviços serão recebidos provisoriamente no prazo de 15 dias, pelo(a)
+responsável pelo acompanhamento e fiscalização do contrato, para efeito de
+posterior verificação de sua conformidade com as especificações constantes
+neste Termo de Referência e na proposta.
+7.3. Os serviços poderão ser rejeitados, no todo ou em parte, quando em
+desacordo com as especificações constantes neste Termo de Referência e na
+proposta, devendo ser corrigidos, refeitos ou substituídos no prazo fixado pelo
+fiscal do contrato, às custas da Contratada, sem prejuízo da aplicação de
+penalidades.
+7.4. Os serviços serão recebidos definitivamente no prazo de 30 dias, contados
+do recebimento provisório, após a verificação da qualidade e quantidade do
+serviço executado e materiais empregados, com a consequente aceitação
+mediante termo circunstanciado.
+7.4.1. Na hipótese de não se proceder à verificação a que se refere o subitem
+anterior dentro do prazo fixado, reputar-se-á como realizada, consumando-se o
+recebimento definitivo no dia do esgotamento do prazo.
+7.5. O recebimento provisório ou definititro do objeto não exclui a
+responsabilidade da Contratada pelos prejuízos resultantes da incorreta
+execução do contrato.
+8. CLÁUSULA OITAVA - OBRIGAÇÕES DA CONTRATANTE E DA
+CONTRATADA
+8.1. São obrigações da Contratante:
+8.1.1. Exigir o cumprimento de todas as obrigações assumidas pela Contratada,
+de acordo com as cláusulas contratuais e os termos de sua proposta;
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNP! 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 á*d"
+dESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+ENENA
+8.1.2. Exercer o acompanhamento e a fiscalização dos serviços, por servidor
+especialmente designado, anotando em registro próprio as falhas detectadas,
+indicando dia, mês e ano, bem como o nome dos empregados eventualmente
+envolvidos, e encaminhando os apontamentos à autoridade competente para as
+providências cabíveis;
+8.1.3. Notificar a Contratada por escrito da ocorrência de eventuais imperfeições
+no curso da execução dos serviços, fixando prazo para a sua correção;
+8.1.4. Não permitir que os empregados da Contratada realizem horas extras,
+exceto em caso de comprovada necessidade de serviço, formalmente justificada
+pela autoridade do órgão para o qual o trabalho seja prestado e desde que
+observado o limite da legislação trabalhista;
+8.1.5. Pagar à Contratada o valor resultante da prestação do serviço, no prazo e
+condições estabelecidas no Edital e seus anexos;
+8.1.6. Efetuar as retenções tributárias devidas sobre o valor da Nota
+Fiscal/Fatura fornecida pela contratada.
+8.2. São obrigações da Contratada:
+8.2.1. Executar os serviços conforme especificações deste Termo de Referência
+e de sua proposta, com a alocação dos empregados necessários ao perfeito
+cumprimento das cláusulas contratuais, além de fornecer os materiais e
+equipamentos, ferramentas e utensílios necessários, na qualidade e quantidade
+especificadas neste Termo de Referência e em sua proposta;
+8.2.2. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em
+parte, no prazo fixado pelo fiscal do contrato, os serviços efetuados em que se
+verificarem vícios, defeitos ou incorreções resultantes da execução ou dos
+materiais empregados;
+8.2.3. Manter o empregado nos horários predeterminados pela Administração;
+8.2.4. Responsabilizar-se pelos vícios e danos decorrentes da execução do
+objeto, de acordo com os artigos 14 e 17 a 27, do Código de Defesa do
+Consumidor (Lei nº 8.078, de 1990), ficando a Contratante autorizada a
+descontar da garantia, caso exigida no edital, ou dos pagamentos devidos à
+Contratada, o valor correspondente aos danos sofridos;
+8.2.5. Utilizar empregados habilitados e com conhecimentos básicos dos
+serviços a serem executados, em conformidade com as normas e
+determinações em vigor;
+8.2.6. Apresentar os empregados devidamente uniformizados e identificados por
+meio de crachá, além de provê-los com os Equipamentos de Proteção Individual
+- EPI, quando for o caso;
+8.2.7. Apresentar à Contratante, quando for o caso, a relação nominal dos
+empregados que adentrarão o órgão para a execução do serviço;
+8.2.8. Responsabilizar-se por todas as obrigações trabalhistas, sociais,
+previdenciárias, tributárias e as demais previstas na legislação específica, cuja
+inadimplência não transfere responsabilidade à Contratante;
+8.2.9. Atender as solicitações da Contratante quanto à substituição dos
+empregados alocados, no prazo fixado pelo fiscal do contrato, nos casos em
+que ficar constatado descumprimento das obrigações relativas à execução do
+serviço, conforme descrito neste Termo de Referência;
+8.2.10. instruir seus empregados quanto à necessidade de acatar as normas
+internas da Administração;
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis - Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNP! 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+8.2.11. Instruir seus empregados a respeito das atividades a serem
+desempenhadas, alertando-os a não executar atividades não abrangidas pelo
+contrato, devendo a Contratada relatar à Contratante toda e qualquer ocorrência
+neste sentido, a fim de evitar desvio de função;
+8.2.12. Relatar à Contratante toda e qualquer irregularidade verificada no
+decorrer da prestação dos serviços;
+8.2.13. Não permitir a utilização de qualquer trabalho do menor de dezesseis
+anos, exceto na condição de aprendiz para os maiores de quatorze anos; nem
+permitir a utilização do trabalho do menor de dezoito anos em trabalho noturno,
+perigoso ou insalubre;
+8.2.14. Manter durante toda a vigência do contrato, em compatibilidade com as
+obrigações assumidas, todas as condições de habilitação e qualificação
+exigidas na licitação;
+8.2.15. Guardar sigilo sobre todas as informações obtidas em decorrência do
+cumprimento do contrato;
+8.2.16. Arcar com o ônus decorrente de eventual equívoco no dimensionamento
+dos quantitativos de sua proposta, devendo complementá-los, caso o previsto
+inicialmente em sua proposta não seja satisfatório para o atendimento ao objeto
+da licitação, exceto quando ocorrer algum dos eventos arrolados nos incisos do
+$ 1º do art. 57 da Lei nº 8.666, de 1993.
+9. CLÁUSULA NONA - CONTROLE E FISCALIZAÇÃO DA EXECUÇÃO
+9.1. O acompanhamento e a fiscalização da execução do contrato consistem na
+verificação da conformidade da prestação dos serviços e da alocação dos
+recursos necessários, de forma a assegurar o perfeito cumprimento do ajuste,
+devendo ser exercidos por um ou mais representantes da Contratante,
+especialmente designados, na forma dos arts. 67 e 73 da Lei nº 8.666, de 1993.
+9.2. O representante da Contratante deverá ter a experiência necessária para o
+acompanhamento e controle da execução dos serviços e do contrato.
+9.3. A verificação da adequação da prestação do serviço deverá ser realizada
+com base nos critérios previstos neste Termo de Referência.
+9.4. A execução dos contratos deverá ser acompanhada e fiscalizada por meio
+de instrumentos de controle, que compreendam a mensuração dos seguintes
+aspectos:
+9.4.1. Os resultados alcançados em relação ao objeto contratado, com a
+verificação dos prazos de execução e da qualidade demandada;
+9.4.2. Os recursos humanos empregados, em função da quantidade e da
+formação profissional exigidas;
+9.4.3. A qualidade e quantidade dos recursos materiais, equipamentos e
+utensílios utilizados;
+9.4.4. A adequação dos serviços prestados à rotina de execução estabelecida;
+9.4.5. O cumprimento das demais obrigações decorrentes do contrato;
+9.4.6. A satisfação da Administração usuária.
+9.5. O fiscal do contrato, ao verificar que houve subdimensionamento da
+produtividade pactuada, sem perda da qualidade na execução do serviço,
+deverá comunicar à autoridade responsável para que esta promova a
+adequação contratual à produtividade efetivamente realizada, respeitando-se os
+limites de alteração dos valores contratuais previstos no 8 1º do artigo 65 da Lei
+nº 8.666, de 1993.
+Avenida da Paz, 1864, Empresarial Terra Brasílis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440. /WÍ
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 ; 4, ÍESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+mom
+9.6. A conformidade do material a ser utilizado na execução dos serviços deverá
+ser verificada juntamente com o documento da Contratada que contenha a
+relação detalhada dos mesmos.
+9.7. O representante da Contratante deverá promover o registro das ocorrências
+verificadas, adotando as providências necessárias ao fiel cumprimento das
+cláusulas contratuais, conforme o disposto nos $$ 1º e 2º do art. 67 da Lei nº
+8.666, de 1993.
+9.8. O descumprimento total ou parcial das demais obrigações e
+responsabilidades assumidas pela Contratada ensejará a aplicação de sanções
+administrativas, previstas neste Termo de Referência e na legislação vigente,
+podendo culminar em rescisão contratual, conforme disposto nos artigos 77 e
+80 da Lei nº 8.666, de 1993.
+9.9. A fiscalização de que trata esta cláusula não exclui nem reduz a
+responsabilidade da Contratada, inclusive perante terceiros, por qualquer
+irregularidade, ainda que resultante de imperfeições técnicas, vícios redibitórios,
+ou emprego de material inadequado ou de qualidade inferior e, na ocorrência
+desta, não implica corresponsabilidade da Contratante ou de seus agentes e
+prepostos, de conformidade com o art. 70 da Lei nº 8.666, de 1993.
+10. CLÁUSULA DÉCIMA - DAS SANÇÕES ADMINISTRATIVAS
+10.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993 e da
+Lei 12.846, de 2013, a Contratada que:
+10.1.1. Inexecutar total ou parcialmente qualquer das obrigações assumidas em
+decorrência da contratação;
+10.1.2. Ensejar o retardamento da execução do objeto;
+10. Fraudar na execução do contrato;
+10.1.4. Comportar-se de modo inidôneo;
+10.1.5. Cometer fraude fiscal;
+10 Não mantiver a proposta;
+10.1.7. Criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar
+contrato administrativo;
+10.1.8. Obtiver vantagem ou benefício indevido, de modo fraudulento, de
+modificações ou prorrogações de contratos celebrados com a administração
+pública, sem autorização em lei, no ato convocatório da licitação pública ou nos
+respectivos instrumentos contratuais;
+10.1.9. Manipular ou fraudar o equilíbrio econômico-financeiro dos contratos
+celebrados com a administração pública.
+10.2. A Contratada que cometer qualquer das infrações discriminadas no
+subitem acima ficará sujeita, sem prejuízo da responsabilidade civil e criminal,
+às sanções previstas Lei nº 8.666, de 1993, e da Lei 12.846, de 2013,
+observado o Decreto nº 4.054, de 19 de setembro de 2008.
+10.3. Também ficam sujeitas às penalidades do art. 87, Ill e IV da Lei nº 8.666,
+de 1993, a Contratada que:
+10.3.1. Tenha sofrido condenação definitiva por praticar, por meio dolosos,
+fraude fiscal no recolhimento de quaisquer tributos;
+10.3.2. Tenha praticado atos ilícitos visando a frustrar os objetivos da licitação;
+10.3.3. Demonstre não possuir idoneidade para contratar com a Administração
+em virtude de atos ilícitos praticados.
+ 
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis - Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440.
+CNP!J 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 ;
+—=O ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+TmA
+10.4. A aplicação de qualquer das penalidades previstas realizar-se-á em
+processo administrativo que assegurará o contraditório e a ampla defesa à
+Contratada, observando-se o procedimento previsto na Lei nº 8.666, de 1993, e
+subsidiariamente a Lei nº 6.161, de 2000.
+10.5. A autoridade competente, na aplicação das sanções, levará em
+consideração a gravidade da conduta do infrator, o caráter educativo da pena,
+bem como o dano causado à Administração, observado o princípio da
+proporcionalidade.
+11. CLÁUSULA ONZE - RESCISÃO
+11.1. O presente Termo de Contrato poderá ser rescindido nas hipóteses
+previstas no art. 78 da Lei nº 8.666, de 1993, com as consequências indicadas
+no art. 80 da mesma Lei, sem prejuízo das sanções aplicáveis.
+11.2. É admissível a fusão, cisão ou incorporação da Contratada com ou em
+outra pessoa jurídica, desde que sejam observados pela nova pessoa jurídica
+todos os requisitos de habilitação exigidos na licitação original; sejam mantidas
+as demais cláusulas e condições do contrato; não haja prejuízo à execução do
+objeto pactuado e haja a anuência expressa da Administração à continuidade
+do contrato.
+11.8. Os casos de rescisão contratual serão formalmente motivados,
+assegurando-se à Contratada o direito à prévia e ampla defesa.
+11.4. A Contratada reconhece os direitos da Contratante em caso de rescisão
+administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+11.5. O termo de rescisão será precedido de Relatório indicativo dos seguintes
+aspectos, conforme o caso:
+11.5.1. Balanço dos eventos contratuais já cumpridos ou parcialmente
+cumpridos;
+11.5.2. Relação dos pagamentos já efetuados e ainda devidos;
+11.5.3. Indenizações e multas.
+12. CLÁUSULA DOZE - VEDAÇÕES
+12.1. É vedado à Contratada:
+12.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação
+financeira;
+12.1.2. Interromper a execução dos serviços sob alegação de inadimplemento
+por parte da Contratante, salvo nos casos previstos em lei.
+13. CLÁUSULA TREZE — ALTERAÇÕES
+13.1. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da
+Lei nº 8.666, de 1993.
+13.2. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os
+acréscimos ou supressões que se fizerem necessários, até o limite de 25%
+(vinte e cinco por cento) do valor inicial atualizado do contrato.
+13.3. As supressões resultantes de acordo celebrado entre as partes
+Contratantes poderão exceder o limite de 25% (vinte e cinco por cento) do valor
+inicial atualizado do contrato.
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL. CEP 57020-440. /&
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-5707 J 'ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+ALAGOAS PREVIDÊNCIA
+ALAGOAS
+ENEINNIIINIEHANES
+14. CLÁUSULA CATORZE — DOS CASOS OMISSOS
+14.1. Os casos omissos serão decididos pela Contratante segundo as
+disposições contidas na Lei nº 8.666, de 1993, e nas demais normas de
+licitações e contratos administrativos, além de, subsidiariamente, as disposições
+contidas na Lei nº 8.078, de 1990 — Código de Defesa do Consumidor, e
+normas e princípios gerais dos contratos.
+15. CLÁUSULA QUINZE - PUBLICAÇÃO
+15.1. Incumbirá à Contratante providenciar a publicação deste instrumento, por
+extrato, no Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+16. CLÁUSULA DEZESSEIS - FORO
+16.1. O Foro para solucionar os litígios que decorrerem da execução deste
+Termo de Contrato será o da Comarca de Maceió — AL. Para firmeza e validade
+do pactuado, o presente Termo Aditivo foi lavrado em 3 (três) vias de igual teor,
+o qual, depois de lido e achado em ordem, vai assinado pelos contratantes.
+Maceió (AL), em 03 de janeiro de 2018.
+',/' /' Ê
+PN w/vwíf/
+YE/
+RO(ÉERTO MoisÉs DoS sANTOS
+Diretof-Pfesidente da Alagoas Previdência
+CONTRATANTE
+f (
+é&W É Quiv ds TLomÃTs
+FABRÍCIO JOSÉ FARIAS DOS SANTOS
+Sócio Administrador da empresa AUDORA TECNOLOGIA
+E SERVIÇOS LTDA-ME
+CONTRATADA
+AMito Lriele das Sarfos AKA
+TESTEMUNHA - CPF Nº cas S$€. SA -2
+À .
+(lwdus a Lotela Mathos
+TESTEMUNHA ZCPF Nº O'L. 3A44 siS7 N
+ 
+ 
+Avenida da Paz, 1864, Empresarial Terra Brasilis — Térreo, 13º, 14º e 15º andares, Centro, Maceió-AL, CEP 57020-440. Á
+CNPJ 23.658.211/0001-11 - Telefones — Geral: (82) 3315-1831 / Call Center: (82) 3315-57073 6 Maceio - sexta-feira Edição Eletrônica Certificada Digitalmente Diário Oficial
+S de janeiro de 2018 conforme LEI Nº 7.397/2012 Estado de Alagoas
+Poder Executivo
+Administração Indireta
+ 
+Estado de Alagoas
+DIÁRIO OFICIAL
+  
+ 
+PODER EXECUTIVO
+ 
+GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ RENAN VASCONCELOS CALHEIROS FILHO
+VICE-GOVERNADOR DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO BARBOSA DA SILVA
+ 
+AADEAL - AGÊNCIA DE DEFESA E INSPEÇÃO AGROPECUÁRIA DO ESTADO DE ALAGOAS
+AUGUSTO CÉSAR DE OLIVEIRA JATOBÁ
+AGÊNCIA DE FOMENTO DE ALAGOAS
+MAURICIO COMINOTTI
+ALGÁS - GÁS DE ALAGOAS - S/A
+ARNÓBIO CAVALCANTI FILHO
+ALAGOAS ATIVOS SIA
+HELDER GONÇALVES LIMA
+ALAGOAS PREVIDÊNCIA
+ROBERTO MOISÉS DOS SANTOS
+.AMGESP - AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+WAGNER MORAIS DE LIMA
+AARSAL - AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS
+MARCUS ANTÔNIO VIEIRA DE VASCONCELOS
+(CARHP - COMPANHIA DE ADMINISTRAÇÃO DE RECURSOS HUMANOS E PATRIMONIAIS
+FERNANDO ANTÔNIO MACEDO HOLANDA
+CCASAL - COMPANHIA DE SANEAMENTO DE ALAGOAS.
+MWILDE CLÉCIO FALCAO DE ALENCAR
+CEPAL - COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+DAGOBERTO COSTA SILVA DE OMENA
+DER/AL - DEPARTAMENTO DE ESTRADAS DE RODAGEM DE ALAGOAS
+HELDER GAZZANEO GOMES
+DETRANAAL - DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DE ALAGOAS
+ANTÔNIO CARLOS FREITAS MELRO DE GOUVEIA
+DITEAL - DIRETORIA DE TEATROS DO ESTADO DE ALAGOAS
+SHEILA DIAB MALUF
+EMATER — INSTITUTO DE INOVAÇÃO PARA O DESENVOLVIMENTO RURAL SUSTENTÁVEL
+ELIZEU JOSÉ RÊGO
+FAPEAL - FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE ALAGOAS
+FABIO GUEDES GOMES
+IDERAL - INSTITUTO DE DESENVOLVIMENTO RURAL E ABASTECIMENTO DE ALAGOAS
+JOSÉ HELENILDO RIBEIRO MONTEIRO NETO
+IMAIAL — INSTITUTO DO MEIO AMBIENTE DO ESTADO DE ALAGOAS
+GUSTAVO RESSURREIÇÃO LOPES
+INMEQ - INSTITUTO DE METROLOGIA E QUALIDADE DE ALAGOAS
+LUIZ PEDRO BEZERRA BRANDÃO
+IPASEAL SAÚDE - INSTITUTO DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES DO ESTADO DE ALAGOAS.
+JOSÉ EDIBERTO DE OMENA
+ITEC - INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+JOSÉ LUCIANO DOS SANTOS JÚNIOR
+ITERAL - INSTITUTO DE TERRAS E REFORMA AGRÁRIA DE ALAGOAS.
+JAIME MESSIAS SILVA
+12P - INSTITUTO ZUMBI DOS PALMARES
+ROBERTO RIVELINO DE AMORIM
+LIFAL - LABORATÓRIO INDUSTRIAL FARMACÊUTICO DE ALAGOAS - S/A
+SANDRA DO CARMO MENEZES
+SERVEAL - SERVIÇO DE ENGENHARIA DE ALAGOAS S/A
+JUDSON CABRAL DE SANTANA
+UNCISAL — UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS
+HENRIQUE DE OLIVEIRA COSTA
+UNEAL - UNIVERSIDADE ESTADUAL DE ALAGOAS.
+JAIRO JOSÉ CAMPOS DA COSTA
+ 
+ 
+Alagoas Previdência
+Termo de contrato Alagoas Previdência nº 001/2018, que entre si celebram o
+Estado de Alagoas, por intermédio da Alagoas Previdência, e a empresa Audora
+Tecnologia e Serviços Ltda-Me para prestação de serviços.
+Contrato Alagoas Previdência nº 001/2018,
+Processo Administrativo nº 4799-7103/2017.
+Contratante: O Estado de Alagoas, por intermédio da Alagoas Previdência, inscrita
+no CNPJ sob o nº 23.658.211/0001-11.
+Contratada: Audora Tecnologia e Serviços Ltda-Me, inscrita no CNPJ sob o nº
+06.101.150/0001-78.
+Objeto: O objeto do presente termo de contrato é a contratação de empresa
+especializada em serviços de tecnologia da informação para fornecimento de
+solução de Governança Eletrônica para a Alagoas Previdência.
+Valor global: O valor da contratação é de 2.987.800,00 (dois milhões, novecentos e
+oitenta e sete mil e oitocentos reais).
+Despesa: A despesa decorrente desta contratação estarão programadas em dotação
+orçamentáriá própria, prevista no orçamento do Estado de Alagoas, para o exercício
+de2018.
+Vigência: Este Termo de Contrato tem prazo de vigência e execução de 12 (doze)
+meses, contados da data de publicação do extrato contratual no Diário Oficial do
+Estado, a partir de quando as obrigações assumidas pelas partes serão exigíveis,
+sendo prorrogável na forma do art. 57, inciso II, da Lei nº 8.666, de 1993
+Data da assinatura: 03/01/2018.
+Signetários: Sr. Roberto Moises dos Santos, Diretor-Presidente da Alagoas
+Previdência, Sr. Fabrício José Farias dos Santos, Sócio Administrador da empresa
+Audora Tecnologia e Serviços Ltda-Me.
+Protocolo 338760
+A Diretora de Benefícios Previdenciários da Alagoas Previdência Despachou e
+Deferiu Parcialmente, na data de 29 de dezembro de 2017, o seguinte processo:
+Processo: 4799-6979/2017
+Interessado(a): Lucia Maria Lafaiete Rodas
+Assunto: Revisão de Pensão
+Váubia Duarte Garrote - Diretora de Benefícios Previdenciários
+Protocolo 338747
+AA Diretora de Benefícios Previdenciários da Alagoas Previdência Despachou e
+Deferiu Parcialmente, na data de 02 de janeiro de 2018, o seguinte processo:
+Processo: 4799-2907/2017
+Tnteressado(a): Antonio Gomes Dornelas
+Assunto: Revisão de Pensão
+Váubia Duarte Garrote - Diretora de Benefícios Previdenciários
+Protocolo 338748
+.A Diretora de Benefícios Previdenciários da Alagoas Previdência Despachou e
+Deferiu Parcialmente, na data de 03 de janeiro de 2018, o seguinte processo:
+Processo: 4799-2210/2017
+Interessado(a): Gildo da Silva Leite
+Assunto: Revisão de Pensão
+Váubia Duarte Garrote - Diretora de Benefícios Previdenciários
+Protocolo 338749
+AA Diretora de Benefícios Previdenciários da Alagoas Previdência Despachou e
+Deferiu Parcialmente, na data de 29 de dezembro de 2017, o seguinte process:
+Processo: 4799-547/2017 (apenso o processo nº4799-6192/2015)
+Interessado(a): Maria Alice de Barros Freitas de Abreu
+Assunto: Revisão de Pensão
+Váubia Duarte Garrote - Diretora de Benefícios Previdenciários
+Protocolo 338750

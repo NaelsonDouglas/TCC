@@ -1,0 +1,519 @@
+ALGÁS — ALAGOAS
+Gás de Alagoas S.A.
+ATA DE REGISTRO DE PREÇOS Nº 003.2017,
+QUE ENTRE SI CELEBRAM GÁS DE ALAGOAS
+S.A- ALGÁS E A EMPRESA IDTCORP
+COMERCIO E TECNOLOGIA DA INFORMAÇÃO 2
+EIRELI -EPP.
+Pelo presente instrumento, que entre si celebram, de um lado, a GÁS DE ALAGOAS
+S.A.- ALGÁS, sociedade de economia mista, estabelecida na Cidade de Maceió,
+Estado de Alagoas, na Rua Artur Vital da Silva, n.º 04, Gruta — CEP: 57.052-260,
+inscrita no CNPJ/MF sob o n.º 69.983.484/0001-32, doravante designada ALGÁS,
+neste ato representada na forma do seu estatuto social pelos seus representantes infra
+firmados, e do outro a empresa IDTCORP COMERCIO E TECNOLOGIA DA
+INFORMAÇÃO EIRELI -EPP, sediada à Rua Júlio Sayago, 301 — Fundos : Sala O2,
+São Paulo — SP, inscrita no CNPJ sob n.º 21.262.834/0001-45, Inscrição Estadual n.º
+145.973.374.117, neste ato representada na forma do seu estatuto social/contrato
+social pelos seus representantes infra firmados, doravante designada FORNECEDOR,
+mediante as cláusulas e condições do Edital de LICITAÇÃO Nº 005.2017- Modalidade
+PREGÃO ELETRÔNICO N.º 003.2017 e seus anexos, acordam o conteúdo da
+presente ATA DE REGISTRO DE PREÇOS, em conformidade com as disposições a
+seguir:
+CLÁUSULA PRIMEIRA - DO OBJETO E DAS CONDIÇÕES
+1.1. Registro de preço para eventual aquisição de equipamentos, atualização de
+licenças de software de backup, incluídos os serviços para migração de
+infraestrutura de armazenamento e atualização de ambiente virtual e de backup,
+de acordo com as quantidades e especificações técnicas previstas no Anexo Q4 do
+edital.
+1.2. O FORNECEDOR ficará obrigado a atender a todos os pedidos efetuados pela
+ALGÁS durante a vigência desta Ata de Registro de Preços, mesmo que a execução
+deles decorrente esteja prevista para data posterior à do seu vencimento.
+CLÁUSULA SEGUNDA - DO VALOR DA ATA DE REGISTRO DE PREÇOS
+2.1. O valor global desta Ata é de R$ 81.000,00 (oitenta e um mil reais).
+2.2. Os valores dos materiais e serviços registrados são os constantes da tabela
+abaixo:
+Rua Artur Vital da Silva, 04 1
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.brALGÁS — ALAGOAS
+Gás de Alagoas S.A.
+ 
+LOTE 03 - SERVIDOR RACK PARA GERENCIAMENTO
+ 
+ 
+     
+ 
+ 
+Ã Preço Unitário | Valor Total
+Trem |DFSCRIÇÃO Und. | Qtd |((C/ Todos os
+Tributos) (CI Todos os
+Tributos) &
+SERVIDOR RACK PARA
+GERENCIAMENTO '
+3.1 Equipamento Servidor padrão rack 19” Unid. | 3 27.000,00 81.000,00
+(horizontal)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL GLOBAL DO LOTE| 81.000,00
+ 
+CLÁUSULA TERCEIRA - DO CADASTRO RESERVA
+3.1. Em razão da declinação dos demais licitantes classificados na LICITAÇÃO Nº
+005.2017- Modalidade PREGÃO ELETRÔNICO N.º 003.2017, em aceitar os preços
+ofertados pelo licitante vencedor, a presente Ata não constituirá cadastro reserva.
+CLÁUSULA QUARTA - DOS RECURSOS ORÇAMENTÁRIOS
+4.1. Os recursos orçamentários para os pagamentos do fornecimento objeto desta
+licitação serão indicados e discriminados nos contratos celebrados em decorrência c
+desta ata de registro de preços ou em instrumento equivalente, em substituição do
+contrato.
+CLÁUSULA QUINTA — DA VIGÊNCIA E DA EFICÁCIA
+5.1. O prazo de validade desta Ata de Registro de Preços será de 12 (doze) meses,
+contados da data da sua última assinatura digital, a partir de quando as obrigações
+assumidas pelas partes serão exigíveis.
+5.1.1. A existência de preços registrados não obriga a Administração a firmar as
+contratações que deles poderão advir, facultando-se a realização de licitação
+específica, sendo assegurada ao FORNECEDOR a preferência de prestação dos
+serviços em igualdade de condições.
+5.1.1.1. O direito de preferência de que trata o subitem anterior poderá ser exercido
+pelo FORNECEDOR, quando o preço decorrente de procedimento de licitação
+específico for igual ou superior ao registrado.
+Rua Artur Vital da Silva, 04 2
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.brALGÁS
+Gás de Alagoas S.A.
+ 
+5.2. Os contratos ou instrumentos equivalentes decorrentes desta Ata de Registro de
+Preços terão sua vigência conforme as disposições contidas no Edital de licitação,
+obedecido ao disposto no art. 71, da Lei Federal nº 13.303, de 30 de junho de 2016.
+CLÁUSULA SEXTA - DA ADESÃO Á ATA POR ÓRGÃOS NÃO PARTICIPANTES
+6.1. A ALGÁS poderá autorizar a utilização da presente Ata por qualquer órgão ou
+entidade da administração pública municipal, distrital ou estadual que não tenha
+participado do certame licitatório, desde que devidamente justificada a vantagem pelo
+órgão interessado e respeitadas as seguintes condições:
+6.1.1. Aceite do FORNECEDOR da Ata de Registro de Preços em contratar com o
+órgão interessado na adesão, comprometendo não prejudicar as obrigações presentes
+e futuras decorrentes da ata assumida com a ALGÁS.
+6.1.2. Não poderão exceder, por órgão ou entidade, a 100% (cem por cento) dos
+quantitativos registrados na ata de registro de preços.
+6.1.3. Não ter excedido o quíntuplo do quantitativo de cada item registrado na ata de
+registro de preços, independentemente do número de órgãos não participantes que
+vierem a aderir à ata.
+6.2. Após a autorização da ALGÁS, caberá ao órgão não participante efetivar a
+contratação solicitada em até noventa dias, observando-se o prazo de vigência da ata.
+6.3. Caberá, ainda, ao órgão não participante realizar os atos relativos à cobrança do
+cumprimento por parte do contratado das obrigações contratualmente assumidas e a
+aplicação, observada a ampla defesa e o contraditório, de eventuais penalidades
+decorrentes do descumprimento das cláusulas contratuais relativas às suas próprias
+contratações, informando as ocorrências à ALGÁS.
+6.4. É vedada a adesão à ata de registro de preços administrada pela ALGÁS aos
+órgãos e entidades federais, em cumprimento ao parágrafo único do art. 22 do Decreto
+nº 29.342/2013.
+CLÁUSULA SÉTIMA - DAS OBRIGAÇÕES DAS PARTES
+7.1. Constituem obrigações da ALGÁS:
+Rua Artur Vital da Silva, 04 3
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 3 de 13ALGÁS
+Gás de Alagoas S.A.
+7.1.1. Gerenciar a presente Ata de Registro de Preços;
+7.1.2. Encaminhar cópia da Ata de Registro de Preços aos órgãos ou entidades que
+manifestem interesse na adesão da presente Ata;
+7.1.3. Observar para que, durante a vigência da presente Ata de Registro de Preços,
+sejam mantidas por parte do FORNECEDOR todas as condições de habilitação e
+qualificação exigidas na licitação, bem assim, a compatibilidade com as obrigações
+assumidas;
+7.1.4. Conduzir eventuais procedimentos administrativos de renegociação de Preços
+Registrados, para fins de adequação às novas condições de mercado, e de aplicação
+de penalidades;
+7.2. Constituem obrigações do FORNECEDOR:
+7.2.1. Assinar a Ata de Registro de Preços no prazo máximo de 05 (cinco) dias úteis,
+contados da convocação, bem como aceitar receber as Autorizações de Serviços - AS
+que forem expedidas.
+7.2.2. Informar, no prazo máximo de 05 (cinco) dias úteis, quanto à aceitação ou não
+do fornecimento de serviços a órgão ou entidade de outra esfera de Governo que
+venha a manifestar o interesse de aderir a presente Ata de Registro de Preços.
+7.2.3. No caso de contratação:
+|. Entregar o objeto registrado obedecendo às especificações e as quantidades
+previstas na Especificação Técnica — Anexo Q4 do Edital;
+ll. Programar entrega eficiente, sendo responsável por quaisquer atrasos
+resultantes de planejamento inadequado ou de deficiência de estoque;
+IIl. Entregar o objeto da licitação, de forma que não sejam danificados durante as
+operações de transporte, carga e descarga.
+IV. Retirar os materiais recusados dos locais de entrega de forma imediata, a partir
+da data em que o FORNECEDOR for notificado sobre a recusa pelo servidor de
+Recebimento;
+Rua Artur Vital da Silva, 04 4
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 4 de 13ALGÁS
+Gás de Alagoas S.A.
+ 
+V. Fornecer juntamente com a entrega do bem toda a sua documentação fiscal e
+técnica;
+VIl. Oferecer o objeto registrado com garantia de prazo de 36 (meses), contados de
+sua instalação;
+VII. Apresentar Certificado de Garantia dos materiais no ato da entrega do mesmo;
+VIII. Entregar os materiais acompanhados de Manual de Uso em português.
+IX. Manter, durante o prazo de vigência da Ata de Registro de Preços, em
+compatibilidade com as obrigações assumidas, todas as condições de
+habilitação e qualificação exigidas na licitação;
+X. Fornecer, sempre que solicitado, no prazo máximo de 05 (cinco) dias úteis,
+documentação de habilitação e qualificação cujas validades encontrem-se
+vencidas;
+Xl. Providenciar a imediata correção de deficiências, falhas ou irregularidades
+constatadas pela ALGÁS referentes às condições firmadas na presente Ata de ê
+Registro de Preços;
+XIl. Ressarcir os danos causados diretamente à ALGÁS ou a terceiros durante o
+prazo de vigência desta Ata de Registro de Preços, os eventuais prejuízos
+causados por ineficiência ou irregularidades cometidas na execução das
+obrigações assumidas;
+XIll. Realizar, sob suas expensas, a entrega do objeto registrado, nos prazos
+fixados;
+XIV. Observar para transporte, independente de seu tipo, as normas adequadas
+relativas a embalagens, volumes, etc.;
+XV. Responder por todos os encargos fiscais e comerciais resultantes desta
+contratação;
+XVI. Responsabilizar-se, com foros de exclusividade, pela observância a todas as
+normas estatuídas pela legislação trabalhista, social e previdenciária, tanto no
+que se refere a seus empregados, como a contratados e prepostos,
+responsabilizando-se, mais, por toda e qualquer autuação e condenação oriunda
+Rua Artur Vital da Silva, 04 5
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 5 de 13ALGÁS
+Gás de Alagoas SA.
+da eventual inobservância das citadas normas, aí incluídos acidentes de
+trabalho, ainda que ocorridos nas dependências da ALGÁS. Caso este seja
+chamado a juízo e condenado pela eventual inobservância das normas em
+referência, o FORNECEDOR obriga-se a ressarci-lo do respectivo desembolso,
+ressarcimento este que abrangerá despesas processuais e honorários de
+advogado arbitrados na referida condenação;
+XVIl. Outras previstas no edital e seus anexos, especialmente as previstas nas
+demais cláusulas desta Ata e no contrato.
+XVIl. Outras previstas no edital e seus anexos, especialmente as previstas nas
+demais cláusulas desta Ata e no contrato.
+PARÁGRAFO ÚNICO: A inadimplência do FORNECEDOR, com referência aos
+encargos estabelecidos no subitem anterior, não transfere a responsabilidade por seu
+pagamento à Administração Pública, nem pode onerar o objeto registrado.
+CLÁUSULA OITAVA — DA REVISÃO DOS PREÇOS REGISTRADOS
+8.1. Os preços poderão ser revistos, por solicitação do FORNECEDOR, na hipótese de
+manutenção do equilíbrio econômico-financeiro desta Ata de Registro de Preços.
+8.2. A cada pedido de revisão de preço, deverá o FORNECEDOR comprovar e <
+justificar as alterações havidas na planilha apresentada à época da elaboração da
+proposta, demonstrando analiticamente a variação dos componentes dos custos.
+8.3. Na análise do pedido de revisão, dentre outros critérios, a ALGÁS adotará, para
+verificação dos preços constantes dos demonstrativos que acompanham o pedido,
+pesquisa de mercado junto a empresas de reconhecido porte mercantil, produtoras
+elou comercializadoras, utilizando-se, ainda, de índices setoriais ou outros adotados
+pelo Governo Federal, devendo a deliberação, o deferimento ou indeferimento da
+alteração solicitada ser instruída com justificativa da escolha do critério e memória dos
+respectivos cálculos, para decisão da ALGÁS.
+8.4. É vedado ao FORNECEDOR interromper os serviços registrados enquanto
+aguarda o trâmite do processo de revisão de preços, estando, neste caso, sujeito às
+sanções previstas nesta Ata de Registro de Preços, no Edital de licitação e no contrato.
+Rua Artur Vital da Silva, 04 6
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 6 de 13ALGÁS
+Gás de Alagoas S.A.
+ 
+8.5. Frustrada a negociação, o FORNECEDOR será liberado do compromisso
+assumido; procecendo a ALGÁS a convocação das demais empresas classificadas,
+visando igual oportunidade de negociação.
+8.5.1. A ordem de classificação das empresas que aceitaram reduzir seus preços aos
+valores de mercado, se houver, observará o cadastro de reserva (item 2 da presente
+Ata).
+8.6. Não havendo êxito nas negociações com o FORNECEDOR e as empresas
+constantes do cadastro de reserva, a ALGÁS deverá proceder à revogação da Ata de
+Registro de Preços, adotando as medidas cabíveis para obtenção da contratação mais
+vantajosa.
+8.7. É vedado efetuar acréscimos nos quantitativos fixados pela ata de registro de
+preços, inclusive o acréscimo de que trata o inciso 1l e 8 1º do art. 81, da Lei Federal nº
+13.303/16.
+CLÁUSULA NONA - DAS SANÇÕES
+9.1. O FORNECEDOR que, por qualquer forma, não cumprir as normas desta Ata de
+Registro de Preços está sujeito às seguintes sanções, assegurados o contraditório e
+ampla defesa, nos termos do Decreto Estadual nº 4.054/2008:
+9.1.1. Advertência;
+9.1.2. Multa, a ser aplicada em conformidade com os parâmetros estabelecidos no
+Decreto Estadual nº 4.054/2008;
+9.1.3. Suspensão temporária de participação em licitação e impedimento de contratar
+com a Administração Direta, Autárquica e Fundacional, as Empresas Públicas e
+Sociedades de Economia Mista e demais entidades controladas direta ou indiretamente
+pelo Estado de Alagoas;
+9.1.4. Descredenciamento ou proibição de credenciamento no sistema de
+cadastramento de fornecedores do Estado de Alagoas;
+ 
+9.1.5. Declaração de inidoneidade para licitar ou contratar com a Administração
+Pública.
+Rua Artur Vital da Silva, 04 7
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2 S
+Tel.: 82 3218-7700 Fax: 82 3218-7742 ú s
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 7 de 13ALGÁS
+Gás de Alagoas SA.
+9.2. As sanções previstas nos subitens 9.1.1., 9.1.3., 9.1.4. e 9.1.5. desta Ata de
+Registro de Preços poderão ser aplicadas juntamente com a sanção de multa.
+9.3. A advertência consiste em repreensão por escrito imposta pelo não cumprimento
+das normas da Ata de Registro de Preços celebrada.
+9.4. A multa poderá ser aplicada juntamente com outras sanções segundo a natureza e
+a gravidade da falta cometida, desde que observado o princípio da proporcionalidade.
+9.5. A suspensão e o impedimento são sanções administrativas que temporariamente
+obstam a participação em licitação e a contratação com a Administração Direta,
+Autárquica e Fundacional, as Empresas Públicas e Sociedades de Economia Mista e
+demais entidades controladas direta ou indiretamente pelo Estado de Alagoas, sendo
+aplicadas nos seguintes prazos e hipóteses:
+9.5.1. Por até 30 (trinta) dias, quando, vencido o prazo da Advertência, o
+FORNECEDOR permanecer inadimplente;
+9.5.2. Por até 12 (doze) meses, quando o FORNECEDOR falhar ou fraudar na
+execução da Ata de Registro de Preços, comportar-se de modo inidôneo, fizer
+declaração falsa ou cometer fraude fiscal; e
+9.5.3. Por até 24 (vinte e quatro) meses, quando o FORNECEDOR: Praticar atos -
+ilegais ou imorais visando frustrar os objetivos da Ata de Registro de Preços; ou for
+multado, e não efetuar o pagamento.
+9.6. O descredenciamento ou a proibição de credenciamento no sistema de
+cadastramento de fornecedores do Estado de Alagoas são sanções administrativas
+acessórias à aplicação de suspensão temporária de participação em licitação e
+impedimento de contratar com a Administração Direta, Autárquica e Fundacional, as
+Empresas Públicas e Sociedades de Economia Mista e demais entidades controladas
+direta ou indiretamente pelo Estado de Alagoas, sendo aplicadas, por igual período.
+9.6.1. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública será aplicada à vista dos motivos informados na instrução processual.
+9.6.2. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública permanecerá em vigor enquanto perdurarem os motivos determinantes da
+punição ou até que seja promovida a reabilitação perante a própria autoridade que
+aplicou a sanção, a qual será concedida sempre que a contratada ressarcir os
+Rua Artur Vital da Silva, 04 8
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 8 de 13ALGÁS
+Gás de Alagoas S.A.
+ 
+prejuízos resultantes da sua conduta e depois de decorrido o prazo das sanções de
+suspensão e impedimento aplicadas.
+9.6.3. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública produz efeitos em relação tanto à Administração Direta, Autárquica e
+Fundacional, às Empresas Públicas e Sociedades de Economia Mista e demais
+entidades controladas direta ou indiretamente pelo Estado de Alagoas, quanto à
+Administração Pública da União, demais Estados, Municípios e Distrito Federal.
+CLÁUSULA DÉCIMA - DO CANCELAMENTO DA ATA DE REGISTRO DE PREÇOS
+10.1. Os preços registrados na presente Ata de Registro de Preços serão cancelados
+de pleno direito, conforme a seguir:
+10.1.1. Por iniciativa da ALGÁS, assegurado o contraditório e a ampla defesa, quando
+o FORNECEDOR:
+10.1.1.1. Descumprir as obrigações constantes da Ata de Registro de Preços;
+10.1.1.2. Recusar a retirada ou recebimento do respectivo contrato ou instrumento
+equivalente, ou ainda, pela recusa da assinatura do contrato no prazo estabelecido
+pela ALGÁS, sem justificativa aceitável;
+10.1.1.3. Não aceitar reduzir os preços registrados, na hipótese de estes se tornarem
+superiores àqueles praticados no mercado;
+10.1.1.4. Houver razões de interesse público devidamente demonstradas e justificadas
+pela ALGÁS;
+10.1.1.5. Der causa à rescisão administrativa de contrato decorrente desta Ata de
+Registro de Preços;
+10.1.1.6. Incorrer em qualquer das hipóteses de inexecução total ou parcial do objeto
+da licitação;
+10.1.1.7. Sofrer as sanções previstas nos incisos |ll ou IV do art. 87 da Lei nº 8.666/93
+ou no artigo 7º da Lei nº 10.520/2002, bem como as sanções previstas no inciso Ill, do
+art. 83, da Lei Federal nº 13.303/16;
+Rua Artur Vital da Silva, 04 9
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2 S
+Tel.: 82 3218-7700 Fax: 82 3218-7742 ú s
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 9 de 13ALGÁS
+Gás de Alagoas S.A.
+ 
+10.2. A pedido do FORNECEDOR, quando comprovada a ocorrência de fato
+superveniente que venha comprometer a perfeita execução contratual decorrente de
+caso fortuito ou de força maior.
+10.2.1. A solicitação do FORNECEDOR para cancelamento do preço registrado deverá
+ser formulada com antecedência mínima de 30 (trinta) dias, facultada à ALGÁS a
+aplicação das penalidades previstas no instrumento convocatório, assegurada defesa
+prévia, nos termos da Lei Federal nº 13.303/16.
+10.3. Por acordo entre as partes, quando o FORNECEDOR, mediante solicitação por
+escrito aceita pela Administração, comprovar estar impossibilitado de cumprir as
+exigências do edital que deu origem ao Registro de Preços ou de cumprir as cláusulas
+e condições desta Ata de Registro de Preços.
+10.4. A comunicação do cancelamento do preço registrado será feita pessoalmente ou
+por correspondência com Aviso de Recebimento (AR), juntando-se o comprovante aos
+autos que deram origem ao registro de preços.
+10.4.1. No caso de ser ignorado, incerto ou inacessível o endereço do FORNECEDOR,
+a comunicação será feita por publicação no Diário Oficial do Estado, considerando-se
+cancelado o Preço Registrado na data de publicação na imprensa oficial.
+CLÁUSULA DÉCIMA PRIMEIRA - DA CONTRATAÇÃO
+11.1. A contratação com o FORNECEDOR será formalizada por intermédio de
+instrumento contratual, conforme Anexo Q do Edital.
+11.1.1. NÃO APLICÁVEL;
+11.2. A ALGÁS convocará ao FORNECEDOR para, no prazo de 05 (cinco) dias úteis,
+assinar o Contrato, sob pena de decair do direito à contratação, sem prejuízo das
+sanções previstas no Edital e nesta Ata.
+11.2.1. O prazo estabelecido para a assinatura do contrato poderá ser prorrogado, por
+igual período, por solicitação justificada do FORNECEDOR e aceita pela
+Administração, desde que se respeite o prazo de validade da Ata.
+11.2.2. A critério da ALGÁS, poderá ser exigido que a assinatura do Contrato ocorra
+exclusivamente de forma digital, com fundamento na Medida Provisória nº 2.200-2, de
+24 de agosto de 2001, que institui a Infraestrutura de Chaves Públicas Brasileira (ICP-
+Rua Artur Vital da Silva, 04 10
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 10 de 13ALGÁS
+Gás de Alagoas SA.
+Brasil), caso em que a assinatura deverá ocorrer por meio de certificados digital
+expedidos por Autoridade Certificadora integrante da Infraestrutura de Chaves Públicas
+Brasileira.
+11.3. Em cumprimento ao artigo 8º, inciso XI, do Decreto nº 29.342/2013, antes da º
+contratação, deverá a ALGÁS realizar pesquisa de mercado a fim de assegurar de que
+o preço registrado na Ata permanece vantajoso.
+11.4. A ALGÁS procederá, ainda, antes da contratação, consulta on-line ao SICAF,
+para identificar possível proibição de contratar com o Poder Público e verificar a
+manutenção das condições de habilitação, bem como ao Cadastro Informativo de
+Créditos não Quitados - CADIN, cujos resultados serão anexados aos autos do
+processo.
+CLÁUSULA DÉCIMA SEGUNDA - NÃO APLICÁVEL
+CLÁUSULA DÉCIMA TERCEIRA — NÃO APLICÁVEL
+CLÁUSULA DÉCIMA QUARTA - GERENCIAMENTO E FISCALIZAÇÃO DO
+CONTRATO
+14.1 A ALGÁS exercerá a ampla, irrestrita e permanente fiscalização relativamente à
+execução do objeto da licitação, obrigando-se o FORNECEDOR a facilitar o pleno
+desempenho das atribuições dos técnicos do ALGÁS.
+14.2 O Gestor do Contrato e respectivos fiscais serão designados por meio de
+documento específico emitido pela ALGÁS.
+CLÁUSULA DÉCIMA QUINTA - DA FUNDAMENTAÇÃO LEGAL E DA
+VINCULAÇÃO AO EDITAL E À PROPOSTA
+15.1. A presente Ata de Registro de Preços fundamenta-se na seguinte legislação:
+a) Decreto Estadual nº 1.424/2003;
+b) Lei Complementar nº 123/2006, Decreto Estadual nº 4.123/2009;
+c) Decreto Estadual nº 29.342/2013;
+d) Decreto Estadual nº 4.054/2008;
+Rua Artur Vital da Silva, 04 u
+Gruta de Lourdes — Macei6/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742 ú s
+algasQalgas.com.br - www.algas.com.br
+ 
+Página 11 de 13ALGÁS
+Gás de Alagoas S.A.
+ 
+e) Lei Federal nº 13.303/2016;
+f) Circulares, se houver.
+15.2. A presente Ata de Registro de Preços vincula-se aos termos do Processo nº
+050.2016 especialmente:
+a) Ao Edital do(a) PREGÃO ELETRÔNICO N.º 003/2017 com todos os seus
+ANEXOS;
+b) À proposta vencedora do FORNECEDOR.
+CLÁUSULA DÉCIMA SEXTA - DAS DISPOSIÇÕES FINAIS
+16.1. A presente Ata de Registro de Preços obriga as partes contratantes e os seus
+sucessores, não podendo ser cedida, total ou parcialmente.
+16.2. O FORNECEDOR fica obrigado a aceitar, nas mesmas condições inicialmente
+estabelecidas, os acréscimos que se fizerem necessários no fornecimento, limitados a
+até 25% (vinte e cinco por cento) do valor inicial atualizado da Ata de Registro de
+Preços.
+16.3. Aplicar-se-ão esta Ata e ao Contrato, inclusive quanto aos casos omissos, os
+princípios constitucionais que regem a Administração Pública, as regras específicas
+consagradas na Lei Federal nº 13.303/16, as regras gerais dispostas na Lei Federal nº
+8.666/93 e, supletivamente, os princípios da teoria geral dos Contratos e as
+disposições de direito privado.
+CLÁUSULA DÉCIMA SÉTIMA - DO FORO
+17.1. Fica eleito o Foro da Comarca de Maceió, Estado de Alagoas que será o
+competente para dirimir as questões decorrentes do cumprimento deste Contrato,
+renunciando as partes a qualquer outro por mais privilegiado que seja.
+Assim, por estarem de comum acordo, a ALGÁS e o FORNECEDOR firmam
+este Instrumento na forma eletrônica, por certificados digitais ICP-Brasil, e tem validade
+jurídica conforme Medida Provisória n.º 2.200-2/2001.
+ 
+Rua Artur Vital da Silva, 04
+Gruta de Lourdes — Macei6/AL CEP 57052-790 2 S
+Tel.: 82 3218-7700 Fax: 82 3218-7742 43
+algasQalgas.com.br - www.algas.com.br
+Página 12 de 13º 600
+ALGÁS
+ 
+Maceió (AL), em 30 de outubro de 2017.
+õ
+&
+2
+E
+5
+Ê
+s
+>
+s
+e
+8
+ú
+s
+$
+s
+o
+ 
+Pela GÁS DE ALAGOAS S.A — ALGÁS:
+(ASSINATURA DIGITAL) ASSINATURA DIGITAL ê
+Arnónio Cavalcanti Filho Luciano Kulka Ribas 8
+Diretor Presidente Diretor Administrativo e Financeiro É
+ 
+  
+br/Verificar/ e utilize o código 5D68-DEB2-83A3-2B09.
+Pelo FORNECEDOR:
+ASSINATUTA DIGITAL
+Waldnei Dias Silva
+Administrador
+e aprovada pelo(a) advogado(:
+ho e Waldnei Dias Silva. Para verificar as as:
+ 
+Rua Artur Vital da Silva, 04 13
+Gruta de Lourdes — Maceió/AL CEP 57052-790
+Tel.: 82 3218-7700 Fax: 82 3218-7742
+algasQalgas.com.br - www.algas.com.br
+Luciano Kulka Ribas, Arr
+º
+8
+2
+2
+E
+S
+5
+8
+ic
+2
+ú
+Página 13 de 13PROTOCOLO DE ASSINATURA(S)
+O documento acima foi proposto para assinatura digital na plataforma Portal de Assinaturas Certisign.
+Para verificar as assinaturas clique no link: https://portaldeassinaturas.com.br/Verificar/5D68-DEB2-
+83A3-2B09 ou vá até o site https://portaldeassinaturas.com.br/Verificar/ e utilize o código abaixo para
+verificar se este documento é válido.
+Código para verificação: 5D68-DEB2-83A3-2B09
+Hash do Documento
+46CC704BA4FD3D729B3D91EF89B5BED6FD48650FDO975ADBO7B3C32BB7FAA897
+O(s) nome(s) indicado(s) para assinatura, bem como seu(s) status em 07/11/2017 é(são) :
+& Arnobio Cavalcanti Filho (Signatário - Gás de Alagoas S/A - ALGÁS) -
+308.202.354-15 em 01/11/2017 11:11 UTC-02:00
+Tipo: Certificado Digital
+& Luciano Kulka Ribas (Signatário - Gás de Alagoas S/A - ALGÁS) -
+022.426.849-06 em 01/11/2017 11:31 UTC-02:00
+Tipo: Certificado Digital
+&m Waldnei Dias Silva (Signatário - IDT Corp Comercio e Tecnologia da
+Informação EIRELI-EPP) - 135.879.768-48 em 07/11/2017 11:21 UTC-
+02:00
+Tipo: Certificado Digital - IDTCORP COMERCIO E TECNOLOGIA DA
+INFORMACAO EIREL - 21.262.834/0001-45
+O(s) nome(s) indicado(s) para autorizar, bem como seu(s) status em 07/11/2017 é(são) :
+m& Ronaldo Farias De Oliveira Junior - 008.844.394-96 em 01/11/2017 10:06
+UTC-02:00
