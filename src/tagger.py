@@ -33,19 +33,20 @@ def store_entities(text_path):
     return entities
 
 
-f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
-f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
-f2017 = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
+#f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
+#f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
+#f2017 = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
 f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
-f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"
-texts = list_texts(f2016)
+#f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"
+texts = list_texts(f2018)
 
-counter = 1
+
 for t in range(0,len(texts)):
-    print(counter/len(texts)+"% done")
+   
     counter = counter+1
     store_entities(texts[t])
     print(t,"/",len(texts))
+    print(str((100*t)/len(texts))+"% done")
     print(texts[t])
     print("-----------------------\n")
     

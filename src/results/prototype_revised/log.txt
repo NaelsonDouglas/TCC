@@ -3574,3 +3574,153 @@ Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep
 2019-09-05 12:08:41,698:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
 Instructions for updating:
 Use standard file APIs to check for files with this prefix.
+2019-09-05 19:53:09,673:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:30: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-05 19:53:09,690:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:110: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-05 19:53:09,751:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:130: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2019-09-05 19:53:09,751:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:53:10,358:WARNING: 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2019-09-05 19:53:10,358:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:145: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-09-05 19:53:10,359:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:150: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-09-05 19:53:10,359:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:464: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-09-05 19:53:10,433:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn_cell_impl.py:961: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:53:10,916:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:244: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-05 19:53:11,030:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:161: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-09-05 19:53:11,380:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:221: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-05 19:53:11,381:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:47: The name tf.train.MomentumOptimizer is deprecated. Please use tf.compat.v1.train.MomentumOptimizer instead.
+
+2019-09-05 19:53:12,527:INFO: Initializing tf session
+2019-09-05 19:53:12,527:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:64: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-05 19:53:12,564:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:65: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-05 19:53:12,977:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:66: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-05 19:53:13,001:INFO: Reloading the latest trained model...
+2019-09-05 19:53:13,002:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-05 19:53:36,727:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:30: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-05 19:53:36,740:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:110: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-05 19:53:36,804:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:130: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2019-09-05 19:53:36,804:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:53:37,119:WARNING: 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2019-09-05 19:53:37,119:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:145: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-09-05 19:53:37,119:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:150: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-09-05 19:53:37,120:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:464: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-09-05 19:53:37,177:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn_cell_impl.py:961: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:53:37,637:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:244: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-05 19:53:37,739:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:161: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-09-05 19:53:38,096:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:221: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-05 19:53:38,097:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:47: The name tf.train.MomentumOptimizer is deprecated. Please use tf.compat.v1.train.MomentumOptimizer instead.
+
+2019-09-05 19:53:39,266:INFO: Initializing tf session
+2019-09-05 19:53:39,266:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:64: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-05 19:53:39,291:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:65: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-05 19:53:39,674:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:66: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-05 19:53:39,700:INFO: Reloading the latest trained model...
+2019-09-05 19:53:39,700:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-05 19:54:01,785:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:30: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-05 19:54:01,799:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:110: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-05 19:54:01,869:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:130: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2019-09-05 19:54:01,870:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:54:02,169:WARNING: 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2019-09-05 19:54:02,170:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:145: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-09-05 19:54:02,170:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:150: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-09-05 19:54:02,170:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:464: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-09-05 19:54:02,231:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn_cell_impl.py:961: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-05 19:54:02,686:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:244: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-05 19:54:02,787:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:161: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-09-05 19:54:03,132:WARNING: From /home/ndc/repos/TCC/src/model/ner_model.py:221: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-05 19:54:03,133:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:47: The name tf.train.MomentumOptimizer is deprecated. Please use tf.compat.v1.train.MomentumOptimizer instead.
+
+2019-09-05 19:54:04,217:INFO: Initializing tf session
+2019-09-05 19:54:04,217:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:64: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-05 19:54:04,244:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:65: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-05 19:54:04,648:WARNING: From /home/ndc/repos/TCC/src/model/base_model.py:66: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-09-05 19:54:04,676:INFO: Reloading the latest trained model...
+2019-09-05 19:54:04,676:WARNING: From /home/ndc/.local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.

@@ -53,10 +53,13 @@ def pdftotxt(pdfpath):
 
 def wipe_pdfs_dir(dirpath):
         os.chdir(dirpath)
+        counter = 0
         for root, dirs, files in os.walk(dirpath):                
                 for filename in sorted(files):
+                        print(str((100*counter)/len(files))+"% done")
                         if filename.endswith('pdf'):
                                 pdftotxt(filename)
+                                counter = counter+1
 
 
 
@@ -69,5 +72,5 @@ f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"
 #wipe_pdfs_dir(f2015)
 #wipe_pdfs_dir(f2016)
 #wipe_pdfs_dir(f2017)
-wipe_pdfs_dir(f2018)
+#wipe_pdfs_dir(f2018)
 wipe_pdfs_dir(f2019)
