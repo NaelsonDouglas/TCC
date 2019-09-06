@@ -1,0 +1,2253 @@
+ESTADO DE ALAGOAS - ,
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LDGÉSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+TERMO DE CONTRATO AMGESP Nº
+07/2015, QUE ENTRE SI CELEBRAM O
+ESTADO DE ALAGOAS, POR
+INTERMÉDIO DA  AGÊNCIA DE
+MODERNIZAÇÃO DA GESTÃO DE
+PROCESSOS E AS EMPRESAS TELEMAR
+NORTE LESTE S.A.; BRASIL E TELECOM
+S.A. E OI MÓVEL S.A., PARA PRESTAÇÃO
+DE SERVIÇOS CONTÍNUOS.
+CONTRATANTE: O Estado de Alagoas, por intermédio da AGÊNCIA DE
+MODERNIZAÇÃO DA GESTÃO DE PROCESSOS, AMGESP, pessoa jurídica de direito
+público, entidade da Administração Indireta, inscrita no CNPJ n.º 07.424.905/0001-38,
+com sede à Rua Manoel Maia Nobre, n.º 281, Farol, Maceió, Alagoas, CEP 57050-120,
+neste ato representada por seu Diretor Presidente, Sr. Raphael Aroucha Coimbra Lou,
+portador do CPF nº 049.360.914-80, conforme autorização governamental publicada no
+Diário Oficial de 31 de março de 2015.
+CONTRATADA: As empresas TELEMAR NORTE LESTE S.A, com sede na cidade do Rio
+de Janeiro, Estado do Rio de Janeiro, à Rua General Polidoro, nº. 99, 5º andar, Bairro
+Botafogo, inscrita no CNPJ] sob o nº 33.000.118/0001-79, inscrição Estadual nº
+81.80469; BRASIL TELECOM S.A., com sede na cidade de Brasília -DF,no SAI SUL -
+ASP, Lote D, Bloco B, inscrita no CNPJ sob nº 76.535.764/0001-43, inscrição Estadual nº
+07.408.927/001-42 e OI MÓVEL S.A., com sede em Brasília - DF, na Sia Sul Asp Lt D BI
+B Parte S/N, CEP: 71215-000, inscrita no CNPJ 05.423.963/0001-11, neste ato
+representadas por seus procuradores, nomeados, conforme previsto nos seus Atos
+Constitutivos, Sra. Lavínia Guimarães Mata, portadora do RG nº. 8370560 - SSP/AL, CPF
+nº. 926.798.204-44, e Sr. Alberto Danilo S. França, portador do RG n.º 1535109 SSP/SE
+e CPF n.º 015.092.955-26, de acordo com a representação legal que lhe é outorgada por
+procuração;
+Os CONTRATANTES celebram, por força do presente instrumento, CONTRATO DE
+PRESTAÇÃO DE SERVIÇOS CONTÍNUOS, o qual se regerá pelas disposições da Lei nº
+8.666/1993 e demais normas pertinentes, mediante as seguintes cláusulas:
+CLÁUSULA PRIMEIRA - DO OBJETO
+1.1. O presente contrato tem como objeto a contratação dos serviços contínuos de
+telefonia, com prestação de STFC - Serviços de Telefonia Fixa Comutada (Local e Longa
+Distância) integrados através de Central Telefônica da Operadora, e comunicação de
+dados para acesso a internet banda larga, de acordo com as normas e regulamentos
+específicos aplicáveis aos serviços, pelos contratos ou termos de concessão, permissãs:
+ou autorização celebrados entre as prestadoras dos serviços e a Agência Nacional d
+Telecomunicações - ANATEL, destinadas à Administração do Estado de Alagoas,
+conforme especificações discriminadas no seu Anexo I
+CLÁUSULA SEGUNDA - DO REGIME DE EXECUÇÃO “/
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADÍÃ&
+ESTADO DEALAGOAS —
+— SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+2.1. A CONTRATADA deve iniciar a execução dos serviços a partir da publicação de
+extrato contratual no Diário Oficial do Estado.
+2.2. O recebimento do objeto licitado dar-se-á, em cada uma de suas parcelas mensais,
+nos termos do art. 73, inciso 1, e seus parágrafos, da Lei nº 8.666/1993, compreendendo
+duas etapas distintas:
+2.3. O recebimento do objeto licitado dar-se-á nos termos do art. 73, inciso I e seus
+parágrafos, da Lei nº 8.666/1993, compreendendo duas etapas distintas:
+2.3.1. O recebimento provisório, pelo responsável pelo acompanhamento e fiscalização
+deste contrato, ocorrerá mediante assinatura na Nota Fiscal representativa da prestação
+dos serviços, acompanhada de relatório de execução, no prazo de até O5 (cinco) dias
+úÚúteis da entrega dessa documentação;
+2.3.2. O recebimento definitivo, pelo responsável pelo acompanhamento e fiscalização
+deste contrato, mediante termo circunstanciado, podendo ser lavrado no verso da Nota
+Fiscal representativa da prestação dos serviços ou em documento específico, no prazo de
+até 10 (dez) dias úteis do recebimento provisório, e consistirá na verificação da
+conformidade com as especificações constantes do Anexo Unico deste contrato e da
+proposta da CONTRATADA.
+2.4. A critério exclusivo do CONTRATANTE, poderão ser realizados ensaios, testes e
+demais provas acerca dos serviços prestados, de forma a lhes verificar a perfeita
+execução, conforme especificações discriminadas no Anexo Único deste contrato.
+2.4.1. Os ensaios, testes e demais provas exigidos por normas técnicas oficiais para a
+perfeita execução dos serviços correrão por conta da CONTRATADA.
+2.5. Caso satisfatória a execução dos serviços, lavrar-se-á Termo de Recebimento
+Definitivo.
+2.6. Caso insatisfatória a execução dos serviços, lavrar-se-á um Termo de Recusa e
+Devolução, no qual se consignarão vícios, defeitos ou incorreções existentes, resultantes
+da desconformidade com as especificações discriminadas no Anexo Unico deste contrato.
+Nessa hipótese, toda a parcela mensal será rejeitada.
+2.7. A CONTRATADA está obrigada a reparar, corrigir, remover, reconstruir ou substituir,
+às suas expensas, no total ou em parte, os serviços em que se verifiquem vícios, defeitos
+ou incorreções, no prazo de até 24 (vinte e quatro) horas, após o que se realizará
+novamente a verificação da sua perfeita execução.
+2.7.1. Caso as providências previstas no subitem anterior não ocorram no prazo fixado
+Oou os serviços sejam novamente recusados e devolvidos, estará a CONTRATADA
+incorrendo em atraso na execução, ficando sobrestado o pagamento até a realização das
+correções necessárias, sem prejuízo da aplicação das sanções cabíveis.
+2.7.2. Na impossibilidade da adoção das providências previstas no subitem 2.7, o valor
+respectivo será descontado da importância mensal devida à contratada, sem prejuízo
+aplicação das sanções cabíveis.
+2.8. O recebimento provisório ou definitivo não exclui a responsabilidade civil pela solidez)
+e segurança dos serviços, nem a ético-profissional pela perfeita execução deste contrato.
+CLÁUSULA TERCEIRA - DO PREÇO DO CONTRATO
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+ASECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+ee
+ESTADO DE ALAGOAS
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGISTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+3.1. O preço global deste contrato é de R$ 2.590.352,98 (dois milhões, quinhentos e
+noventa mil, trezentos e cinquenta e dois reais e noventa e oito centavos).
+3.2. Os preços dos serviços contratados são os constantes da tabela abaixo:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STFC LOCAL
+Valor Valor
+Quant. —— s Valor Total 6
+Unitário Unitário
+Serviços Mensal Líquido Brato meses Bruto
+[A] [B] [A]*[B]*6
+Assinatura de Terminal Fixo Integrado| — 4.500 R$32,14 | R$33,36 | 9on0é387
+-653,
+Assinatura Terminal Fixo Não-
+Integrado 200 R$ 51,46 R$ 53,41 R$ 64.091,33
+Chamada Fixo Integrado para Fixo
+Não-Integrado 30.000 R$ 0,07 R$ 0,07 R$ 13.323,92
+Chamada Fixo Integrado para Fixo
+Integrado 200.000 R$ 0,00 R$ 0,00 R$ 0,00
+Chamada Fixo Integrado para Outros
+Fixos 30.000 R$ 0,07 R$ 0,07 R$ 13.323,92
+Chamada Fixo Integrado para Móvel
+Integrado 80.000 R$ 0,00 R$ 0,00 R$ 0,00
+Chamada Fixo Integrado para Outros
+Móveis 30.000 R$ 0,53 R$ 0,55 R$ 99.014,01
+Chamada Fixo Não-Integrado para
+Fixo Não-Integrado 10.000 R$ 0,07 R$ 0,07 R$ 4.441,31
+Chamada Fixo Não-Integrado para
+Fixo Thtearado 10.000 R$ 0,07 R$0,07 | R$4.441,31
+Chamada Fixo Não-Integrado para
+Outros Fixos 30.000 R$ 0,07 R$ 0,07 R$ 13.,323,92
+Chamada Fixo Não-Integrado para
+Móvel Integrado 10.000 R$ 0,53 R$ 0,55 R$ 33.004,67
+Chamada Fixo Não-Integrado para
+Óutros Móveis 5.000 R$ 0,53 R$ 0,55 R$ 16.502,34
+Acesso de Banda Larga Fixo (qualquer R$
+velocidade)** 420 R$107,49 | R$155/00 | 399 .900,00
+SUBTOTAL [1] 158205060
+-562.020,
+* A velocidade do acesso de Banda Larga Fixa depende da viabilidade do endereço solicitado
+* Poderão ser aplicados valores inferiores a estes dependendo da oferta vigente.
+Valor
+Valor S gio a Valor Total 6
+Serviço 0800 MeQr:;ªall't[.A] Unitário u::::ªt:o meses bruto
+Líquido [A*B*6]
+[B]
+Assinatura (por número 0800) SEM
+restrição de chamadas originadas de 30 R$ 31,54 |R$32,73| R$5.892,27
+Telefone Público e Móveis h
+À
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS f Í
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUALESTADO DE ALAGOAS - ,
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+DIVISÃO DE CONTRATOS
+Assinatura (por número 0800) COM
+restrição de chamadas originadas de 30 R$ 31,54 |R$32,73 R$ 5.892,27
+Telefone Público e Móveis
+Assinatura de Agendamento por horário,
+data, origem ou dia da semana (cada) o R$ 0,00 R$ 0,00 R$10,00
+Assinatura de Distribuição de chamadas
+(cíclica, sequencial ou percentual) (cada) o R$ 0,00 R$ 0;00 R$ 0,00
+Assinatura de Envio de mensagem
+gravada personalizada (cada) so R$10,00 |R$ 10;38 R$ 3,736,38
+Assinatura de Reencaminhamento de
+chamadas (CO, LO e/ou NR) So R$0,00 | R$0,00 | — R$0,00
+Assinatura de Restrição de acesso por TP
+ou celular (cada) 60 R$ 10,00 [R$10,38| R$3.736,38
+Asslnatyralde Restrição de área de 60 R$ 10,00 |R$ 10,38 R$ 3.736,38
+abrangência
+Assinatura de Listagem das chamadas
+atendidas (na conta fatura) 60 R$ 0,00 R$ 0,00 R$ 0,00
+Tráfego local fixo-fixo (origem em
+telefones fixos) 30000 R$ 0,13 R$ 0,13 | R$ 24.286,46
+Tráfego Intra-estadual fixo-fixo (origem 30000 R$ 0,13 R$0,13 | R$ 24.286,46
+em telefones fixos) ' ' ' É
+Tráfego local fixo-móvel (origem em 30000 R$ 0,53 R$0,55 | R$ 99.014,01
+telefones móveis) Y r é
+Tráfego Intra-estadual fixo-móvel (origem 30000 R$ 0,83 R$ 0,86 | R$ 155.059,68
+em telefones móveis) T r : '
+Alteração do número de acesso 0800 -
+item eventual 60 R$ 0,00 R$ 0,00 R$ 0,00
+Alteração / substituição de terminal
+telefônico fixo associado ao 0800 - item 60 R$ 0,00 R$ 0,00 R$ 0,00
+eventual
+Alteração de dados cadastrais - item 60 R$ 0,00 R$ 0,00 R$ 0,00
+eventual ' ! '
+Emissão de Relatório padrão de
+Desempenho de Serviço - item eventual o R$ 0,00 R$ 0,00 R$ 0,00
+Emissão de Relatório Gerencial
+Personalizado - item eventual 60 R$ 0,00 R$ 0,00 R$ 0,00
+SUBTOTAL [2] R$ 325.640,27
+SMP
+Quant. Valor Valor Valor Total 6
+Serviços Mensal Unitário Unitário | meses bruto
+[A] Líquido |Bruto[B]| [A*B*6]
+Assinatura Terminal Móvel Integrado 4.000 R$ 14,36 R$ 14,90 357 ããº 0oo
+Chamada Móvel Integrado para Móvel
+Integrado 200.000 | R$0,0000 |R$0,0000 | R$ 0,00
+Chamada Móvel Integrado para Outros
+Móveis 50.000 R$ 0,17 R$ 0,18 | R$ 54.000,00
+Chamada Móvel Integrado para Fixo Não-
+Integrado 5.000 R$ 0,15 R$ 0,16 R$ 4.800,00
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃO DA GESTÃD DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+ASECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+ee
+ESTADO DE ALAGOAS
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chamada Móvel Integrado para Fixo 200.000 R$ 0,00 R$ 0,00 R$ 0,00
+Integrado B
+(F:irlí?ada Móvel Integrado para Outros 30.000 R$ 0,15 R$ 0,16 R$ 28.800,00
+EEA AAA REN ETEINTTIPIT
+SUBTOTAL [3] 624.060,00
+STFC - LDN
+Serviços usuent — |Valorunitário| ynítário | mesesbruto
+Bruto [B] [A*B*6]
+Chamada Fixo - Fixo Degrau 1 3.000 R$ 0,13 R$ 0,13 R$ 2.428,65
+Chamada Fixo - Fixo Degrau 2 3.000 R$ 0,13 R$ 0,13 R$ 2.428,65
+Chamada Fixo - Fixo Degrau 3 3.000 R$ 0,13 R$ 0,13 R$ 2.428,65
+Chamada Fixo - Fixo Degrau 4 3.000 R$ 0,18 R$ 0,19 R$ 3.362,74
+Chamada Fixo - Móvel VC2 1.500 R$ 1,07 R$ 1,11 R$ 9.994,81
+Chamada Fixo - Móvel VC3 1.500 R$ 1,22 R$ 1,27 R$ 11.395,95
+Chamada Móvel - Fixo VC2 1.500 R$ 0,66 R$ 0,69 R$ 6.165,02
+Chamada Móvel - Fixo VC3 1.500 R$ 1,00 R$ 1,04 R$ 9.340,94
+Chamada Móvel - Móvel VC2 1.500 R$ 1,00 R$ 1,04 R$ 9.340,94
+Chamada Móvel - Móvel VC3 1.500 R$ 1,00 R$ 1,04 R$ 9.340,94
+SUBTOTAL [4] 66_;257'30
+STFC - LDI
+Serviços Quant. Ux;:lgrrio U:iªtl'grrio Vgl::'e::tsal
+Mensal [A] Líquido Bruto bruto
+[B] [A*B*6]
+Mercosul 100 R$ 1,75 R$ 1,82 R$ 1.089,15
+Demais países da América do Sul 80 R$ 2,42 R$ 2,51 R$ 1.203,11
+América Central 30 R$ 2,42 R$ 2,51 R$ 451,17
+Estados Unidos 200 R$ 0,67 R$ 0,70 R$ 834,46
+Canadá 50 R$ 0,88 R$ 0,91 R$ 273,38('
+Portugal 50 R$ 1,12 R$ 1,16 R$ 347,86
+Espanha 50 R$ 1,22 R$ 1,26 R$ 378,64
+França 50 R$ 1,22 R$ 1,26 R$ 378,64
+Reino Unido 50 R$ 1,22 R$ 1,26 R$ 378,64
+ 
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+ÀESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTAO PÚBLICA
+AGENC'I.A DE MODERNIZAÇÃO DA GESI'AO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alemanha 50 R$ 1,22 R$ 1,26 R$ 378,64
+Demais países da Europa 50 R$ 2,42 R$ 2,51 R$ 751,95
+Japão 50 R$ 1,22 R$ 1,26 R$ 378,64
+Demais países 80 R$ 11,28 R$ 11,71 R$ 5.620,56
+R$
+SUBTOTAL [5] 12.464,81
+INSTALAÇÕES
+Valor
+: s2 | Valor Valor
+RA E L aA e jUnIEáN|. Total
+Serviços Liquido o Bruto | Bruto
+AJ*[B
+[A] EBi T
+INnãs;?Iação de Terminal Fixo (Integrado ou 4700 R$ 0,00 | R$ 0,00 | R$ 0,00
+Instalação de Terminal Móvel Integrado 4000 R$ 0,00 | R$ 0,00 | R$ 0,00
+SUBTOTAL [6] R$ 0,00
+VALOR GLOBAL MENSAL = SUBTOTAL [1] + SUBTOTAL [2] + SUBTOTAL R$
+[3] + SUBTOTAL [4] + SUBTOTAL [5] + SUBTOTAL [6] 2.590.352,98
+ 
+ 
+ 
+ 
+3.3. O preço acordado neste contrato será fixo e irreajustável durante a vigência
+contratual.
+CLÁUSULA QUARTA - DA DESPESA
+4.1. A despesa com a prestação dos serviços de que trata o objeto deste contrato corre à
+conta dos créditos orçamentários, constante do orçamento descrito no anexo II para o
+exercício financeiro de 2015.
+CLÁUSULA QUINTA - DA VIGÊNCIA, EXECUÇÃO E DA EFICÁCIA
+5.1. O prazo de vigência e execução deste contrato é de 180 (cento e oitenta) dias,
+contados da data da publicação do seu extrato no Diário Oficial do Estado, a partir de
+quando as obrigações assumidas pelas partes serão exigíveis, ou até a conclusão do
+respectivo certame licitatório, o que ocorrer antes, vedada a sua prorrogação.
+CLÁUSULA SEXTA - DOS ENCARGOS DO CONTRATANTE
+6.1. Cabe ao CONTRATANTE:
+6.1.1. Acompanhar e fiscalizar a execução dos serviços;
+6.1.2. Proporcionar todas as facilidades para que a CONTRATADA possa cumprir a
+obrigação de prestação dos serviços dentro das normas do contrato;
+6.1.3. Efetuar o pagamento à CONTRATADA, nos termos deste contrato;
+6.1.4. Aplicar à CONTRATADA as sanções cabíveis; %
+V
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GES'ÍAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+É 6ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTAD PÚBLICA
+AGENCIA DE MODERNIZAÇÃO DA GESTAO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+6.1.5. Documentar as ocorrências havidas na execução do contrato;
+6.1.6. Fiscalizar o cumprimento das obrigações contratuais pela
+6.1.7. Prestar informações e esclarecimentos atinentes ao objeto deste
+contrato que venham a ser solicitados pela CONTRATADA.
+6.1.8. Publicar os extratos do contrato e de seus aditivos, se houver, no Diário Oficial do
+Estado.
+CLÁUSULA SÉTIMA - DOS ENCARGOS DA CONTRATADA
+7.1. Cabe à CONTRATADA o cumprimento das seguintes obrigações:
+7.1.1. Executar os serviços contratados obedecendo às especificações discriminadas no
+Anexo Unico deste contrato;
+7.1.2. Respeitar normas e procedimentos de controle interno, inclusive de acesso às
+dependências do CONTRATANTE;
+7.1.3. Responder pelos danos causados diretamente à Administração ou aos bens do
+CONTRATANTE, ou ainda a terceiros, durante a execução deste contrato, não excluindo
+ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento feito pelo
+CONTRATANTE;
+7.1.4. Comunicar ao CONTRATANTE qualquer anormalidade constatada e prestar os
+esclarecimentos solicitados;
+7.1.5. Manter, durante toda a execução deste contrato, em compatibilidade com as
+obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas
+na licitação;
+7.1.6. Arcar com as despesas decorrentes de qualquer infração cometida por seus
+empregados quando da execução do objeto contratado;
+7.1.7. Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou
+em parte, os serviços recusados e devolvidos pelo CONTRATANTE, sem que caiba
+qualquer acréscimo no preço contratado;
+7.1.8. Executar, às suas expensas, os serviços objeto deste Contrato a partir da
+publicação do extrato contratual no Diário Oficial do Estado;
+7.1.9. Comunicar ao CONTRATANTE os motivos que impossibilitaram o cumprimento dos
+prazos previstos neste contrato.
+7.1.10. Manter preposto, aceito pelo CONTRATANTE, durante o período de vigência deste
+contrato, para representá-la sempre que for necessário.
+7.2. À CONTRATADA cabe assumir a responsabilidade por:
+7.2.1. Em relação aos seus funcionários, que não manterão qualquer vínculo
+empregatício com o CONTRATANTE, todas as despesas decorrentes da execução des|!
+contrato e outras correlatas, tais como salários, seguros de acidentes, tributos, inclusive
+encargos previdenciários e obrigações sociais previstos na legislação social e trabalhista:
+em vigor, indenizações, vales-refeição, vales-transporte e outras que porventura venham
+a ser criadas e exigidas pelo Poder Público;
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+A
+N
+&—
+ESTADO DEALAGOAS —
+— SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+7.2.2. Todos os encargos de possível demanda trabalhista, civil ou penal relacionada à
+execução deste contrato, originariamente ou vinculada por prevenção, conexão ou
+continência;
+7.2.3. Encargos fiscais e comerciais resultantes desta contratação.
+7.3. A inadimplência da CONTRATADA, com referência aos encargos estabelecidos no
+subitem anterior, não transfere a responsabilidade por seu pagamento ao
+CONTRATANTE, nem pode onerar o objeto deste contrato, razão pela qual a
+CONTRATADA renuncia expressamente a qualquer vínculo de solidariedade, ativa ou
+passiva, com o CONTRATANTE.
+7.4. São expressamente vedadas à CONTRATADA:
+7.4.1. A contratação de servidor pertencente ao quadro de pessoal do CONTRATANTE
+durante a vigência deste contrato;
+7.4.2. A veiculação de publicidade acerca deste contrato, salvo se houver prévia
+autorização do CONTRATANTE,
+7.4.3. A subcontratação total ou parcial de outra empresa para a execução do objeto
+deste contrato.
+CLÁUSULA OITAVA - DO ACOMPANHAMENTO E DA FISCALIZAÇÃO
+8.1. Durante a vigência deste contrato, a execução do objeto é acompanhada e
+fiscalizada pelo Sr. Joel Barbosa Oliveira Filho, Diretor Técnico de Política de Gestão,
+matrícula nº 71-0, lotado na AMGESP, designado Gestor.
+8.2. O gestor deste contrato terá, entre outras, as seguintes atribuições: expedir Ordens
+de Execução de Serviços; proceder ao acompanhamento técnico da execução dos
+serviços; fiscalizar a execução do contrato quanto à qualidade desejada; comunicar à
+CONTRATADA o descumprimento do contrato e indicar os procedimentos necessários ao
+seu correto cumprimento; solicitar a aplicação de sanções pelo descumprimento de
+cláusula contratual; fornecer atestados de capacidade técnica quando solicitado, desde
+que atendidas às obrigações contratuais; atestar as notas fiscais para efeito de
+pagamento; recusar e devolver os serviços cuja execução não se verifique perfeita, visto
+em desacordo com especificações discriminadas no Anexo Único do contrato; solicitar
+reparação, correção, remoção, reconstrução ou substituição, no total ou em parte, dos
+serviços recusados e devolvidos; solicitar à CONTRATADA e ao seu preposto todas as
+providências necessárias á perfeita execução dos serviços contratados.
+CLÁUSULA NONA - DA LIQUIDAÇÃO E DO PAGAMENTO
+9.1. A CONTRATADA deve apresentar, após a execução dos serviços, nota fiscal em
+(duas) vias, emitidas e entregues ao setor responsável pela fiscalização do contrato, pa
+fins de liquidação e pagamento, acompanhada de Relatório de Execução de Serviço»
+subscrito pelo Gestor contratual, e comprovação de regularidade junto à Seguridade
+Social, ao Fundo de Garantia por Tempo de Serviço e às Fazendas Federal, Estadual e
+Municipal de seu domicílio ou sede, além de certidão negativa de débitos inadimplidos
+perante a Justiça do Trabalho.
+9.2. O pagamento será efetuado pelo CONTRATANTE no prazo de 30 (trinta) dias,
+contado da data do recebimento definitivo, mediante ordem bancária creditada em conta /
+corrente da CONTRATADA:
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS j
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL [ |
+ÍV
+—
+%8/ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESI'_ÃD PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+a) TELEMAR NORTE LESTE S/A, Banco 001 - do Brasil, agência 1755-8, conta
+corrente 4779-1;
+b) BRASIL TELECOM S/A, Banco 001- do Brasil, agência 1755-8, conta corrente
+105.051-6;
+c) OI MÓVEL S.A. - Banco 001 - do Brasil, agência 1755-8, conta corrente 5621-9.
+9.3. Nenhum pagamento será efetuado à CONTRATADA na pendência de qualquer uma
+das situações abaixo especificadas, sem que isso gere direito a alteração de preços ou
+compensação financeira:
+9,3.1. Recebimento definitivo dos serviços de conformidade com o disposto na Cláusula
+Segunda;
+9.3.2. Apresentação da documentação discriminada no item 9.1 desta cláusula.
+9.4. Havendo suspensão de pagamentos na forma do subitem anterior, a CONTRATADA
+será notificada do descumprimento do ajuste para, no prazo de 10 (dez) dias, efetuar a
+regularização necessária, sob pena de aplicação de penalidade e rescisão contratual, esta
+na forma da Cláusula Doze, subitem 12.2.1., em razão do não cumprimento da Cláusula
+Sétima, subitem 7.1.6., deste contrato.
+9.4.1. Ultrapassando o prazo acima referido, sem prejuízo da penalidade e da rescisão do
+contrato, o pagamento deverá ser liberado.
+9.5. O CONTRATANTE pode deduzir de importâncias devidas à CONTRATADA os valores
+correspondentes a multas ou indenizações por ela devidas.
+9.6. Citado para se defender em processo judicial de terceiros, de natureza civil ou
+trabalhista, inclusive, mas não exclusivamente de empregado ou ex-empregado da
+CONTRATADA, o CONTRATANTE fará o cálculo dos direitos pleiteados e, após dele
+notificar a CONTRATADA, reterá o correspondente valor para fazer frente a eventual
+condenação, deduzindo-o de importâncias devidas à CONTRATADA.
+9.6.1. O valor será restituído à CONTRATADA somente após a prova cabal do acerto
+definitivo entre a CONTRATADA e o terceiro litigante, quando restar demonstrada a
+inexistência de qualquer risco de condenação para o CONTRATANTE.
+9.6.2. A CONTRATADA se obriga a exibir ao CONTRATANTE, sempre que solicitada, os
+documentos comprobatórios do efetivo cumprimento das obrigações referentes ao
+processo judicial mencionado neste item.
+9.6.3. O valor a que faz referência este item não renderá juros ou correção monetária, o
+qual poderá ser substituído, a pedido da CONTRATADA, por outra modalidade de garantia
+que, a critério do CONTRATANTE, for considerada idônea.
+CLÁUSULA DEZ - DA ALTERAÇÃO DO CONTRATO
+10.1. Este contrato pode ser alterado nos casos previstos no art. 65 da Lei
+8.666/93, desde que haja interesse do CONTRATANTE, com a apresentação das devi
+justificativas.
+ 
+CLÁUSULA ONZE - DAS SANÇÕES
+f
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERN!ZAÇÃO DA GESI'_ÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+2É
+oo
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+11.1. A CONTRATADA que, por qualquer forma, não cumprir as normas do contrato
+celebrado está sujeita às seguintes sanções, assegurados o contraditório e ampla defesa,
+nos termos do Decreto Estadual nº 4.054/2008:
+11.1.1. Advertência;
+11.1.2. Multa;
+11.1.3. Suspensão temporária de participação em licitação e impedimento de contratar
+com a Administração Direta, Autárquica e Fundacional, as Empresas Públicas e
+Sociedades de Economia Mista e demais entidades controladas direta ou indiretamente
+pelo Estado de Alagoas;
+11.1.4. Descredenciamento ou proibição de credenciamento no sistema de
+cadastramento de fornecedores do Estado de Alagoas; e
+11.1.5. Declaração de inidoneidade para licitar ou contratar com a Administração Pública.
+11.2. As sanções previstas nos subitens 11.1.1., 11.1.3., 11.1.4. e 11.1.5. deste Edital
+poderão ser aplicadas juntamente com a sanção de multa.
+11.3. A advertência consiste em repreensão por escrito imposta pelo não cumprimento
+das normas do contrato celebrado.
+11.4. A multa aplicável será de:
+11.4.1. 0,33% (trinta e três centésimos por cento) por dia, pelo atraso, na execução dos
+serviços, calculado sobre o valor correspondente à parte inadimplente, até o limite de
+9,9%, correspondentes a até 30 (trinta) dias de atraso;
+11.4.2. 0,66 % (sessenta e seis centésimos por cento) por dia, pelo atraso na execução
+dos serviços, calculado, desde o primeiro dia de atraso, sobre o valor correspondente à
+parte inadimplente, em caráter excepcional e a critério da CONTRATANTE, quando o
+atraso ultrapassar 30 (trinta) dias;
+11.4.3. 5% (cinco por cento) por descumprimento do prazo de execução dos serviços,
+calculados sobre o valor total do contrato ou da Nota de Empenho, sem prejuízo da
+aplicação das multas previstas nos subitens 11.4.1 e 11.4.2.;
+11.4.4. 15% (quinze por cento) pela recusa injustificada em concluir os serviços,
+calculados sobre o valor correspondente à parte inadimplente;
+11.4.5. 15% (quinze por cento) pela rescisão da avença, calculados sobre o valor total do
+contrato ou da Nota de Empenho; e
+11.4.6. 20% (vinte por cento) pelo não cumprimento de qualquer cláusula do contrato,
+exceto quanto ao prazo de execução, calculados sobre o valor total do contrato ou da
+Nota de Empenho.
+11.5. Se a multa aplicada for superior ao valor da garantia prestada, além da perda
+desta, responderá a CONTRATADA pela sua diferença, devidamente atualizada pe
+Índice Geral de Preços - Mercado (IGP-M) ou equivalente, a qual será descontada d
+pagamentos eventualmente a ela devidos ou cobrada judicialmente.
+11.6. O atraso, para efeito de cálculo de multa, será contado em dias corridos, a partir
+do dia seguinte ao do vencimento do prazo de execução dos serviços, se dia de
+expediente normal no órgão ou entidade interessada, ou do primeiro dia útil seguinte.
+a gravidade da falta cometida, desde ' que observado o princípio da proporcionalidade.
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+11.7. A multa poderá ser aplicada juntamente com outras sanções segundo a naturez% í
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+ 
+10
+A&
+ESTADO DE ALAGOAS -
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+11.8. Decorridos 30 (trinta) dias de atraso injustificado na execução dos serviços, a Nota
+de Empenho ou contrato deverá ser cancelada ou rescindido, exceto se houver justificado
+interesse público em manter a avença, hipótese em que será aplicada multa.
+11.9. A suspensão e o impedimento são sanções administrativas que temporariamente
+obstam a participação em licitação e a contratação com a Administração Direta,
+Autárquica e Fundacional, as Empresas Públicas e Sociedades de Economia Mista e
+demais entidades controladas direta ou indiretamente pelo Estado de Alagoas, sendo
+aplicadas nos seguintes prazos e hipóteses:
+11.9.1. Por até 30 (trinta) dias, quando, vencido o prazo da Advertência, a CONTRATADA
+permanecer inadimplente;
+11.9.2. Por até 12 (doze) meses, quando a CONTRATADA falhar ou fraudar na execução
+do contrato, comportar-se de modo inidôneo, fizer declaração falsa ou cometer fraude
+fiscal; e
+11.9.3. Por até 24 (vinte e quatro) meses, quando a CONTRATADA:
+11.9.3.1. Praticar atos ilegais ou imorais visando frustrar os objetivos da contratação; ou
+11.9.3.2. For multada, e não efetuar o pagamento.
+11.10. O prazo previsto no item 11.9.3 poderá ser aumentado até 5 (cinco) anos.
+11.11. O descredenciamento ou a proibição de credenciamento no sistema de
+cadastramento de fornecedores do Estado de Alagoas são sanções administrativas
+acessórias à aplicação de suspensão temporária de participação em licitação e
+impedimento de contratar com a Administração Direta, Autárquica e Fundacional, as
+Empresas Públicas e Sociedades de Economia Mista e demais entidades controladas
+direta ou indiretamente pelo Estado de Alagoas, sendo aplicadas, por igual período.
+11.11.1. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública será aplicada à vista dos motivos informados na instrução processual, podendo a
+reabilitação ser requerida após 2 (dois) anos de sua aplicação.
+11.11.2. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública permanecerá em vigor enquanto perdurarem os motivos determinantes da
+punição ou até que seja promovida a reabilitação perante a própria autoridade que
+aplicou a sanção, a qual será concedida sempre que a CONTRATADA ressarcir os
+prejuízos resultantes da sua conduta e depois de decorrido o prazo das sanções de
+suspensão e impedimento aplicadas.
+11.11.3. A declaração de inidoneidade para licitar ou contratar com a Administração
+Pública produz efeitos em relação tanto à Administração Direta, Autárquica e
+Fundacional, às Empresas Públicas e Sociedades de Economia Mista e demais entidades
+controladas direta ou indiretamente pelo Estado de Alagoas, quanto à Administração
+Pública da União, demais Estados, Municípios e Distrito Federal.
+CLÁUSULA DOZE - DA RESCISÃO
+12.1. A inexecução total ou parcial deste contrato enseja a sua rescisão, conforme
+disposto nos artigos 77 a 80 da Lei nº 8.666/93.
+12.2. A rescisão deste contrato pode ser:
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+D u íESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA GEST_ÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+12.2.1. Determinada por ato unilateral e escrito do CONTRATANTE, nos casos
+enumerados nos incisos I a XII e XVII do artigo 78 da Lei mencionada, notificando-se a
+CONTRATADA com a antecedência mínima de 30 (trinta) dias, exceto quanto ao inciso
+XVII;
+12.2.2. Amigável, por acordo entre as partes, reduzida a termo no processo de licitação,
+desde que haja conveniência para o CONTRATANTE;
+12.2.3. Judicial, nos termos da legislação vigente sobre a matéria.
+12.4. A rescisão administrativa ou amigável deve ser precedida de autorização escrita e
+fundamentada da autoridade competente.
+12.5. Os casos de rescisão contratual devem ser formalmente motivados nos autos do
+processo, assegurado o contraditório e a ampla defesa.
+12.6. A CONTRATADA reconhece todos os direitos da CONTRATANTE em caso de eventual
+rescisão contratual.
+CLÁUSULA TREZE - DA FUNDAMENTAÇÃO LEGAL E DA VINCULAÇÃO AO TERMO
+DE DISPENSADE LICITAÇÃO E À PROPOSTA
+13.1. O presente contrato fundamenta-se:
+13.1.1. Na Lei Federal n. 8.666/1993 e na Lei Estadual nº 5.237/1991;
+13.1.2. No Decreto Estadual nº 4.054/2008; e
+13.1.3. Na Lei Federal nº 8.078/1990.
+13.2. O presente contrato vincula-se aos termos do Processo nº 4105-791/2014
+especialmente:
+13.2.1. Do Termo de Dispensa de Licitação publicado no Diário Oficial do Estado de 31 de
+março de 2015, com base no art.24, inciso IV da Lei Federal nº 8.666/1993;
+13.2.2. Ao Parecer PGE/Núcleo nº 435/2015;
+13.2.3. À proposta da CONTRATADA.
+CLÁUSULA QUATORZE - DAS DISPOSIÇÕES GERAIS
+14.1. Qualquer omissão ou tolerância de uma das partes, no exigir o estrito cumprimento
+dos termos e condições deste contrato ou ao exercer qualquer prerrogativa dele
+decorrente, não constituirá renovação ou renúncia, nem afetará o direito das partes de
+exercê-lo a qualquer tempo.
+CLÁUSULA QUINZE - DO FORO
+15.1. As questões decorrentes da execução deste Instrumento que não possam
+dirimidas administrativamente serão processadas e julgadas no Foro da Cidade de Mac:
+- AL, que prevalecerá sobre qualquer outro, por mais privilegiado que seja.
+   
+Para firmeza e validade do que foi pactuado, lavra-se o presente instrumento em 4
+(quatro) vias de igual teor e forma, para que surtam um só efeito, as quais, depois d
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERN!ZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+a
+12&
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+lidas, são assinadas pelos representantes das partes, CONTRATANTE e CONTRATADA, e
+pelas testemunhas abaixo.
+Maceió (AL), em ÇÁ de Clge«_.'& de — 2015
+ 
+Alberto Damlo SIIva.F'r'ança í
+CONTRATADA
+ 
+avínia Guimarães
+CONTRATADA
+    
+cnico de Política de Gestão
+GESTOR
+ASSINATURA DAS TESTEMUNHAS
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+Á
+13ESTADO DEALAGOAS —
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ANEXO I AO CONTRATO N.º AMGESP-07/2015
+ 
+PROJETO BÁSICO
+1. —OBJETO
+Contratação de serviço de telefonia para atendimento aos diversos Órgãos e
+Secretarias que fazem parte da estrutura administrativa do Governo do Estado de Alagoas,
+tendo como interveniente a AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE
+PROCESSOS - AMGESP, com prestação de STFC — Serviços de Telefonia Fixa Comutada
+(Local e Longa Distância) e SMP — Serviço Móvel Pessoal integrados através de Central
+Telefônica da Operadora, de acordo com as normas e regulamentos específicos aplicáveis
+aos serviços, pelos contratos ou termos de concessão, permissão ou autorização
+celebrados entre as prestadoras dos serviços e a Agência Nacional de Telecomunicações —
+ANATEL, em conformidade com as condições e especificações a seguir apresentadas.
+2. DEFINIÇÕES IMPORTANTES:
+2.1. Agência Nacional de Telecomunicações - ANATEL: Entidade integrante da
+Administração Pública Federal indireta, com sede no Distrito Federal, submetida a regime
+autárquico especial e vinculada ao Ministério das Comunicações, com a função de órgão
+regulador das telecomunicações;
+2.2. Serviço Telefônico Fixo Comutado — STFC: Serviço de telecomunicações que, por
+meio da transmissão de voz e de outros sinais, destina-se à comunicação entre pontos fixos
+determinados, utilizando processos de telefonia;
+2.3. Serviço Móvel Pessoal — SMP: Serviço de telecomunicações móvel terrestre de
+interesse coletivo que possibilita a comunicação entre estações móveis e de estações
+móveis para outras estações. O SMP é caracterizado por possibilitar a comunicação entre
+estações de uma mesma Área de Registro do SMP ou acesso a redes de telecomunicações
+de interesse coletivo;
+2.4. Serviço de Mensagens Curtas — SMS: Serviço de mensagens de texto, com até 160
+caracteres;
+2.5. Central Telefônica da Operadora: Serviço de Telefonia prestado por uma ou vária:
+Centrais de Comutação da Operadora, que permite a integração dos terminais fixos com os
+móveis, das diversas localidades, de modo a que operem como se fossem integrantes de
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+14
+o&
+ESTADO DE ALAGOAS ,
+. SECRETARIA DE ESTADO DA GESÍ_ÃO PUBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+uma única Central Privada de Comutação Telefônica - CPCT - preservando, inclusive, suas
+facilidades de programação e operação.
+2.6. Área Local: Área geográfica contínua de prestação de serviços, definida pela ANATEL,
+segundo critérios técnicos e econômicos, onde é prestado o STFC na modalidade local;
+2.7. Telefonia Local: Serviço de telecomunicações que, por meio de transmissão de voz e
+de outros sinais, destina-se à comunicação entre pontos fixos determinados, situados em
+uma mesma Área Local;
+2.8. Área de tarifação básica - ATB: Parte da área local dentro da qual o serviço é
+prestado ao assinante, em contrapartida aos serviços ou preços do plano de serviços de sua
+escolha, sem valores adicionais para atendimento;
+2.9. Prestadora de Serviço Telefônico Fixo Comutado: Empresa outorgada ou autorizada
+a prestar serviço telefônico fixo comutado nas modalidades local, nacional ou internacional;
+2.10. Perfil de Tráfego: Quantitativo médio mensal estimado, em minutos, de ligações
+telefônicas efetuadas, em função do horário e das localidades de destino de maior
+ocorrência e levando em consideração o tempo médio de duração das chamadas;
+2.11. Distância Geodésica: É a menor distância entre dois pontos possível de ser
+percorrida por um móvel. Por exemplo, a menor distância entre o Brasil e o Japão é uma
+linha reta, porém um avião não pode fazer este percurso, pois a superfície da Terra é
+redonda, então o menor percurso possível de ser realizado é uma curva chamada
+geodésica;
+2.12. Código de Área: Identificação de uma área de numeração fechada da rede pública de
+telecomunicações ou de um acesso a um serviço com abrangência nacional, cujo formato é
+(AB). Exemplo: Estado de Alagoas — 82, Estado do Rio Grande do Norte — 84, Estado da
+Paraíba — 83;
+2.13. Valor de Comunicação — VC's: Tarifas para a prestação do Serviço Telefônico Fixo
+Comutado ou Serviço Móvel Pessoal destinado ao uso do público nas chamadas
+envolvendo usuários do Serviço Móvel Pessoal — SMP;
+2.13.1.Valor de Comunicação 1 — VC-1: Considera-se VC-1 as chamadas qu%
+envolvam um terminal SMP (originando, recebendo ou ambos) no qual tant
+chamador como recebedor possuam o mesmo código de área;
+2.13.2.Valor de Comunicação 2 VC-2: Considera-se VC-2 as chamadas que
+envolvam um terminal SMP (originando, recebendo ou ambos) no qual tanto
+chamador como recebedor possuam a mesma área de mobilidade; ”
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃO DA GESI'ÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+15—
+ESTADO DE ALAGOAS - .
+. SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNI;AÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGISTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+2.13.3.Valor de Comunicação 3 VC-3: Considera-se VC-3 as chamadas que
+envolvam um terminal SMP (originando, recebendo ou ambos) no qual chamador e
+recebedor possuam áreas de mobilidade distintas;
+2.14. Índice de Serviços de Telecomunicações - IST: Índice normatizado pela Resolução
+nº 420 da ANATEL para ser aplicado no reajuste e atualização de valores associados à
+prestação de serviços de telecomunicações;
+2.15. Discagem Direta Gratuita — DDG (0800): Serviço de telecomunicações que permite o
+recebimento de chamadas com inversão de tarifação, em que o receptor e não o originador
+arca com os custos da chamada;
+2.16. Unidade de Resposta Audível — URA: Serviço ou sistema interativo que permite a
+resposta automática de chamadas através de mensagens personalizadas, permitindo ainda
+a interação entre o usuário e a mesma, através da interpretação automática de opções
+discadas pelo usuário chamador através do teclado do telefone.
+3. PARTICIPAÇÃO DE CONSÓRCIO DE EMPRESAS E SUBCONTRATAÇÃO
+3.1. Para atendimento às necessidades técnicas será admitida a constituição de consórcios,
+observada a legislação brasileira que regula a matéria e a subcontratação de empresas
+fornecedoras de produtos e/ou serviços necessários à composição da solução, de acordo
+com as exigências previstas no Edital e seus anexos.
+3.2. Serão permitidas, no máximo, 03 (três) empresas na formação do Consórcio.
+4. GESTÃO DO CONTRATO
+4.1. Para garantir maior racionalização e objetividade à administração do contrato de
+prestação do serviço de comunicação, a AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE
+PROCESSOS e a Contratada deverão indicar, oficialmente, no ato da assinatura do
+contrato, profissionais que os representarão, passando a atuar como Gestores do Contrato.
+4.2. Os gestores do contrato ficarão responsáveis pelas atividades de planejamento,
+coordenação e controle da execução de todo o projeto, além do acompanhamento do
+cumprimento dos prazos e metas estabelecidos, além da aprovação das faturas relativas
+prestação dos serviços.
+4.3. Ao Gestor do Contrato nomeado pela AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO
+DE PROCESSOS caberá, entre outras atribuições:
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+L
+16
+/
+;
+1&
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESI'AO PÚBLICA
+AGENCIA DE MODERNIZAÇAO DA GESI'AD DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+4.3.1. Zelar para que as atividades a cargo da AGÊNCIA DA MODERNIZAÇÃO DA
+GESTÃO DE PROCESSOS sejam cumpridas dentro dos prazos estabelecidos;
+4.3.2. Acompanhar execução dos serviços a cargo da Contratada, permitindo,
+sempre que informado previamente, o acesso dos técnicos, bem como dos
+profissionais por ela sub-contratados, às instalações do Governo do Estado de
+Alagoas, de modo a possibiltar a execução das implantações, ampliações e
+manutenções preventivas, a fim de fazer cumprir o objeto licitado;
+4.3.3. Zelar para que os serviços de manutenções corretivas sejam executados
+dentro dos prazos contratuais, com os respectivos registros dos códigos de abertura
+dos chamados, que garantirão o acesso dos técnicos, bem como dos profissionais
+terceirizados pela Contratada, às instalações do Governo do Estado de Alagoas;
+4,3.4. Zelar para que os profissionais alocados pela Contratada para prestação dos
+serviços só tenham acesso às dependências do Governo do Estado de Alagoas
+mediante apresentação de cartões de identificação profissional com fotografia e
+número de identidade;
+4.3.5. Manter registro das atividades relacionadas ao desenvolvimento do contrato;
+4.3.6. Agendar reuniões periódicas com a Contratada para avaliação dos serviços
+prestados, recomendar alternativas de soluções para os problemas detectados,
+apontando eventuais deficiências verificadas na execução dos serviços e solicitando
+imediata correção, sem prejuízo da aplicação das penalidades previstas em contrato;
+4.3.7. Conferir pormenorizadamente os valores cobrados nas faturas emitidas pela
+Contratada.
+4.4. À Contratada, através do Gestor do Contrato por ela nomeado, caberá, entre outras
+responsabilidades:
+4.4.1. Assegurar o sigilo sobre as informações relativas à AGÊNCIA DA
+MODERNIZAÇÃO DA GESTÃO DE PROCESSOS e demais Órgãos e Secretarias
+que compreendem a estrutura administrativa do Governo do Estado de Alagoas;
+4.4.2. Zelar para que as atividades a cargo da Contratada sejam cumpridas dentr:
+dos prazos estabelecidos;
+4.4.3. Assegurar a capacitação necessária das equipes responsáveis pela
+realização dos trabalhos;
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MDDERNIZAÇAD DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+b
+17
+EEESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+4.4.,4. Acompanhar a execução dos serviços, solicitando, com antecedência, o
+acesso de seus técnicos, bem como dos profissionais sub-contratados, às
+instalações do Governo do Estado de Alagoas, de modo a possibilitar a execução
+das implantações, ampliações e manutenções preventivas, a fim de fazer cumprir o
+objeto licitado;
+4,4.5. Zelar para que os serviços de manutenção corretiva sejam executados dentro
+dos prazos contratuais, mediante registros dos códigos de abertura dos chamados,
+que garantirão o acesso dos técnicos, bem como dos profissionais terceirizados pela
+Contratada, às instalações do Governo do Estado de Alagoas;
+4,4.6. Zelar pela permanente manutenção dos equipamentos que compõem o objeto
+do contrato, garantindo boas condições de funcionamento, providenciando todos os
+ajustes, reparos e substituições de peças que se façam necessárias, durante o
+período contratual, exceto para os aparelhos móveis, cujas responsabilidades serão
+transferidas aos fabricantes;
+4.4.7. Garantir que nas substituições de equipamentos em operação, em caso de
+defeitos, os novos equipamentos operem com qualidade igual ou superior, pelo
+tempo necessário até a devolução do original, excetuando-se os casos previstos na
+cláusula 4.4.6;
+4.4.8. Zelar para que a remoção de quaisquer equipamentos em operação, quando
+necessária, seja comunicada previamente ao Gestor do Contrato nomeado pela
+AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE PROCESSOS , como também os
+motivos da retirada, a previsão de retorno e a devolução para os locais de origem;
+4,4,9. Garantir que todos os profissionais alocados para prestação de serviço à
+AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE PROCESSOS apresentem
+cartões de identificação profissional com fotografia e número de identidade, para que
+tenham acesso às dependências da Contratante;
+4.4.10. Providenciar imediata substituição, ante a expressa manifestação escrita do
+Gestor do Contrato nomeado pela AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE
+PROCESSOS, de quaisquer de seus profissionais encarregados da execução dos
+serviços, que não corresponderem aos princípios éticos e morais nas dependênci
+das unidades da contratante;
+4.,4.11.Garantir que todas as atividades sejam realizadas dentro dos padrões de
+qualidade, segurança e higiene, observando os requisitos da medicina do trabalho e
+prevenção contra incêndios;
+Al
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+É
+18ESTADO DE ALAGOAS ,
+. SECRETARIA DE ESTADO DA GES'I:ÃO PUBLICA
+AGÊNCIA DE MODERNI.ZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+4.4.12. Encaminhar, mensalmente, faturas com resumo dos valores relativos à
+prestação dos serviços de telecomunicação contratados, individualmente por Órgão
+e/ou Secretaria, com CNPJ próprio, que perfazem a estrutura administrativa do
+Governo do Estado de Alagoas;
+4.4.13. Manter registro das atividades relacionadas ao desenvolvimento do contrato;
+4,4,14. Participar de reuniões periódicas com o Contratante para avaliação dos
+serviços prestados, apresentando soluções para os problemas detectados, adotando
+providências no sentido de superar eventuais deficiências verificadas na execução
+dos serviços.
+4.5. Para racionalização do acompanhamento financeiro do contrato, a Contratada deverá
+emitir 02 (duas) faturas mensais, uma relativa ao Serviço Telefônico Fixo Comutado (STFC),
+outra ao Serviço Móvel Pessoal (SMP), observando as seguintes condições:
+4.5.1. As faturas deverão ser emitidas até o dia 05 do mês subsequente ao período
+de prestação dos serviços, contendo resumo dos valores cobrados pelos serviços
+prestados;
+4.5.2. As faturas deverão ser entregues na sede da AGÊNCIA DA
+MODERNIZAÇÃO DA GESTÃO DE PROCESSOS, com prazo para vencimento não
+inferior a 15 (quinze) dias após a data da efetiva entrega na Sede do Contratante;
+4.5.3. As faturas deverão conter resumo dos valores relativos à prestação dos
+serviços de comunicação contratados, separada em telefonia fixa, acesso à Internet
+em banda larga, e telefonia móvel, inclusive com serviços de transmissão de dados
+via GPRS/3G e transmissão de mensagens de voz e texto, além dos impostos,
+individualizados por CNPJ de cada entidade usuária dos serviços.
+a SISTEMA INTEGRADO DE TELEFONIA DO GOVERNO DO ESTADO DE ALAGOAS
+5.1. O Sistema Integrado de Telefonia engloba o atendimento a todos os terminais privados,
+fixos e móveis, dos diversos Órgãos e Secretarias que fazem parte da estrutura
+administrativa do Governo do Estado de Alagoas e compreende a perfeita integração do
+Serviço Telefônico Fixo Comutado (STFC) e do Serviço Móvel Pessoal (SMP), com máxima
+flexibilidade e racionalização no uso dos serviços de comunicação. Deve-se garantir
+discagem abreviada entre todos os terminais integrados do Sistema nas ligações locais,
+inclusive entre os telefones móveis, sem cobrança destas chamadas.
+5.2. Todos os terminais fixos atualmente em uso pelo Governo do Estado de Alagoas, no
+território Alagoano, deverão ser migrados para a Central Telefônica da Operadora, exceto os
+que, por alguma inviabilidade técnica devidamente justificada, não possibilite a migração.
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+Ã.ESTADODEALAGOAS — —
+. SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+Havendo necessidade de mudança de número, a Contratada deverá disponibilizar
+mensagem de áudio informando o novo número pelo período de no mínimo, 90 (noventa)
+dias.
+5.3. A CONTRATADA deverá aceitar, nas mesmas condições contratuais, acréscimos ou
+supressões que se fizerem necessárias, até 25% (vinte e cinco por cento) do valor total do
+contrato.
+5.4. As especificações técnicas levam em conta todas as características apresentadas neste
+Edital e seus anexos, cobrindo os serviços de telefonia fixa e móvel, integrados, e
+comunicação de dados para acesso a internet banda larga.
+6. CARACTERÍSTICAS DO SERVIÇO TELEFÔNICO FIXO COMUTADO - STFC LOCAL
+O Serviço Telefônico Fixo Comutado (STFC LOCAL) desejado pelo Governo do Estado de
+Alagoas deverá obedecer às seguintes características e premissas:
+6.1. Utilizar estrutura de comutação digital.
+6.2. Estar disponível acima de 99% do tempo de uso.
+6.3. Não exigir investimentos em centrais privativas de telefonia (CPCT), pois o Governo do
+Estado de Alagoas tem interesse de terceirizar o serviço de telefonia fixa e móvel, ou seja,
+será permitida a utilização de centrais telefônicas privativas (CPCT) nas unidades do
+Governo do Estado de Alagoas, porém estas serão de inteira responsabilidade da
+Contratada, bem como os custos de energia elétrica, adequação de infra-estrutura e afins
+decorridos da instalação e operacionalização das mesmas. Toda atualização tecnológica de
+hardware e software da solução será ofertada sem custos adicionais ao Governo do Estado
+de Alagoas.
+6.4. As solicitações de serviço emitidas pelo Gestor do Contrato, Gerente de Telefonia do
+GTEL — Núcleo Gestor de Telefonia, nomeado pela AGÊNCIA DA MODERNIZAÇÃO DA
+GESTÃO DE PROCESSOS, deverão, obrigatoriamente, obedecer à prática do mercado, ou
+seja, serem atendidas com observância dos prazos máximos abaixo apresentados, tanto na
+capital quanto no interior.
+ 
+ 
+ 
+ 
+ 
+ 
+Solicitação Prazo
+máximo
+Ativação de novos terminais fixos não-integrados 15dias
+Ativação de novos terminais móveis não-integrados 15 dias
+Ativação de novos terminais fixos integrados 30 dias
+Ativação de novos terminais móveis integrados 15 dias
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO FUBLÍÉADU L
+Ne
+ESTADO DE ALAGOAS
+. SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNI;AÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISÃO DE CONTRATOS
+Ativação de banda larga — Fixo 30 dias
+Ativação de banda larga — Móvel 15dias
+Desativação de terminais fixos 48 horas
+Desativação de terminais móveis 48 horas
+Desativação de banda larga — Fixo e Móvel 48 horas
+Mudança externa de endereço de terminais fixos 3 dias
+Reparo de linhas fixas 48 horas
+Reparo de linhas móveis 48 horas
+Reparo de banda larga — Fixo e Móvel 48 horas
+ 
+ 
+ 
+ 
+6.4.1 Os prazos serão contados a partir do recebimento pela Contratada do
+comunicado oficial emitido pelo Gestor do Contrato, através de fax, e-mail ou outra
+forma que venha a ser convencionada entre os gestores da Contratada e do
+Contratante.
+6.5. Nos casos de manutenções corretivas, os chamados serão abertos diretamente pelos
+respectivos usuários.
+6.5.1. Da contagem dos prazos: Os prazos serão contados a partir da abertura dos
+respectivos chamados, que serão direcionados para número DDG a ser informado
+pela Contratada no ato da assinatura do Contrato, disponível 24 horas por dia, 07
+dias da semana.
+6.6. Cada terminal fixo instalado nas unidades do Governo do Estado de Alagoas deverá ter
+associado a si uma linha tronco da Operadora, cadastrada junto à Anatel, na mesma
+localidade onde o terminal se encontra instalado fisicamente, objetivando garantir
+acessibilidade plena, para permitir que todos os terminais recebam ou façam ligações.
+6.7. Os terminais receberão diretamente as chamadas a eles destinadas, sem a
+intermediação de telefonistas.
+6.8. A Contratada responderá pelo serviço de comutação digital imprescindível ao
+completamento de todas as chamadas originadas ou recebidas pelos terminais fixos e
+móveis, integrando os serviços.
+6.9. Deverá ser permitida a programação de bloqueio seletivo de chamadas, através da
+programação individual de qualquer um dos terminais, possibilitando ou não a realização de
+chamadas locais, para celulares, interurbanas e internacionais, além de bloquear
+recebimento de chamadas a cobrar. Deverá ser possível facultar ao usuário e ao órg
+gerenciador programar o bloqueio/desbloqueio dessas funções através de senha individual
+por terminal.
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUALe
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+6.10. Deverão ser disponibilizados sem custos adicionais, no mínimo, os seguintes serviços:
+* Chamadaem Espera;
+e Consulta;
+* Conferência;
+* Transferência em caso de “Não Responde”;
+e Transferência em caso de “Ocupado”;
+e Cadeado Eletrônico;
+* Linha Direta ou Hot Line (ou similar) e
+* Linha Executiva.
+6.11. Todos os terminais fixos permitirão a utilização de serviços de fax e internet discada.
+6.12. A rede de acesso, interconexão entre a rede da Operadora e as unidades integrantes
+do Governo do Estado de Alagoas, é de responsabilidade da Contratada.
+6.13. As eventuais mudanças de endereço de terminais fixos dentro da Área de Tarifação
+Básica (ATB) deverão ser executadas pelo fornecedor do serviço, compreendendo inclusive
+os serviços de rede externa eventualmente necessários.
+6.14. Deverá ser disponibilizado sistema informatizado de acompanhamento de contas que,
+via internet e mediante cadastro prévio de usuário e senha, com garantia da preservação do
+sigilo das informações, possibilte o completo detalhamento dos valores cobrados. As
+informações deverão estar disponíveis no sistema imediatamente após o fechamento das
+faturas, possibilitando inclusive:
+6.14.1 Detalhamento das chamadas efetuadas, agrupadas por tipo de chamada;
+6.14.2 Formação de centros de custo;
+6.14.3 Individualização, por terminal, das chamadas efetuadas.
+6.15. Para os telefones fixos integrados, exigem-se as seguintes características:
+6.15.1. As ligações locais originadas em telefones fixos integrados para os
+telefones móveis integrados deverão ser realizadas de forma abreviada, sem
+tarifação destas chamadas.
+6.15.2. As ligações originadas em telefones fixos integrados para os telefones
+móveis não-integrados, ou seja, que não pertencem ao grupo do Governo do
+Estado de Alagoas, deverão obedecer a estimativa mensal de tráfego, informada no
+Anexo | deste Termo de Referência.
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL—
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+6.15.2. As ligações locais originadas em telefones fixos integrados para outros
+telefones fixos integrados deverão ser realizadas de forma abreviada, sem tarifação
+destas chamadas.
+6.16. Para os telefones fixos não-integrados (linhas comuns), exigem-se as seguintes
+características:
+6.16.1. As ligações locais originadas em telefones fixos não-integrados, sejam para
+telefones fixos ou móveis, integrados ou não, deverão obedecer a estimativa mensal
+de tráfego, informada no Anexo | deste Termo de Referência.
+6.17. Para os acessos de banda larga dos terminais Fixos, exige-se:
+6.17.1. Garantia mínima de 10% da velocidade contratada (vide Anexo |), por um
+período máximo equivalente a 5% do tempo mensal de utilização.
+6.17.2. Possuir IP válido e dinâmico de internet.
+7 CARACTERÍSTICAS DO SERVIÇO MÓVEL PESSOAL - SMP
+O Serviço Móvel Pessoal (SMP) é dotado das seguintes características:
+7.1. Utilização de tecnologia GSM ou superior.
+7.2. Possibilidade de transmissão de dados em alta velocidade — GPRS ou superior.
+7.3. Apresentar disponibilidade do sistema acima de 99% do tempo de uso.
+7.4. Permitir o envio e recebimento de mensagens de texto (SMS).
+7.5. A Contratada não ficará obrigada a substituir aparelhos que apresentarem defeitos
+comprovadamente ocasionados por mau uso, bem como nos casos de perda, furto ou roubo
+do equipamento, como também na ocorrência de incêndios e distúrbios da natureza;
+7.6. Para os telefones móveis integrados, exigem-se as seguintes características:
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUALâV
+(SESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENCIA DE MODERNIZAÇAO DA GESÍAO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+7.6.1. As ligações locais originadas em telefones móveis integrados para os
+telefones fixos integrados, serão realizadas de forma abreviada, sem tarifação
+destas chamadas.
+7.6.2. As ligações locais originadas em telefones móveis integrados para os
+telefones fixos não-integrados (linhas comuns), obedecerão a estimativa mensal
+de tráfego, informada no Anexo | deste Termo de Referência.
+7.6.3. As ligações originadas em telefones móveis integrados para telefones móveis
+que não pertencem ao grupo do Governo do Estado de Alagoas obedecerão a
+estimativa mensal de tráfego, informada no Anexo | deste Termo de Referência.
+7.6.4. As ligações locais originadas em telefones móveis integrados para outros
+telefones móveis integrados serão realizadas de forma abreviada, sem tarifação
+destas chamadas.
+7.6.5. Deverá ser disponibilizado sistema informatizado de acompanhamento que, via
+internet e mediante cadastro prévio de usuário e senha, com garantia da preservação
+do sigilo das informações, possibilite a gestão dos serviços associados às linhas
+móveis.
+O sistema deverá permitir:
+7.6.5.1. A definição de valor mensal máximo a ser gasto por cada uma das
+linhas.
+7.6.5.2. A inclusão imediata de créditos adicionais.
+7.6.5.3. A possibilidade de bloqueios dos serviços GPRS, SMS, 0x00 e etc.
+7.7. Para os acessos de banda larga do Serviço Móvel associados às linhas móveis
+(pacotes de dados), exige-se:
+8.
+7.7.1. Garantia mínima de 10% da velocidade contratada (vide Anexo |l), por um
+período máximo equivalente a 5% do tempo mensal de utilização.
+7.7.2. Permitir acesso via GPRS, 3G ou superior.
+7.7.3. Possuir franquia mínima de 2 Gb/mês por acesso móvel.
+CARACTERÍSTICAS DO SERVIÇO TELEFÔNICO FIXO COMUTADO - STFC LONGA
+DISTÂNCIA NACIONAL - LDN e INTERNACIONAL - LDI
+Serviço Telefônico Fixo Comutado LDN-LDI - VC2 E VC3 - Chamadas originadas de
+terminais fixos e/ou móveis, com destino para telefones fixos ou móveis longa distância
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PUBLICA ESTADUAL/ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+nacional ou internacional, no horário predominante no intervalo de 08h às 17hs, em
+conformidade com o perfil de tráfego estimado, conforme Estimativa de Tráfego de Longa
+Distância, no Anexo |ll deste Termo de referência.
+s% CARACTERÍSTICAS DO SERVIÇO DISCAGEM DIRETA GRATUITA - DDG (0800)
+Serviço de Telefonia Fixa que permite o recebimento de chamadas com inversão de
+tarifação, ou seja, o Governo do Estado de Alagoas, através dos diversos Órgãos e
+Secretarias que fazem parte de sua estrutura administrativa, arca com os custos da
+chamada e da assinatura do serviço.
+Terá abrangência estadual ou nacional e pode ser implantado com ou sem restrição de
+recebimento de chamadas originadas em telefones móveis e /ou telefones públicos
+(orelhões).
+9.1 - Tipos de chamadas permitidas são:
+* —“Chamadas Locais Fixo-Fixo: originadas em telefones fixos da mesma área local
+onde está localizado o ponto de atendimento;
+* Chamadas Intra-Estaduais Fixo-Fixo: originadas em telefones fixos do mesmo
+estado (UF) onde está localizado o ponto de atendimento, exceto as chamadas
+provenientes da área local do ponto de atendimento;
+* Chamadas Inter-Estaduais Fixo-Fixo: originadas em telefones fixos entre dois
+estados (UF's) pertencentes à área de concessão da Oi, ou seja, a chamada é
+originada num estado e terminada em outro;
+* Chamadas Locais Fixo-Móvel: originadas em telefones móveis da mesma área
+local onde está localizado o ponto de atendimento;
+* Chamadas Intra-Estaduais Fixo-Móvel: originadas em telefones móveis do mesmo
+estado (UF) onde está localizado o ponto de atendimento, exceto as chamadas
+provenientes da área local do ponto de atendimento;
+* “Chamadas Inter-Estaduais Fixo-Móvel: originadas em telefones móveis entre dois
+estados (UF's) pertencentes à área de concessão da Oi, ou seja, a chamada é
+originada num estado e terminada em outro.
+9.2 - Critérios de Tarifação e Cobrança
+* A tarifação mínima das chamadas é de 30 segundos, ou seja, para qualquer
+chamada com duração inferior a 30 segundos será cobrado metade do valor da tarifa
+(equivalente aos 30s ou meio minuto);
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃD DA GEST__ÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUA! 'XW
+(LL % P25
+|9.3
+ 
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+Após o tempo mínimo, a tarifação se dá por décimo de minuto, ou seja, a fração é
+por intervalos de 6 segundos cada;
+Todas as chamadas terminadas em mensagens personalizadas com duração de até
+18 segundos não serão cobradas. Caso a duração ultrapasse os 18 segundos as
+mesmas serão faturadas pelas mesmas regras de uma chamada normal,
+respeitando as tarifas vigentes;
+Todas as chamadas completadas, mesmo as com duração inferior a 3 segundos,
+são cobradas normalmente, conforme critérios descritos acima;
+Conceito de Área Local: é definida por regulamentação e compreende a área
+geográfica, com um ou mais municípios, onde as chamadas são consideradas locais
+para efeito de tarifação, não havendo necessidade de discagem do código da
+operadora. Para o serviço 0800, qualquer chamada originada e terminada dentro de
+uma mesma área local será tarifada como local.
+Facilidades e Serviços
+Agendamento por horário, data, origem e dia da semana: Permite definir o local
+de atendimento das chamadas em função da hora, data, origem da ligação ou dia da
+semana.
+Distribuição de chamadas (cíclica, sequencial ou %): Permite distribuir as
+chamadas entre os diversos pontos de atendimento, de acordo com sua
+especificação.
+Atendimento Orientado por Mensagem (Mensagem de Navegação): Permite
+definir opções de atendimento através de mensagens orientativas, ou seja, as
+chamadas são encaminhadas em função da mensagem gravada, para o destino
+requerido, de acordo com a alternativa escolhida pelo usuário.
+Restrição de acesso por TP ou Celular: Permite restringir o acesso, ao seu ponto
+de atendimento, de chamadas originadas em telefones públicos ou celulares.
+Restrição de área de abrangência: Permite restringir o acesso, ao seu ponto de
+atendimento, de chamadas originadas em áreas geográficas que não são;
+interesse do Governo do Estado de Alagoas.
+Emissão de Relatório padrão de desempenho do serviço: Permite conhecer, coi
+base em dados estatísticos, a quantidade de chamadas OK (completadas), LO
+(perdidas por ocupado), NR (perdidas por não-responde), CO (perdidas por
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERN!ZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PUBLICA ESTAD;%
+26ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+congestionamento), TMR (Tempo Médio de Retenção), Nº troncos em serviço,
+Ocupação da rota, Distribuição de tráfego, Disponibilidade (%), Nível de perda (%) e
+Tráfego oferecido (erl).
+* Envio de mensagem gravada personalizada: Possibilita a disponibilização de
+mensagens gravadas pelo cliente na rede da operadora, para atendimento de
+determinadas chamadas, conforme necessidade.
+9.4 - Padrão de Atendimento e Qualidade
+O serviço DDG deverá apresentar disponibilidade acima de 99,98% do tempo de uso. As
+facilidades adicionais e/ou reprogramações deverão ser executadas em menos de 24 horas
+após a formalização das solicitações das mesmas, bem como a gravação de mensagens
+personalizadas.
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+” .ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTAO PÚBLICA
+AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ANEXO | - SERVIÇO TELEFÔNICO FIXO COMUTADO (STFC - LOCAL)
+1. ESTIMATIVA MENSAL DE SERVIÇOS
+Com base no tráfego atual dos usuários de telefonia fixa do Governo do Estado de
+Alagoas, apresentamos a seguir a estimativa mensal de quantitativos de serviços.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviço STFC Quantidade Tipo
+Mensal
+Assinatura de Terminal Fixo Integrado 4.500 unidade
+Assinatura Terminal Fixo Não-Integrado 200 unidade
+Chamada Fixo Integrado para Fixo Não-Integrado 30.000 minutos
+Chamada Fixo Integrado para Fixo Integrado 200.000 minutos
+Chamada Fixo Integrado para Outros Fixos 30.000 minutos
+Chamada Fixo Integrado para Móvel Integrado 80.000 minutos
+Chamada Fixo Integrado para Outros Móveis 30.000 minutos
+Chamada Fixo Não-Integrado para Fixo Não-Integrado 10.000 minutos
+Chamada Fixo Não-lIntegrado para Fixo Integrado 10.000 minutos
+Chamada Fixo Não-lntegrado para Outros Fixos 30.000 minutos
+Chamada Fixo Não-lIntegrado para Móvel Integrado 10.000 minutos
+Chamada Fixo Não-Integrado para Outros Móveis 5.000 minutos
+Acesso de Banda Larga Fixo (velocidade mínima de 256 200
+Kbps) unidade
+Acesso de Banda Larga Fixo (velocidade mínima de 512 200
+Kbps) unidade
+Acesso de Banda Larga Fixo (velocidade mínima 1024 200
+Kbps) unidade
+Instalação de Terminal Fixo 250 unidade
+> Quantidade *
+Serviço 0800 Mensal Tipo
+Assinatura (por número 0800) SEM restrição de :
+chamadas g:iginadas de Tele)fone Públicãe Móveis o unidade
+Assinatura (por número 0800) COM restrição de :
+chamadas cífiginadas de Tele)fone Públícoçe Móveis o unldadá
+Avssmatura de Agendamento por horário, data, origem ou 60 unidade
+dia da semana (cada)
+Assg':atu_ra de Distribuição de chamadas (cíclica, 60 unidade
+sequencial ou percentual) (cada)
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADl'J%Z'(L
+28—
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENC!A DE MODERNIZAÇAO DA GESI'AO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+Assinatura de Envio de mensagem gravada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+: 60 unidade
+personalizada (cada)
+Assinatura de Reencaminhamento de chamadas (CO, LO :
+60 unidade
+e/ou NR)
+Assinatura de Restrição de acesso por TP ou celular 60 inidade
+(cada)
+Assinatura de Restrição de área de abrangência 60 unidade
+Assinatura de Listagem das chamadas atendidas (na 6o uUnidade:
+conta fatura)
+Tráfego local fixo-fixo (origem em telefones fixos) 30000 minutos
+Trafegc Intra-estadual fixo-fixo (origem em telefones 30000 minutos
+fixos)
+Tráfego local fixo-móvel (origem em telefones móveis) 30000 minutos
+Tr'afego Intra-estadual fixo-móvel (origem em telefones 30000 mirutos
+móveis)
+Alteração do número de acesso 0800 — item eventual 60 unidade
+Alteragao / substnwçêo de terminal telefônico fixo 60 unidada
+associado ao 0800 — item eventual
+Alteração de dados cadastrais — item eventual 60 unidade
+Emlssâo de Relatório padrão de Desempenho de Serviço 6o unidade
+— item eventual
+Emissão de Relatório Gerencial Personalizado — item á
+60 unidade
+eventual
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESYADNAL
+PÊAESTADO DE ALAGOAS- ,
+. SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+1. ESTIMATIVA MENSAL DE SERVIÇOS
+Com base no tráfego atual dos usuários de telefonia do Governo do Estado de
+Alagoas, apresentamos a seguir a estimativa mensal de tráfego.
+a) Serviço de LDN.
+ANEXO |l - SERVIÇO TELEFÔNICO FIXO COMUTADO (STFC - LON E LDI)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviço Quantidade Mensal
+(minutos)
+Chamada Fixo — Fixo Degrau 1 3.000
+Chamada Fixo — Fixo Degrau 2 3.000
+Chamada Fixo — Fixo Degrau 3 3.000
+Chamada Fixo — Fixo Degrau 4 3.000
+Chamada Fixo — Móvel VC2 1.500
+Chamada Fixo — Móvel VC3 1.500
+Chamada Móvel — Fixo VC2 1.500
+Chamada Móvel — Fixo VC3 1.500
+Chamada Móvel — Móvel VC2 1.500
+Chamada Móvel — Móvel VC3 1.500
+ 
+ 
+ 
+b) Serviço de LDN.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviço Quantidade Mensal (minutos)
+Mercosul 100
+Demais países da América do 80
+Sul
+América Central 30
+Estados Unidos 200
+Canadá 50
+Portugal 50
+Espanha 50
+França 50
+Reino Unido 50
+Alemanha 50
+Demais países da Europa 50
+Japão 50
+Demais países 80
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+1EESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ANEXO Ill - PLANILHAS DE FORMAÇÃO DE PREÇOS
+1. DAS CONDIÇÕES BÁSICAS
+1.1. A proposta de preços deverá conter:
+1.1.1. Razão Social, Endereço e CNPJ;
+1.1.2. Prazo de validade de no mínimo 60 (sessenta) dias;
+1.1.3. Declaração de que os preços contidos na proposta incluem todos os
+custos e despesas, tais como: custos diretos e indiretos, tributos
+incidentes, impostos, taxa de administração, materiais, serviços, encargos
+sociais trabalhistas/previdenciários, seguros, lucro e outros necessários ao
+cumprimento integral do objeto contratado;
+1.1.4. A Proposta deverá fazer referência a este Pregão — Registro de
+Preços.
+1.1.5. Cotação de preços em moeda corrente nacional, expressa em
+algarismo e por extenso, conforme planilha abaixo:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STFC LOCAL
+Serviços Quant. Valor Valor
+Mensal | Unitário Total
+Anual
+[A] [B] IA[B]*12
+Assinatura de Terminal Fixo Integrado 4.500
+Assinatura Terminal Fixo Não-Integrado 200
+Chamada Fixo Integrado para Fixo Não-Integrado 30.000
+Chamada Fixo Integrado para Fixo Integrado 200.000
+Chamada Fixo Integrado para Outros Fixos 30.000
+Chamada Fixo Integrado para Móvel Integrado 80.000 K
+Chamada Fixo Integrado para Outros Móveis 30.000
+Chamada Fixo Não-Integrado para Fixo Não- 10.000
+ 
+ 
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃ
+N
+Q PÚBLICA ESTADUÁL
+À C% F aESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENC!A DE MODERNIZAÇAO DA GESTAD DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGISTICA GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrado
+Chamada Fixo Não-Integrado para Fixo Integrado 10.000
+Chamada Fixo Não-Integrado para Outros Fixos 30.000
+Chamada Fixo Não-Integrado para Móvel Integrado | 10.000
+Chamada Fixo Não-Integrado para Outros Móveis 5.000
+Acesso de Banda Larga Fixo (mínima de 256 Kbps) 200
+Acesso de Banda Larga Fixo (mínima de 512 Kbps) 200
+Acesso de Banda Larga Fixo (mínima 1024 Kbps) 200
+ 
+SUBTOTAL [1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviço 0800 Quant. Valor Valor
+Mensal | Unitário Total
+IA] IB] Anual
+[A*B*12]
+Assinatura (por número 0800) SEM restrição de 30
+chamadas originadas de Telefone Público e Móveis
+Assinatura (por número 0800) COM restrição de 30
+chamadas originadas de Telefone Público e Móveis
+Assinatura de Agendamento por horário, data, 60
+origem ou dia da semana (cada)
+Assinatura de Distribuição de chamadas (cíclica, 60
+sequencial ou percentual) (cada)
+Assinatura de Envio de mensagem gravada 60
+personalizada (cada)
+Assinatura de Reencaminhamento de chamadas 6o
+(CO, LO e/ou NR)
+Assinatura de Restrição de acesso por TP ou 60
+celular (cada)
+Assinatura de Restrição de área de abrangência 60
+Assinatura de Listagem das chamadas atendidas 60
+(na conta fatura)
+Tráfego local fixo-fixo (origem em telefones fixos) 30000
+Tráfego Intlra-estadual fixo-fixo (origem em 30000
+telefones fixos)
+Tr'afeg_.)o local fixo-móvel (origem em telefones 30000
+móveis)
+Tráfego lntrg-e;tadual fixo-móvel (origem em 30000
+telefones móveis)
+Alteração do número de acesso 0800 — item 60
+ 
+eventual
+ 
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+|
+Í
+NPA
+32—
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MDDERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alteração / substituição de terminal telefônico fixo 60
+associado ao 0800 — item eventual
+Alteração de dados cadastrais — item eventual 60
+Emissão de Relatório padrão de Desempenho de 60
+Serviço — item eventual
+Emissão de Relatório Gerencial Personalizado — 60
+item eventual
+SUBTOTAL [2]
+SMP
+Serviços Quant. Valor Valor
+Mensal Unitário Total
+Anual
+[Al [B] IA*[B]12
+Assinatura Terminal Móvel Integrado 4.000
+Chamada Móvel Integrado para Móvel Integrado 200.000
+Chamada Móvel Integrado para Outros Móveis 50.000
+Chamada Móvel Integrado para Fixo Não-Integrado 5.000
+Chamada Móvel Integrado para Fixo Integrado 200.000
+Chamada Móvel Integrado para Outros Fixos 30.000
+Pacote de dados para associação à linha de voz (banda 2000
+mínima de 1024 Kbps)
+SUBTOTAL [3]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STFC - LDN
+Serviços Quant. Valor Unitário Valor Total
+Mensal Anual
+IA] [B] [AT[B]12
+Chamada Fixo — Fixo Degrau 1 3.000
+Chamada Fixo — Fixo Degrau 2 3.000
+Chamada Fixo — Fixo Degrau 3 3.000
+Chamada Fixo — Fixo Degrau 4 3.000
+Chamada Fixo — Móvel VC2 1.500 N
+Chamada Fixo — Móvel VC8 1.500 &
+ 
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI_ZAÇÃO DA GESTÉO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PUBLICA ESTADUAL ,
+”
+L/Q #%733ESTADO DE ALAGOAS
+. SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chamada Móvel — Fixo VC2 1.500
+Chamada Móvel — Fixo VC3 1.500
+Chamada Móvel — Móvel VC2 1.500
+Chamada Móvel — Móvel VC3 1.500
+SUBTOTAL [4]
+STFC - LDI
+Serviços Quant. Valor Valor Total Anual
+Mensal Unitário
+IA] IB] [AI[B]*12
+Mercosul 100
+Demais países da América do Sul 80
+América Central 30
+Estados Unidos 200
+Canadá 50
+Portugal 50
+Espanha 50
+França 50
+Reino Unido 50
+Alemanha 50
+Demais países da Europa 50
+Japão 50
+Demais países 80
+SUBTOTAL [5]
+ 
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNI]AÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+L 34
+Á
+ÍESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGISTICA GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+ 
+ 
+ 
+INSTALAÇÕES
+Serviços Quantidade Valor Valor
+Total Unitário Total
+IAl [B] IAYIB]
+Eãsâlaçao de Terminal Fixo (Integrado ou 4700
+Habilitação de Terminal Móvel Integrado 4000
+ 
+ 
+ 
+ 
+ 
+SUBTOTAL [6]
+ 
+VALOR GLOBAL = SUBTOTAL [1] + SUBTOTAL [2] + SUBTOTAL [3] + SUBTOTAL [4] +
+SUBTOTAL [5] + SUBTOTAL [6]
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+do PESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTÃO PÚBLICA
+AGENCIA DE MODERNIZAÇAD DA GESTÃO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ANEXO IV — LISTA DE ÓRGÃOS E SECRETARIAS CONTEMPLADOS NESTE
+CONTRATO (esta lista pode variar de acordo com alterações realizadas na estrutura
+governamental )
+1.1. A lista a seguir representa os atuais usuários do sistema de telefonia fixa e
+móvel da Administração do Governo do Estado de Alagoas e pode ser alterada a
+qualquer momento sem prévio aviso ao Contratado.
+ 
+USUÁRIO
+ 
+AGÊNCIA ALAGOANA DE HABITACAO E URBANISMO
+ 
+AGÊNCIA DA MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+ 
+AGÊNCIA DE DEFESA E INSPEÇÃO AGROPÉCUÁRIA
+ 
+AGENCIA REGULADORA DE SERV PUBL DO EST DE AL
+ 
+CIA ALAG.DE REC. HUMANOS E PATRIMONIAIS
+ 
+CIA DE ABASTECIMENTO DAGUA E SANEAMENTO DO ESTADO DE AL
+ 
+COMPANHIA DE EMP INTERMED E PARCERIAS DE ALAGOAS - CEPAL
+ 
+CONTROLADORIA GERAL DO ESTADO
+ 
+CORPO DE BOMBEIROS MILITAR
+ 
+DEFENSORIA PUÚBLICA DE ALAGOAS
+ 
+DEPART. ESTADUAL DE TRÂNSITO DE AL
+ 
+DEPARTAMENTO DE ESTRADAS DE RODAGEM
+ 
+DIRETORIA DE TEATRO DO ESTADO DE ALAGOAS
+ 
+FUN. D AMPARO A PESQUISAQ DO EST. DE ALAGOAS
+ 
+FUNDO DE MICROCRÉDITO DO ESTADO DE ALAGOAS
+ 
+FUNDO ESTADUAL DE REGISTRO DO COMÉRCIO
+ 
+GABINETE DA VICE GOVERNADORIA
+ 
+INST. PREV. ASSISTENCIA SERVIDORES ESTADO AL
+ 
+INSTITUTO DE DESEV. RURAL E ABAST DE ALAGOAS
+ 
+INSTITUTO DE METROLOGIA E QUALIDADE DE ALAGOAS - INMEQ
+ 
+INSTITUTO DE TEC. EM INFORMATICA E INFORMAÇAO DE ALAGOAS
+ 
+INSTITUTO DE TERRAS E REFORMA AGRARIA DE ALAGOAS
+ 
+INSTITUTO DO MEIO AMBIENTE
+ 
+INSTITUTO ZUMBI DOS PALMARES
+ 
+LABORATÓRIO INDSUTRIAL FARMACÊUTICO DE ALAGOAS
+ 
+OUVIDORIA GERAL DO ESTADO
+ 
+POLÍCIA CIVIL
+ 
+POLÍCIA MILITAR DE ALAGOAS
+ 
+PROCURADORIA GERAL DO ESTADO
+ 
+SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONOMICO
+ 
+ 
+SECRETARIA DE ESTADO DA ADMINIST., DOS REC.HUMANOS E DO PATRIMONIO ( N
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇÃO PÚBLICA ESTADUAL
+VB E”ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA GESTAO PÚBLICA
+AGÊNCIA DE MODERNIZAÇAO DA GESTAO DE PROCESSOS
+DIRETORIA TÉCNICA DE LOGÍSTICA — GERÊNCIA DE LICITAÇÕES E CONTRATOS
+DIVISÃO DE CONTRATOS
+ 
+SECRETARIA DE ESTADO DA AGRIC., DA PECUÁRIA, DA PESCA E DO ABASTECIMENTO
+ 
+SECRETARIA DE ESTADO DA ASSISTÊNCIA SOCIAL
+ 
+SECRETARIA DE ESTADO DA COMUNICACAO
+ 
+SECRETARIA DE ESTADO DA CULTURA
+ 
+SECRETARIA DE ESTADO DA DEFESA SOCIAL
+ 
+SECRETARIA DE ESTADO DA EDUCAÇÃO E DO ESPORTE
+ 
+SECRETARIA DE ESTADO DA FAZENDA
+ 
+SECRETARIA DE ESTADO DA INFRA-ESTRUTURA
+ 
+SECRETARIA DE ESTADO DA MULHER DA CIDADANIA E DOS DIREITOS HUMANOS
+ 
+SECRETARIA DE ESTADO DA SAÚDE
+ 
+SECRETARIA DE ESTADO DAS RELAÇÕES DE TRABALHO
+ 
+SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E DA INOVAÇÃO
+ 
+SECRETARIA DE ESTADO DO GABINETE CIVIL
+ 
+SECRETARIA DE ESTADO DO GABINETE MILITAR
+ 
+SECRETARIA DE ESTADO DO MEIO AMBIENTE E DOS RECURSOS HIDRICOS E
+NATURAIS
+ 
+SECRETARIA DE ESTADO DO PLANEJAMENTO E DO ORCAMENTO
+ 
+SECRETARIA DE ESTADO DO TURISMO
+ 
+SERVICOS DE ENGENHARIA DO ESTADO DE ALAGOAS
+ 
+UNIVERSIDADE ESTADUAL DE ALAGOAS
+ 
+ 
+UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS- UNCISAL
+ 
+PROCESSO N.º 4105-791/2014 AGÊNCIA DE MODERNIZAÇAO DA GESTÃO DE PROCESSOS
+CONTRATAÇÃO DE SERVIÇOS DE TELEFONIA DESTINADOS À ADMINISTRAÇAO PÚBLICA ESI'ADU;%
+37
+À oMaceio - quarta-feira
+8 de abril de 2015
+22
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Diário Oficial
+Estado de Alagoas
+ 
+e impedimento de contratar com a Administração Direta, Autárquica e Fundacional, as
+Empresas Públicas e Sociedades de Economia Mista e demais entidades controladas
+direta ou indiretamente pelo Estado de Alagoas, pelo período de 12 (doze) meses, com
+base no art. 2º, III, e art. 6º, III, do Decreto Estadual nº 4.054/2008, no subitem 11.1.3 e
+item 11.2 da cláusula nona do TERMO CONTRATUAL Nº. 10/2014 - Licitação Pública/
+CBMAL, cumulado com no $ 2º do art. 87 da Lei nº 8666/1993 e item 11.9, subitem
+11.9.2, da clausula onze do citado contrato; e na aplicação penalidade de MULTA no
+valor de R$ 20.325,60 (vinte mil trezentos e vinte e cinco reais e sessenta centavos),
+correspondente a 15% (quinze) por cento sobre o valor da parte inadimplente, que no
+presente caso corresponde a 15% (quinze) por cento do valor da nota de empenho nº
+2014NE00408, referente ao mês de abril de 2014, cujo objeto consta no Anexo Único
+da peça editalícia, em conformidade com art. 5º, VI, do Decreto Estadual nº 4.054/2008;
+cumulado com no $ 2º do art. 87 da Lei nº 8666/1993 e com o subitem 11.1.3, item
+11.2, item 11.9, subitem 11.9.2 todos da cláusula nona do CONTRATUAL Nº. 10/2014
+- Licitação PúblicaCBMAL, em desfavor da empresa CANAL DA MUSICA -
+COMERCIO DE INSTRUMENTOS MUSICAIS LTDA, por inexecução contratual, não
+apresentando justificativas legais para o inadimplemento de suas obrigações contratuais,
+consoante fora demonstrado no Processo nº 1203-2093/2014, trazendo graves
+transtornos a Administração do Corpo de Bombeiros Militar de Alagoas, causando um
+dano irreparável ao CBMAL.
+Penalidades decorrentes de Processos Administrativos de Apuração de Irregularidade
+nº 1203-2093/2014, tudo em conformidade com o art. 80, IV, da Lei nº 8.666/93,
+subitem 11.1.3, item 11.2, item 11.9 e subitem 11.9.2, da clausula onze do TERMO
+CONTRATUAL Nº, 10/2014 - Licitação Pública/CBMAL, com notificação de Solução
+do Processo Admirativo e consequente Decisão Meritória, ambos publicados no
+D.O.E.AL, dos dias 02.03,2015 e 06.04.2015, consecutivamente.
+(Assim, fica desde já notificada à contratada para querendo, num prazo de 05 (cinco) dias
+úteis se manifestar sobre o que consta nos autos do processo, podendo deles ter vista e
+solicitar cópias a suas expensas.
+Dado o ensejo, solícito do representante legal da supracitada empresa que entre em
+contato com nossa corporação para prover a atualização cadastral, no que se refere aos
+dados do logradouro da sede oficial da empresa CANAL DA MUSICA - COMERCIO
+DE INSTRUMENTOS MUSICAIS LTDA, a fim de que não haja frustrada nova
+tentativa de ciência da notificação por Aviso de Recebimento, pela Empresa de Correios
+e Telégrafos do Brasil.
+ 
+Quartel em Maceió, 06 de abril de 2015.
+ADRIANO AMARAL DA SILVA - CEL BM
+Comandante Geral do CBMAL
+Protocolo 148232
+ 
+ADMINISTRAÇÃO INDIRETA
+—
+ 
+Agência de Modernização da Gestão de Processos
+(AMGESP)
+RESPOSTA DOS ÓRGÃOS E ENTIDADES QUE COMPÕEMAADMINISTRAÇÃO
+PÚBLICA ESTADUAL, DIRETA E INDIRETA, EM ATENDIMENTO AO DECRETO
+ESTADUAL N.º 29,342/2013
+.A Agência de Modernização da Gestão de Processos, em atenção ao que determina
+0 inciso V do artigo 4º do Decreto Estadual n.º 29.342, DE 28 DE NOVEMBRO DE
+2013, SOLICITA dos órgãos e entidades da Administração Pública Estadual, direta e
+indireta, a confirmação dos quantitativos por si informados dos itens abaixo indicados,
+num prazo máximo de 03 (dias) dias contados a partir da publicação no DOE/AL, para
+prosseguimento aos trâmites processuais com vista à realização do certame licitatório
+objetivando o registro de preços para eventual aquisição de MEDICAMENTOS DE
+AÇÃO JUDICIAL-INSULINAS (13). A não manifestação no prazo estipulado acima
+implicará no aceite tácito do quantitativo informado. Informamos que conforme
+Decreto nº 29.342, DE 28 DE NOVEMBRO DE 2013, artigo 4º “Compete ao órgão
+gerenciador a pratica de todos os atos de controle e administração do Sistema de
+Registro de Preço- SRP e, ainda, o seguinte.” inciso II “consolidar informações
+relativas à estimativa individual e total de consumo, promovendo a adequação dos
+respectivos termos de referência ou projetos básicos encaminhados para atender aos
+Tequisitos de padronização e racionalização.”
+PLS Nº 088/2015- MEDICAMENTOS DE AÇÃO JUDICIAL-INSULINAS- (13)
+ 
+ 
+ 
+ 
+ 
+DESCRIÇAO DOSTTENS A SEREM - | UNIDADE DE
+ITEM | REGISTRADOS coMPRA — |SESAU
+Insulina Asparte 100 Ui/MI Solução Unidade
+01 — |Injetável Com Sistema De Aplicação 3 30.000
+MI-Carpule
+Tnsulina Detemir 100 Ui Solução
+02 — |Injetável Com Sistema De Aplicação 6.000
+3M Unidade
+ox — insulia Glargina 100 UVMT Sofução —
+Injetável 3 MI- Carpule Unidade
+ 
+ 
+ 
+ 
+ 
+ 
+Tnsulina Glargina 100 Ui/MI Solução
+04 — |Injetável 3 MI Com Sistema De
+Aplicação
+Tnsulina Glulisina 100 Ui/MI! Solução
+05 — |Injetável Com Sistema De Aplicação 3
+MI-Carpule
+Tnsulina Lispro + Lispro Protamina 25
+06 +75 % Solução Injetável Com Sistema
+De Aplicação 3 MI-Carpule
+Insulina Lispro + Lispro Protamina 50
+07 — |+50% Solução Injetável Com Sistema
+De Aplicação 3 MI-Carpule
+Tnsulina Lispro 100 Ui/MI Solução
+Injetável 3 MI-Carpule
+TInsulina Lispro 100 Ui/MI Solução
+Injetável 3 MI
+96.000
+Unidade
+ 
+6.000
+Unidade
+ 
+24.000
+Unidade
+ 
+24,000
+Unidade
+ 
+os 7.200
+Unidade
+ 
+o9 7.200
+Unidade
+ 
+ 
+ 
+ 
+ 
+ 
+Protocolo 148307
+ 
+EXTRATO DO TERMO DE CONTRATO Nº 007/2015, QUE ENTRE SI
+CELEBRAM O ESTADO DE ALAGOAS, POR INTERMÉDIO DA AGÊNCIA
+DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS, E AS EMPRESAS
+TELEMAR NORTE LESTE S.A.; BRASIL E TELECOM S.A. E OI MÓVEL S.A.
+“Processo: 4105-791/2014
+“Contrato m&ªplwªwnm;
+Extrato: nº. 011/2015 -
+CONTRATANTE: O Estado de Alagoas, por intermédio da AGÊNCIA DE
+MODERNIZAÇÃO DA GESTÃO DE PROCESSOS, inscrita no CNPJ sob
+o nº 07.424.905/0001-38, com sede à Rua Manoel Maia Nobre, nº 281, Farol,
+CEP 57.050-120, Maceió, Alagoas, representado pelo seu Diretor-Presidente, Sr.
+Raphael Aroucha Coimbra Lou, inscrito no CPF sob o nº 049.360.914-80.
+CONTRATADA: A empresa TELEMAR NORTE LESTE S.A, com sede na cidade
+do Rio de Janeiro, Estado do Rio de Janeiro, à Rua General Polidoro, nº. 99, 5º andar,
+Bairro Botafogo, inscrita no CNPJ sob o nº 33.000.118/0001-79, inscrição Estadual
+nº 81.80469; BRASIL TELECOM S.A., com sede na cidade de Brasília -DF,no
+SAI SUL -ASP, Lote D, Bloco B, inscrita no CNPJ sob nº 76.535.764/0001-43,
+inscrição Estadual nº 07.408.927/001-42 e OI MÓVEL S.A., com sede em Brasília
+- DF, na Sia Sul Asp Lt D BI B Parte S/N, CEP: 71215-000, inscrita no CNPJ
+05.423.963/0001-11, neste ato representadas por seus procuradores, nomeados,
+conforme previsto nos seus Atos Constitutivos, Sra. Lavínia Guimarães Mata,
+portadora do RG nº, 8370560 - SSP/AL, CPF nº. 926.798.204-44, e Sr. Alberto
+Danilo S. França, portador do RG n.º 1535109 SSP/SE e CPF n.º 015.092.955-26,
+Objeto do contrato: Contratação dos serviços contínuos de telefonia, com prestação
+de STFC - Serviços de Telefonia Fixa Comutada (Local e Longa Distância)
+integrados através de Central Telefônica da Operadora, e comunicação de dados
+para acesso a internet banda larga, de acordo com as normas e regulamentos
+específicos aplicáveis aos serviços, pelos contratos ou termos de concessão,
+permissão ou autorização celebrados entre as prestadoras dos serviços e a Agência
+Nacional de Telecomunicações - ANATEL
+Gestor: Sr. Sr. Joel Barbosa Oliveira Filho, Diretor Técnico de Política de Gestão,
+matrícula nº 71-0, lotado na AMGESP.
+Vigência: O prazo de vigência e execução deste contrato é de 180 (cento e oitenta)
+dias, contados da data da publicação do seu extrato no Diário Oficial do Estado,
+a partir de quando as obrigações assumidas pelas partes serão exigíveis, ou até
+a conclusão do respectivo certame licitatório, o que ocorrer antes, vedada a sua
+prorrogação.
+Valor global: R$ 2.590.352,98 (dois milhões, quinhentos e noventa mil, trezentos e
+cinquenta e dois reais e noventa e oito centavos).
+Data de assinatura: 01 abril de 2015
+Base Legal: Na Lei Federal n. 8.666/1993 e na Lei Estadual nº 5.237/1991; No
+Decreto Estadual nº 4.054/2008; e Na Lei Federal nº 8.078/1990. O presente
+contrato vincula-se aos termos do Processo nº 4105-791/2014 especialmente: Do
+Termo de Dispensa de Licitação publicado no Diário Oficial do Estado de 31 de
+março de 2015, com base no art.24, inciso IV da Lei Federal nº 8.666/1993; Ao
+Parecer PGE/Núcleo nº 435/2015;
+Protocolo 148117Diário Oficial
+Estado de Alagoas
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Maceio - quarta-feira
+8 de abril de 2015
+23
+ 
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E
+PATRIMÔNIO
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+Processo nº 4105-508/2014
+DESPACHO PRESIDÊNCIA
+D-AMGESP-GP-014-2015
+Com fundamento no Instrumento Convocatório e no Decreto Estadual nº
+1.424/2003, conheço e aprovo o Relatório de Julgamento R-GLC-04/2015 emitido
+pela Pregoeirado certame, que se posiciona pela improcedência do recurso interposto
+pela empresa W&M PUBLICIDADE LTDA - EPP, CNPJ Nº 01.527.405/0001-45,
+mantendo, assim, a classificação da empresa GIBBOR BRASIL PUBLICIDADE
+E PROPAGANDA LTDA - EPP, CNPJ Nº 08.329.433/0001-05, para o item 01 do
+Pregão Eletrônico nº. 12.115/2014 (processo nº. 4105-508/2014), em virtude dos
+seguintes fundamentos: a) A empresa declarada vencedora do certame apresentou
+toda a documentação de habilitação em conformidade com o Edital; b) Por não
+haver penalidade de suspensão temporária de licitar ou impedimento de contratar
+aplicada por ente do Poder Executivo do Estado de Alagoas, em consonância
+com o entendimento do Egrégio TCU; c) A empresa GIBBOR Brasil Publicidade
+e Propaganda LTDA - EPP ratificou a sua capacidade de execução dos serviços
+licitados, através de documentos comprobatórios, assegurando, assim, que o preço
+ofertado no certame está exeqúível,
+Em tempo, que ADJUDICO o item 01 do Pregão Eletrônico nº. 12.115/2014 à
+empresa GIBBOR BRASIL PUBLICIDADE E PROPAGANDA LTDA - EPP,
+CNPJ Nº 08.329.433/0001-05, no valor unitário de R$ 27,31 (vinte e sete reais e
+trinta e um centavos) e valor global de R$ 1.089.942,10 (um milhão, oitenta e nove
+mil, novecentos e quarenta e dois reais e dez centavos).
+Registre-se a presente decisão e publiquem-se seus termos,
+Em seguida, encaminhem-se os autos à Diretoria Técnica de Logística para
+providências de praxe,
+Gabinete da Presidência, em Maceió, 06 de abril de 2015.
+Raphael Aroucha Coimbra Lou
+Diretor Presidente
+Protocolo 148154
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E
+PATRIMÔNIO
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+Processo nº 4105-020/2015
+TERMO DE RATIFICAÇÃO DE
+INEXIGIBILIDADE DE LICITAÇÃO
+Com fulero no Parecer PGE/PLIC Nº 159 /2015, às fis.87 e 88, ratificado pelo
+Despacho PGE-PLIC-CD Nº. 359/2015, às fls. 89, ambos da Douta Procuradoria
+Geral do Estado, bem como nos poderes que me foram conferidos pelo art. 26,
+caput, da Lei Federal nº 8.666/1993, RATIFICO o procedimento de inexigibilidade
+de licitação, objetivando a contratação direta de empresa especializada para a
+Prestação de serviços de banco de preços, destinado a suprir as necessidades do
+Estado de Alagoas, por intermédio da AMGESP, a ser celebrado com a empresa NP
+CAPACITAÇÃO E SOLUÇÕES TECNOLÓGICAS LTDA, inscritano CNPJ sob o
+nº.07.797.967/0001-95, pelo valor global de R$ 15.980,00 (quinze mil novecentos
+eoitentareais), pelo prazo de 12 (doze) meses, com esteio no permissivo do art. 25,
+caput, da Lei Federal nº. 8.666/93,
+PUBLIQUE-SE.
+EM SEGUIDA, remetam-se os autos à Diretoria Técnica de Logística desta
+Agência para formalização do Termo de Contrato.
+Gabinete da Presidência, em Maceió, 06 de abril de 2015
+Raphael Aroucha Coimbra Lou
+Diretor - Presidente
+Protocolo 148155
+No dia 01 de abril de 2015, o então Diretor-Presidente desta Agência de
+Modernização da Gestão de Processos - AMGESP despachou os seguintes
+processos:
+Proc. Nº 2102-813/2014 - Aquisição de material hospitalar de proteção contra
+riscos microbiológicos, destinado aos servidores dos Institutos de Medicina Legal
+de Maceió e Arapiraca. Delegou-se à SEDRES a atribuição total do certame
+requerido. Seguem os autos à origem.
+*Republicado por incorreção.
+Eneida Maria Lôbo Buffone
+Assessoria da Presidência
+Protocolo 148162
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DO PLANEJAMENTO, GESTÃO E
+PATRIMÔNIO
+AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO DE PROCESSOS
+Processo nº 4105-760/2014
+DESPACHO PRESIDÊNCIA
+D-AMGESP-GP-012-2015
+Com fundamento no Instrumento Convocatório e no Decreto Estadual nº
+1.424/2003, conheço e julgo procedente o Recurso Administrativo interposto pela
+empresa FORMOSO AGROPECUÁRIA LTDA, CNPJ Nº 18.817578/0001-09,
+referente ao Pregão Eletrônico nº. 11.158/2014, oriundo do Processo nº. 4105-
+760/2014, alterando, por conseguinte, a decisão da Pregoeira do certame, que
+declarou a empresa L. CARLOS LINS DE LIMA ME, CNPJ Nº 03.719.446/000]-
+69, como vencedora do item 04 do referido pregão, pelos fundamentos a seguir
+aduzidos: 1) O próprio fabricante da marca proposta pela empresa declarada
+vencedora do item 04 assegura a inexequibilidade do preço ofertado para aquela
+marca; 2) A alegação da recorrente sobre o preço inexequível ofertado pela
+empresa L. Carlos Lins de Lima ME não foi contestada por esta empresa; 3) O
+argumento utilizado pela empresa L. Carlos Lins, em suas contrarrazões, acerca
+de sua possibilidade de fornecer qualquer marca para o objeto do item 04, não
+Procede, haja vista que ao ser feita uma determinada proposta pelo licitante durante
+* certame, o preço e a marca ofertados ficam vinculados para a execução do objeto
+licitado, salvo se surgir uma real necessidade de alteração, devidamente justificada.
+Registre-se a presente decisão e publiquem-se seus termos.
+Em seguida, encaminhem-se os autos à Diretoria Técnica de Logística para
+desclassificação da empresa declarada vencedora para o item 04 e convocação dos
+licitantes remanescentes.
+Gabinete da Presidência, em Maceió, 07 de abril de 2015
+Raphael Aroucha Coimbra Lou
+Diretor Presidente
+Protocolo 148194
+RESPOSTA DOS ÓRGÃOS E ENTIDADES QUE COMPÕEM A
+ADMINISTRAÇÃO PÚBLICA ESTADUAL, DIRETA E INDIRETA, EM
+ATENDIMENTO AO DECRETO ESTADUAL N.º 29,342/2013
+AA Agência de Modernização da Gestão de Processos, em atenção ao que determina
+9 inciso V do artigo 4º do Decreto Estadual n.º 29.342, DE 28 DE NOVEMBRO
+DE 2013, SOLICITA dos órgãos e entidades da Administração Pública Estadual,
+direta e indireta, a confirmação dos quantitativos por si informados dos itens abaixo
+indicados, num prazo máximo de 03 (dias) dias contados a partir da publicação
+no DOE/AL, para prosseguimento aos trâmites processuais com vista à realização
+do certame licitatório objetivando o registro de preços para eventual aquisição
+de FRALDAS GERIÁTRICAS DE AÇÃO JUDICIAL A não manifestação no
+prazo estipulado acima implicará no aceite tácito do quantitativo informado.
+Informamos que conforme Decreto nº 29.342, DE 28 DE NOVEMBRO DE 2013,
+artigo 4º “Compete ao órgão gerenciador a pratica de todos os atos de controle e
+administração do Sistema de Registro de Preço- SRP e, ainda, o seguinte.” inciso
+U “consolidar informações relativas à estimativa individual e total de consumo,
+promovendo a adequação dos respectivos termos de referência ou projetos básicos
+encaminhados para atender aos requisitos de padronização e racionalização.”
+PLS Nº 076/2015- FRALDAS GERIÁTRICAS DE AÇÃO JUDICIAL
+ 
+ 
+DESCRIÇÃO DOS ITENS A SEREM [UNIDADEDE
+ITEM | REGISTRADOS coMPRA — |SESAU
+Fraldas geriátricas descartáveis- Unidade
+o — [Eadsee: 12.000

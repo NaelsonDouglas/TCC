@@ -1,0 +1,737 @@
+Detalhamento:
+Interessado:
+Assunto:
+Cadastrado por:
+ 
+  
+Dados do Processo
+Órgão:
+Processo:
+Data de entrada:
+Setor de Origem:
+Setor de Competência:
+      
+ 
+52530 - CEPAL-COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+52530 000450/2015
+08/05/2015 às 10:06 Ê
+PROTOCOLO/CEPAL - CEPAL-PROTOCOLO DA CEPAL $
+: RENOVAÇÃO DE CONTRATO DE MANUTENÇÃO DE SOFTWARE DE PATRIMÔNIO E FOLHA DE PAGAMENTO
+COM A EMPRESA ATUAL SYSTEM SOFTWARE LTDA.
+: CEPAL d
+: CONTRATAÇÃO Í
+: MARIA LÚCIA DOS SANTOS MOREIRAGOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+ 
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº. 17/2015
+ 
+CONTRATO QUE ENTRE SI CELEBRAM A COMPANHIA
+DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+- CEPAL E A ATUAL SYSTEM SOFTWARE LTDA - ME.
+CONTRATANTE: COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -CEPAL,
+sociedade de economia mista estadual, inscrita no CNPJI/MF nº
+04.308.836/0001-09, com sede na Av. Fernandes Lima, s/nº, CEPAL, Gruta de
+Lourdes - Maceió - Alagoas - CEP: 57052-000.
+REPRESENTANTES: Diretor Presidente, SE. Marcos José Dantas Kummer,
+—brasileiro, divorciado, advogado, portador do CPF de nº 136.716.344-72 e
+residente e domiciliado na Rua São Pedro nº 166, Garça Torta, Maceió - AL,
+CEP: 57039-020 Maceió/AL, e pelo Diretor Administrativo e Financeiro, Sr.
+José Queiroz de Oliveira, brasileiro, Casado, empresário, portador do CPF de
+nº 140.494.905-44, RG de nº 1251714 SSP/AL e residente e domiciliado na R.
+Industrial Climério Sarmento, nº. 179, Apto. 702, Jatiúca, Maceió - AL.
+CONTRATADA: ATUAL SYSTEM SOFTWARE LTDA - ME., inscrita no CNPJ nº.
+13.792.463/0001-85 com sede na Rua Tavares Bastos nº. 82, Centro - Rio
+Largo/AL, CEP: 57.100-000.
+REPRESENTANTE: Antônio Pascoal dos Santos, brasileiro, casado, inscrito no
+CPF nº 516.499.775-49, com endereço na Rua Tavares Bastos nº. 82, Centro
+Rio Largo/AL, CEP: 57.100-000.
+CLAÚSULA PRIMEIRA - DO OBJETO
+O presente contrato destina-se a Contratação de Empresa Especializada
+na MANUTENÇÃO DE SOFTWARE - Sistema Integrados de Gestão Empresarial “MODULO
+INTEGRADO”, para os setores de CONTRATOLE DE FOLHA DE PAGAMENTO, PATRIMÔNIO
+COM AÇÃO DEVIDA NA DEPRECIAÇÃO DOS BENS E ADIÇÃO DE FUNCIONAMENTO PARA
+INTEGRAÇÃO AO SOFTWARE DE ERP, para um período de 12 (doze) meses, na sede
+da Contratante.
+CLÁUSULA SEGUNDA - DO AUTORIZATIVO LEGAL
+Lei Federal nº 8.666/93, de 21/06/93, publicado no D.O.U. de 22/06/93,
+republicada em 06/07/94 com redação da Lei nº 8.883/94, de 08/06/94,
+publicado no D.O.U. de 09/06/94, Processo Administrativo nº 450/2015.
+CLÁUSULA TERCEIRA- DA DOTAÇÃO ORÇAMENTÁRIA
+A despesa decorrente desta contratação ocorrerá com Recursos Próprios,
+conforme orçamento anual de custeio da CEPAL 2015, UO: 25530, Grupo de
+IMPRENSA OFICIAL TA [ : VAGOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+Despesa: 3.3.02 - Despesas Operacional e Administrativa, Sub-Grupo de
+Despesa: 3.3.02.07 - Despesas com Terceirização de Mão de Obra, Elemento de
+Despesa: 3.3.02.07.0002 - Serviços Prestados Pessoa Jurídica, Fonte de
+Recursos: 4.1 - Recursos Próprios, elaborado em consonância com o plano de
+contas próprio, regido pela Lei 6.404/76.
+CLAÚSULA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA
+4. Deverá a Contratada observar também o seguinte:
+4.1 Apresentar, junto com a nota fiscal, fatura ou recibo, sob pena de
+retenção ou não liberação do pagamento pela CONTRATANTE;
+4.2 Assumir, sob sua inteira e exclusiva responsabilidade, o pagamento de
+todos os impostos, taxas ou quaisquer ônus fiscais e tributários de origem
+Federal, Estadual e Municipal, durante a execução do contrato;
+4.3 A CONTRATADA deverá comparecer às reuniões convocadas pela
+CONTRATANTE, através do gestor da contratação, cabendo-lhe o ônus ocasionado
+pelo não atendimento a convocação;
+4.4 Apresentar a CONTRATANTE, antes do início de sua atividades, todas as
+certidões Fiscais e Tributárias;
+4.5 Comunicar por escrito a CONTRATANTE a ocorrência de qualquer fato
+anormal ou dano, verificado no local da prestação de serviço pactuado, no
+primeiro dia útil subsequente à ocorrência;
+4,6 Constituir-se em fiel depositária de quaisquer materiais/equipamentos
+que, eventualmente, solicitar a CONTRATNATE;
+4.7 Comprometer-se, por si, a não revelar ou divulgar a terceiros, por
+quaisquer meio, informações obtidas em decorrência da realização dos
+serviços objeto deste contrato, sem prévia e expressa autorização da
+CONTRATANTE;
+4.8 Obedecer às normas de segurança para o bom desempenho da execução do
+serviço;
+4.9 Não efetuar sub-contratação do objeto deste contrato;
+4.10 Permitir que a CONTRATANTE, fiscalizar a qualquer tempo, a prestação
+dos serviços contratados, ficando assegurado à mesma, o direito de aceitá-
+los ou não;
+4.11 A CONTRATADA se obriga a responder diretamente pelo uso e guarda de
+todo equipamento técnico que venha a ser fornecido pela CONTRATANTE, de
+forma diligente e completa, com perfeito zelo, até a data da devolução dos
+mesmos a CONTRATANTE;
+4.12 A CONTRATADA se obriga a instalar o software modulo integrado
+imediatamente após a publicação no D.O.
+4.13 A CONTRATADA se obriga a realizar treinamento aos setores envolvidos e
+realizar testes e outros procedimentos necessários ao perfeito funcionamento
+do Software de cada setor;
+4.14 A CONTRATADA se obriga a fornecer até 05 (cinco) relatórios adicionais
+para cada módulo a pedido da CONTRATANTE;
+4.15 A CONTRATADA se obriga a fornecer um Módulo específico com acesso
+exclusivo para a Presidência e Diretorias;
+IMP_RENSA OFICIAL
+—m
+ 
+vAGOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+ 
+4.16 A CONTRATADA se obriga a realizar a cada Módulo implantado emissão de
+relatórios Gerenciais, Administrativos e Financeiros;
+4.17 A CONTRATADA se obriga durante a vigência do contrato, a realizar
+Treinamento e tirar todas as dúvidas em relação ao Módulo implantado aos
+funcionários da CONTRATANTE ligados diretamente na operacionalidade do
+Sistema.
+CLÁUSULA QUINTA - DAS OBRIGAÇÕES DA CONTRATANTE
+5. A Companhia de Edição, Impressão e Publicação de Alagoas - CEPÁL se
+obriga, durante a execução da avença a:
+5.1. Proporcionar todas as facilidades necessárias à boa execução deste
+contrato, inclusive comunicado à CONTRATADA, por escrito e tempestivamente,
+qualquer mudança de Administradora e ou endereço de cobrança; permitir livre
+acesso às instalações, quando solicitado pela CONTRATADA ou seus empregados
+em serviço;
+5.2. Impedir intervenção de pessoas estranhas à CONTRATADA, a qualquer
+parte das instalações;
+5.3. Executar os serviços que fujam à especialidade da CONTRATADA, e que a
+mesma venha a julgar necessários, relacionados à SEGURANÇA e bom
+funcionamento, bem como dar providências às recomendações concernentes às
+condições e uso correto do Sistema de Software Implantado;
+5.4. Autorizar a execução, ou não o fazendo assumir integral
+responsabilidade que desse ato resultar, dos serviços que a CONTRATADA venha
+julgar necessários para a SEGURANÇA e bom funcionamento do Sistema de
+Software implantado;
+5.5. Pagar, a CONTRATADA após a execução dos serviços prestados, mediante
+atesto do Gestor de Contrato, através de boleto bancário ou depósito em
+conta fornecida pela CONTRATADA, sendo vedado o depósito bancário o valor
+não incluso neste  contrato, em conta da CONTRATADA, sem a formal
+concordância da CONTRATANTE. Não recebendo tempestivamente o boleto
+bancário, contactar a CONTRATADA até a data do vencimento, para pagamento da
+“obeigação em tempo hábil.
+CLÁUSULA SEXTA - DO PREÇO E DA FORMA DE PAGAMENTO
+6.1. O presente contrato tem o valor global de R$ 8.613,60 (oito mil, seiscentos e
+treze reais e sessenta centavos), sendo o valor mensal de R$ 717,80 (setecentos e
+dezessete reais e oitenta centavos) .
+6.2. A CONTRATANTE pagará à CONTRATADA, por crédito em conta bancária ou
+Boleto Bancário, após a realização do serviço prestado, no prazo de até 05
+(cinco) dias úteis, contados a partir da data de recebimento da entrega do
+documento fiscal da empresa (Nota Fiscal/Fatura discriminativa, em 02 (duas)
+vias), devidamente conferida e atestada pelo gestor/fiscal do contrato.
+CLÁUSULA SÉTIMA - DO PRAZO DE VIGÊNCIA
+7.1. O prazo de vigência deste contrato será de 12 (doze) meses, a contar da
+publicação do presente contrato no D.O/AL; ?&GOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+ 
+7.2. Os preços poderão ser reajustados, a pedido da CONTRATADA, tendo como
+base a data do orçamento a que a proposta se referir, ou seja, a data do
+acordo, convenção, dissídio coletivo de trabalho ou equivalente que
+estipular o salário vigente à época da apresentação da proposta.
+CLÁUSULA OITAVA - DA FISCALIZAÇÃO
+8.1. A fiscalização será exercida pelo representante da CONTRATANTE, a Sra.
+Patrícia Virginia Torres de Albuquerque Oliveira, regularmente inscrita no
+CPF sob o nº 954.862.914-34, ficando vedada sua substituição, salvo por meio
+de termo aditivo.
+8.2. O gestor irá fiscalizar a execução do contrato quanto à qualidade
+desejada; comunicar a CONTRATADA sobre o descumprimento do contrato e indicar
+os  procedimentos necessários ao seu correto cumprimento; solicitar
+Administração a aplicação de penalidades por descumprimento de cláusula
+contratual e atestar as notas fiscais de pagamentos.
+a
+CLÁUSULA NONA - DAS SANÇÕES ADMINISTRATIVAS
+9.1. Ficará impedida de licitar e contratar com a União, Estados, Distrito
+Federal ou Municípios e, será descredenciado no SICAF, ou nos sistemas de
+cadastramento de fornecedores a que se refere o inciso XIV, do Art. 4º, da
+Lei n.º 10.520/02, pelo prazo de até 05 (cinco) anos, sem prejuízo das
+multas previstas neste Edital e das demais comunicações legais, a empresa
+que:
+a) Cometer fraude fiscal;
+b) Deixar de apresentar documento exigido para participação no certame;
+c) Apresentar documento ou declaração falsa;
+d) Não mantiver a proposta de preços;
+e) Comportar-se de modo inidôneo;
+f) Cometer fraude na execução;
+g) Descumprir prazos; e
+h) Deixar de apresentar amostra nos prazos estabelecidos neste Edital.
+9.2. Além da penalidade acima, a Administração poderá aplicar ao licitante
+multa de 02% (dois por cento) sobre o valor total de sua proposta escrita.
+9.3. As penalidades serão obrigatoriamente registradas no SICAF, e no caso
+de suspensão de licitar, o licitante deverá ser descredenciado por igual
+período, sem prejuízo das multas previstas no edital e no contrato e das
+demais cominações legais.
+9.4. Em qualquer hipótese de aplicação das sanções, serão assegurados às
+empresas, o direito do contraditório e a ampla defesa, no prazo de 5 (cinco)
+dias úteis, após o recebimento da notificação emitida pela Administração.
+CLÁUSULA DÉCIMA - DOS ILÍCITOS PENAIS
+10. As infrações penais tipificadas na Lei 8.666/93 serão objeto de processo
+judicial na forma legalmente prevista, sem prejuízo das demais cominações
+aplicáveis. óªj/' WIÃ
+IMPRENSA OFICIALGOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+ 
+CLÁUSULA DÉCIMA PRIMEIRA - DA INEXECUÇÃO E DA RESCISÃO DO CONTRATO
+11.1. A inexecução total ou parcial do contrato enseja a sua rescisão, com
+as conseqúuências contratuais e as previstas em lei.
+Parágrafo Primeiro - Constituem motivo de rescisão do contrato, condicionado
+a prévia notificação:
+a) o descumprimento total ou parcial de qualquer das obrigações/
+responsabilidades previstas neste contrato por uma das partes envolvidas no
+presente instrumento;
+b) a transferência total ou parcial do presente contrato, sem o prévio
+assentimento da CONTRATANTE;
+c) o cometimento reiterado de faltas ou falhas na execução dos serviços;
+d) a decretação de falência da CONTRATADA;
+e) a dissolução da sociedade;
+f) a alteração social ou modificação da finalidade ou da estrutura da
+CONTRATADA, que comprovadamente prejudique a execução do contrato;
+g) a lentidão injustificada no seu cumprimento, a qual poderá levar a
+CONTRATANTE a presumir a não execução do serviço;
+h) demais motivos especificados no art. 78, da lei 8.666/93.
+Parágrafo Segundo - A contratante poderá a qualquer tempo rescindir o
+presente contrato, sem qualquer ônus.
+Parágrafo Terceiro - Caso a CONTRATANTE não utilize a prerrogativa de
+rescindir este contrato, a seu exclusivo critério, poderá suspender a sua
+execução e/ou sustar o pagamento das faturas, até que a CONTRATADA cumpra
+integralmente a condição infringida.
+Parágrafo Quarto - A CONTRATADA reconhece os direitos da CONTRATANTE, no
+caso de rescisão administrativa, prevista no art. 77, da lei n 8.666/93.
+CLÁUSULA DÉCIMA SEGUNDA - DAS DISPOSIÇÕES FINAIS
+12.1. As partes ficam, ainda, adstritas às seguintes disposições:
+12.1.1. As partes envolvidas nesta avença estão cientes de que devem guardar
+por si só, por seus representantes, ou seus prepostos, em relação aos dados,
+informações ou documentos de qualquer natureza, exibidos, manuseados, ou que
+por qualquer forma ou modo venham tomar conhecimento, o mais completo e
+absoluto sigilo, em razão dos serviços a serem confiados, ficando, portanto,
+responsabilizados por perdas e danos a que der causa;
+12.2. As partes poderão, a qualquer tempo, após prévio acordo, introduzir
+modificações ou complementações das especificações dos serviços.
+CLÁUSULA DÉCIMA TERCEIRA - DO FORO
+13.1. Fica eleito o Foro desta Capital para dirimir quaisquer dúvidas sobre
+este instrumento, renunciando a qualquer outro, por mais privilegiado que
+seja.
+ 
+IRAISETARA NUAGOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+E por estarem assim justos e contratados lavram este instrumento em 02
+(duas) vias de igual teor e forma, assinadas pelos contratantes, juntamente
+com 02 (duas) testemunhas ambas capazes e conhecidas das partes.
+Maceióy QDA QA ãª 2s de 2015.
+L laa fh d S
+ITAS KUMMER ANTÔNIO PASCOAL DOS SANTOS
+Contratado
+MARIA CLAUDIA%%&E VIDAL
+Assessora Jurídica
+  
+   
+MARCOS 4J
+Contrata
+o tratante
+TESTEMUNHAS:
+1 KMD 2 deudoro P&É— Lu,m
+cPF 06% 133 464 & cA pT 138 934-59
+IMPRENSA OFICIAL 1GOVERNO DO ESTADO DE ALAGOAS
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+EXTRATO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº 17/2015
+PROC. ADM. Nº 450/2015/CEPAL
+CONTRATANTE: COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO
+DE ALAGOAS -CEPAL, sociedade de economia mista estadual, inscrita no
+CNPI/MF nº 04.308.836/0001-09, com sede na Av. Fernandes Lima, s/nº, CEPAL,
+Gruta de Lourdes - Maceió — Alagoas — CEP: 57052-000.
+REPRESENTANTES: Diretor Presidente, Sr. Marcos José Dantas Kummer,
+brasileiro, divorciado, advogado, portador do CPF de nº 136.716.344-72 e residente e
+domiciliado na Rua São Pedro nº 166, Garça Torta, Maceió — AL, CEP: 57039-020
+Maceió/AL, e pelo Diretor Administrativo e Financeiro, Sr. José Queiroz de Oliveira,
+brasileiro, Casado, empresário, portador do CPF de nº 140.494.905-44, RG de nº
+1251714 SSP/AL e residente e domiciliado na R. Industrial Climério Sarmento, nº.
+179, Apto. 702, Jatiúca, Maceió — AL.
+CONTRATADA: ATUAL SYSTEM SOFTWARE LTDA - ME,, inscrita no CNPJ
+nº. 13.792.463/0001-85 com sede na Rua Tavares Bastos nº. 82, Centro — Rio
+Largo/AL, CEP: 57.100-000.
+REPRESENTANTE: Antônio Pascoal dos Santos, brasileiro, casado, inscrito no CPF
+nº 516.499.775-49, com endereço na Rua Tavares Bastos nº. 82, Centro — Rio
+Largo/AL, CEP: 57.100-000.
+OBJETO DO CONTRATO: Contratação de Empresa Especializada na
+MANUTENÇÃO DE SOFTWARE - Sistema Integrados de Gestão Empresarial
+“MODULO INTEGRADO”, para os setores de CONTRATOLE DE FOLHA DE
+PAGAMENTO, PATRIMÔNIO COM AÇÃO DEVIDA NA DEPRECIAÇÃO DOS
+BENS E ADIÇÃO DE FUNCIONAMENTO PARA INTEGRAÇÃO AO
+SOFTWARE DE ERP, para um período de 12 (doze) meses.
+VALOR GLOBAL: R$ 8.613.60 (oito mil, seiscentos e treze reais e sessenta
+Centavos).
+VALOR MENSAL: R$ 717,80 (setecentos e dezessete reais e oitenta centavos).
+GESTOR DO CONTRATO: Patrícia Virginia Torres de Albuquerque Oliveira.
+DATA DA ASSINATURA: 09 de julho de 2015.
+VIGÊNCIA: 12 (doze) meses.
+DATA DE INICIO: a partir da assinatura e publicação do extrato.
+ORIGEM DOS RECURSOS: Recursos Próprios. conforme orçamento anual de
+— custeio da CEPAL 2015, UO: 25530, Grupo de Despesa: 3.3.02 — Despesas
+Operacional e Administrativa, Sub-Grupo de Despesa: 3.3.02.07 - Despesas com
+Terceirização de Mão de Obra, Elemento de Despesa: 3.3.02.07.0002 — Serviços
+Prestados Pessoa Jurídica, Fonte de Recursos: 4.1 — Recursos Próprios, elaborado em
+consonância com o plano de contas próprio, regido pela Lei 6.404/76.
+SIGNATÁRIOS: Marcos José Dantas Kummer e José Queiroz de Oliveira, pelo
+contratante e, Antônio Pascoal dos Santos, pelo contratado.
+ 
+Maceió, 09 de julho de 2015.
+|
+Marcos Jo$é|D: Xlâg Kummer
+Diretpr| Presidênte
+IMPRENSA OFICIAL
+OPAFUIARIFASDiário Oficial
+Estado de Alagoas
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7
+Maceio - quinta-feira
+9 de julho de %53
+ 
+397/2012
+ 
+RESPOSTA DOS ORGÃOS E ENTIDADES QUE COMPÕEM A
+      
+    
+ADMINISTRAÇÃO PÚBLICA ESTADUAL, DIRETA E INDIRETA, EM
+ATENDIMENTO AO DECRETO ESTADUAL N.º 29,342/2013
+AA Agência de Modernização da Gestão de Processos, em atenção ao que determina
+0 inciso V do artigo 4º do Decreto Estadual nº 29.342, DE 28 DE NOVEMBRO
+DE 2013, SOLICITA dos s e entidades da Administração Pública Estadual
+direta e indir io dos quantitativos por si informados dos itens abaixo
+indicados, num prazo máximo de 03 (dias) dias contados a partir da publi:
+DOE/AL, para prosseguimento aos trâmites processuais com vista à realização do
+certame licitatório objetivando o registro de preços para eventual aquisição de EPI-
+MACACÃO E LUVA DE VOO. A não manifestação no prazo estipulado acima
+implicará no aceite tácito do quantitativo informado. Informamos que conforme
+Decreto nº 29 342, DE 28 DE NOVEMBRO DE 2013, artigo 4º “Compete ao órgão
+gerenciador a pratica de todos os atos de controle e administração do Sistema de
+Registro de Preço- SRP e. ainda, o seguinte.” inciso 1l “consolidar informa
+relativas à estimativa indivídual e total de consumo, promovendo à adequação dos
+respectivos termos de referência ou projetos básicos encaminhados para atender
+os requisitos de padronização e racionalização ”
+PLS Nº 270/2015-EPI- MACACÃO E LUVA DE VOO
+ 
+     
+ 
+   
+   
+     
+  
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+10.Aquisição de 03(três) colehone:
+ 
+- CCERC;
+ 
+(1
+/
+CEPALÇZ
+ 
+11.Aquisição de 10(dez) fones de ouvido com mlunm& PP
+12.Aquis
+ 
+o de O8(oito) baterias - CEPAI
+ 
+13. Contratação de empresa especializada em pintura e retirada de mofo - CEPAL;
+ 
+14. Aquisição de lâmpadas e reatores - CCERC;
+ 
+15.Contratação de empresa especializada em refrigeração para conserto de ar
+condicionado tipo SPLIT - CEPAL;
+ 
+16.Aquisição de papel kraft de 60 - CEPAL,
+ 
+17.Aquisição de empre
+O4(quatro) cilindros - C
+ 
+especializada em manutenção para motor perkins
+RC;
+ 
+ 
+18.Contratação de empresa especializada em manutenção preventiva, corretiva e
+eletrônica nas máquinas de impressão planas e de todas as máquinas existentes do
+ 
+  
+ 
+ 
+ 
+     
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*REPUBLICADO POR INCORREÇÃO
+Protocolo 173183
+ 
+No dia 07 de julho de 2015, o então Diretor-Presidente desta Agência de
+Modernização da Gestão de Processos - AMGESP despachou os seguintes
+processos:
+ 
+Proc. Nº 20105-245/2015 - Aquisição de material de expediente, destinadas a
+PCAL. Delegou-se à PCAL à atribuição total do certame requerido. Seguem os
+autos à origem
+ 
+  
+André Filipe S
+Assessoria da Presidência
+ 
+Protocolo 173570
+ 
+-Companhía de Edição, Impressão e Publicação de
+Alagoas (CEPAL)
+AVISO
+LICITAÇÕES CEPAL
+A COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS
+- CEPAL, INFORMA AS COTAÇÕES DE PREÇO EM ANDAMENTO:
+   
+ 
+1.Aquisição de 02(dois) receptores (placas) programáveis-CCERC,;
+ 
+2.Contr:
+50.000s
+ 
+  
+ão de Ol(um) profissional para produção de reportagem com
+ta mil) caracteres para a revista graciliano nº23 - CEPAL;
+ 
+3 Contratação de Ol(um) profissional para produção de reportag
+460 000(sessenta mil) caracteres para a revista graciliano nº23 - CEPAL;
+ 
+m com
+ 
+ 
+ 
+4 Contratação de 01(um) profissional para produção de fotos que irão ilustrar o
+ensaio visual e a capa da revista graciliano nº23 - CEPAI
+ 
+5 Aquisição de óleo diesel para gerador - CEPAL;
+ 
+6 Aquisição de materiais para pintura e reparo - CCERC
+ 
+ 
+  
+7. Aquisição de 100(cem) pacotes de cal
+caixas de copos descartáveis de 200ml- C
+em pó com 250gramas cada e 0S(cinco)
+ERC;
+ 
+ 
+$ Contratação de empresa especializada em confecção e instalação de vídros -
+CCFRC;:
+— parque gráfico da CEPAL - CEPAL;
+BESCNOAODOS UNIDADE |, ç | SESAU/
+ITEM | ITENS A SEREM OMPRA | SEDRES — |S t : E :
+REGISTRADOS DE COMPRA SA 19 Contratação de empresa especializada em confecção de lâminas (facas de corte
+- e vinco) para tipografias - CEPAI
+EPI - Macacão de voo
+F em N”'“º_'** om [Jª&ª“ Unidade 200 EM 20.Contratação de empresa especializada em manutenção corretiva e preventiva do
+E'L';U .(,':):'Tvl%rpál i elevador e escada rolante - ATLAS, para um período de 12(doze) meses - CCERC.:
+EPI - Luva de voo, em | niqago 200 so 21 Contratação de empresa especializada em manutenção preventiva e corretiva da
+2 Nomex verde: 5.2.1 central de ar condicionado, num período de 12(doze) meses - CCERC;
+ 
+ 
+22.Aquisição de capas para cancela (eletrônica) e para totens - CCERC,
+ 
+23 Contrataçs
+ 
+ão de empresa especializada em confecção de vidro - CCERC.
+ 
+24 Contratação de empresa especializada em link de Internet redundante - CEPAIL;
+ 
+ 
+“ontratação de empresa especializada em manutenção eletroeletrônica nas
+impressoras gráficas - CEPAL;.
+ 
+26 Contratação de empresa especializada em seguro patrimonial - CCERC;
+ 
+27 Aquisição de eletrodomésticos - CEPAL:
+ 
+28 Aquisição de desumidificador de ar - CEPAL;
+ 
+   
+29 Contratação de 03(três) pareceristas pura emissão de pareceres sobre livros
+inseritos no edital da Coleção Coco de Roda 2015 - CEPAL;
+ 
+MAIORES DETALHE:
+ 
+(M WWW.IMPRENSAOFICIAL AL/LICITA.
+PARTICIPE
+Protocolo 173619
+ 
+— EXTRATO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº 17/2015
+ 
+PROC. ADM. Nº 450/2015/CEPAL
+CONTRATANTE: COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO
+DE ALAGOAS -CEPAL, sociedade de economia mista estadual, inscrita no CNPJ/
+MF nº 04.308.836/0001-09, com sede na Av. Fernandes Lima, s/nº, CEPAL, Gruta
+de Lourdes - Maceió - Alagoas - CEP: 57052-000.
+REPRESENTANTES: Diretor Presidente, Sr Marcos José Dantas Kummer
+brasileiro, divorciado, advogado, portador do CPF de nº 136,716.344-72 e residente
+e domiciliado na Rua São Pedro nº 166. Garça Torta, Maceió - AL, CEP: 57039-
+'ei6/AL, e pelo Diretor Administrativo e Financeiro, Sr José Queiroz de
+ileiro. Casado, empresário, portador do CPF de nº 140,494.905-44
+RG de nº 1251714 SSP/AL e residente e domiciliado na R. Industrial Climério
+Sarmento, nº. 179, Apto. 702, Jatiúca, Maceió - Al
+CONTRATADA: ATUAL M SOFTWARE LTDA - ME
+nº 13 792.463/0001-85 com sede na Rua Tavares Bastos nº.
+Largo/AL, CEP: 57.100-000.
+REPRESENTANTE: Antônio Pascoal dos Santos, brasileiro, casado, inscrito no
+CPF nº 516,499 775-49, com endereço na Rua Tavares Bastos nº 82, Centro - Rio
+Largo/AL, CEP: 57.100-000.
+OBIETO DO CONTRATO:
+MANUTENÇ
+SMODUTO TNT
+  
+ 
+   
+    
+   
+     
+ 
+ 
+ 
+inserita no CNPJ
+82, Centro - Rio
+ 
+ 
+ 
+Contratação de Empresa Especializada n
+O DE SOFTWARE - tema Integrados de Gestão Empresarial
+FRADO” nara o cetores de CONTRATOLE DFE FOLHA DEMaceio - quinta-feira
+9 de julho de 2015
+54
+Edição FEletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Diário Oficial
+Estado de Alagoas
+ 
+ 
+DOS BENS L DICÃO DE FUNCIONAMENTO PARA lNlLGRAÇÃU AO
+SOFTWARE DE ERP, para um período de 12 (doze) meses.
+VALOR GLOBAL: R$ 8.613,60 (oito mil, se
+centavos).
+VALOR MENSAL: R$ 717,80 (setecentos e deze:
+GESTOR DO CONTRATO: Patrícia Virginia Torres de Albuquerque Oliveira.
+DATA DA ASSINATURA: 09 de julho de 2015.
+VIGÊNCIA: 12 (doze) meses.
+DATA DE INÍCIO: a partir da assinatura e publicação do extrato.
+ORIGEM DOS RECURSOS: Recursos Próprios, conforme orçamento
+de custeio da CEPAL 2015, UO: 25530, Grupo de Despesa: 3.3.02 - Despesas
+Operacional e Administrativa, Sub-Grupo de Despesa: 3.3.02.07 - De:
+Terceirização de Mão de Obra, Elemento de Despesa: 3.3.02.07.0002 - Serviços
+Prestados Pessoa Jurídica, Fonte de Recursos: 41 - Recursos Próprios, elaborado
+em consonância com o plano de contas próprio, regido pela Lei 6.404/76,
+SIGNATÁRIOS: Murcos José Dantas Kummer e José Queiroz de Oliveira, pelo
+contratante e, Antônio Pascoal dos Santos, pelo contratado.
+ 
+entos e treze reais e sessenta
+ 
+e reais e oitenta centavos).
+ 
+    
+  
+ 
+ 
+com
+ 
+Maceió, 09 de julho de 2015
+Marcos José Dantas Kummer
+Diretor Presidente
+Protocolo 173440
+ 
+OMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+CEPAL
+CONVOCAÇÃO
+ 
+ 
+.A Companhia de edição, impressão e publicação de Alagoas CEPAL, vem por
+meio do Departamento de Suprimentos, convocar EMPRESAS NO RAMO DE
+MATERIAIS DE CONSTRUÇÃO, em cumprimento ao item d.2 da instru
+normativa nº AGESA 002/2008, para apresentarem proposta de preço no prazo de
+Os(oito) dias, a contar da data desta publicação.
+As propostas de preços deverão ser enviadas
+imprensaoficial al/licita, Quaisquer duvidas através do telefone (082) 3315 8354/
+$314, na sede da CEPAL situada à Av. Fernandes Lima S/N, Farol! -
+Alagoas CEP: 57.052.000 - das 08:00 às 17h.
+ 
+o
+ 
+ 
+través do endereço eletrônico: www.
+ 
+ 
+Maceió -
+ 
+Objeto: AQUI:
+ 
+IÇÃO DE MATERIAIS PARA PINTURA E REPARO - CCEI
+ 
+“EM CUMPRIMENTO AO CONTRATO Nº 04/2010 CELEBRADO ENTRE À
+CEPAL E A SETUR”.
+Maceio, 07 de Julho de 2014.
+Francisco Ferreira Lessa das Neves
+Chefte do Departamento de Suprimentos
+Protocolo 173009
+ 
+ 
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+CEPAL
+CONVOCAÇÃO
+ 
+AA Companhia de edição, impressão e publicação de Alagoas CEPAL. vem por
+meio do Departamento de Suprimentos, convocar EMPRESAS NO RAMO DE
+COMBUSTÍVEIS, em cumprimento ao item d.2 da instrução normativa nº AGESA
+002/2008, para apresentarem proposta de preço no prazo de O8(oito) d
+da data desta publicação.
+AAs propostas de preços deverão ser enviadas através do endereço eletrônico: www
+imprensaoficial al/licita. Quaisquer duvidas através do telefone (082) 3315 8354/
+8314, na sede da CEPAL situada à Av. Fernandes Lima S/N, Farol - Maceió -
+Alagoas CEP: 57.052.000 - das 08:00 às 17h
+ 
+ 
+ 
+a contar
+      
+ 
+ 
+OBJETO: AQUISIÇÃO DE ÓLEO DIESEL
+ 
+'ARA GERADOR -
+ 
+Maceió, 07 de Junho de 2015.
+sa das Neves
+dao Nenaramento de
+Francisco Ferreira Le:
+en
+ 
+   
+Sunrimentos
+N COMPANHIA DE EDIÇÃO, IMPRI
+  
+   
+  
+  
+SÃO E PUBLICAÇÃS
+CEPAL
+CONVOCAÇÃO
+ 
+AA Compunhia de edição, impressão e publicação de Alag
+meio do Departamento de Suprimentos. convocar PROFISS)
+FOTOGRÁFICO, em cumprimento ao item d 2 da instru
+002/2008, para apresentarem proposta de preço no prazo de O8(oito) dias, à contar
+da data desta publica
+As propostas de preços deverão ser enviadas através do endereço eletrônico: www
+imprensaoficial al/licita. Quaisquer duvidas através do telefone (082) 3315 8354/
+$314, na sede da CEPAL situada à Av. Fernandes Lima S/N, Farol - Maceió -
+Alagoas CEP: 57.052.000 - das 08:00 às 17h.
+ 
+ 
+       
+ 
+OBJETO: CONTRATAÇÃO DE 01(um) PROFISSIONAL PARA À PRODUÇÃO
+DE FOTOS QUE IRÃO ILUSTRAR O ENSAIO VISUAL E A CAPA DA
+REVISTA GRACILIANO Nº23 - CEPAL
+Maceió, 07 de Junho de 2015,
+Francisco Ferreira Lessa das Neves
+Chele do Departamento de Suprimentos
+Protocolo 173015
+ 
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGOAS -
+CEPAL
+CONVOCAÇÃO
+.A Companhia de edição, impressão e publicação de Alagoas CEPAL, vem por meio
+do Departamento de Suprimentos, convocar PROFISSIONAIS NO RAMO DE
+JORNALISMO, em cumprimento ao item d.2 da instrução normativa nº AGESA
+002/2008. para apresentarem proposta de preço no prazo de 08(oito) dias, a contar
+da data desta publicação.
+de preços deverão ser enviadas através do endereço eletrônico: www.
+oficial.al/lícita. Quaisquer duvidas através do telefone (082) 3315 8354/
+$314, na sede da CEPAL situada à Av. Fernandes Lima S/N, Farol - Maceió -
+Alagoas CEP: 57.052.000 - das 08:00 às 17h
+  
+   
+   
+ 
+ 
+ 
+OBJETO: CONTRATAÇÃO DE 01(um) PRC ONAL PARA À PRODUÇÃO
+DE REPORTAGEM COM 60.000(sessenta mil) CARACTERES PARA A
+REVISTA GRACILIANO Nº23 - CEPAL
+ 
+ 
+ 
+Maceió, 07 de Junho de 2015
+Francisco Ferreira Lessa das Neves
+Chefe do Departamento de Suprimentos
+Protocolo 173018
+ 
+ 
+COMPANHIA DE EDIÇÃO, IMPRESSÃO E PUBLICAÇÃO DE ALAGI
+CEPAIL
+CONVOCAÇÃO
+ 
+As
+ 
+.A Companhia de edição, impressão e publicação de Alagoas CEPAL, vem por meio
+do Departamento de Suprimentos, convocar PROFISSIONAIS NO RAMO DI
+JORNALISMO, em cumprimento ao item d.2 da instrução normativa nº AGESA
+002/2008, para apresentarem proposta de preço no prazo de OS(oito) dias, à contar
+da data desta publicação.
+AAs propostas de preços deverão ser enviadas através do endereço eletrônico: www
+imprensaoficial al/licita. Quaisquer duvidas através do telefone (082) 3315 8354/
+8314, na sede da CEPAL situada à Av. Fernandes Lima S/N. Farol - Maceió -
+Alagoas CEP: 57.052.000 - das 08:00 às 17h.
+      
+ 
+  
+  
+OBJETO: CONTRATAÇÃO DE 01(um) PROFISSIONAL PARA A PRODUÇÃO
+DE REPORTAGEM COM 50.000(cinquenta mil) CARACTERES PARA A
+REVISTA GRACILIANO Nº23 - CEPAI
+Maceió, 07 de Junho de 2015.
+Francisco Ferreira Lessa das Neve:
+Chefe do Departamento de Suprimentos,
