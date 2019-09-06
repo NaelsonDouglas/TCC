@@ -77,17 +77,7 @@ def filter_dict(d,min_freq,max_freq,exclude=[]):
     new_dict=sorted(new_dict.items(), key=operator.itemgetter(1))
     return collections.OrderedDict(new_dict)
 
-
-
-
-entity_classes = ['ORGANIZACAO','PESSOA','LOCAL','JURISPRUDENCIA','TEMPO','LEGISLACAO']
-f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
-f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
-f2017 = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
-f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
-f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"   
-
-def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=0,max_freq = 9999999999999999,exclude=[],to_file=False):
+def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1,max_freq = 9999999999999999,exclude=[],to_file=True,custom_name=''):
     if not (max_freq < min_freq):
         j=get_jsons(directory)
         j=extract_categ(j,entity_class)
@@ -98,17 +88,47 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=0
         
         plt.barh(range(len(j)), labels, align='center',color='cornflowerblue')
         plt.yticks(range(len(j)), list(j.keys()))
-        plt.xlabel('Frequência',fontsize=20)        
-        if  to_file:            
-            fname = str('plots/'+entity_class+'/'+os.path.basename(directory)+'['+str(min_freq)+'-'+str(max_freq)+']'+str(exclude))            
+
+        min_label = "="
+        max_label = "="
+
+        if min_freq >0:
+            min_label = str(min_freq)
+        if max_freq < 9999999999999999:
+            max_label = str(max_freq)
+
+        plt.xlabel('Frequência '+custom_name+' ['+min_label+'-'+max_label+']',fontsize=15)        
+        if  to_file:   
+            name = os.path.basename(directory)
+            if len(custom_name) > 0:
+                name = custom_name
+            
+
+            fname = str('plots/'+entity_class+'/'+name+'-['+min_label+'-'+max_label+']'+str(exclude))            
             plt.tight_layout(pad=0.1)            
             plt.tick_params(labelsize=4)
-            plt.savefig(fname,dpi=160)                         
+            plt.savefig(fname,dpi=200)                         
         else:   
            plt.show()
+        plt.cla()
         return True       
     else:
         print("max_freq must be higher or equal to min_freq")
         return False
 
-plot_entityFreq(f2018,entity_class = "ORGANIZACAO",min_freq=11,max_freq=150,exclude=["anvisa"],to_file=True)
+geral = "/home/ndc/repos/TCC/src/contracts/"
+f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
+f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
+f2017 = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
+f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
+f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"   
+year =[[f2015,"2015"],[f2016,"2016"],[f2017,"2017"],[f2018,"2018"],[f2019,"2019"],[geral,"todos"]]
+
+#plot_entityFreq(f2018,entity_class = "ORGANIZACAO",min_freq = 10,max_freq=300,exclude=["anvisa"],to_file=False,custom_name = "2018")
+
+entity_classes = ['ORGANIZACAO','PESSOA','LOCAL','JURISPRUDENCIA','TEMPO','LEGISLACAO']
+for c in entity_classes:
+    for y in year:
+        plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1]) Caos absoluto isso aqui
+        plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])        
