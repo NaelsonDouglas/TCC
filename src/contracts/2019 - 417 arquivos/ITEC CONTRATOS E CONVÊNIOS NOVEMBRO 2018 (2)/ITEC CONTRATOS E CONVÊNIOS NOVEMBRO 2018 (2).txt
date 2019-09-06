@@ -1,0 +1,4137 @@
+Relatório Estatístico de Licitações e Contratos
+Assessoria Técnica de Contratos e Convênios — ASSTCC
+Instituto de Tecnologia em Informática e Informação do Estado de Alagoas — ITEC
+Novembro de 2018
+CONTRATOS, CONVÊNIOS, TERMOS ADITIVOS
+Em novembro de 2018 houve, no âmbito do Instituto de Tecnologia em informática e
+Informação do Estado de Alagoas (Itec/AL), a formalização dos Contratos e Renovação a
+seguir abaixo:
+1 - Formalização do Contrato nº 006/2018, como parte contratada a empresa
+SERVIÇO DE PROMOÇÃO E BEM ESTAR COMUNITÁRIO - SOPROBEM, que tem como objeto a
+prestação de complementação de ensino e aprendizagem à menores e jovens, na condição
+de aprendiz;
+2 — Formalização do Contrato nº 007/2018, como parte contratada a empresa RADAR
+COMPUTER DISTRIBUIDORA EIRELI, que tem como objeto a aquisição de material de
+consumo para armazenagem de dados — fita de backup e de limpeza para atender as
+necessidades do ITEC/AL;
+3 - Formalização do Contrato nº 008/2018, como parte contratada a empresa
+ALIANZA MATERIAIS DE INFORMÁTICA E ESCRITÓRIO LTDA-ME, que tem como objeto à
+aquisição de material de consumo de etiquetas para cartuchos de dados e cartuchos de
+limpeza com código de barras para atender as necessidades do ITEC/AL;
+4 — Formalização do Segundo Termo Aditivo do Contrato nº 001/2016, como parte
+contratada SANTOS E SILVA COMÉRCIO E SERVIÇOS DOMÉSTICOS LTDA-ME, que tem como
+objeto a prestação de serviços de limpeza e conservação;
+5 — Formalização do Segundo Termo Aditivo do Contrato nº 002/2016, como parte
+contratada ÔNIX CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO LTDA-EPP, que tem como
+objeto a prestação de serviços de copeiragem; â/6 - Formalização do Segundo Termo Aditivo do Contrato nº 003/2016, como parte
+contratada ÔNIX CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO LTDA-EPP, que tem como
+objeto à prestação de serviços de portaria e recepção;
+7 — Formalização do Segundo Termo Aditivo do Contrato AMGESP nº 086/2014, como
+parte contratada CONSÓRCIO ALOO TELECOM, que tem como objeto a prestação de serviços
+da INFOVIA do Estado de Alagoas.
+Maceió, 17 de dezembro de 2018.
+Letícia C, Visira Fenórdo
+Assessoria Técnica de Contratos e Convênios do Instituto de Tecnologia em Informática e
+Informação do Estado de Alagoas — ITEC
+Instituto de Tecnologia em Informática e Informação do Estado de Alagoas. ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DEITECNOLOGIA EM IN FORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL— CEP; 57,020-330
+FONE/FAX: (82) 3315-1542
+CNP) 05.100,031/0001-38
+TERMO DE CONTRATO ITEC Nº 006/18, QUE
+ENTRE SI CELEBRAM O ESTADO DE
+ALAGOAS, POR  INTERMÉDIO DO
+INSTITUTO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO
+ESTADO DE ALAGOAS - ITEC, E AÀ
+EMPRESA E O SERVIÇO DE PROMOÇÃO E
+BEM ESTAR COMUNITÁRIO - SOPROBEM
+PARA A «. PRESTAÇÃO DE
+COMPLEMENTAÇÃO DE ENSINO E
+APRENDIZAGEM AÀ MENORES E JOVENS,
+NA CONDIÇÃO DE APRENDIZ.
+E
+ 
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - TT entidade da Administração Pública Indireta, inscrito no CNPJ/MF n.º
+05.100.031/0001-B8, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro,
+nesta cidade, nestk ato representado por seu Diretor Presidente, Sr. J ?sé Luciano dos Santos
+Júnior, inscrito nd CPF/MF sob o nº 670.734.845-00. %
+CONTRATAD. Empresa SERVIÇO DE PROMOÇÃO E BEM ESTAR
+COMUNITÁRIO - SOPROBEM, inscrita no CNPJ sob nº 12.498.937/0001-18, com sede
+Alagoana, CEP 57020-680, MaceióIAL;[.nesle ato representado por seu
+ilo de Araújo Vieira, inscrito no CPF sob o nº 208.082.674-34, de acordo
+legal que lhe é outorgada por contrato social.
+ 
+  
+  
+  
+ 
+çom a represent
+Os CONTRATANWTES, nos termos do Processo nº 41506-437/2018, inclusive Parecer PGE-
+PLIC-CD nº 2.508/2018, aprovado pelo Despacho PGE-GAB nº 2900/2018, e em observância
+às disposições dal Lei nº 8.666/93, da Lei nº 10,520, de 2002, e da Lei nº 8.078, de 1990 —
+Código de Defe:
+cláusulas e condi.
+es a seguir enunciadas.
+7/2018 INSTITUTO DE TECNOLOGIA EM lNFOIlMÁ'l:ÍCA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO [TEC N. 006/2018
+PROCESSO N.* 4150
+PRESTAÇÃO DE IMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE
+do Consumidor, celebram o presente Termo de Contrato, mediante as
+ 
+Õ
+FA
+APRENDIZ . . % z/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DElTECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272— CENTRO — MACEIÓ-AL = CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05,100.031/0001-38
+1. CLÁUSULA RRIMEIRA -- OBJETO
+1.1. Constitui objdto do presente contrato a concessão de oportunidade de complementação de
+ensino e aprendizágem a menores e jovens, adolescentes, na condição de jovem aprendiz com
+idade de 14 anos dté 24 anos regularmente matriculados e cursando, ou que tenha concluído o
+ensino médio, prdferencialmente, em Escolas Públicas ou Privadas com renda per capita da
+família que não ultrapasse R$ 2.500 (dois mil e quinhentos reais) por mês, com frequência
+efetiva em escolhs de nível médio (Gjovens aprendiz) e fundamental (menor aprendiz),
+representado por dtividade participativa em situações reais da vida e do trabalho propiciadoras
+de treinamento prfitico e de aperfeiçoamento técnico, cultural, científico e de relacionamento
+humano, à Adminlstração Pública do Estado de Alagoas.
+2. CLÁUSULA SEGUNDA — VIGÊNCIA
+3.
+2.1. Este Termo dê Contrato tem prazo de vigência e execução de 24 meses, contados da data
+de publicação extrato contratual no Diário Oficial do: Estado, a partir de quando as
+obrigações assumidas pelas partes serão exigíveis, sendo prorrogável na forma do art. 57, da
+Lei nº 8.666, de 1993 f
+2.1.1, A Contratada não tem direito subjetivo à prorrogação contratual.
+2.1.2. À prorrogação de contrato deverá ser promovida mediante celebração de termo aditivo.
+CLÁUSULA |TERCEIRA - DA DURAÇÃO 'DA CONCESSÃO DE
+COMPLEMENTAÇÃO DE ENSINO E DE APRENDIZAGEM'
+anos, ou quando é menor/jovem aprendiz completar 24 (vinte e quatro) anos, o que ocorrer
+primeiro.
+3.1.1. A contratante contratará menor aprendiz, que tem faixa etária entre 14 (quatorze) a 17
+(dezessete) anos. “
+3.1. AÀ concessão ge complementação de ensino e de aprendizagem terá duração de 02 (dois)
+4. CLÁUSULA QUARTA — PREÇO
+4.1. O valor unitátio, por menor aprendiz, é de R$ 1.061,07 (hum mil, sessenta e um reais e
+sete centavos). :
+4,1,2. Constitui pdrte integrante do item 4.1., a planilha de Formação de Custos, em anexo.
+42, O valor menfal do contrato é de R$ 9.549,63 (nove mil, quinhentos e quarenta e nove
+reais e sessenta e krês centavos), perfazendo o total anual de R$ 114,595,56 (cento e quatorze
+4.3. Será pago d contratada, o valor referente ao quantitativo estimado de aprendi;
+;
+mil, quinhentos e hoventa e cinco reais e cinquenta e seis centavos), ?%
+disponibilizados à contratante abaixo descrito:
+a) Menor aprendig: 09 (nove).
+PROCESSO N.º 41500-437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º 006/2018
+PRESTAÇÃO DE CO| MPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENOKFS E JOVENS, NA CONDIÇÃO DE
+APRENDIZ (&
+a
+”
+ 
+(
+?ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECT]
+INSTITUTO DEÍTECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACÉIÓ-AL = CEP; 57.070-330
+FONE/FAX: (82) 3315-1542
+CNP1 05.100.031/0001-38.
+4.4, O valor acima é meramente estimativo, de forma que os pagamentos devidos à
+Contratada dependerão dos quantitativos de serviços efetivamente prestados.
+4.2. No valor acinta cestão incluídas todas as despesas ordinárias diretas e indiretas decorrentes
+da execução corkratual, inclusive tributos ou impostos, encargos sociais, trabalhistas,
+previdenciários, fiicais e comerciais incidentes, taxa de administração, frete, seguro e outros
+necessários ao curhprimento integral do objeto da contratação.
+5. CLÁUSULA QUlr'lTA — DA VINCULAÇÃO AO PROCEDIMENTO
+5.1. O presente inktrumento foi lavrado em decorrência do CHAMAMENTO PUBLICO N.º
+AMGESP-001/20)7 — 3º CHAMADA, ao qual vincula-se, que faz parte integrante desta
+avença como se ttanscrito fosse e respectivos anexos do processo administrativo n.º 4105-
+1176/2015.
+6. CLÁUSULA SEXIEA — DA DOTAÇÃO ORÇAMENTÁRIA
+6.1. A despesa com a prestação dos serviços de que trata o objeto deste contrato corre à conta
+do seguinte crédito orçamentário, constante do orçamento do Instituto de Tecnologia em
+Informática e Infdrmação do Estado de Alagoas-ITEC para o exercício financeiro de 2018:
+Programa de TraHalho 19.122.0004.2001 — Manutenção das Átividades do Órgão, Fonte de
+Recursos 0100006000 — Rec. do Tesouro e/ou Fonte de Recursos 0291000000 — Recursos
+Próprios, no Eleménto de Despesa 339039-26/Estagiários.
+ 
+7. CLÁUSULA SÉT — PAGAMENTO
+7.1. O pagamente será efetuado pela Contratante no prazo de até 30 dias, contados da
+apresentação da Nota Fiscal/Fatura contendo o detalhamento dos serviços executados e os
+materiais empregados, através de ordem bancária, para crédito na Caixa Econômica Federal,
+agência 0055, corfta corrente nº 5735-0, operação 003, favorecida a Empresa SERVIÇO DE
+PROMOÇÃO E BEM ESTAR COMUNITÁRIO - SOPROBEM, inscrita no CNPJ sob nº
+12.498.937/0001-18, :
+7.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que
+trata o inciso II do art. 24 da Lei 8,666, de 1993, deverão s'tª:t efetuados no prazo de até 5
+(cinco) dias úteis] contados da data da apresentação da Nota Fiscal/Fatura, nos termos doart, *
+5º, $ 3º, da Lei nº|8.666, de 1993. :
+7.3. À apresentatão da Nota Fiscal/Fatura deverá ocotrer no prazo de (05) dias, contado d
+data final do o de adimplemento da parcela da contratação a que aquela se referir.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+PROCESSO N* 415 37/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º 006/2018
+PRESTAÇÃO DE COMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE
+q
+J
+te
+APRENDIZ ª â/ESTADO DE ALAGOAS
+RIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+CNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGDAS - ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO = MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNP) 05.100.031/0001-38
+7.3.1. Do pagantento da remuneração e das contribuições sociais (Fundo de Garantia do
+Tempo de Servidgo e Previdência Social), correspondentes ao mês da última nota fiscal ou
+fatura  vencida, | compatível com os empregados vinculados à execução contratual,
+nominalmente identificados, na forma do $ 4º do Art. 31 da Lei nº 9.032, de 28 de abril de
+1995, quando seltratar de mão-de-obra diretamente envolvida na execução dos serviços na
+contratação de sekviços continvados;
+7.3.2. Da reguláridade fiscal, constatada através de consulta “on-line” ao Sistema de
+Cadastramento Wnifícado de Fornecedores - SICAF, ou na impossibilidade de acesso ao
+referido Sistemd, mediante consulia aos sítios eletrônicos oficiais ou convocação do
+contratado a enchminhar documento válido que compmve o atendimento às exigências de
+habilitação previ$tas no art. 29 da Lei 38.666/93;
+7.3.3. Do cumprimento das obrigações trabalhistas, correspondentes à última nota
+fiscal/fatura que tenha sido paga pela Administração.
+7.4. O pagamentp somente será autorizado depois de efetuado o “atesto” pelo competente,
+condicionado este ato à verificação da conformidade da Nota Fiscal/Fatura apresentada em
+relação aos servidos efetivamente prestados e aos materiais empregados.
+7.5. Havendo enfo na apresentação da Nota Fiscal/Fatura ou dos documentos pertinentes à
+4 sobrestado até que a Contratada providencie as medidas saneadoras. Nesta
+para pagamento iniciar-se após a comprovação da regularização da
+etando qualquer ônus para a Contratante. .
+7.6. Caso se codstate o descumprimento de obrigações trabalhistas ou da manutenção das
+condições exigidas para habilitação poderá ser concedido um prazo para que a Contratada
+regularize suas óbrigações, quando não se identificar má-fé ou a incapacidade de corrigir a
+situação, :
+7.6.1. Não sendé regularizada à situação da Contratada no prazo concedido, ou nos casos
+em que identifichda má-fé, se não for possível a realização desses pagamentos pela própria
+Administração, Jos valores retidos cautelarmente serão depositados junto à Justiça do
+Trabalho, com d objetivo de serem utilizados exclusivamente no pagamento de salários e , —
+das demais verbás trabalhistas, bem como das contribuições sociais e FGTS decorrentes. .
+7.7. Será efetudda a retenção ou glosa no pagamento; proporcional à irregu]aridad;%
+verificada, sem prejuízo das sanções cabíveis, caso se constate que a Contratada:
+7.7.1. Não produfiu os resultados acordados;
+PROCESSO N.* 41506437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N* Wõmll
+PRESTAÇÃO DE CONIPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM A MENORES E JOVENS, NA CONDIÇÃO DE
+APRENDIZ âESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DEITECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 — CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1547
+<CNPI 05.100.031/0001-38
+7.7.2. Deixou dd executar as atividades contratadas, ou nac as executou com a qualidade
+miínima exigida;
+7.7.3. Deixou dd utilizar os materiais e recursos humanos exigidos para a execução do
+serviço, ou utilizpu-os com qualidade ou quantidade inferior à demandada,
+7.8. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pa[Íamento.
+7,9. Constatandd-se a siluação de irregularidade da contratada, será providenciada sua
+notificação, por éscrito, para que, no prazo de 10 (dez) d.las regularize sua situação ou, no
+mesmo prazo, apfesente sua defesa.
+7.10. Não havmlz regularização ou sendo a defesa considerada improcedente, a contratante
+deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à
+inadimplência dd contratada, bem como quanto à ezustencm de pagamento a ser efetuado,
+para que sejam ationados os meios pertinentes e necessários para garantir o recebimento de
+seus créditos. ;
+7.11. Persistindá a irregularidade, a contratante deverá adotar as medidas necessárias à
+rescisão contratial nos autos do processo administrativo correspondente, assegurada à
+contratada a amgla defesa,
+7.12. Havendo a|efetiva execução do objeto, os pagamentos serão realizados normalmente,
+até que se decida pela rescisão do contrato, caso a contratada não regularize sua situação.
+7.13. Somente pdr motivo de economicidade, segurança nacional ou outro interesse público
+de alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da
+contratante, não derá rescindido o contrato em execução com a contratada inadimplente.
+7.14. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável. ,
+T7.14.1. À Contrátada regularmente optante pelo Simples Nacional, exclusivamente para as
+atividades de prestação de serviços previstas no $5º-C, do artigo 18, da LC 123, de 2006,
+não sofrerá a retêenção tributária quanto aos impostos e contribuições abrangidos por aquele
+regime, observândo-se as exceções nele previstas. No entanto, o pagamento ficará
+condicionado à apresentação de comprovação, por meio de documento oficial, de que faz
+jus ao tratamentd tributário favorecido previsto na referida lei Complementar.
+8. CLÁUSULA NONK - DA PRESTAÇÃO DE CONTAS TOTAL E PARCIAL M
+&.1. À contratadà, fica na obrigação de apresentar a Prestação de Contas Parcial, a
+trimestre, dos recursos recebidos, o que deverá ser providenciado até 30 (trinta) dias após o
+PROCESSO N.º 41506L437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÃTÍ.CA EINFORMAÇÃO DO ESTADO DE M
+ALAGOAS
+TERMO DE CONTRATO ITEC N. 006/2018
+PRESTAÇÃO DE CONIPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM A MENORES E JOVENS, NA CONDIÇÃO DE
+APRENDIZ E % /â/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA;:E DA INOVAÇÃO-SECTI
+INSTITUTO DEÍTECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (62) 3315-1542
+“CNPJ 05.100.031/0001-38
+término do trimfstm, que será constituíida de relatório 'de cumprimento do objeto e
+acompanhamento Hos seguintes documentos: n
+8.1.1. Indicação doe presente instrumento, bem como da data de sua publicação;
+8.1.2. Relatório dd Execução Físico-Financeira;
+8.1.3, Demonstrativo da Execução da Receita e Despesa;
+8.1.4. Relação e coómprovantes de pagamentos.
+8.2. A contratad4, fica na obrigação de apresentar à Prestação de Contas Final do total dos
+recursos recebidos, o que deverá ser feito até 30 (trinta) diás após o término do prazo de
+vigência do preserlte instrumento, para posterior prestação de contas ao Tribunal de Contas do
+Estado — TCE, quê$ será constituída de relatório de cumpnmento do objeto e acompanhamento
+dos seguintes docuúmentos:
+8.2.1. Plano de Trábalho, integrante deste contrato;
+8.2.2. Cópia do présente instrumento, com a indicação da dal:;de sua publicação;
+8.2.3. Relatório dd Execução Físico-Financeira;
+8.2.4. Demonstrativo da Execução da Receita e Despesa;
+8.2.5. Relação e comprovantes de pagamentos.
+ 
+9. CLÁUSULA DÉCIMA — REAJUSTE
+ 
+9.1. Visando à ad:
+CONTRATADA
+uação aos novos preços praticados no mercado, desde que solicitado pela
+observado o interregno mínimo de 1 (um) ano contado na forma
+item que se seguirá, o valor consignado neste Termo de Contrato será
+   
+   
+ 
+    
+ 
+  
+ 
+ 
+da CONTRATA!
+9.2. O preço coi lgnado no contrato será corrigido anualmente, observado o interregno
+mínimo de um arjo, contado a partir da data limite da apresentação da planilha de custo,
+bascando-se pelo sgalário-mínimo vigente.
+PROCESSO N." 41506/437/2018 INSTITUTO DE TECNOLOGIA EM ]NFORMATICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N.* 006/2012
+APRENDIZ
+ 
+PRESTAÇÃO DE CONPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE Z/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE|TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPIO5.100.031/0001-38
+Í 9.3. Nos reajustes| subsequentes ao primeiro, o interregno mínimo de um ano será contado a
+partir dos efeitos financeiros do último reajuste.
+9,3.1. Competirá à Contratada exercer, perante o Conlra.mme, seu direito ao reajuste, sendo
+que, se não o fizer de forma tempestiva e, por via de consequência, prorrogar o contrato ou
+deixar expirar o pazo de vigência, ocorrerá a preclusão do seu direito ao reajuste.
+9,3.2. Para os custbs relativos à mão de obra, vinculados à data-base da categoria profissional:
+a partir dos efeito$ financeiros do acordo, dissídio ou convenção coletiva de trabalho, vigente
+à época da apresgntação da proposta, relativo a cada categoria profissional abrangida pelo
+contrato.
+9.3.3. Para os demjais custos, sujeitos à variação de preços do mercado: a partir da data limite
+para apresentação Has propostas constante do Edital.
+9.4. Nos reajuste tubsequentes à primeira, o interregno de um ano será computado do último
+reajuste correspontente à mesma parcela objeto de nova solicitação. Entende-se como último
+reajuste, a data enj que iniciados seus efeitos financeiros, independentemente daquela em que
+celebrada. -
+9.5, Quando o redjuste referir-se aos custos da mão de obra, a CONTRATADA efetuará a
+comprovação da veriação dos custos dos serviços por meio de.Planilha de Custos e Formação
+de Preços, acompânhada da apresentação do novo acordo, dissídio ou convenção coletiva da
+categoria profissidnal abrangida pelo contrato.
+9.6. Quando o reajuste referir-se aos demais custos, a CONTRATADA demonstrará a
+variação por meiol de Planilha de Custos e Formação de Preços e comprovará o aumento dos
+preços de mercadd dos itens abrangidos, considerando-se: — -
+9.6.1. Os preços piaticados no mercado ou em outros contratos da Administração;
+idades do contrato em vigência;
+lha com variação dos custos apresentados; ,
+9.6.4. Indicadores setoriais, tabelas de fabricantes, valores oficiais de referência, tarifas
+públicas ou outrog equivalentes;
+9.6.5. Índice e: ífico, setorial ou geral, que retrate a vanaçªn dos preços relativos a alguma
+parcela dos custos|dos serviços, desde que devidamente mdmduahmda na Planilha de Custos
+e Formação de s da Contratada.
+9.6.6. AÀ CO! TANTE poderá realizar diligências para: conferir a variação de custos
+alegada pela CONDTRATADA.
+9,7. Os novos valéres contratuais decorrentes das repactuaçoes terão suas vigências iniciadas
+observando-se o séguinte:
+9,7.1. AÀ partir da dcorrência do fato gerador que deu causa ao rea]usbe'
+9.7.2. Em data filtura, desde que acordada entre as partes, sem prejuízo da contagem :W
+ 
+   
+   
+  
+ 
+ 
+periodicidade para concessão dos próximos reajustes futuras; ou
+9.7.3. Em data ahterior à ocorrência do fato gerador, exclusivamente quando o reaju:
+envolver revisão do custo de mão de obra em que o próprio fato gerador, na forma de acordo,
+PROCESSO N.º 41: 7/201R INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS õ
+TERMO DE CONTRATO ITEC N. 006/2018,
+FRESTAÇÃO DE COMPLEMENTAÇÃO DE ENSINO E APRENDIZAÇEM À MENORES E JOVENS, NA CONDIÇÃO DE
+/
+E
+APRENDIZ . à Z/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE[TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GERÊA
+Ruá Melo Móraes, 272 - CENTRO— MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100,031/0001-33 *
+dissídio ou convenção coletiva, ou sentença normativa, 'contemplar data de vigência
+retroativa, podendo esta ser considerada para efeito de compensação do pagamento devido,
+assim como para 4 contagem da anualidade em repactuações futuras,
+9.8. Os efeitos flnanceiros do reajuste ficarão restritos exclusivamente aos itens que a
+motivaram, e aperjas em relação à diferença porventura existente.
+9.9. Os reajustes sprão formalizadas por meio de Termo Aditivo.
+10. CLÁUSULA DÉGIMA - EXECUÇÃO DOS SERVIÇOS E SEU RECEBIMENTO
+10.1. O regime dd execução dos serviços a serem executados pela Contratada e os materiais
+que serão empregddos são aqueles previstos no Termo de Referência e na proposta.
+10.2. A execução Hlos serviços será iniciada a partir do recebimento da Ordem de Execução.
+10.3, Os serviços| serão recebidos provisoriamente de forma imediata, pelo(a) responsável
+pelo acompanhamtento e fiscalização do contrato, para efeito de posterior verificação de sua
+conformidade conk as especificações constantes no Termo de Referência e na proposta.
+10.4. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações cohstantes no Termo de Referência e na proposta, devendo ser corrigidos,
+refeitos ou substithidos no prazo fixado pelo fiscal do contrato, às custas da Contratada, sem
+prejuízo da aplicação de penalidades. :
+10.5. Os serviçás serão recebidos definitivamente de forma imediata, contados do
+recebimento proviório, após a verificação da qualidade e quântidade do serviço executado e
+S, com a consequente aceitação medianté termo circunstanciado,
+10.5.1. Na hipótege de não se proceder à verificação a que se'refere o subitem anterior dentro
+do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia
+do esgotamento dé prazo.
+10,6, O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da
+Contratada pelos grejuízos resultantes da incorreta execução do,contrato.
+10.7. Os menords/jovens aprendizes serão supervisionados por servidor devidamente
+identificado no contrato oriundo deste procedimento, na qualidade de gestor.
+10.8. A contratadá obriga-se a substituir (caso já exista menor/jovem trabalhando), no prazo
+de 02 (dois) diad, contado do recebimento da notificação &fetuada pela Administração, o
+menor/jovem evdntualmente faltante ao expediente ou inadequado ao bom e regular ;
+desenvolvimento das atividades. i /
+ 
+ 
+   
+ 
+ 
+ 
+11. CLÁUSULA ONHEE — FISCALIZAÇÃO
+ALAGOAS
+PROCESSO N.* 41506-437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE y
+TERMO DE CONTRATO ITEC N.* 006/2018
+PRESTAÇÃO DE COMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE %
+APRENDIZ 2 ª
+. /?/ESTADO DE ALAGOAS
+SECRETAÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA EDA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO - MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNP) 05.100.031/0001-38
+11.1. O acompanhamento e a fiscalização da execução do contrato consistem na verificação
+da conformidade dia prestação dos serviços e da alocação dos recursos necessários, de forma a
+assegurar o perfbito cumprimento do ajuste, devendo ser exercidos por um ou mais
+representantes da [ontratante, especialmente designados, na forma dos arts. 67 e 73 da Lei nº
+8.666, de 1993. "
+112 À fiscalizatão dos contratos, no que se refere ao' cumprimento das obrigações
+trabalhistas, deve ker realizada com base em critérios estatísticos, levando-se em consideração
+falhas que impacfem o contrato como um todo e não apenas erros e falhas eventuais no
+a vantagem a um determinado empregado.
+ 
+  
+ 
+  
+ 
+ 
+  
+   
+   
+   
+   
+  
+  
+ 
+ 
+   
+te da Contratante deverá ter a cxperiência necessária para o
+acompanhamento |e controle da execução dos serviços e do contrato.
+11.4 As disposiçãe
+presentes em no:
+11.5. A verificação da adequação da prestação do serviço deverá ser realizada com base nos
+critérios previstosjno Termo de Referência e na proposta.
+11.6. A execuçãb dos contratos deverá ser acompanhada e fiscalizada por meio de
+instrumentos de cêntrole, que compreendam a mensuração dos seguintes aspectos:
+11.6.1. Os resultádos alcançados em relação ao objeto comratado, com a verificação dos
+prazos de execuçãb e da qualidade demandada;
+11,6,2. Os recurpos humanos empregados, em função da quantidade e da formação
+profissional exigidas; ;
+11.6.3. À qualidade e quantidade dos recursos materiais, equipamentos e utensílios utilizados;
+previstas nesta cláusula não excluem os procedimentos de fiscalização
+a específica,
+11.7. Durante a vil
+Sr. Tereza Cristii
+11.7.1. A gestora
+Execução de Se:
+Bência deste contrato, a execução do objeto é acompanhada e fiscalizada pelo
+.a Olegário de Souza Galvão, Mat. Nº 445-6, designada Gestora.
+fleste contrato terá, entre outras, as segumtes atribuições: expedir Ordens de
+iço; proceder ao acompanhamento técnico da execução dos serviços;
+fiscalizar a execugão do contrato quanto à qualidade desejada; comunicar à CONTRATADA,
+o descumprimento do contrato e indicar os procedimentos necessários ao seu correto
+cumprimento; solicitar ao CONTRATANTE a aplicação de penalidades por descumpriments
+de cláusula contratual; fornecer atestados de capacidade técnica quando solicitado, desde q
+atendidas às obrighções contratuais; atestar as notas fiscais para efeito de pagamentos; recusar
+PROCESSO N. 41504
+ALAGOAS x
+TERMO DE CONTRATO [TEÇ N.º 006/2618
+7/2018 ENSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE &/
+PRESTAÇÃO DE CONMPLEMENTAÇÃO PE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE -
+APRENDIZ %ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECT|
+INSTITUTO DH TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: [82) 3315-1542
+CNPI 05.100.031/0001-38
+os serviços cuja qxecução não se verifique perfeita, visto em desacordo com especificações
+discriminadas no|Termo de Referência e na Proposta, bem como solicitar sua reparação,
+correção, remoção, reconstrução ou substituição, no total ou em parte; solicitar à
+CONTRATADA |e a seu preposto todas as providências necessárias à boa execução dos
+serviços.
+11.7.2. O fiscal bu gestor do contrato, ao verificar que houve subdimensionamento da
+produtividade padtuada, sem perda da qualidade na execução do serviço, deverá comunicar à
+autoridade responsável para que esta promova a adequação contratual à produtividade
+efetivamente realibada, respeitando-se os limites de alteração dos valores contratuais previstos
+no $ 1º do artigo d5 da Lei nº 8.666, de 1993.
+11.8 A conformiHade do material a ser utilizado na exetução dos serviços deverá ser
+verificada juntameénte com o documento da Contratada que contenha a relação detalhada dos
+mesmos, de acordb com o estabelecido neste Termo de Referência e na proposta, informando
+as respectivas quantidades e especificações técnicas, tais commo: marca, qualidade e forma de
+uso.
+11.9 O represeni
+adotando as provii
+o disposto nos 55
+11.10. Na f
+com dedicação
+ 
+te da Contratante deverá promover o registro das ocorrências verificadas,
+lências necessárias ao fiel cumprimento das cláusulas contratuais, conforme
+e 2º do art. 67 da Lei nº 8.666 de 1993,
+ão do cumprimento das obrigações trabalhistas e sociais nas contratações
+clusiva dos trabalhadores da contratada, exigir-se-á, dentre outras, as
+  
+   
+  
+    
+  
+  
+  
+    
+    
+  
+    
+   
+ 
+ 
+ 
+comprovações pretvistas em ato normativo específico. ”
+11.11. O fiscal contrato também poderá solicitar ao preposto que forneça os seguintes
+documentos: a) ettrato da conta do INSS e do FGTS de qualquer empregado, a critério da
+Administração
+prestação dos se:
+dos contracheque:
+tratante; b) cópia da foiha de pagamento analítica de qualquer mês da
+iços, em que conste como tomador o órgão ou entidade contratante; c) cópia
+dos empregados relativos a qualquer mês da prestação dos serviços ou,
+ssário, cópia de recibos de depósitos bancários; d) comprovantes de
+ios suplementares (vale-transporte, vale alimentação, entre outros), a que
+T força de lei ou de convenção ou acordo coletivo de trabalho, relativos a
+contrato.
+abrangidos ao megos uma vez
+ 
+12018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N. 006/2018
+PROCESSO N* 4150
+TPRESTAÇÃO DE CONPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM AÀ MENORES E JOVENS, NA CONDIÇÃO DE
+Dª
+APRENDIZ & & â/ESTADO DEALAGOAS — &
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DATECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Mela Moraes, 272 — CENTRO — MACEIÓ-AL — CEP; 57,.020-330
+FONE/FAX: (82) 3315-1542
+CNPI 05.100.031/0001-38
+11.13. Para tanto] conforme previsto neste Termo de Referência, a empresa deverá instruir
+seus empregados,.Ino início da execução contratual, quanto à obtenção de tais informações,
+bem como oferectr os meios necessários para que obtenham tais extratos, preferencialmente
+por meio eletrônido, quando disponível. '
+11.14. Os apreddizes também deverão ser orientados a realizar tais verificações
+periodicamente e tormunicar ao fiscal do contrato qualquer irregularidade, independentemente
+de solicitação por barte da fiscalização.
+11.15. O fiscal dê contrato poderá solicitar ao preposto os documentos comprobatórios da
+realização do paghmento de vale-transporte e auxílio alimentação em nome dos aprendizes,
+relativos ao período de execução contratual, para fins de conferência pela fiscalização.
+ 
+  
+   
+ 
+11.16. Tal solicifação será realizada periodicamente, inciªsive por amostragem, isto é,
+abrangendo, a ocasião, determinado quantitativo de aprendizes, de modo que, ao final de
+12 (doze) meses fle execução contratual, todos ou a maior parte dos empregados alocados
+tenham sido ab: idos ao menos uma vez. ?
+11.17. A conformidade do material a ser utilizado na execução dos serviços deverá ser
+verificada juntamdnte com o documento da Contratada que contenha a relação detalhada dos
+mesmos, de acorde com o estabelecido no Termo de Referência e na proposta, informando as
+respectivas quantidades e especificações técnicas, tais como: marca, qualidade e forma de uso.
+11.18. O representante da Contratante deverá promover o registro das ocorrências verificadas,
+adotando as providências necessárias ao fiel cumprimento das cláusulas contratuais, conforme
+o disposto nos $$ |º e 2º do art. 67 da Lei nº 8.666, de 1993, +
+11.19. O descuniprimento total ou parcial das demais obrigações e responsabilidades
+assumidas pela Cbntratada ensejará a aplicação de sanções administrativas, previstas neste
+Termo de Referência e na legislação vigente, podendo culminar em rescisão contratual,
+conforme dispostojnos artigos 77 e 80 da Lei nº 8.666, de 1993.
+11.20. Os documdntos necessários à comprovação do cmnpf'í',i'nento das obrigações sociais, .
+trabalhistas e previdenciárias poderão ser apresentados em original ou por qualquer processo
+de cópia autenticada por cartório competente ou por servidor da Administração;
+x
+Y
+11.21. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade
+Contratada, inclusíve perante terceiros, por qualquer irregularidade, ainda que resultante dé
+PROCESSO N.º 415064437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTIÇA E INFORMAÇÃO DO ESTADO DE %
+ALAGOAS *
+e K/
+PRESTAÇÃO DE covTrl.mmAcAo DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE
+TERMO DE CONTRATO ITECNº DO6/2018
+APRENDIZ ª Iâ/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DEÍTECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 — CENTRO — MACEIÓ-AL — CEP; smzo-asn
+FONE/FAX: (82) 3315-1542
+CNPI 05.100.031/0001-38
+imperfeições técnicas, vícios redibitórios, ou emprego de mate al inadequado ou de qualidade
+inferior e, na ocorfência desta, não implica em corresponsabllldade da Contratante ou de seus
+agentes e prepostds, de conformidade com o art. 70 da Lei nº 3.666, de 1993.
+ 
+12. CLÁUSULA DOYE — OBRIGAÇÓES DA CONTRATANTE E DA CONTRATADA
+12.1. São obrigaçães da Contratante:
+12.1.1. Exigir o cimprimento de todas as obrigações assumidas pela Contratada, de acordo
+com as cláusulas dontratuais e os termos de sua proposta;
+12.1.2. Exercer o hcompanhamento e a fiscalização dos serviços, por servidor especialmente
+designado, anotanHo em registro próprio as falhas detecladas,. indicando dia, mês e ano, bem
+como o nome d'Z:Empregados eventualmente envolvidos, e encammhando os apontamentos à
+autoridade competente para as providências cabíveis;
+12.1.3. Notificar a Contratada por escrito da ocorrência de evenmals imperfeições no curso da
+execução dos serviços, fixando prazo para a sua correção;
+de comprovada nebessidade de serviço, formalmente justificada pela autoridade do órgão para
+12.1,4. Não perm%r que os empregados da Contratada realizem horas extras, exceto em caso
+o qual o trabalho
+sja prestado e desde que observado o limite da legislação trabalhista;
+12.1.5. Pagar à Cêntratada o valor resultante da prestação do serviço, no praze e condições
+estabelecidas no EHital e seus anexos;
+12.1.6. Efetuar as tetenções tributárias devidas sobre o valor da Nota Fiscal/Fatura
+fornecida pela CoTtmlada
+12.1.7. Efetuar à cbntratada o pagamento conforme as condxções estabelecidas neste edital.
+12.1.8. Para exedeício das atividades de fiscalização e ácompanhamento por parte da
+contratante, poddrá esta promover diligências e questionamentos junto a órgãos técnicos e
+pessoas pertinentés, de modo a diminuir eventuais dúvidas surgidas da exceução deste
+instrumento. : —
+12.1.9. Proporciohar ao adolescente formação técnico-profissional metódica, propiciando
+atividades práticis em articulação e complementaridade' com as atividades teóricas,
+ministradas pelo Eturo contratado, em conformidade com o Programa Adolescente Cidadãs
+Aprendiz, condidente com as possibilidades físicas e “intelectuais de um ser em
+desenvolvimento fcomo conceituado no Estatuto da Criança e do Adolescente), sempre em
+FROCESSO N.º 41506)437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N." 0062018 b
+PRESTAÇÃO DE CONMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM A M&ORES E JOVENS, NA CONDIÇÃO DE
+APRENDIZ
+aESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DEITECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC
+GERÊNCIA EXECUTIVA ADIMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 = CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542 T
+CNPI 05.100,031/0001-38
+locais adequados Ha CONCEDENTE e com as observâncias das normas e regulamentos de
+proteção ao trabalho do menor e jovem, em especial os artigos pertinentes a matéria contidos
+na ECA, os artigob da CLT e legislação complementar trabalhista e previdenciária, bem como
+tivas nº 26 de 20 de dezembro de 2001 da Secretaria de Inspeção do
+jia nº 20 do Ministério do Trabalho, visando propiciar ao adolescente
+aprendiz o exercípio qualificado da profissão de Auxiliar de Escritório - Arco ocupacional
+administração.
+12.1.10. Receber |os adolescentes para aprendizagem práúqa_ do Programa que lhe forem
+encaminhados pelb futuro contrato devidamente munida de Ficha de Encaminhamento.
+12.1.11. Acomparhar, orientar, esclarecer e estimular o adolescente durante o processo de
+aquisição de conhtcimento prático; :
+12.1.12. Participaf da formação teórica quando houver solicitação da futura contratado (aulas,
+palestras e visitas
+12.1.13. Colaborat com monitoramento e avaliação do pmg;-ama,
+12.1.14. Garantir| que o processo de transmissão de conlyn_ecimentos se faça por etapas
+metodicamente orbanizadas, dos mais simples para o mais coniplexo;
+12.1.15. Solicitar h substituição dos adolescentes integrantes do Programa a qualquer tempo, o
+que deverá se justificar nas seguintes situações;
+a)  completar2F anose1] meses ou 2 (dois) anos de contrato;
+b)  reincidêncialde faltas injustificadas;
+c)  inadaptação|do adolescente assistido às atividades de i; ;
+ 
+d)  frequência itregular às atividades escolares; ê
+€)  apedidodobdolescente e/ou de seu representante legal;,
+D — outrassituadções relevantes que possam caracterizar falta de natureza grave, nos moldes
+arrolados pelo art 482 da CLT; .
+12.1.16, Comunidar a contratada os motivos que ensejaram o pedido de substituição do
+adolescente assistido;
+12.1.17. Fiscalizar a matrícula e frequência escolar daqueles aprendizes que não tiverem
+concluído o ensine obrigatório; s
+PROCESSO N.º 41506-437/2018 INSTITUTO DE TECNOLOGIA EM [NFDRM.Á'[IÇA F INFORMAÇÃO DO ESTADO DE
+ALAGOAS .
+TERMO DE CONTRATO ITEC N* 006/2018
+PRESTAÇÃO DE, COMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE
+APRENDIZ.
+s
+ 
+d
+-ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INQVAÇÃO-SECTI
+INSTITUTO DEITECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Maraes, 272 — CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542 -
+CNPJ 05.100.031/0001-33
+12.1.18. Avaliar ha prática o desenvolvimento do aprendiz quanto às disciplinas teóricas
+ministradas pela cpntratada;
+12.1,19. Desenvolkher os programas de aprendizagem em ambientes adequados, que ofereçam
+as condições de s ça e saúde, em conformidade com as regras do art. 405 de CLT, e das
+Normas Regulamdntares aprovadas pela portaria 3.214/78;
+12.1.20. Desenvolker os programas de aprendizagem em horários compatíveis com a agenda
+escolar de cada abrendiz, de modo a não prejudicar as fregiências às aulas do sistema de
+ensino regular; '
+12.1.21. Apurar e informar a futura contratada a fregilência dos adolescentes até o último dia
+útil do mês, toi lo por base o período compreendido entre os dias 01 e 30/31 de cada mês;
+a futura contratada, até o quinto dia útil bancário de cada mês, os valores
+a) Remuneraçãb do adolescente atendido com jornada de 4 (quatro) ou 6 (seis) horas
+diárias, proporcior| fil ao periíodo de execução das atividades no mês;
+b)  EncargosSokiais;
+c)  Férias, abonb pecuniário e 13º proporcionais ao período de execução das atividades de
+iniciação ao trabalho; '
+d PS
+&) — Demaisobribações trabalhistas à cargo da CONTRATADA;
+u
+12.1.23. Rever osfpercentuais destinados às provisões quando houver incidência de abonos
+estabelecidos pelallegislzção sobre o salário, ou sempre que comprovado pela contratada a
+insuficiência dos hesmos para cobertura a que se destinam;
+12.1.24. Assinar júntamente com a contratada, o Certificado de Capacitação profissional, que
+será entregue aos adolescentes que concluirem com aproveitamento os módulos de estudo e
+obtiverem a pontuáção exigida na média das avaliações comportamentais. —
+12,2. São obrigações da Contratada:
+12.2.1. Executar às serviços conforme especificações do 'lªenno de Referência e de sua
+proposta, com a albçação dos empregados necessários ao perfeéito cumprimento das cláusulas
+do
+PROCESSO N.º 41506/437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE M
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º nosm!a
+PRESTAÇÃO DE COMIPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM A MENORES E JOVENS, NA CONDIÇÃO DE
+E
+APRENDIZ , ª É/FA
+ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLDGIA..E DA INOVAÇÃO-SECTI
+INSTITUTO DE[TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA -
+Rua Meilo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP;. ,57.”0—!"
+FONE/FAX: (82) 3315-15492
+CNPJ O5.200,031/0001-38
+contratuais, além)| de fomecer os materiais e equipamentos, ferramentas € utensílios
+necessários, na qualidade e quantidadeespecificadas no Termo de Referência e em sua
+proposta;
+12.2.2. Reparar, cbrrigir, remover ou substituir, às suas expensas, no total ou em parte, no
+prazo fixado peld fiscal do contrato, os serviços efetuados em que se verificarem vícios,
+defeitos ou incorrdções resultantes da execução ou dos materiais empregados;
+12.2.3. Manter o empregada nos horários predeterminados pela Administração;
+ 
+12,2.4. Responsal$lizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo
+com os artigos 14 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990),
+ficando a Contrathnte autorizada a descontar da garantia, É&; exigida no edital, ou dos
+pagamentos devidos à Contratada, o valor correspondente aos fanos sofridos;
+12.2.5. Utilizar eripregados habilitados é com conhecimentos básicos dos serviços a serem
+executados, em cohformidade com as normas e determinações em vigor;
+12.2.6. Apresentafl os empregados devidamente uniformizados e identificados por meio de
+crachá, além de pfovê-los com os Equipamentos de Proteção Individual - EPI, quando for o
+caso;
+12.2.7. Apresentad à Contratante, quando for o caso, a relação nominal dos empregados que
+adentrarão o órgãd para a execução do serviço;
+12.2.8. Responsalfilizar-se por todas as obrigações tmba]h'íàlas, sociais, previdenciárias,
+tributárias e as djnz.is previstas na legislação específica, cuja inadimplência não transfere
+responsabilidade à| Contratante; Ú
+12,2,9. Atender as|solicitações da Contratante quanto à substi'laição dos empregados alocados,
+no prazo fixado pélo fisca! do contrato, nos casos em que ficar constatado descumprimento
+das obrigações relátivas à execução do serviço, conforme descrito no Termo de Referência;
+12.2.10. Instruir deus empregados quanto à necessidade de acatar as normas internas da
+Administração;
+12.2.11. Instruir seus empregados a respeito das atividades a serem desempenhadas,
+alertando-os a nãd executar atividades não abrangidas pelo contrato, devendo a Contratada - >
+relatar à Contratahte toda e qualquer ocorrência neste sentido, a fim de evitar desvio de «
+função; *
+ 
+  
+PROCESSO N.º 41506/437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ã
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º MDÍ;E
+PRESTAÇÃO DE CONIPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE )e/
+APRENDIZ Í & ãESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE/TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 = CENTRO = MACEIÓ-AL = CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPS 05.100.031/0001-38
+122.12. Relatar f Contratante toda e qualquer uregulamíade verificada no decorrer da
+prestação dos serviços;
+12.2.13. Não pernfitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na
+condição de aprentliz para os maiores de quatorze anos; nem permitir a utilização do trabalho
+do menor de dezotto anos em trabalho noturno, perigoso ou insalubre;
+12.2.14. Manter durante toda a vigência do contrato, em compatibilidade com as obrigações
+assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+12.2.15. Guardar $igilo sobre todas as informações obtidas em decorrência do cumprimento
+do contrato;
+12.2.16. Arcar cêm o ônus decorrente de eventual equh;ocu no dimensionamento dos
+quantitativos de sua proposta, devendo complementá-los, caso o previsto inicialmente em sua
+proposta não seja gatisfatório para o atendimento ao objeto da licitação, exceto quando ocorrer
+algum dos eventos arrolados nos incisos do $ 1º do art. 57 da ªçl nº 8.666, de 1993.
+12.2.17. Assegurar uma remuneração com base no salário mínimo/hora equivalente a l/220
+do salário-mínimg em vigor multiplicado pelo número de horas trabalhadas no mês, em
+atividades teóricas| e práticas; e
+122.18. Assegurdr aos adolescentes que cursam o ensino fundamental uma jornada de
+trabalho aprendiz (Fue não exceda 4 horas diárias (incluídas as horas de aprendizado teórico);
+12.2.19. Assegurat aos adolescentes que estejam cursando o ensino médio uma jornada de
+trabalho aprendiz| que não exceda a exceda &6 horas diárias, quando o programa de
+aprendizagem assimh dispuser; .
+12.2.20. Conceder| vale transporte necessário para os deslocamentos do aprendiz de casa para
+o trabalho, em atividades práticas como nas teóricas, bem como seu rTetorno, em conformidade
+com a respectiva Itgislação. :
+s
+s
+"
+12.2.21. Concedey ao adolescente aprendiz 30 dias de férias por ano, com remuneração
+acrescida do 1/3 constitucional e coincidentes com seu período de férias escolares;
+12.2.22. Quitação de todos os encargos sociais devidos nos termos do Estatuto da Criança e- -
+do Adalescente, dh CLT e da legislação trabalhista e previdenciária, com a apresentação da
+cópia autenticaddá dos comprovantes de recolhimento sempre que solicitado p%f
+CONCEDENTE;
+PROCESSO N.º 41506/437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE &
+ALAGOAS v
+TERMO DE CONTRATO ITEC N.º 006/2018
+PRESTAÇÃO DE CONIPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MFNORES E JOVENS, NA CONDIÇÃO DE
+f
+APRENDIZ , ª /ô—/ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE|
+12.2.23. Não exce
+|TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEP; S'MIZIHM
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+Her o prazo legal de 2 anos para os contratoªs de aprendizagem, que deverão
+coincidir, obrigatdriamente, com o previsto no respectivo programa de aprendizagem;
+12,2.24, Indicar
+aprendizagem, a j
+final do contrato;
+12.2.25. Proceder
+12.2.26. Manter p
+carga horária prev|
+12.2.27. Proceder|
+contemple a assis
+expressamente nos contratos de aprendizagem o programa objeto de
+brnada diária, a jornada semanal, a remuneração mensal, o termo inicial e
+ho registro e anotação na carteira de Trabalilo e Previdência Social (CTPS);
+tograma de aprendizagem definindo os objetivos do curso, seus conteúdos e
+sta; '
+ao registro junto ao Conselho Municipal dos Direitos da Criança e do
+ência ao adolescente e a educação profissional, na forma do art. 90 da lei
+Adolescente, corÉ entidade sem fins lucrativos que dentre suas finalidades estatutárias
+8.069 de 13 de ju
+12.2.28. Estrutural
+nº 615 de 13 de dd
+to de 1990;
+seus programas de aprendizagem, contemplando os requisitos da Portaria
+zembro de 2007, do Ministério do Traba.lho"
+ 
+12.2.29. Prestar à contratante a orientação, o apoio, a supemsao e a ajuda técnica, entre
+outros elementos,
+sensoriais e men|
+processo de inserç]
+12.2.30. Selecional e contratar instrutores; T
+necessários para a compensação das llmltações funcionais motoras,
+tais de aprendizes portadores de deficiência, de modo a viabilizar seu
+o no trabalho; .
+12.2.31. Executªvlos programas de aprendizagem, ministrando os conteúdos teóricos,
+orientando e sup:
+12.2.32. Garantir d
+12.2,33. Avaliar o
+12.2.34. Fiscaliza)
+isionando a execução das atividades práticas no âmbito da contratante;
+articulação e complementaridade entre a aprendizagem teórica e prática;
+[processo de aprendizagem;
+x
+a matrícula e frequência escolar daqueles aprendizes que não tiverem
+concluído o ensind obrigatório; .
+12,2,35, Desenvol
+er os programas de aprendizagem em ambientes adequados, que ofereçam
+as condições de segurança e saúde, em conformidade com as regras do art. 405 da CLT, e das
+Normas regulamentares aprovadas pela portaria 3,214/78; :
+PROCESSO N. 41506/437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º 006/201%
+PRESTAÇÃO DE CONPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE
+APRENDIZ
+ 
+Á
+p
+eESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECT!
+INSTITUTO DHTECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Morses, 272 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82] 3315-1542
+CNP) 05.100,031/0001-38
+12.2.36. Desenvolver os programas de aprendizagem em horários compatíveis com a agenda
+escolar de cada abrendiz, de modo a não prejudicar sua freqiência às aulas do sistema de
+ensino regular; :
+12.2.37. Adequal a profissionalização às necessidades do mundo do trabalho e das
+perspectivas de interção efetiva;
+12.2.37. Fornecer| aos aprendizes certificado definindo as cómpetências, os conteúdos e as
+habilidades adquiridas durante o processo de profissionalização;
+12.2.38. Concedey férias ao empregado adolescente aprendizrdc forma que esta coincida com
+suas férias escolares do ensino regular quando solicitado, em conformidade com o $ 2º do art.
+136 da CLT, sendb vedado o parcelamento, nos termos do 82º; do art. 134 do mesmo diploma
+legal. 7
+12.2.39. Realizar| a devolução ao Órgão repassador dos recursos os saldos financeiros
+remanescentes, inclusive os provenientes das receitas obtidas nas aplicações financeiras
+realizadas, não utilizadas no objeto pactuado, no prazo estabelecido para a apresentação da
+prestação de contas;
+12.240. A devolufão prevista no item 7.16 será realizada observando-se a proporcionalidade
+dos recursos transferidos e os da contrapartida previstos na celebração independentemente da
+época em que foram aportados pelas partes.
+12,2,41. À contrátada reconhece todos os direitos da contratante em caso de eventual
+rescisão do contrato. a
+13. CLÁUSULA ;ÍZE — SANÇÕES ADMINISTRATIVAS ,
+13.1. Comete infraçãb administrativa nos termos da Lei nº 3.666, de 1993, da Lei nº 10.520, de
+2002, e da Lei 12.844, de 2013, a Contratada que:
+13.1.1. Inexecutar tothl ou parcialmente qualquer das obrigações assumidas em
+decorrência da contratáção;
+13.1.2. Ensejar o retardamento da execução do objeto;
+13.1.3. Fraudar na expcução do contrato;
+13.1.4. Comportar-sejde modo inidôneo;
+13.1.5. Cometer fraude fiscal; .
+13.1,6. Não mantiver|a proposta; '
+13.1.7. Criar, de modo fraudulento ou irregular, pessoa jquíca para celebrar contrato,
+ 
+  
+   
+administrativo;
+PROCESSO N. 41506)437/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE 8
+ALAGOAS L
+TERMO DE CONTRATO ITEC N. 606/2018
+PRESTAÇÃO DE LEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÇÃO DE te
+APRENDIZ
+d sESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DA TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS - (TEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 — CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82)] 3315-2542
+CNPJ 05.100.031/0001-38
+13.1.8. Obtiver vantagem ou bencfício indevido, de modo fmudulanto de modificações ou
+prorrogações de conjratos celebrados com a administração pública, sem autorização em lei, no
+ato convocatório da lcitação pública ou nos respectivos instrumentos contratuais;
+13.1.9, Manipular ou fraudar o equilíbrio econômico-financeiro dos contratos celebrados com a
+administração públich;
+13.2. AÀ Contratada que cometer qualquer das infrações discriminadas no subitem acima ficará
+sujeita, sem ptejul'nída responsabilidade civil e criminal, às sanções previstas Lei nº 8.666, de
+1993, da Lei nº 10.520, de 2002, e da Lei 12.846, de 2013, observado o Decreto nº 4.054, de 19
+de setembro de 2008 .
+13.3. Também ficam sujeitas às penalidades do art. 87, III e IV da Lei nº 8.666, de 1993, a
+Contratada que: :
+13.3.1. Tenha sofridbo condenação definitiva por praticar, por meio dolosos, fraude fiscal no
+recolhimento de quaibquer tributos;
+13,3,2. Tenha praticaHo atos ilícitos visando a frustrar os objel.iv«'is da licitação;
+13.3.3. Demonstre nho possuir idoncidade para contratar com a Administração em virtude de
+atos ilícitos praticadas.
+13,4. À aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo
+que assegurará o cobtraditório e a ampla defesa à Contratada, observando-se o procedimento
+previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+13.5. A autoridade edmpetente, na aplicação das sanções, levará em consideração a gravidade da
+conduta do infrator, b caráter educativo da pena, bem como o dano causado à Administração,
+observado o princípid da proporcionalidade.
+14. CLÁUSULA QUATORZE — RESCISÃO
+o de Contrato poderá ser rescindido nas Ílnipõt&m previstas no art. 78 da
+, com as consequências indicadas no art, 80 da mesma Lei, sem prejuizo
+ 
+   
+   
+  
+   
+   
+ 
+ 
+ 
+ 
+14,2, É admissível à fusão, cisão ou incorporação da Contratada com ou em outra pessoa
+Jjurídica, desde que sg$jam observados pela nova pessoa jurídica todos os requisitos de habilitação
+exigidos na licitação Joriginal; sejam mantidas as demais cláusulas e condições do contrato; não -
+haja prejuízo à exechção do objeto pactuado e haja a anuência, expressa da Administração à
+continuidade do contfato. n
+14.3, Os casos de restisão contratual serão formalmente motwadçs assegurando-se à Contrat
+o direito à prévia e arhpla defesa.
+/2018 INSTITUTO DE TECNOLOGIA EM INFDRMÁTICA EINFORMAÇÃO DO ESTADO DE
+ALAGDAS
+TERMO DE CONTRATO ITEC N.º llmíi
+PRESTAÇÃO DE CONPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA OONDIÇAO DE
+/
+APRENDIZ : â/
+PROCESSO N.º 4150ESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DHÁ
+144. A ContratadãJec
+prevista no art, 77
+14.5. O termo de
+conforme o caso:
+14.5.1. Balanço dos
+14.5.2, Relação dos y
+14.5.3. Indenizações
+15. CLÁUSULA QU
+15.1. É vedado à Cor]
+ 
+TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS — ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rus Melo Moraes, 277 — CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: [82] 3315-1542
+CNP) 05.100.031/0001-38
+onhece os direitos da Contratante em 'caso de rescisão administrativa
+Lei nº 8.666, de 1993.
+lescisão será precedido de Relatório indicativo dos seguintes aspectos,
+iventos contratuais já cumpridos ou parcialmente cumpridos;
+agamentos já efetuados e ainda devidos;
+E multas.
+INZE — VEDAÇÕES
+Itratada:
+4
+15.1.1. Caucionar r.mJutilizar este Termo de Contrato para qua.lql'.íêi' operação financeira;
+15.1.2, Interromper E
+Contratante, salvo nq
+16. CLÁUSULA DH
+execução dos serviços sob alegação de madxmplememo por parte da
+E casos previstos em lei.
+IZESSEIS - ALTERAÇÕES
+16.1. Eventuais alteréções contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de
+1993.
+16.2. A Contratada
+supressões que se fi:
+inicial atualizado do
+16.3. As supressões r|
+o limite de 25% (vint
+17. CLÁUSULA DH
+17.1, Os casos omiss
+obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+rem necessários, até o limite de 25% (vinte e cinco por cento) do valor
+ontrato.
+'sultantes de acordo celebrado entre as partes Contratantes poderão exceder
+e cinco por cento) do valor inicial atualizado do contrato.
+VESSETE - DOS CASOS OMISSOS
+s serão decididos pela Contratante seguudó as disposições contidas na Lei
+nº 8.666, de 1993, nh Lei nº 10.520, de 2002, e nas demais nórmas de licitações e contratos
+administrativos, além
+de, subsidiariamente, as disposições contidas na Lei nº 8.078, de 1990 —
+Código de Defesa do |Consumidor, e normas e princípios gerais dos contratos.
+18. CLÁUSULA DE
+18.1. Incumbirá à Q
+Diário Oficia! do Está
+PROCESSO N.º 415061137/2018 INSTITUTO DE TECNOLOGIA EM INFCIILMÃTICA E INFORMAÇÃO DO ESTADO DE
+%
+no
+Ã
+À
+ZOITO- PUBLICAÇÃO
+ontratante providenciar a publicação deste instrumento, por extrato,
+ido, no prazo previsto na Lei nº 8.666, de 1993.
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º mll
+PRESTAÇÃO DE CONMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENDRÍ'S E JOVENS, NA CONDIÇÃO DE k,
+APRENDIZESTADO DE ALAGOAS
+SECRETÁRIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE)
+ITECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS = ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 = CENTRO - MACEIÓ-AL — CEP; 57.0720-330
+FONE/FAX: ([82) 3315-1542 &
+CNPJ 05,100.031/0001-38
+19. CLÁUSULA DHZENOVE - DO FORO
+19.1. O Foro para sd
+será o da Comarca dd
+Ilucionar os litígios que decorrerem da execução deste Termo de Contrato
+Maceió — AL,
+Para firmeza e validade do pactuado, o presente Termo de Contrato foi lavrado em 03 (três) vias
+de igual teor, o qual,
+Hepois de lido e achado em ordem, vai assiniado pelos contratantes.
+ 
+ 
+Maceió (AL), em//2A de 7p32 e 2018.
+CDL>D -
+%ITMTANT —
+anifo ªi -uºk Xt—uic 4
+CONTRATADA — |J
+Fs) É & Al b
+GESTOR CONTRATUAL
+Lobliia ,./z/)' Gn D
+ 
+LhEA
+ 
+PROCESSO N.* 41506
+ermu INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+TERMO DE CONTRATO ITEC N.º 006/2088
+APRENDIZ
+ 
+PRESTAÇÃO DE COMPLEMENTAÇÃO DE ENSINO E APRENDIZAGEM À MENORES E JOVENS, NA CONDIÍ ÃO DEDiário Oficial
+Estado de Alagoas
+VALOR UNITÁRIO: R$ 80,00 (oitenta resi;
+VALOR TOTAL: R$ 160,00 (cento e sessen
+PERÍODO: de 07/11/2018 té 09/11/2018
+DESTINO: Maceió/Santana
+D
+la reais)
+de Ipanema/Maceió
+OBJETIVO: Partcipar de reunião com os $upervisores Regionais na claboração
+e Plancjamento Estratégico da EMATER
+atividades c ações de ATER).
+Reatização de Assistência Técnica e F)
+(20.608.0210.3092,0000) Localização — 204
+lar 2o ano de 2019 (Plancjamento das
+ktensão Rusal, Plano de Trabatho
+— Região: Metropolilana de Macei6,
+natureza de Despesa (3.3.90.14) Diárias — Fobhte de Recursos FR (0110) - Recursos
+de Convênio,
+INSTITUTO DE INOVACAG PARA O DE3
+ceié/AL, 12 de novembro de 2018
+ENV RURAL SUSTENTAVEL, Ma-
+ELIZEU JOSH REGO
+DIRETOR-PRE|
+PO!
+O DIRETOR-PRESIDENTE, no uso de
+no(a) Decreto Nº 55.051 de 05 de setemi
+7I8/2018, RESOLVE conceder diárias em
+MARIA DAS GRAÇAS FERREIRA S
+Cargo: GERÊNCIA DE ATER-NÍVEL GERI
+CPF: 164.525.004-06
+RG: 278.865 SSP/AL
+Matrícula: 137-6
+Nº DE DIÁRIAS: 3,5 (três) diária(e) e meia,
+VALOR UNITÁRIO: R$ $0,00 (oitenta reai:
+  
+  
+ 
+ 
+  
+IDENTE
+de 2017, e no Processo nº 140.566-
+do servidor (a):
+VALOR TOTAL: R$ 280,00 (duzentos e citánta 1cais)
+PERÍODO: de 20/11/2018 eté 23/11/20H8
+DESTINO: Maceió/Delmi
+OBJETIVO: Reunião técnica com & equipe
+acompanhamento das atividades.
+Realização de Assistência Técnica e E
+(20.608.0210.3092.0000) Localização — 204
+natureza de Despesa (3.3.90.14) Diárias —Fo]
+de Convênio.
+to “Gouveia/Maceió
+fo Projeto Dom Heider Câmara para
+tensão Rural, Plano de Trabalho
+|- Região: Metropolitana de Maceió,
+te de Recursos FR (0110) — Recursos
+ 
+INSTITUTO DE INOVACAO PARA O DI
+ceis/AL, t2 de novembro de 2018
+'O DIRETOR-PRESIDENTE, no uso de s
+no(a) Decreto Nº 55,051 de O5 de seteral
+T717/2018, RESOLVE concedes diárias em
+MÁARIA DA GUIA FONSECA
+Cargo: ENGENHEIRA AGRÔNOMA
+CPF: 952.936.654-20
+RG: 0286366120052 GEISPC/MA
+Matrícula: BOLSISTA
+Nº DE DIÁRIAS: 3,5 (três) diária(s) e meia
+VALOR UNITÁRIO: R$ 80,00 (oitenta rea;
+VALOR TOTAL: R$ 280,00 (duzentos e oi!
+TPERÍODO: de 20/11/2018 até 23/11/2018
+DESTINO: Maceió/De!
+OBJETIVO: Reunião técnica com a equipe
+acompanhamento das atividades.
+Realização de Assistência Técnica e
+(20.608.0210.2092.0000) Localização —
+matureza de Despesa (3.3.90.14) Diárias — Fr
+de Convênio.
+  
+ 
+  
+RURAL SUSTENTAVEL, Ma-
+de 2017, e no Processo º 140.566-
+r do servidor (a):
+reais)
+Gouveia/Maceiô
+Projeto Dom Helder Câmara pora
+tnsão Rural, Plano de Trebalho
+Região: Metropolitana de Maceió,
+fte de Recursos FR (0110) — Recursos
+INSTITUTO DE INOVACAO PARA O DESENV KURAL SUSTENTAVEL, Me-
+Ceif/AL, 12 de novembro de 2018
+ELIZEU JOSEÍREGO
+DIREI'()R—?IP.TIDEN'!'E
+ 
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Macelo - terça-feira
+13 de novembro de 2018
+FAPEAL - Fundação de Amparo à
+PFesquisa do Estado de Alagoas —
+PORTARIA/FAPEAL Nº 181/2018
+ 
+O DIRETOR PRESIDENTE da Fundação de Amparo à Pesquisa do
+estado de Alagoas - FAPEAL, no uso de suas atribuições legais, com base nofa)
+Decreto de nº4,076, de 28 de novembro de 2008, bem come no Processo Adminis-
+trativo nº 60030-0001650/2018, RESOLVE conceder diárias em favor de:
+FABIO GUEDES GOMES
+CPF; 789.989.054-34
+RG: 1241129 SSPPB
+Nº DE DIÁRIAS: 1,5 (uma e meia) diária(s)
+"VALOR UNITÁRIO: R$ 350,00 (trezentos e cinquenta 1eais)
+VALOR TOTAL: R$ 525,00 (quinhentos e vinte e cinco reais)
+PFERÍODO: de 13/11/2018 até 14/11/2018
+DESTINO: Maceió/Campinas /Maceió
+OBJETIVO: Participação em Reunião com a APTA - Agência Paulista de Teçno-
+logia dos Agronegócios
+As despesas decorrentes da presente portaria carrerão através do Programa de Tra-
+balho — 19.122.0004.200] - FUNDAÇÃO DE AMPARO À PESQUISA DO ES-
+TADO DE ALAGOAS - Todo Estado - Fante 0100090000, Elemento de Trespesa
+339014
+FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE ALAGOAS, Ma-
+ceidiAL, 12 de novembro de 2018.
+FABIO GUEDES GOMES
+DIRETOR PRESIDENTE
+ 
+—w w U w aa—
+ITEC - Instítuto de Tecnologia em Informática
+e Informação do Estado de Alagoas mee
+EXTRATO DO CONTRATO Nº 006/2018 QUE ENTRE SI FIRMAM O INSTI-
+TUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTA-
+DO DE ALAGOAS — ITEC, E O SERVIÇO DE PROMOÇÃO E BEM ESTAR
+COMUNITÁRIO - SOPROBEM.
+Processo Administrativo: 41506-437/2018
+Termo de Cantrato nº. 006/2018
+Extrato: nº. 011/2018.
+CONTRATANTE: O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC, entidade da Adminisira-
+ção Pública Indireta, de CNPJ nº, 05.100.031/0001-38, com sede à rua Dr. Cinci-
+nato Pinto, nº, 503, Macei/ALl, CEP 57.020-050, neste ato representado por scu
+Diretor Presidente, Sr. José Luciano dos Santos Júnior, inscrito no CPF sob o 6º
+670:7134.545-00.
+CONTRATADA: O SERVIÇO DE PROMOÇÃO E BEM ESTAR COMUNITÁ-
+RIO - SOPROBEM, inscrita no CNPJ sob nº 12.498.937/0001-18, com sede na Rua
+Libertadora Alagoana, CEP 57020-680, Macei6/AL, neste ato representado por seu
+Presidente Sr, Vanilo de Araújo Vieira, inscrito no CPF sob o nº 208.082.674-34.
+'Objeto: O presente termo de contrato Constitui objeta do prescete contrato a con-
+cessão de oportunidade de complementação de ensino e aprendizagem a mennres
+& jovens, adolescentes, na condição de jovem eprendiz com idade de 14 anos alé
+24 anos regularmente matriculados € cursando, ou que tenha concluído o ensino
+médio, preferencislmente, em Escolas Públicas u Privadas com renda per capita
+da fanília que não ultrapasse R$ 2.500 (dois mil e quinhentos reais) por mês, com
+frequência cfetiva em escolas de nível médio (jovens aprendiz) e fondamental (me-
+nor aprendiz), representado por atividade participativa om sitvações reais da vido
+e do trabalho propiciadoras de treinamento prático e de aperfeiçoamento tócnico,
+cultural, científico e de relacionamento humano, à Administração Pública do Es-
+tado de Alagoas.
+Vigência; Este Termo de Contrato iem prazo de vigência c execução de 24 meses,
+contados da data de publicação do extrato contratual no Diário Oficial de Estado, a
+partir de quando as obrigações assumidas pelas partes serão exigíveis, sendo pror-
+rogável na forma do art, 57, da Lei n* 8.666, de 1993.
+Preço: O valor mensal do contrato é de R$ 9.549,63 (nmove rnil, quínhentos e
+quarenta e nove reais e sessenta e três centavos), perfazendo o tote) anuc] de R$
+114.595,56 (cento e quatarze mil, quinhentos e noventa e cinco seais e cinquenta
+e scis centavos).
+Data da Assinatura: 12 de novembro de 2018,
+Dotação Orçamentária: À despesa com a prestação dos serviços de que trata o ob-
+Jjeto deste contrato corre à conta do seguinte crédito orçamentário, constante do
+orçamento do Instituto de Tecnologia em Informática e Informação do Estado
+de Alagoas - ITEC para o excereício financeiro de 2018: Programa de Trabalho
+19.122.0004.2001 — Manvienção das Atividades do Órgão, Forte de Recursos46  Cérseno:
+2018
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Diário Oficial
+Estado de Alagoas
+ 
+0100006600 — Rec, do Tesouro e/on Fonte|de Recursos 0291000000 — Recursos
+Fróprios, no Elemento de Despesa 339039-]6/Estagiários.
+Macçiô, 12 de novembro de 2013
+José Luciano dos $antos Júsior
+Diretor Presidente
+ 
+ 
+ 
+ 
+ 
+ 
+   
+lade Estadual de
+le de Alagoas
+TUNCISAL - Únive
+ 
+ee LCiências da Saú
+O REITOR DA UNIVERSIDADE ESTADIAL DE CIÊNCIAS DA SAÚDE DE
+ALAGOAS — UNCISAL DESPACHOU FM DATA DE 12/11120)8 OS SEGUEN-
+TES PROCESSOS ADVINDOS DA COJUZ:
+TPROC: 41010-20778/2016 APENSO 4101b-7831/2018 — SULOG/UNCISAL —
+AQUISIÇÃO DE ALIMENTOS:
+TROC: 41010-2596/2016 — SVO/UNCISAI] - AQUISIÇÃO DE VEÍCULO;
+PROC: 419)0-4970/2018 — CER NVUNCIÍAL - AQUISIÇÃO DE AUDIÔME-
+TRO,
+PROC: 41010-20230/2017 — MESM/UNCIÉAL - AQUISIÇÃO DE SONDA DO
+APARELHO OTOEMISSOR;
+FROC: 41010-3834/2017 — MESM/UNCISKL — AQUISIÇÃO DE MATERIAIS
+ELÉTRICOS;
+PROC: 41010-22856/2016 - NUCIB/UNCI$AL - AQUISIÇÃO DE LÂMINAS;
+PROC: 41010-21087/2017 - SULOG/UNGISAL — AQUISIÇÃO DE EQUIFA-
+MENTOS ELETRÔNICOS;
+PROC: 41010-21087/2017 APENSO 41018-3677/2018 — SULOG/UNCISAL —
+AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS;
+PROC: 4)010-22856/2016 — NUCIB/UNCISAL — AQUISIÇÃO DE LÂMINAS.
+    
+   
+ 
+ 
+EXTRATO DO TERMO DE RESCISÃO
+CISAL N.º027/2018
+Processo: 41010-22633/2017 — PE Nº 10: 7
+ARPNº455/2017 AMGESP
+CONTRATANTE: Universidade Estadual
+gaas - UNCISAL, CNPJ 12.517.793/000!1-
+CONTRATADA: CORAMED COMÉRCIK
+CNPJ (MF) 32.622.037/0001-48;
+“Objeto do comtrato: Fica rescindido o Contipto UNCISAL Nº, 027/2018 que tem
+como objeto a aquisição de correfatos, firmado em 02 de maio de 2018,
+Data de Assinatura: 12/11/2018
+Base Iegal: Processo administrativo nº. 410 0-22633/2017; Ast. 78, inciso X e
+an 79, inciso 1, da Lei 8.666/93; P; — COJUR/UNCISAL Nº. 642/2018,
+aprovado pelo DESPACHO — CIUNCISALEN 1459/2018.
+ITERAL DO CONTRATO UN-
+Ciências da Saúide do Estado de Afa-
+' DE ARTIGOS MÉDICOS LTDA,
+ 
+RESULTADO DE FCoTAÇÃO
+PROCESSO ADMINISTRATIMO Nº 410101 7670/2018
+OBJETO; AQUISIÇÃO EMERGE DE CORRELATOS.
+.A Comissão de Abastecimento da UNCISAL, jnstituída pela PORTARIA UNCI-
+SAL GR Nº. 1499/2018, com publicação no POE/AL de 23/10/2018, torma pública
+    
+  
+  
+ 
+ 
+   
+ 
+ 
+68; ltens vencidos:
+168; 169; 170; 171; 187; 190; Valor total (R$
+Fomecedor: PROCED MEDICAL DIS'
+ÇÕES COMERCIAIS DE EQUIPAME
+20.167,363/0001-23; Itens vencidos: 55; 60; 158; 160; Velor tota| (R$): 205.653,00,
+VALOR TOTAL DA PRESENTE COTAÇÃ 1.914.912,68.
+Para os demais fornecedores 0g resultados .cem inalterados.
+Mecció, 12 de novenbro de 2018,
+Jilvon Junior' de Barros
+Presidente da Comissão Espetial de A bastecimento
+ 
+ 
+Universidade Estadual de Alagoas (UNEAL)
+RESOLUÇÃO N.º 0006 /20 LB-CONSU/UNEAL, de 12 de nevembro de 2018.
+Define a nova sede do Campus V - União dos Palmares.
+O PRESIDENTE DO CONSELHO SUPERIOR da Universidade Estadeal de
+Alagoas - CONSU/UNEAL, no uso de suas atribuições legais c estatutárias, ad
+Teferendur, RESOLVE:
+Art. 1º, Definir que os cursos de graduação em Geografia (cod. e-Mec 106093),
+Leiras/ingtês (cod. c-Moc 106096), Letras/Português (cod. ce-Mec 106052) «
+Prdagogia (cod. e-Mec 1420814), vinculados ao Campus V - União dos Pelmares,
+passam & funcionar em sede própria, localizada as tmargens da BR-104, Km 36,
+Bairro Industrial (antiga Fazenda Cana Brava), S/N, CÉP: 57.800-000, União dos
+Palmares, Alagoas.
+An 2º, Esta resolução entra em vigor a partir da deta de us publicação.
+Sala das Sessões do Consclho Superior da Universidade Estadual de Alagoas, em
+12 de novembro de 2018
+Prof. Dr, Odilon Máximo de Morais
+Presidente do Conselho Superior - CONSU
+Protocolo 385238
+ 
+RESOLUÇÃO N.º 0007 /2018-CONSU/UNEAL, de 12 de novenibro de 2018,
+Define à nava sede do Campus VT - Maceió,
+O PRESIDENTE DO CONSELHO SUPERIOR da Universidade Estadual de
+Alagoas - CONSU/UNEAL, no uso de suas atribuições legais e estantárias, ad
+referendum, RESOLVE:
+Art. 1º, Definir que os cursos de graduação em Administração Pública (cod, e-Mec
+111302), Direito (cod. e-Mec 1365768) e Fisica (cod. e-Mec 1420043), vinculados
+20 Campus V1 - Maceió, pessam a funcionar à Rus Pedro Américo, S/N, Poço,
+Maceió, CEP nº 57025-890, Maceiô, Alagoas”.
+.ArL. 7 Esta resoloção entra em vigor 2 partir da data de sua publicação.
+Sala das Scssões do Consclho Supcrior da Univcrsidade Estadual de Alagoas, em
+12 de novembro de 2018
+Prof. Dr. Odilon Máximo de Morais
+FPresidente do Conselho Superior - CONSU
+Protocalo 386248
+ 
+ 
+ 
+   
+AMGESP - Agência de Modernização -
+da Gestão de Processos
+PROCESSO ADMINISTRATIVO Nº 4105-1282-2018
+DESPACHO PRESIDÊNCIA
+D-AMGESP-PRES-572-2018
+-À Superintendência de Licitações e Controle de Registro de Preças,
+Sabrndo que a Administração Pública não tem liberdade de escolha entre punir e
+não punir, e, tendo conhecimento de irregularidade cometida por empresas contra-
+tadas, deverá necessariamente instaurar o procedimento adequado de apuração e,
+sc for o caso, aplicar a pena cabível.
+ACOMPANHO incólune o entendimento do —DESPAÇHO PGE-PLIC Nº
+2049/2018, emitido em 10/10/2018, proferida pela Procuradoria Geral do Esta-
+do de Alagoas, fls, 4t e 42, que opinou pela ARQUIVAMENTO do processo em
+questão, após verificar n perda do objeto da Ata de Registro de Preço nº 262/2017,
+devendo os presentes autos serem ARQUIVADOS.
+Publique-se. Notifique-se. Arquive-se.
+Maceió, 08 de Novembro de 2018.
+   
+Diretor-Presidente em ExercícioSECRETARIA DE ES
+ 
+ESTADO DE ALAGOAS .
+TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+CONTRATANTE:
+ITEC
+GERÊNCIA EXECUTIVA ADMINEISTRATIVA - GEREA
+Rua Melo Moracs, 272 - CEXNTRO - MACEIÓ-AL — CEP;s 57.020-330
+FONE/FAN: (82) 3315-1542
+CNPIOS.100.0310001-38
+TERMO DE CONTRATO N* 007/2018, QUE
+ENTRE SI CELEBRAM O ESTADO DE
+ALAGOAS, POR  INTERMÉDIO DO
+INSTITUIO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO
+ESTADO DE ALAGOAS - ITEC, E À
+EMPRESA RADAR COMPUTER
+DISTRIBUIDORA EIRELT FPARA A
+AQUISIÇÃO DE AQUISIÇÃO DE MATERIAL
+DE CONSUMO PARA ARMAZENAGEM DE
+DADOS — FITA DE BACKUP E DE LIMPEZA
+PARA ATENDER AS NECESSIDADES DO
+ITEC/AL.
+Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEC, entidade da Administração Pública Indireta, inscrito no CNPJ/MF nº
+05.100.031/0001-38,
+om sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+cidade, neste ato representado por seu Diretor Presidente, Sr. José Luciano dos Santos Júnior,
+inscrito no CPF/MF s$b o nº 670.734,845-00.;
+CONTRATADA: A gnpresa RADAR COMPUTER DISTRIBUIDORA EIRELI, inscrita no
+CNEJ sob o nº 24.525
+CEP.: 03318-110, tel
+legal, Sr. Emerson Le:
+H93/0001-41 e estabelecida na Rua Arcadia, nº 39, Tatuapé, São Paulo-SP,
+fone (11) 2507-2388/ 98221-7450, representada pelo seu representante
+Indro Martins, com R.G. de nº 22669773 SSP/SP, inscrito no CPF sob o nº
+220.269,978-37, de adordo com a representação legal que lhe é outorgada.
+Os CONTRATANTE)
+PA/ITEC nº 039/2018
+PGE/GAB. Nº 2272/:
+10.520, de 2002, e
+presente Termo de Co|
+1. CLÁUSULA FRI
+armazenagem d
+1.1. O objeto do presente Termo de Contrato é a aquisição de material de consumo para :
+PROCESSO N.º 46506-02L/2016IINSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+AQUISIÇÃO DE MATERIAL
+E, nos termos do Processo nº 41506-021/2016, inclusive Despacho —
+aprovado pelo Despacho Jurídico PGE/PAI/CD nº 1225/2018 e Despacho
+18, e em observância às disposições da Lei nº 8.666, de 1993, da Lei nº
+Lei nº 8.078, de 1990 — Código de Defesa do Consumidor, celebram a
+trato, mediante as cláusulas e condições a seguir enunciadas.
+EIRA — OBJETO
+dados (Fita de Backup e de Limpeza), conforme especificações e
+TERMO DFE. CONTRATO ITEC N* 007/2018
+E CONSUMO PARA ARMAZENAGEM DE DADOS - FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL,
+ 
+% aSECRETARIA DE E
+INSTITUTO DE TECN
+quantitativos estd
+nele vencedora, i|
+ 
+ESTADO DE ALAGOAS
+íTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+LOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+ITEÇ
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Morses, 272 - CENTRO - MACEIÓ-AL - CEP: 57.020-330
+FONF/FAN: (82) 3315-1542
+CNPJ 05.100-031/0001-38
+ibelecidos no Edital do Pregão Eletrônico nº 12.090/2018 e na proposta
+hdependente de transcrição,
+1.2. Discriminação do objeto:
+ 
+Tteem
+Valor
+Unitário
+Descrição Quant Valor Total
+ 
+1.57
+RW
+Fi
+cªchos de dados
+LTO-5 — Ultim
+B RW sem
+conh)ressão e 3TB
+compressão
+dzfirr; de 2:1
+de Backup:
+400 R$127,74 R$ 51.096.00
+com
+dos
+ 
+Filal
+cart|
+ 
+Limp:
+de Limpeza:
+hchos de
+eza.
+ 
+os8 R$ 1.228,00
+ 
+ 
+[TOTAL:
+ 
+R$ 52.324,00
+ 
+ 
+ 
+2. CLÁUSULA SEGU
+A VIGÊNCIA
+D
+2.1. Este Termo dJContralo tem prazo de vigência até 31 de dezembro do corrente ano,
+contados da data
+ 
+de quando as obr'
+do art. 57, $1º, d.
+3,CLÁUSULA TERCE)
+3.1. O valor global
+trezentos e vinte e quatrd
+3.1.1. No valor acimd
+da execução cont
+previdenciários, fis
+necessários ao cump
+4. CLÁUSULA QUAR]
+PROCESSO N. 41506-021/2016
+AQUISIÇÃO DE MATERIAL ||
+de publicação do extrato contratual no Diário Oficial do Estado, a partir
+ações assumidas pelas partes serão exigíveis, sendo prorrogável na forma
+Lei nº 8.666, de 1993,
+RA -PREÇO
+presente Termo de Contrato é de R$ 52.324,00 (cinquenta € dois mil,
+reais).
+estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes
+ual, inclusive tributos ou impostos, encargos sociais, trabalhistas,
+is e comerciais incidentes, taxa de administração, frete, seguro e outros
+imento integral do objeto da contratação.
+Ê
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 607/2088
+E CONSUMO PARA ARMAZENAGEM DE DADOS - FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITECYAL, ,
+[A - DOTAÇÃO ORÇAMENTÁRIA
+&ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNQLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GCEREA
+Rua Melo Morses, 272 - CENTRO - MACEIÓ-AL - CEP; 57.020-330
+FONF/FAN: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+4,1. As despesas dedorrentes desta contratação estão programadas em dotação orçamentária
+própria, prevista no orçâmento do Estado de Alagoas, para o exercício de 2018, no Programa de
+Trabalho 19.122.0004.3001! — Manutenção das Atividades do Órgão, Fonte de Recursos
+0100000000 — Rec. do Tesouro e/ou 0291000000 — Recursos Próprios, no Elemento de Despesa
+339030 — material de prdcessamento de dados.
+5. CLÁUSULA QUINTIA - PAGAMENTO
+ 
+5.1 O pagamento será réalizado no prazo máximo de até 30 (trinta) dias, contados a partir da data
+. final do período de adimipplemento a que se referir, através de ordem bancária, para crédito em banco
+001 — Banco do Brasil] agência 1204-1, conta corrente 50087-9, favorecida a empresa RADAR
+COMPUTER DISTREBUIDORA EIREL), inscrita no CNPJ sob o nº 24.525.493/0001-41.
+ntes de despesas cujos valores não ultrapassem o limite de que trata o
+inciso II do art. 24 da Le] 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias úteis,
+contados da data da apresentação da Nota Fiscal, nos termos do art. 5º, $ 3º, da Lei nº 8.666, de
+1993.
+5.3. O pagamento somengite será autorizado depois de efetuado o “atesto” pelo servidor competente
+na nota fiscal apresent:
+  
+ 
+ 
+  
+ 
+   
+ 
+   
+   
+  
+  
+ 
+ 
+   
+5.4. Havendo erro na aplesentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou,
+ainda, circunstância quelimpeça a liquidação da despesa, como, por exemplo, obrigação financeira
+pendente, decorrente de|penalidade imposta ou inadimplência, o pagamento ficará sobrestado até
+que a Contratada proviflencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento
+iniciar-se-á após a complovação da regularização da situação, não acarretando qualquer ônus para a
+Contratante.
+5.5. Será considerada do pagamento o dia em que constar como emitida a ordem bancária para
+pagamento.
+5.6. Antes de cada pagkhmento à Contratada, será realizada consulta ao SIÇAF para verificar a
+manutenção das condi. de habilitação exigidas nalicitação.
+5.6.1. Não estando o cdntratado cadastrado no SICAF, deverão ser consultados os sítios oficiais
+emissores de certidões oj1 convocado o contratado a encaminhar documento válido que comproye o
+atendimento das exigêndias de habilitação.
+5.7. Constatando-se a si de irregularidade da Contratada, será providenciada sua notificação,
+por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou, no mesmo prazo,
+apresente sua defesa,
+ização ou sendo a defesa considerada improcedente, a Contratante deverá , <
+ponsáveis pela fiscalização da regularidade fiscal quanto à inadimplência .
+quanto à existência de pagamento a ser efetuado, para que sejam aciona:
+S5.8. Não havendo regul:
+comunicar aos órgãos r:
+da Contratada, bem com:
+NSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N; 007/2018
+E CONSUMO PARA ARMAZENAGEM DE DADOS — FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL. É y
+PROCESSO N.º 41506-021/2016)
+AQUISIÇÃO DE MATERIAL—
+ESTADO DE ALAGOAS .
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Ru Melo Moraes. 272 - CENTRO - MACEIO-AIL— CEP; 57.020-330
+FONE/FAX: (82) 318-2542
+CNPJ 05,100,035/0001-38
+os meios pertinentes e nécessários para garantir o recebimenta de seuscréditos.
+ 
+5,9, Persistindo a irregularidade, a Contratante deverá adotar as medidas necessárias à rescisão
+contratual nos autos do brocesso administrativo correspondente, assegurada à Contratada a ampla
+defesa. '
+ 
+5.10.Havendo a efetiva txecução do objeto, os pagamentos serão realizados normalmente, até que
+se decida pela rescisão do contrato, caso a Contratada não regularize sua situação.
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+5.11. Somente por motiVo de economicidade, segurança nacional ou outro interesse público de alta
+relevância, devidamente|justificado, em qualquer caso, pela máxima autoridade da Contratante, não
+será rescindido o con em execução com a Contratada inadimplente.
+5.12. Quando do pagamgnto, será efetuada a retenção tributária prevista na legislação aplicável.
+5.12.1. A Contratada redularmente optante pelo Simples Nacional não sofrerá a retenção tributária
+quanto aos impostos e cêntribuições abrangidos por aquele regime. No entanto, o pagamento ficará
+condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário recido previsto na Lei Complementar nº 123, de2006.
+6. CLÁUSULA SEXTA — REAJUSTE EALTERAÇÕES
+6.1. O preço contratado É fixo e irreajustável.
+6.2. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de 1993.
+6.3. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial
+atualizado do contrato.
+6.4.As supressões resulthintes de acordo celebrado entre as partes Contratantes poderão exceder o
+limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+7. CLÁUSULA SÉTIMA - ENTREGA E RECEBIMENTO DO OBJETO
+7.1. O prazo de entregá dos bens deverá ocorrer no prazo máximo de 30 (trinta) dias, após o
+recebimento da Ordem de Fornecimento, em remessa única, na Sede do TIEC/AL na Ruva Cincineto Pirto, º
+7.2. Os bens serão recebidos provisoriamente no prazo de 5(cinco) dias úteis, pelo responsável pclc; 1
+alização do contrato, para efeito de posterior verificação de sua ——*
+conformidade com as esbecificações constantes no Termo de Referência e na proposta. /
+7.3. Os bens poderão |ser rejeitados, no todo ou em parte, quando em desacordo com
+especificações e quantitátivos canstantes no Edital e na proposta, devendo ser substituídos no prazo
+PROCEFSSO N.º 41506-021/2016INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N. 5057/2018
+AQUISIÇÃO DE MATERIAL DE CONSUMO PARA ARMAZENAGEM DE DADOS - FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL. % 'VSECRETARIA DE E;
+INSTITUTO DE TECN
+conforme termo de refer
+7.4. Os bens serão re
+recebimento provisório,
+accitação mediante term|
+7.4.1. Na hipótese de a
+prazo fixado, reputar-se
+esgotamento do prazo.
+da aplicação daspennlidÇeS.
+7.5. O recebimento prov|
+pelos prejuízos resultant]
+8.1. Nos termos d.
+ 
+ESTADO DE ALAGOAS
+'TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+LOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EKI'CUTWAADM“ ISTRATIVA - CEREA
+IÓ- AL- CEP: 57.020-330
+  
+ 
+GVI'.I 05.100.031 /0001-38
+Encia, a contar da notificação da Contratada, às suas custas, sem prejuízo
+bidos definitivamente no prazo de 10(dez) dias úteis, contados do
+lapós a verificação da qualidade e quantidade do material e consequente
+circunstanciado.
+erificação a que se refere o subitem anterior não ser realizada dentro do
+Há como realizada, consumando-se o recebimento definitivo no dia do
+isório ou definitivo do objeto não exclui a responsabilidade da Contratada
+Fs da inçorreta execução do contrato.
+art. 67 da Lei nº 8.666, de 1993, será designado representante para
+8. CLÁUSULA OIEA - FISCALIZAÇÃO
+acompanhar e fiscal
+a entrega dos bens, anotando em registro próprio todas as ocorrências
+relacionadas com a dxecução e determinando o que for necessário à regularização de falhas ou
+defeitos observados.
+&.1.1. O recebiment|
+confiado a uma co
+competente.
+b de material de valor superior a R$ 80.000,00 (oitenta mil reais) será
+Inissão de, no mínimo, 3 (três) membros, designados pela autoridade
+8.2.A fiscalização delque trata este item não exclui nem reduz a responsabilidade da Contratada,
+inclusive perante tergeiros, por qualquer irregularidade, ainda que resultante de imperfeições
+técnicas ou vícios n
+Administração ou dd
+de 1993.
+8.3,. O representant|
+relacionadas com a
+funcionários eventua
+Edibitórios, e, na ocorrência desta, não implica corresponsabilidade da
+seus agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666,
+F da Administração anotará em registro próprio todas as ocorrências
+Execução do contrato, indicando dia, mês e ano, bem como o nome dos
+mente envolvidos, determinando o que for necessário à regularização das
+falhas ou defeitos ollservados e encaminhando os apontamentos à autoridade competente para
+as providências cabíveis.
+9.1 CLÁUSULA NON.
+9,1. São obrigações da
+9,1.1. Receber o obj
+PROCESSO N.º 41506-021/2016
+- OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+Vontratante:
+to no prazo e condições estabelecidas no Edital e seus anexos;
+NSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 007/2018
+AQUISIÇÃO DE MATERIAL DE CONSUMO PARA ARMAZENAGEM DE DADOS — FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL.
+ 
+—
+Ê”
+f oSECRETARIA DE E$
+ 
+ESTADO DE ALAGOAS .
+TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNQLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+9.1.2.Verificar mim
+provisoriamente coi
+fins de aceitação e r«
+9.1.3.Comunicar à
+verificadas no objet
+9,1.4. Acompanhar
+ITEC '
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+[Rua Melo Moraes, 272 - CENTRO - MACEIÓ-AL= CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+Iciosamente, no prazo fixado, a conformidade dos bens recebidos
+as especificações e quantitativos constantes do Edital e da proposta, para
+ebimento definitivo;
+ 
+ontratada, por escrito, sobre imperfeições, falhas ou irregularidades
+fornecido, para que seja substituído, reparado ou corrigido;
+e fiscalizar o cumprimento das obrigações da Contratada, através de
+comissão ou servidod especialmente designado;
+9.1.5. Efetuar o pagal
+prazo e forma estabe
+9.2. À Administração
+com terceiros, ainda
+mento à Contratada no valor correspondente ao fornecimento do objeto, no
+lecidos no Edital e seusanexos.
+não responderá por quaisquer compromissos assumidos pela Contratada
+Hque vinculados à execução do presente Termo de Contrato, tem como por
+qualquer dano causar:da terceiros em decorrência de ato da Contratada, de seus empregados,
+prepostos ou subordii
+9.3.A Contratada de|
+proposta, assumindo|
+perfeita exccução do)|
+9.3.1. Efetuar a
+quantitativos, p
+respectiva nota fi:
+lOS,
+e cumprir todas as obrigações constantes no Edital, seus anexos e sua
+como exclusivamente seus os riscos e as despesas decorrentes da boa e
+bjeto e, ainda:
+Itrega do objeto em perfeitas condições, conforme especificações,
+o e local constantes no Edital e seus anexos, acompanhado da
+tcal, na qual constarão as indicações referentes a: marca, fabricante, modeclo,
+procedência e prdzo de garantia ou validade;
+9.3.1.1. O objeto devi
+estar acompanhado do manual do usvário, com uma versão em português
+e da relação da rede de assistência técnica autorizada, quando for o caso.
+12,13el17 a27 d
+Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+9.3,2. ResponsabiliT-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos
+9.3.3. Substituir, rep:
+o objeto com aval
+9.3.4. Comunicar à Q
+data da entrega,
+devida comprovas
+9,3,5. Manter, duran
+assumidas, todas
+9.3.6. Indicar pre;
+10. CLÁUSULA DEZ | SANÇÕES ADMINISTRATIVAS
+PROCESSO N.* 415906-021/2016
+AQUISIÇÃO DE MATERI,
+ 
+a&r ou corrigir, às suas expensas, no prazo fixado neste Termo de Contrato,
+fias ou defeitos;
+ontratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a
+s motivos que impossibilitem o cumprimento do prazo previsto, com a
+Ção;
+e toda a execução do contrato, em compatibilidade com as obrigações
+as condições de habilitação e qualificação exigidas na licitação;
+osto para representá-la durante a execução do contrato.
+NSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO TDO ESTADO DE ALAGOAS
+TERMO DE CONERATO ITEC N.º 007/20
+E CONSUMO PARA ARMAZENAGEM DE DADOS
+ATENDER AS NECESSIDADES DO ITEC/AL,
+  
+A DE BACKUP E DE LIMPEZA PARA
+ 
+ 
+”
+S
+vESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNQLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rus Mclo Moraes, 272 - CENTRO - MACEIÓ-AL - CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+10.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Lei nº 10.520,
+de 2002, e da Lei IÍG, de 2013, a Contratada que: :
+10.1.1. Inexecutar tolal ou parcialmente qualquer das obrigações assumidas cm decorrência
+da contratação;
+10.1.2. Ensejar olretardamento da execução do objeto;
+10.1.3. Fraudar
+10.1.4. Comp:
+10.1.5.Cometer
+ 
+execução do contrato;
+    
+  
+    
+   
+   
+ 
+   
+    
+   
+    
+  
+   
+  
+ 
+-se de modo inidôneo;
+ide fiscal;
+10.1.6. Não mantíver a proposta;
+10.1.7. Criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar contrato
+administrativo;
+10.1.8. Obtiver v em ou benefício indevido, de modo fraudulento, de modificações ou
+prorrogações de gontratos celebrados com a administração pública, sem autorização em Ici,
+no ato convocatório da licitação pública ou nos respectivos instrumentos contratuais;
+10.1.9. Manipular o
+a administração
+10.2. A Contratada
+sujeita, sem prejuí
+4.054, de 19 de setei
+10.3. Também fica
+Contratada que:
+10.3..1. Tenha sofris
+recolhimento de
+10.3.2. Tenha p
+10.3.3. Demonstre
+atos ilícitos prati
+fraudar o equilíbrio econômico-financeiro dos contratos celebrados com
+ública.
+e cometer qualquer das infrações discriminadas no subitem acima ficará
+da responsabilidade civil e criminal, as sanções previstas no Decreto nº
+bro de 2008.
+ujeita às penalidades do art. 87, TII e TV da Lei nº 8.666, de 1993, a
+o condenação definitiva por praticar, por meio dolosos, fraude físcal no
+uaisquer tributos;
+icado atos ilícitos visando a frustrar os objetivos dalicitação;
+o possuir idonceidade para contratar com a Administração em virtude de
+as.
+10.4. A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo
+que assegurará o contraditório e a ampla defesa à Contratada, obscrvando-se o procedimento
+previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+10.5. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade
+da conduta do infratdr, o caráter educativo da pena, bem como o dano causado à Administração,
+observado o princípip da proporcionalidade.
+PROCESSO N.* 41506-021/2016 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N* 007/2018
+AQUISIÇÃO DE MATERIAL DE CONSUMO PARA ARMAZENAGEM DE DADOS — FETA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO MEC/AL. & ?/ N—iSECRETARIA DE E$
+11. CLÁUSULA ONZH
+11.1, O presente Te
+Lei nº 8.666, de 1
+das sanções aplic|
+11.2, É admissivela
+ESTADO DE ALAGOAS
+TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI!
+INSTITUTO DE TECNÓLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+1ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO - MACEIÓ-AL — CEP: 57.020-330
+FONE/FAX: (82) 3315-1542
+TNPJ 05.100,03 1/0001-38
+—RESCISÃO
+de Contrato poderá ser rescindido nas hipóteses previstas no art. 78 da
+93, com as consequências indicadas no art, 80 da mesma Lei, sem prejuizo
+veis,
+são, cisão ou incorporação da Contratada com ou em outra pessoa jurídica,
+ 
+desde que sejam|
+exigidos na lici
+Administração à
+ 
+ 
+observados pela nova pessoa jurídica todos os requisitos de habilitação
+original; sejam mantidas as demais cláusulas e condições do contrato;
+à execução do objeto pactuado e haja a anuência expressa da
+'ontinuidade do contrato.
+11.3. Os casos de resdisão contratual serão formalmente motivados, assegurando-se à Contratada
+o direito à préviale ampla defesa.
+11.4. A Contratada nhece os direitos da Contratante em caso de rescisão administrativa
+prevista no art, 7
+11.5. O termo de
+conforme o caso:
+11.5.1. Balanço d
+11.5.2. Relação d
+11.5.3. Indenizaçõs
+12. CLÁUSULA DOZ.
+12.1. É vedado à
+12.1.1. Caucionar ou
+12.1.2.Interromper d
+13, CLÁUSULA TRE;
+14.1.Os casos omi.
+nº 8.666, de 1993,
+administrativos, além
+Código de Defesa do|
+14,1. Incumbirá à C)
+15, CLÁUSULA QUIN:
+PROCESSO N* 41506-021/2016
+AQUISIÇÃO DE MATERIAL 4
+ 
+    
+ 
+Diário Oficial do Estldo, no prazo previsto na Lei nº 8.666, de 1993.
+da Lei nº 8.666, de 1993.
+scisão será precedido de Relatório indicativo dos seguintes aspectos,
+eventos contratuais já cumpridos ou parcialmente cumpridos;
+pagamentos já cfetuados e ainda devidos;
+emultas.
+utilizar este Termo de Contrato para qualquer operação financeira;
+execução contratual sob alegação de inadimplemento por parte da
+Contratante, salvá nos casos previstos em lei.
+— DOS CASOS OMISSOS.
+Is serão decididos pela Contratante segundo as disposições contidas na Lei
+Lei nº 10.520, de 2002, e nas demais normas de licitações e contratos
+de, subsidiariamente, as disposições contidas na Lei nº 8.078, de 1990 —
+Consumidor, e normas e princípios gerais dos contratos.
+14. CLÁUSULA QUATDRZE - PUBLICAÇÃO
+bntratante providenciar a publicação deste instrumento, por extrato, no
+EE - FORO
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+| TERMO DE CONTRATO ITEC N.º 007/2018
+E CONSUMO PARA ARMAZENAGEM DE DADOS - FITA DE BACKUTP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL,
+ 
+ 
+T
+FP
+YESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECN
+LOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+ITEÇ
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Moraes, 272 - CENTRO — MACEIÓ-AL — CEFP; 57.020-330
+ 
+ 
+FON (82) 3315-1542
+CNPJ 05,100.031/0001-38
+15.1. O Foro para salucionar os litígios que decorrerem da execução deste Termo de Contrato
+Maceió - AL.
+será o da Comarca d:
+Para firmeza e validadeido pactuado, o presente Termo Aditivo foi lavrado em 3 vias de igual teor,
+o qual, depois de lido elachado em ordem, vai assinado pelos contratantes.
+Maceió (AL), em/Z/ q
+Mf'h_vi;ª' de 2018
+LS
+Ã?Wmí ”
+CONTRATADA
+dobica Lnh
+À
+aa Gn
+TESTEMUNHA êô()ggnªá/_í//?ff
+e S 2
+TESTEMUNHA [3
+FrrNº f TAALEN AQ,
+ 
+PROCESSO N." 41506-621/2016 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 8487/2018
+AQUISIÇÃO DE MATERIAL UE CONSUMO PARA ARMAZENAGEM DE DADOS — FITA DE BACKUP E DE LIMPEZA PARA
+ATENDER AS NECESSIDADES DO ITEC/AL.Diário Oficial Edição Eletrônica Certificada Digitalmente - — Maceio - segunda-feira 4 1
+Estado de Alagoas conforme LEI Nº 7.397/2012 E_ú' novembro de 2018
+ 
+ 
+Preço: O valor do presente Termo de Cq
+novecentos e cinquenta é cinco teais e oitd
+trato é de R$ R$ 1.955,80 (hum mil,
+Eta centavos).
+Data da Assinanura: 22 de novermbro de 2008
+Dotação Orçamentária: Às despesas
+Frogramadas em datação orçamentária pr|
+de Alageas, para o exercício de 2018, no
+— Munutenção das Atividades do Órgão, Fi
+“Tesouro e/ou 0291000000 - Recursos Fró)
+materia! de processamento de dados.
+Mucei6, 22 de novembro da 2018,
+JOSÉ LUCIANO DO:
+Diretor-Presid:
+EXTRATO DO CONTRATO Nº. 6977
+O ESTADO DE ALAGOAS, POR H
+TECNOLOGIA EM INFORMÁTICA H
+ALAGOAS - ITEC, E A EMPRESA RA
+EIRELL PARA A AQUISIÇÃO DE
+ecorrentes desta contratação cstão
+bpria, prevista no crçamento do Estado
+grama de Trabalho 12.122.0004,2001
+inte de Recuraos 0100000000 — Rec, do
+ios, no Elemento de Despesa 339030 —
+SANTOS JÚNIOR
+te do ITEC
+1018 QUE ENTRE $1 CELEBRAM
+IO DO INSTITUTO DE
+INFORMAÇÃO DO ESTADO DE
+AR COMPUTER DISTIIBUIDORA
+MATERIAL DE CONSUMO FPARA
+ARMAZENAGEM DE DADOS (FITA DE BACKUP E DE LIMPEZA).
+Processa Administratívo: 41506-021/2016
+“Contrato nº. 0097/2018,
+Extralo; nº, DL2/2018.
+CONTRATANTE: O Instituto de Tecnal
+Estedo êe Alagoas - ITEC, entidede da
+gia em Informática e Informação de
+Himinisiração Pública Indireta, inscrito
+to CNFI n.º 05,100.031/0001-38, com sede à Rua Dr. Cincinato Pinto, 503, CEP:
+57020-050, Certro, nesta cidade, neste to
+Sr, Jlosé Luciano dos Santos Júnior, inscrit
+fepresentado por seu Diretor-Presidente,
+no CPE/MF sob o nº 67D.7134,845-44;
+CONTRATADA: À empresa RADAR COMPUTER DISTRIBUIDORA EIRELI,
+inscrita no CNPI sob o nº 24,525,493/0
+nº 39, Tatuapé, São Paulo-SP, CEP:
+Tepresentada pelo seu representante fegal,
+[01-41 e estabelecida na Rua Arcadia,
+3318-110, telefone (11) 2507-2388,
+, Emerson Leandro Martins, com R,G.
+de nº 22669773 SSP/SP, inscrito no CPP spb o nº 220,269,978-37, de acordo com
+a representação legal que lhe é outorgada.
+Os CONTRATANTES celcbram, por fore:
+PARA A AQUISIÇÃO DE FITA DE BACJ
+pelas disposições da Lei nº 8.666/1993 e
+tes cláusulas:
+Objeto; O objeto da presente Termo de Cork
+Fitas de Backup e 08 (oito) Fitas de li
+Operações do ITEC/AL, conforme especi
+Edita! do Pregão Eletrônico nº 12.090/20!
+integram este instrumento, independente d|
+Vigência: Este Terma de Contrato tem
+corrente eno, contados da data de publicaç;
+do Estado, a partir de quando às obrigaçõe:
+sendo prorrogável na foroa do art. 57, $1º
+Preço: O valor do prescnte Termo de Cont
+dois mi), trezentos e vinte e quatro reais).
+Data da Assinarura: 22 de novembro de 20]
+Dotação Orçamentária: As despesas
+programadas em dotação orçamentária pra
+de Alagoas, para 0 exerclcio de 2018, no H
+— Manutenção das Atividades do Órgão, F.
+Tesouro c/ou 0291000600 — Recursos Prógs
+material de processamento de dados,
+ 
+Macei6, 22 de novembro de 2018.
+JOSÉ LUCIANO DOS
+  
+   
+  
+  
+  
+do présente instrumento, CONTRATO
+UP E DE LIMPEZA, o qual sc regerá
+lemais normas pertinentes, medinnte 2s
+[rato é a aquisição de 400 (quatrocentos)
+Ses e quantitativos estabelecidos no
+e na proposta nele vencedora, os quais
+anserição. *
+20 de vigência até 31 de dezembro do
+do extrato contratual no Diário Oficial
+assumídas pelas partes serão exigíveis,
+da Lei nº 8.666, de 1993.
+fato € de R$ R$ 52,324,00 (cinquenta e
+8.
+Hecomentes desta contratação estão
+fpria, prevista no orçamento do Estado
+Ffagrama de Trabalho 19.122.0004,200]
+Ínte de Recursos 0100000009A — Rec. do
+Fios, no Elemento de Despesa 229030 —
+|SANTOS JÚNIOR
+Diretor-Presidepte do TTEC
+——
+Instituto de Proteção e K
+PRO:
+PORTARIA/PROCG
+O DIRETOR-PRESIDENTE, no uso de sul
+no Decreto Nº 4,076, de 28 de novembro
+setermbro de 2015, e no Processo nº 54057;
+em favor do servidor:
+Nome: Vanessa de Albuquerque Amorim
+Cargo: Gerente de Cartório, Controle de Pi
+CPF: 049.558.654-70
+Nº de Diárias: 1/2 diária(s)
+fn —
+efésa do Consumidor -
+ON
+N Nº 108/2018*
+És atribuições legais, com embasamento
+2008 c/c Decreto Nº 43,794, de 15 de
+128/2018, RESOLVE conceder diárias
+&s
+poessor eDivida Ativa
+ 
+ipeza pore utilização de Gerência de ,
+Velor Unitário: R$ 70,20 (resis)
+Valor Total: R$ 35,00 (ceais)
+Período: de 19/09/20138 até 19/09/2018
+Destino: Delmiro Gouveia/AL.
+Qbjetivo: Resliza audiência,
+(As despesas decorrentes da presente portaria correrão através do Procrama de
+Trabalho — 14.122.0004.200] - Manutenção das atividades do Órgão - Fonte 0100,
+Elemento de Despesa 3390-14, diárias
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR — FROCON-AL,
+Macei6/AL, 10 de setembro de 2018,
+GALBA NOVAIS DE CASTRO NETTO
+Diretor-Presidente
+“*Republicado por incorreção
+PORTARIA/PROCON Nº 148/2018*
+O DIRETOR-PRESIDENTE, no uso de suas atribuições Jcgais, com cmbasemento
+no Decreto Nº 4.076, de 28 de novembro de 2008 c/e Decreto Nº 43.794, de 15 de
+setembro de 2015, e no Processo nº 540573-135/2018, RESOLVE conceder diárias
+em favor do servidor:
+Nome: Maria Eugenia Barros de Castro
+(Cargo: Assessora de Comunicação
+CPF: 777.179.534-04
+Nº de Diárias: 1/2 diárie(s).
+Valor Unitário: R$ 70,00
+WValor Total: R$ 35,00 (reais)
+Período: de 28/09/2018 até 28/09/2018
+Destine: Arapiraca-AL —
+“Objetivo: Acompenhar a realização de atendimentos é analisar polos.
+ 
+   
+As despesas decorrentes da presente partaria correrão otravés do Programa de
+Trabalho — 14,122.0004.200] - Manvtenção das atividades do Órgão - Fonte 0100,
+Elemento de Despesa 3390-14, diárias
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON-AL,
+Macci6vAL, 18 de setembro de 2013.
+'GALBA NOVAIS DE CASTRO NETTO
+Diretor-Presidente
+*Republicado por incorreção
+PORTARIA/PROCON Nº 149/2018*
+O DIRETOR-PRESIDENTE, no uso de suas atribuições legais, com embasamento
+no Decreto Nº 4,076, de 28:de novembro de 2008 cc Decreto Nº 43.794, de 15 de
+setembro de 2015, e no Processo nº 54D573-135/2018, RESOLVE conceder diárias
+em favor do servidar:
+Neme: Maria Eugenia Barros de Casiro
+Cargo: Assessora de Comunicação.
+CPF: T77.179.534-04
+Nº de Diáries: 1/2 diária(s)
+Valor Unitário: R$ 70,00 (resis)
+Valor Total: R$ 35,00 (renis)
+Poríodo: de 04/09/2018 até 04/09/2018
+Destino: Arapiraca-AL.
+Objetivo: Acompanhar a renlização de atendimentos « analisar polos,
+As desposas decorrentes da presente portarie correrão através do Programa de
+Trabalho — 14,122.0064.2001 - Manutenção das atividades do ºrg,ín - Fonte 0100,
+Elemento do Despesa 3390-14, diárias
+ 
+ 
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON-AL,
+Macci6/AL, 18 de setembro de 2018.
+GALBA NOVAIS DE CASTRO NETTO
+1- — Diretor-Presidente
+*Republicado por incorreçãoSECRETARIA DE ES
+ 
+INSTITUTO DE TECNÓLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+CONTRATANTE: Q
+TIEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+lRua Melo Moraes, 272 - CENTRO - MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+TERMO DE CONTRATO Nº 008/2018, QUE
+ENTRE SI CELEBRAM O ESTADO DE
+ALAGOAS, FOR INTERMÉDIO DO
+INSTITUIO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO
+ESTADO DE ALAGOAS - ITEC, E À
+EMPRESA ALIANZA MATERIAIS DE
+INFORMÁTICA E ESCRITÓRIO LTDA. - ME
+PARA DE AQUISIÇÃO DE MATERIAL DE
+CONSUMO DE ETIQUETAS PARA
+CARTUCHOS DE DADOS E CARTUCHOS DE
+LIMPEZA COM CÓDIGO DE BARRAS PARA
+ATENDER AS NECESSIDADES DO ITEC/AL.
+Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEC, entidade da Administração Pública Indireta, inscrito no CNPI/MF nº
+05.100.031/0001-38, d
+cidade, neste ato reprd
+bm sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+(sentado por seu Diretor Presidente, Sr. José Luciano dos Santos Júnior,
+inscrito no CPE/MF sob o nº 670.734.845-00.;
+CONTRATADA: A|
+ESCRITÓRIO LTD.
+Rua Henrique Horta,
+PA/ITEC nº 039/2018,
+PGE/GAB. Nº 2272/2
+10.520, de 2002, e da)
+presente Termo de Co
+Oos CONTRATANTEÍ;
+1. CLÁUSULA PRIM
+1.1. O objeto do pr«
+PROCESSO N.º 41506-521/20
+6
+AQUISIÇÃO DE MATERIAL DE CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+coM
+    
+    
+ 
+ 
+empresa ALIANZA MATERIAIS DE INFORMÁTICA E
+- ME, inscrita no CNPJ sob o nº 27,585.607/0001-37 e estabelecida na
+* 231, Planalto, Belo Horizonte/MG, CEP:: 31.720-400, telefone (31)
+pelo seu representante legal, Sra. Lidiane da Silva Morais, com R.G. de
+inscrito no CPF sob o nº 054.445,706-45, de acordo com a representação
+nos termos do Processo nº 41506-021/2016, inclusive Despacho —
+provado pelo Despacho Jurídico PGE/PAUCÇD nº 1225/2018 e Despacho
+18, e em observância às disposições da Lei nº 8.666, de 1993, da Lei º
+[Lei nº 8.078, de 1990 — Código de Defesa do Consumidor, celebram o
+ttrato, mediante as cláusulas e condições a seguir enunciadas.
+[EIRA — OBJETO
+sente Termo de Contrato é a aquisição de material de consumo para
+TERMO DE CONTRATO ITEC N.* 008/2018
+IGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL.
+2Á
+ 
+TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+ISTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS %
+ÀSECRETARIA DE ES
+ 
+  
+ESTADO DE ALAGOAS
+ 
+ITADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNGLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+armazenagem de|
+código de barras
+Pregão Eletrôni
+transcrição.
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+[Rua Melo Moraes, 277 - CENTRO — MACEIÓ-AL - CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05,100.031/0001-38
+dados (Etiquetas para cartuchos de dados e cartuchos de limpeza com
+, conforme especificações e quantitativos estabelecidos no Edital do
+o nº 12.090/2018 e na proposta nele vencedora, independente de
+1.2. Discriminação do objeto:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ttem Descrição Quant Valor Valor Total
+Unitário
+Etiquetas para
+cartuchos de dados
+4 e uchos — de 508 R$3,85 R$ 1.955,80
+lim) com
+código de barras.
+[TOTAL: R$ 1.955,80
+2. CLÁUSULA SEGUNDA - VIGÊNCIA
+2.1. Este Termo de
+contados da data de
+de quando as obri
+do art. 57, $1º, da
+3.CLÁUSULA TERCE
+3.1. O valor global
+cinquenta e cinco e oiten|
+3.1.1. No valor acim:
+da execução con
+previdenciários, fi
+mecessários ao cump:
+Contrato tem prazo de vigência até 31 de dezembro do corrente ano,
+publicação do extrato contratual no Diário Ofiícial do Estado, a partir
+pações assumidas pelas partes serão exigíveis, sendo prorrogável na forma
+Lei nº 8.666, de 1993.
+—-PREÇO
+presente Termo de Contrato é de R$ 1.955,80 (hum mil, novecentos e
+ta centavos).
+estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes
+, inclusive tributos ou impostos, encargos sociais, trabalhistas,
+is € comerciais incidentes, taxa de administração, frete, seguro e outros
+imento integral do objeto da contratação.
+ 
+4.1. As despesas dec
+própria, prevista no or
+Trabalho 19.122.0004,
+0100000000 — Rec. do
+PROCESSO N.º 41506-021/2016
+AQUISIÇÃO DE MATERIAL,
+COMC:
+ 
+ 
+    
+ 
+ento do Estado de Alagoas, para o exercício de 2018, no Programa de
+01 — Manutenção das Atividades do Órgão, Fonte de Recursos
+rrentes desta contratação estão programadas em dotação orçamentária Í
+souro e/ou 0291000000 — Recursos Próprios, no Elemento de Despesa
+DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS Qm
+TERMO DE CONTRATO ITEC N.º 008/2018
+CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+IDIGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL." ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNÓLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+1TEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+|Rux Meto Moraes, 172 - CENTRO — MACEIÓ-AL — CEP; 57,020-336
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+339030 -- material de prdcessamento de dados.
+5, CLÁUSULA QUINTA - PAGAMENTO
+5.1 O pagamento será rdalizado no prazo máximo de até 30 (trinta) dias, contados a partir da data
+final do período de adimblemento a que se referir, através de ordem bancária, para crédito em banco
+001 — Banco do Brasll, agência 4283-8, conta 25.436-3, favorecida a empresa ALIANZA
+MATERIAIS DE INFÓRMÁTICA E ESCRITÓRIO LTDA. - ME, inscrita no CNPJ sob o nº
+27.585.607/0001-37,
+5.2 Os pagamentos decotrentes de despesas cujos valores não ultrapassem o limite de que trata o
+inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias úteis,
+contados da data da aprdsentação da Nota Fiscal, nos termos do art. 5º, $ 3º, da Lei nº 8.666, de
+1993.
+5.3. O pagamento somerite será autorizado depois de efetuado o “atesto” pelo servidor competente
+na nota fiscal apresentadh.
+5.4, Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à contratação, ou,
+ainda, circunstância que impeça a liquidação da despesa, como, por exemplo, obrigação financeira
+pendente, decorrente de penalidade imposta ou inadimplência, o pagamento ficará sobrestado até
+que a Contratada providencie as medidas saneadoras. Nesta hipótese, o prazo para pagamento
+iniciar-se-á após a comptovação da regularização da situação, não acarretando qualquer ônus para a
+Contratante.
+5.5, Será considerada da
+pagamento.
+ 
+    
+ 
+   
+   
+ 
+ 
+   
+  
+  
+ 
+  
+  
+a do pagamento o dia em que constar como emitida a ordem bancária para
+À agâmento à Contratada, será realizada consulta ao SICAF para verificar a
+manutenção das condições de habilitação exigidas na licitação.
+5.7. Constatando-se a si
+por escrito, para que,
+apresente sua defesa.
+5.8. Não havendo regularização ou sendo a defesa considerada improcedente, a Contratante deverá
+comunicar aos órgãos retponsáveis pela fiscalização da regularidade fiscal quanto à madlmplenma o
+da Contratada, bem comd quanto à existência de pagamento a ser efetuado, para que sejam acionados =«
+os meios pertinentes e nécessários para garantir o recebimento de seuscréditos. B/
+5.9. Persistindo a irregmilaridade, a Contratante deverá adotar as medidas necessárias à rescis!
+b prazo de 10 (dez) dias, regularize sua situação ou, no mesmo prazo,
+  
+UTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 0Os/2018
+AQUISIÇÃO DE MA'I'ERIAL E CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA&
+PROCESSO N.º 41506-0212016 [NS
+ÁDIGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL.ESTADO DE ALAGOAS
+ADO DA CIÊNCIA, DA TECNOLOGIA E DA IN OVAÇÃO-SECTI
+LOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS -
+TrEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+[Rua Melo Morses, 272 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 33151542
+CNPJ 05,100.031/0001-38
+contratual nos autos do brocesso administrativo correspondente, assegurada à Contratada a ampla
+defesa.
+5.10.Havendo a efetiva dxecução do objeto, os pagamentos serão realizados normalmente, até que
+se decida pela rescisão db contrato, caso a Contratada não regularize sua situação.
+5.11. Somente por motivp de economicidade, segurança nacional ou outro interesse público de alta
+relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da Contratante, não
+SECRETARIA DE
+INSTITUTO DE TECN
+ 
+será rescindido o con
+5.12. Quando do pagam:
+5.12.1. A Contratada
+quanto àos impostos e
+condicionado à apresent
+tratamento tributário fav|
+ 
+   
+ 
+  
+em execução com a Contratada inadimplente.
+into, será efetuada a retenção tributária prevista na legislação aplicável.
+armente optante pelo Simples Nacional não sofrerá a retenção tributária
+ntribuíções abrangidos por aquele regime. No entanto, o pagamento ficará
+to de comprovação, por meio de documento ofícial, de que faz jus ao
+recido previsto na Lei Complementar nº 123, de 2006.
+6. CLÁUSULA SEXTA|-- REAJUSTE EALTERAÇÕES
+6.1. O preço contratado
+6.2, Eventuais alterações
+É fixo e irreajustável.
+contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de 1993.
+6.3. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+supressões que se fizerer)
+atualizado do contrato.
+6.4.As supressões resul:
+limite de 25% (vinte e c
+7.1. O prazo de entre:
+h necessários, até o limite de 25% (vinte e cinco por cento) do valor inícial
+ites de acordo celebrado entre as partes Contratantes poderão exceder o
+por cento) do valor inicial atualizado do contrato.
+dos bens deverá ocorrer no prazo máximo de 30 (trinta) dias, após o
+7. CLÁUSULA SÉTLâ - ENTREÇA E RECEBIMENTO DO OBJETO
+recebimento da Ordem
+56, Centro, CEP: 5020050
+Fornecimento, em remessa única, na Sede do ITEC/AL na Rua Cincinsio Pino, º
+ 
+7.2. Os bens serão receb
+acompanhamento e fi
+conformidade com as es)
+7.3. Os bens poderão
+da aplicação das penali:
+PROCESSO N.* 41506-021/2016)|
+AQUISIÇÃO DE MATERIAL
+CcoM
+   
+   
+   
+  
+  
+  
+   
+provisoriamente no prazo de 5(cinco) dias úteis, pelo responsável pelo
+ização do contrato, para efeito de posterior verificação de sua
+ificações constantes no Termo de Referência e na proposta.
+ivos constantes no Edital e na proposta, devendo ser substituídos no prazo
+cia, a contar da notificação da Contratada, às suas custas, sem prejuízo,
+'DE TECROLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º B08/2018
+E CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS É CARTUCHOS DE LIMPEZA
+IGO DE BARRAS PARA ATENDER AS NECESSIDADES DO IFEC/AL, .&/ ª
+rejeitados, no todo ou em parte, quando em desacordo com as ?
+EESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÉNC]A, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+|Rus Melo Mornes, 272 — CENTRO - MACEIÓ-AL — CEP; 57,020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.03]/0801-38
+7.4, Os bens serão redebidos definitivamente no prazo de t0(dez) dias úteis, contados do
+recebimento provisório, a verificação da qualidade e quantidade do material e consequente
+aceitação mediante term$ circunstançiado,
+7.4.1. Na hipótese de a Yerificação a que se refere o subitem anterior não ser realizada dentro do
+prazo fixado, reputar-setlá como realizada, consumando-se o recebimento definitivo no dia do
+esgotamento do prazo.
+7.5. O recebimento prí io ou definitivo do objeto não exclui a responsabilidade da Contratada
+pelos prejuízos resultantás da incorreta execução do contrato.
+8. CLÁUSULA OITAVA - FISCALIZAÇÃO
+8.1. Nos termos do art. 67 da Lei nº 8.666, de 1993, será designado representante para acompanhar
+e fiscalizar a entrega dos|bens, anotando em registro próprio todas as ocorrências relacionadas com
+a execução e determi: lo o que for necessário à regularização de falhas ou defeitos observados.
+8.1.1. O recebimento de Inaterial de valor superiar a R$ 80.000,00 (oitenta mil reais) será confiado
+a uma comissão de, no nínimo, 3 (três) membros, designados pela autoridade competente.
+8.2.A fiscalização de que trata este item não exclui nem reduz a responsabilidade da Contratada,
+inclusive perante terceinos, por qualquer irregularidade, ainda que resultante de imperfeições
+técnicas ou vícios redibitórios, e, na ocorrência desta, não implica corresponsabilidade da
+Administração ou de seús agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de
+1993.
+8,3. O representante da Atiministração anotará em registro próprio todas as ocorrências relacionadas
+com a cexcecução do corktrato, indicando dia, mês e ano, bem como o nome dos funcionários
+eventualmente envolvi. determinando o que foz necessário à regularização das falhas ou defeitos
+observados e encami os apontamentos à autoridade competente para as providências cabíveis.
+9,1 CLÁUSULA NONA|- OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA
+9.1, São obrigações da Clontratante:
+9,1.1. Receber o objeto no prazo e condições estabelecidas no Edital e seus anexos;
+9,1.2. Verificar minutiosamente, no prazo fixado, a conformidade dos bens recebidos
+provisoriamente com las especificações e quantitativos constantes do Edital e da proposta, para %
+fins de aceitação e :bimento definitivo;
+9.1.3.Comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidade:
+verificadas no objeta fornecido, para que seja substituído, reparado ou corrigido;
+PROCESSO N.º 41506-021/2016 TTUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 408/2018
+AQUISIÇÃO DE MATERIAL DKÊ CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+coMm IGODE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL, &
+ 
+PESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA IN OVAÇÃO-SECTI
+INSTITUTO DE TECNGOLOGIA EM INFORMÁ'I'[CA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+TITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+Rua Melo Maraes, 272— CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3918-1547
+“CNPJ 05.100.031/0001-38
+9.1.4. Acompanhar |e fiscalizar o cumprimento das obrigações da Contratada, através de
+comissão ou servído4 especialmente designado;
+9,1.5. Efetuar o pagamento à Contratada no valor correspondente ao fornecimento do objeto, no
+prazo e forma estabejecidos no Edital e seus anexos.
+  
+não responderá por quaisquer compromissos assumidos pela Contratada
+com terceiros, ainda que vinculados à execução do presente Termo de Contrato, bem como por
+qualquer dano causa
+prepostos ou subordi
+9,3.A Contratada deye cumprir todas as obrigações constantes no Edital, seus anexos e sua
+proposta, assumindo|como exclusivamente seus os riscos e as despesas decorrentes da boa e
+perfeita execução do bbbjeto e, ainda:
+9.3.1. Efetuar a eptrega do objeto em perfeitas condições, conforme especificações,
+quantitativos, prbzo e local constantes no Edital e seus anexos, acompanhado da
+respectiva nota fidcal, na qual constarão as indicações referentes a: marca, fabricante, modelo,
+procedência e prazo de garantia ou validade;
+9,3.1.1. O objeto devá estar acompanhado do manual do usuário, com uma versão em português
+€ da relação da reile de assistência técnica autorizada, quando for o caso.
+9,3.2. Responsabil
+12,13617a27
+-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos
+Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+OU corri glr às suas expensas, no prazo fixado neste Termo de Contrato,
+data da entrega, d
+devida comprovadão;
+9.3.5. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações
+assumidas, todas hs condições de habilitação e qualificação exigidas na licitação;
+9,3.6. Indicar preposto para representá-la durante a execução do contrato.
+ 
+10. CLÁUSULA DEZ -|SANÇÕES ADMINISTRATIVAS
+10.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Leinº10,520, — ,
+de 2002, e da Lei 12.846, de 2013, a Contratada que: %
+10.1.1. Inexecutar tothl ou parcialmente qualquer das obrigações assumidas em decorrência
+da contratação;
+10.1.2. Ensejar o fetardamento da execução do objeto;
+'O DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.* 408/2018
+AQUISIÇÃO DE MAmIALl'I CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+ÓDIGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL. % ª
+PROCESSO N." 41506-021/2016 INSSECRETARIA DE ES
+INSTITUTO DE TECNQ
+10.1.3. Fraudar n
+10.1.4. Compoi
+10.1.5.Cometer
+10.1.6. Não manti
+ 
+ 
+ESTADO DE ALAGOAS
+ITADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+LOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+FTEC
+  
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+|Rua Mela Moraes, 277 - CENTRO — MACEIÓ-AL — CEP; 57.020-330
+FONE/FAX: (82) 3315-1542
+execução do contrato;
+-se de modo inidôneo;
+tude fiscal;
+[ver a proposta;
+10.1.7. Criar, de modb fraudulento ou irregular, pessoa jurídica para celebrar contrato
+administrativo;
+10.1.8. Obtiver va
+ou benefício indevido, de modo fraudulento, de modificações ou
+prorrogações de %ntmxos celebrados com a administração pública, sem autorização em lei,
+no ato convocatótio
+10.1.9. Manipular ou|
+da licitação pública ou nos respectivos instrumentos contratuais;
+Ifraudar o equilíbrio econômico-financeiro dos contratos celebrados com
+a administração phblica,
+10.2. A Contratada q
+sujeita, sem prejuízo
+4.054, de 19 de setem
+he cometer qualquer das infrações discriminadas no subitem acima ficará
+da responsabilidade civil e criminal, as sanções previstas no Decreto nº
+lbro de 2008.
+10.3. Também fica Sujeita às penalidades do art. 87, 1M e IV da Lei nº 8.666, de 1993, a
+Contratada que:
+ 
+10.3..1. Tenha soffri.
+recolhimento de
+10.3.2. Tenha
+10.3.3. Demonstre n
+atos ilícitos pratic)
+10.4. A aplicação de
+que assegurará o ço
+previsto na Lei nº
+10.5. À autoridade
+ 
+  
+  
+   
+   
+ 
+8.6
+condenação definitiva por praticar, por meio doltosos, fraude fiscal no
+luaisquer tributos;
+icado atos ilícitos visando a frustrar os objetivos da licitação;
+possuir idoneidade para contratar com a Administração em virtude de
+Os.
+|quer das penalidades previstas realizar-se-á em processo administrativo
+Iditório e a amplia defesa à Contratada, observando-se o procedimento
+, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+ipetente, na aplicação das sanções, levará em consideração a gravidade
+da conduta do infratog, o caráter educativo da pena, bem como o dano causado à Administração,
+observado o princípis
+da proporcionalidade.
+ 
+11. CLÁUSULA ONZE |- RESCISÃO
+11.2. Éadmissivela
+desde que sejam
+PROCESSO N.* 41506-021/2016
+  
+  
+  
+,, cisão ou incorporação da Contratada com ou em outra pessoa jurídica,
+rvados pela nova pessoa jurídica todos os requisitos de habilitação
+'O DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.º 908/2018
+AQUISIÇÃO DE MATERIAL DE CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+CcoM
+  
+IGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC!/AL.
+ZSECRETARIA DE ES
+INSTITUTO DE TECNd
+exigidos na licif
+não haja prejuí
+Administração à
+11.3. Os casos de re:
+o direito à prévia
+11.4. A Contratada
+prevista no art, 71
+ 
+ESTADO DE ALAGOAS
+(TADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+LOGIA EM INFORMÁTICA E lNFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+fRus Melo Moracs, 172—C!.N'I'RO—BIIAWML-CIP5 357T.020-330
+FONE/FAX: (82) 3315-1542
+CNPJ 05.100.031/0001-38
+o original; sejam mantidas as demais cláusulas e condições do contrato;
+to à execução do objeto pactuado e haja a anuência expressa da
+ontinuidade do contrato.
+isão contratual serão formalmente motivados, assegurando-se à Contratada
+ampla defesa,
+nhece os direitos da Contratante em caso de rescisão administrativa
+da Lei nº 8,666, de 1993.
+11.5. O termo de ráscisão será precedido de Relatório indicativo dos seguintes aspectos,
+conforme o caso:
+11.5.1. Balanço dok; eventos contratuais já cumpridos ou parcialmente cumpridos;
+11.5.2. Retação do|
+11.5.3. Indenizaçõ
+12. CLÁUSULA DO:
+12.1. É vedado à
+12.1.1. Caucionar ou
+12.1.2.Interromper
+Contratante, salv
+14,1,Os casos omi:
+pagamentos já efetuados e ainda devidos;
+s emultas. —
+VEDAÇÕES
+ntratada:
+ 
+ilizar este Termo de Contrato para qualquer operação financeira;
+execução contratual sob alegação de inadimplemento por parte da
+nos casos previstos em fei.
+serão decididos pela Contratante segundo as disposições contidas na Lei
+13. CLÁUSULA TRF;'ZÉ — DOS CASOS OMISSOS.
+nº 8,666, de 1993,
+administrativos, além
+Lei nº 10.520, de 2002, e nas demais normas de licitações e contratos
+de, subsidiariamente, as disposições contidas na Lei nº 8.078, de 1990 —
+Código de Defesa do |Consumidor, e normas e princípios gerais dos contratos,
+14. CLÁUSULA QUAT|
+14.1. Incumbirá à C«
+DRZE — PUBLICAÇÃO
+ntratante providenciar a publicação deste instrumento, por extrato, no
+Diário Ofícial do Estádo, no prazo previsto na Lei nº 8.666, de 1993
+15. CLÁUSULA QU]NÍÍ —-FORO
+15.1. O Foro para sol
+será o da Comarca de;
+Para firmeza e validade
+o qual, depois de lido e
+ionar os litigios que decorrerem da execução deste Termo de Contrato
+Maceió - AL.
+hchado em ordem, vai assinado pelos contratantes.
+—
+Ho pactuado, o presente Termo Aditivo foi lavrado em 3 vias de igual tenr%
+PROCESSO N.º 41506-021/2016 ThsTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS %l
+AQUISIÇÃO DE MATERIAL D
+TERMO DE CONTRATO ITEC N.* 808/2015
+CONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+COM CÓDIGO DE BARRAS PARA ATENDER AS NECESSIDADES DO ITEC/AL,
+ 
+7':—' : .
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO-SECTI
+INSTITUTO DE TECNQLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+TITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+[Rua Melo Moraes, 272 - CENTRO - MACEIÓ-AL - CEP; 57.020-330
+FONE/TAX: (82) 3915-1542
+CNPJ 05.100.031/0001-38
+Maceió (AL), em ) 3 dg* de 2018,
+CTFUL—
+CONIRATANTE
+CONTRATADA
+n SE
+ªugmm Lidiane da S. Morais
+CPF: 054,445,706-45
+tla td ds Ls
+TE sdh dd
+íàí'mum dtrEN gA 5TLCHE A
+PROCESSO N,* 41506-021/2016
+TITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS
+TERMO DE CONTRATO ITEC N.* 608/2018
+AQUISIÇÃO DE MATERIAL DHCONSUMO DE ETIQUETAS PARA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA
+COM
+IGO DE BARRAS PARA ATENDER AS NECESSIDADES DO [TEC/AL,ATR — Maceio-sogun dª—'eton Edição Eletrônica Certificada Digitalmente Diário Oficial
+E 26 de novembro de conforme LEINº 7,397/2012 -- Estado de Alagoas
+FEVEREIRORO19 * — OUTUBROPI9
+MATRÍCULA CPF NOME MATRÍCULA CPF NOME
+o 347.048,684-00 IINO DE OLIVEIRA 595 164.294.864-00 | FRANCISCO CARLOS DA SILVA
+CAVALCANTE 39 670.734.845-00 | JOSE LUCIANO DOS SANTOS JÚNIOR
+40 068.363.724-04 T MARÇIOS FERNANDO QUINTELA 4 459:286.734-34 | ROSELINE MARIA ALVIM DO
+FONSECA AMARAL LIMA
+842 190.844.984-53 ANUNCIADA DE OLIVEIRA s2 386.933.487-87 | PAULO SILVA COUTINHO
+SGUIMBRA NOVEMBRO/2019
+MaRÇOnfIO MATRÍCULA CPF NOME
+MATRÍCULA CPF NOME 43333 725.633.544-04 | DANIEL SAMPAIO SARMENTO
+503 164,428.574-68 | ALBESTO JORGE DE ALBUQUERQUE 43301 535.652.314-91 | MOISES CALHEIROS DE ALMEIDA
+PAES E 479.148.234-49 | RAYMUNDO SAMPAIO FERNANDES
+447 071 594.124-00 | GLACE FALCÃO DOS SANTOS EE Te668 25420 |RITA DE CASSIA DANTAS DE
+13555 280.289.614-87 | JOSEÁLVES BARROS ALBUQUERQUE
+636 208.410.604-44 |JOSÉ ÁMARO DO NASCIMENTO 43322 382.482.984-34 | SHEYLAR MARIA DE CAMPOS
+42 144,848.704-87 | JOSEMARY REGINA RODRIGUES t MONTEIRO
+RAMGOS 372 332.258.264-72 | TILEOBALDO VIANNA DE LIMA
+são 177.166.084-87 | MARCIA SANTANA COSTA PAES JÚNIOR
+a45 133.816.604-20 | TEREÃA CRISTINA OLEGÁRIO 43323 495.355.104-44 | LUCIANO GUIMARÃES MATA
+SOUZÁ GALVÃO DEZEMBROP019
+s 067.532.204-96 | HUGOIRAFAEL MACIAS GAZZANEO MATRÍCULA CPF NOME
+ABRILAÃO 894 604.946.034-53 | ANDRÉA MARIA TENÓRIO NAVARRO
+MATRÍCULA CPF NOME MANTA
+Em 208.742.784-49 |[EDSON GOMES DE MAGALHÃES 43320 — | 495.164264-68 * DANTEL COSTA NEVES
+s F07 75320472 |[JAILSÁNJOÃO DA SILVA 43324 495.202.374-53 | DEISE PORTO TEIXEIRA -
+8 383181 00415 [30XO L.uiz SANTOS GONÇALVES ss 051534 734-57 | LETÍCIA CARLOTA VIEIRA TENÓRIO
+sa 087.572.674-72 | SOSETE SILVESTRE DE PAULO Esta Portaria entra em vigor na data da sua publicação.
+169 087.705.064-34 | LEIDHIZABEL FERNANDES COELHO :
+sB 209.670.984-91 | LUCIÁNO UCHÕA BOTELHO INSTITUTO DE TECNOLOGIA EM INFORMATICA E INF DE ALAGOAS,
+a4st 088.431 984-91 |ROZAÍLICE CRUZ SILVA Maceió /AL, 22 de novembro de 2018
+338 239.889.754-00 | GENTNAL VANDERLEI DOS SANTOS. JOSÉ LUCIANO DOS SANTOS JÚNIOR
+335 210.199.834-34 | HÉLICICAIÉ TORRES DIRETOR-PRESIDENTE
+343 163.986.104-15 | JAKSCN CAVALCANTE DA COSTA 008/2018 QUE ENTRE Si CELEBRAM
+57 068.202 284-57 |[JOCL ALGUEIRO BEM NETO t GPÓR INTERMÉDIO DO INSTITUTO DE
+: MAIO2019 TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+MATRICULA CPF NOME ALAGOAS -1TEC, EA EMPRESA ALIANZA MATERIAIS DE INFORMÁTICA
+850 366.192.054-53 |BENEBITO DIAS E ESCRITÓRIO LTDA - ME PARA À AQUISIÇÃO DE MATERIAL DE
+697 384.92].134-72 [LUIZ JUGÊNIO DE CASTRO CONSUMO PARA ARMAZENAGEM DE DADOS (ETIQUETAS PARA
+BARRÓOCA CARTUCHOS DE DADOS E CARTUCHOS DE LIMPEZA COM CÓDIGO DE
+529 071.554.844-15 [ MARIÁ OLÍMPIA FERREIRA BARRAS). '
+SANTÂNA Processo Administrativo: 411506-021/2016.
+380 177.308.994-34 | VERALÚCIA GOMES Contrato nº. 008/2018. >
+so 052.761.124-79 [1ISAACROBERTO FERREIRA Extrato: nº. 013/2018.-—- . '
+ULHOAdS CONTRATANTE: O Instítuto de Tecnologia em Informática c Informação do
+TAATRIGULA E TOME Estado de Alagoas - ITEC, entidade da Administração Pública Indirela, inscrito
+7 no CNP) n.º 05.100.031/0001-38, com sede à Rua Dr. Cincinato Pinto, 503, CEP:
+58 298.897.404-78 | CARLÔOS FRANCISCOARAUJO AYRES | | 57020-050, Centro, nesta'cidade, neste ato zepresentado por seu Dircfor-Presidente,
+sse 240.446.524-49 | ERICKESON TADEU FERNANDES DE Sr. José Luciano dos Santos Júnior, inscrito no CPE/MF sob o nº 670,734 845-44,
+MELONNASCIMENTO CONTRATADA: A empresa ALIANZA MATERIAIS DE INFORMÁTICA
+18150 453.666.594-34 [1OSÉ WLEBERIVO E ESCRITÓRIO LTDA - ME, inscrita no CNPJ sob o nº 27,585,607/0001-37 e
+34 209.920.254-00 [JOSÉ HEREIRA BONFIM estabelecida na Rua Henrique Horta, nº 231, Planalto, Belo Horizonte-MG, CEP:
+2130 027.766.004-10 | LAURÁ ERNESTO TENÓRIO 31720-400, telefone (31) 3566-3450, representada peto seu representante legal, Sr.
+GUIMÁRÃES Lidiane ns Silva Morais, com R.G. de nº 10.654,177 SSP/MG, inserito no CPF sob
+287 F0 185 64420 [ MARIÁ VANDERLEI DOS SANTOS 0 nº 054.445,706-45, de asordo com a representação legal que lhe é outorgada.
+SARMENTO Os CONTRATANTES celebrara, por força do prescnle instrumento, CONTRATO
+Em 719357 834-87 | MIGUÉL BEZERRA DE LIMA FILHO PARA A AQUISIÇÃO DE ETIQUETAS PARA CARTUCHOS DE DADOS E
+AGOSTOADIS CARTUCHOS DE LIMPEZA COM CÓDIGO DE BARRAS, o qual se regerá
+MATRICULA c NOME f:hdgf:&ug Leial E.666/1993 e demois normas pertinentes, medianto 05
+S 077.289-124-56 | NOÉ FÉGINO DE LIMA FILHO 'Objeto: O objeto do presentê Termo de Contrato é a aquisição de 508 (quinhentos e
+SETEMBROP019 oito) etiquetas para cartuchos de daods e cartuchos de limpeza com código de barras
+MATRÍCULA CPF NOME para utilização da Gerência de Operações do ITEC/AL, conforme especificações e
+589 332541 414-15 [ARACÉLIALVES COSTA quantitativos estabelecidos no Edital do Pregão Eletrônico nº 12.090/2018 « na
+599 314,424,554-20 | GILSON ALVES proposta nele vencedora, os quais integram este instrumento, independente de
+585 151.556.764-87 | PERONIA TACINTO SOARES Iranscrição. & N
+sE 787 s37.684-87 | ADOLÃO HENRIQUE BERNARDES DE | — Visência: Este Termo de Contrato tem prazo de vigência até 31 de dezembra do
+casTHO o Estado, a arir de quendo a5 obnigações assumidas pelas pertes serto exigíveis
+= igíveis,
+s323t 994,602.704-68 | JOSE ÁLVARO DE OLIVEIRA Sendo promsogável na formi do art. S7, $1º, da Lei nº 8,666, de 1993Diário Oficial Edição Eletrônica Certificada Digita!mente Maceio - segunda-feira 4 1
+Estado de Alagoas s conforme LELNº 7,397/2012 26 de novembro de 2018 7
+ 
+ 
+ 
+ 
+Preço: Q valor do presente Termo de Contrto é de R$ R$ 1,955,80 (hum mil,
+novecentos e cinquenta e cinco reais e oitenta Fentavos);-
+Duta da Assinatura; 22 de novembro de 2018 -
+Dotação Orçamentária: As despesas decbrrentes - Testa coniratação estão
+programadas em dotação orçamentária próprih, previstá“no orçamento do Estado
+de Alagoas, para o exercleio de 2018, no Proglama de irabalho 19.122.0004.2001
+— Manutenção das Atividedes do Órgão, Fontdde Recursos 0100000000 — Rec. do
+“Tesouro e/ou 0291000000 — Recursos Própriod, no Elemento de Despesa 339030 —
+material de processamento de dados. ,
+Maceió, 22 de novembro de 2018 .
+JOSÉ LUCIANO DOS S JÚRIOR
+Diretor-Presidente Ho 1ITEC
+“REXTRATO DO CONTRATO Nº. 007/201
+O ESTADO DE ALAGOAS, POR T
+TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS - ITEC, E A EMPRESA RADAR COMPUTER DISTRIBUIDORA
+EIREL! PARA A AQUISIÇÃO DE MATERIAL DE CONSUMO PARA
+ARMAZENAGEM DE DADOS (FITA DE BACKUP E:DE LIMPEZA).
+Processo Adminisirativo: 41506-021/2016. '
+Contrato nº, 007/2018. .“
+Extrato; nº, 012/2018. .
+CONTRATANTE;: O Instituto de Tecnologid em Infornática e Informação do
+Estado de Alagoas - ITEC, entidade da Administração-Pública Indireta, inscrito
+no CNPJ n.º 05.100,031/0001-38, com sede à Rua Dr. Cincinato Pinta, 503, CEP;
+57020-050, Centro, nesta cidade, neste ato re pibsentado por seu Diretor-Presidemte,
+Sr. José Luciano dos Santos Túnior, inscrito ndfCPF/MF sob o nº 670.734.845-44,
+CONTRATADA: A cmpresa RADAR COMPLUTER DISTRIBUIDORA EIRELI,
+inscrita no CNP3 sob o nº 24,525493/0001H4] e estabelecida na Rua Arcadia,
+nº 39, Tatwapé, São Paulo-SP, CEP: 03318-110, telefone (11) 2507-2388,
+Tepresentada pelo seu representante legal, Sr. son Leandro Martins, com R.G.
+de nº 22669773 SSP/SE, inserito no CPF sob d nº 220.269.978-37, de acordo com
+a representação legal que lhe é outorgada.
+Os CONTRATANTES celebram, per força do|
+PARA A AQUISIÇÃO DE FITA DE BACK!
+pelas disposições da Lei nº 8.666/1993 e der
+seguintes cláusulas:
+Objeto: O objeto do presente Termo de Contrat
+IÉDIO DO [NSTITUTO DE
+ 
+ 
+   
+    
+   
+   
+    
+ 
+ 
+   
+ 
+  
+   
+   
+  
+   
+ 
+   
+    
+   
+   
+  
+ 
+   
+   
+resente instrumento, CONTRATO
+E DE LIMPEZA, o qual se regeré
+is normas pertinentes, mediante 2s
+é a aquisição de 400 (quatrocentos)
+para utilização da Gerência de
+:s e quantitativos estabelecidos no
+propostárnele vencedora, o0s quais
+iscrição..' *
+vigência alé 31 de dezembro do
+exirato câôntratual no Diário Oficial
+imidas pelas partes serão exigiveis,
+i nº 3.666, de 1993.
+de R$ RS 52.324,00 (cinquenta €
+Edital do Pregão Eletrônico nº 12.090/2018 e
+integram este instrumento, independente de
+Vigência: Este Termo de Contrato tem prazo
+comente ano, contados da data de publicação d
+do Fstado, a partir de quando as obrigações
+sendo prorrogável na forma do art, 57, $1º, da|
+Preço: O valor do presente Termo de Contrat.
+dois mil, trezentos c vinte e quatro reais).
+Daia da Assinalura: 22 de novembro de 2018,
+rentes desta contralação estão
+prevista no orçamento do Estado
+de Trabalho 19.122.0004.2001
+Ie Recursos 0100000000 — Rec. do
+no Elemento de Despesa 339010 —
+— Manuienção das Atividades do Órtgão, Fonte|
+Tesouro g/cu 029 1000000 — Recursos Própri
+material de processamento de dados.
+Macció, 22 de novembro de 2018.
+JOSÉ LUCIANO DOS SANTOS JÚNIOR
+Diretor-Presidente do ITEC
+ 
+Tnstituto de Proteção e Deftsa do. Consumidor -
+PROCO| 5
+PORTARIA/PROCON IOVZOÚ ”
+O DIRETOR-PRESIDENTE, na uso de suas afibuições, lfglis, com embasamento
+no Decreto Nº 4.676, de 28 de novembro de 2008 e/c Décreto Nº 43,794, de 15 de
+seternbro de 2015, € no Processo nº 540573-124/2018, RESOLVE conceder diárias
+em favor do servidor:, '
+Nome: Vanessa de Albuquerque Amorim
+Curgo: Gerente de Cartório, Controle de Procedsos e Divida Ativa
+CPF: 049.558.354-70 '
+Nº de Diárias: 1/2 diária(s)
+ 
++
+QUE ENTRE SI CELEBRAM
+Yalor Unitário: R$ 70,00 freais)
+Valor Total: R$ 35,00 (reais)
+Período: de 19/09/2018 até 19/09/2018
+Destino: Delmiso Gouveia/AL,
+Objetivo: Realizar audiência,
+As despesas decorrentes da presente portaria corierõo atravês do Programa de
+Trabalho— 14.122.0004.2001 - Manuienção das atividades do Órgão - Fonte 0100,
+Elemento de Despesa 3390-14, diárias
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR — PROCON-AL,
+Macció/AL, 10 de setembro de 2018.
+GALBA NOVAIS DE CASTRO NETTO
+Diretor-Presidente
+*Republicado por incorreção
+PORTARIA/PROCON Nº 148/2078*
+O DIRETOR-PRESIDENTE, no uso de suas atribuições Iegais, com cmbasamento
+no Decreto Nº 4.076, de 28 de novembro de 2008 c/c Decreto Nº 43,794, de 15 de
+setembro de 2015, e no Processo nº 540573-135/2018, RESOLVE conceder diárias
+em favor do servidor:
+Nome: Maria Eugenia Barros de Castro
+(Cargo: Assessora de Comunicação
+CPF: 777.179.534-04
+Nº de Diárias: 1/2 diária(s)
+“Valor Unitário: R$ 70,00 (resis)
+Valor Total: R$ 35,00 (reais)
+Período: de 28/09/2018 até 28/09/2018
+Destino: Arapiraca-Al.
+“Objetivo: Acompanhar « realização de atendimentos « analisar polos.
+As despesas decorrentes da presente portaria correrão etravés do Programa de
+Trabalho — 14,122.0004.200] - Manutenção das atividades do Órgão - Fonte DISO,
+Elemento de Despesa 3390-14, diárias
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR — PROCON-AL,
+Maceió/AL, 18 de setembro de 2018.
+GALBANOVAIS DE CASTRO NETTO
+Diretor-Presidente
+*Republicado por incorreção
+PORTARIA/PROCON Nº 149/2018*
+O DIRETOR-PRESIDENTE, no uso de suas atribuíções legais, com embaszmento
+no Decreto Nº 4.676, de 28 de novembro de 2008 c/c Decreto Nº 43,794, de 15 de
+setembro de 2015, e no Processo nº 5S40573-136/2018, RESOLVE conceder diúrias
+em favor do servidor:
+Wome: Maria Eugeniu Barros de Castro
+Cargo: Assessara de Comunicação
+CPF: 717.179.534-04
+Nº de Diárias; 172 diária(s)
+Valor Unitário; R$ 70,00 (reais)
+Valor Total: R$ 35,00 (reais)
+Perlodo: de 04/09/2018 até 04/09/2018
+Destino: Arapiraca-AL
+Objetivo: Acompanhar a realização de atcndimentos e analisar polos.
+ 
+As despesas decorrentes da presente portaria correrão através do Programa de
+Trabalho— 14.122.0004 2001 - Manutenção das atividades do Órgão - Fonte 0100,
+Elemento de Despesa 3390-14, diárias
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON-AL,
+Maceió/AL, 18 de setembro de 2018.
+GALBA NOVAIS DE CASTRO NETTO
+Diretor-Presidente
+*Republicado por incorreçãoESTADO DE ALAGOAS
+SECRETAR[AEE ESTADO DA CIÉNCLA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA — GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS — ASSTCC
+RUA MELO MORAES, 272 - CENTRI IACEIÓ- AL — CEP 57.920-330
+emall-geren.itocíád.itec.al..gov. br fones (82) 3315-1542
+CNFJ:; 05.100: 1-38
+ 
+ 
+ 
+ 
+SEGUNDO TERMO ADITIVO A4O
+CONTRATO ITEC N.º 001/20t6, QUE
+ENTRE SI CELEBRAM O ESTADO DE
+ALAGOAS, POR INTERMÉDIO DO
+INSTITUIO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO
+ESTADO ALAGOAS - ITEC, E AÀ
+EMPRESA SANTOS E SILVA SERVIÇOS
+DOMÉSTICOS LTDA — ME PARA A
+PRESTAÇÃO DE SERVIÇOS DE
+LIMPEZA;-E CONSERVAÇÃO.
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEÇ, entidade da Administração Pública Indireta, inscrito no CNPJ nº
+05.100.031/0001-08, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+cidade, neste ato Fepresentado por seu Diretor Presidente, Sr. José Luciano dos Santos Júnios,
+inscrito no CPF sdb o nº. 670.734.845-00.
+CONTRATADA| Empresa SANTOS E SILVA COMÉRCIO E SERVIÇOS
+DOMÉSTICOS LTDA-ME, inscrita no CNPJ sob n.º 07.139.196/0001-49 e estabelecida na
+Rua Manoel Maiá Nobre, 80, sala 15, Farol, Maceió-AL, CEP. 57050-120, fone: (82) 3221-
+9085, neste ato representada por seu representante legal, Sr. João do Nascimento da Silva,
+inscrito no CPF kob o nº 025.712.924-39, de acordo com a representação legal que lhe é
+outorgada por contrato social ou procuração.
+Os CONTRATANTES celebram, por força do presente instrumento, o Segundo Termo Aditivo
+ao contrato ITEC n.º 001/2016, tendo em vista o interesse do CONTRATANTE, justificado
+nos autos do Procksso Administrativo nº 41506-233/2018, e com base no Parecçer Jurídico — PA
+nº 056/ITEC — 2018, e despacho nº 002/2018 — CJUR/ITEC, mediante as seguintes cláusulas:
+ 
+  
+     
+ 
+CLÁUSULA PRIMEIRA - DO OBJETO '
+o aditivo tem como objeto a alteração do Coutralo nº 001/2016.
+111 O prazo.-
+consecutivos e
+término do prazo
+1.12. Os preços| da Contrato nº 001/2016 ficam repactuados conforme a variação dos
+componentes dos|seus custos advinda da Convenção Coletiva de Trabalho 2018 da categoria
+profissional, corrêspondentes ao exereício financeiro de janeiro de 2018, passando o preço
+mensal a R$ 13.840,60 (treze mil, oitocentos e vinte reais e sessenta centavos) e o preço global a
+vigência do Contrato nº 001/2016 fica prorrogado por mais 12 meses
+iterruptos, contados a partir de 04 (qualm) de novembro de 2018, data do
+iteriormente acordado.
+233/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+SEGUNDO TERMO ADITIVO AO CONTRATO ITEC N.º 001/2016
+PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E CONSERVAÇÃO
+PROCESSO N.º 4SECRETARIA
+INSTITUTO DE T
+&
+ESTADO DE ALAGOAS .
+E ESTADO DA CI.ENCIA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+CNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC *
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+RUA MELO MORAES, 272 - CENTRO — MACEIÓ- AL — CEP 57.020-330
+email = geres.ltec(R) Htec.al.. gov..br fone: (81) 3315-1542
+CNPJ; 05.100.03L/0001-38
+ 
+mensal a R$ 13.84
+R$ 165.847,20 (c:
+conforme Planil!
+constante do pres:
+0,60 (treze mil, oitocentos e vinte reais e sessenta centavos) e o preço global a
+to e sessenta e cinco mil, oitocentos e quarenta e sete reais e vinte centavos),
+de Formação de Custos e Formação de Preços elaboradas pelo ITTEC
+te termo aditivo
+ 
+CLÁUSULA SE
+UNDA — DA DESFESA
+2.1. À despesa de que trata o presente termo aditivo corre à conta do seguinte crédito
+orçamentário, coi
+te do orçamento do Instituto de Tecnologia em Informática e Informação
+do Estado de Aldgoas - ITEC para o exercício financeiro de 2018: Programa de Trabalho
+1912200042001 À Manutenção das Átividades do Órgão, Fonte de Recursos 0100000000 —
+recursos do tesouro e/ou fonte de recursos 0291000006 — recursos próprios, no Elemento de
+Despesa 339037/1hão de obra. .
+CLÁUSULA TE
+3.1. Ficam ratifi
+termo aditivo.
+CEIRA — DA RATIFICAÇÃO
+as todas as cláusulas do Contrato nº 001/2016 não alteradas pelo presente
+Para firmeza e validade do que foi pactuado, lavra-se o presente instrumento em 3 (três) vias de
+igual teor e forma
+representantes das
+para que surtam um só efeito, as quais, depois de lidas, são assinadas pelos
+partes, CONTRATANTE e CONTRATADA, e pelas testemunhas abaixo.
+Maceió (AL), em é deca dP Ode 2018.
+ 
+     
+F2. ;
+GU :
+L ATU
+—A
+Denta Ao 5&! DS Sento o
+CPENº Ó2E -U 2- 72837
+ 
+CPF Nº 402 ]"2209[' Ú? 4
+PROCESSO N.º 48535-”3[251. INSTITUTO DE TECNOLOGIA EM IIIWRHÃTICI E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+SEGUNDO TERMO ADITIVO AD CONTRATO ITEC-N.º 001/2016
+PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E CONSERVAÇÃO.
+Diário Oficial
+Estado de Alagoas
+ 
+idição, tmpressão e Publicação de Ala-
+04.308.336/0001-03 c estabelocida na
+a de Lourdes, Macció/Al, CEP 57052-
+, Sr. Dagoberto Costa Silva de Ome-
+Favorecido: à Empresa À Companhia de
+g025 - CEPAL, inscrita no CNPJ sob o
+Avenida Fernandes Lima, sénº, Km 7,
+OLO, representada pelo seu Dirctor Presi.
+na, inscrita no CPF sob o nº 066268 9.
+ 
+ 
+Valor: R$ 9.000,00 (nove mil rcais).
+Fundamento Legai: Artigo 24, 11 da Lei Fédera! nº 5.666/93 e Súmula Admi iniscra-
+tiva nº 43/2018 da Procuradoria Goral do Estado.
+MaceióvAL, 31 de outubro de 201%.
+ELIZEU JOSÉ RÊGO
+Direior Plesidente
+*Repubiicado por incorreção
+ 
+INMEQ - Instituto de Metrofogia e Qualidade de Alagoas
+Instituro de Metrologia e Qualidade de Al gons — INMEQVAL.
+ 
+retiva dos equipamentes de condicionsdod-s de ar pertencentes ao INMEQ/AL.
+[il setecentos e sessenta reais).
+1. 2001; elemento de despesa 3339039,
+Valor Global Anual; R$: 7,760,00 (sete
+Datação Orçamentá-ia: atividade 22.122:
+fomae 01 L.
+WVigência: 12 (doze) meses.
+Recursos: Convênio 07/2610 de 01/01/24:0, cslebrado entre o INMEQ com in-
+terveniência do Estudo de Alugaas, atravél da Secretariu de Estado da Ciência, da
+Tecnologia e da lnavação e o INMETRO.
+ 
+Daota da Assinatura: D6 de novembro de 2018.
+LUIZ PEDRO BEZARRA BRANDÃO
+Presidente INFMEQ/AL
+ 
+- - - -
+ITEC - Instituto de Tecijologia em Informática
+e Informação do Elstado de Alagoas
+PORTARIA ITEÉ Nº, 181/2028
+O Diretar-Presidente do ITEC, no uso de fuas atribuições que e conferem « Lei
+nº, 6,313 de 30 de Abril de 2002 que dispbe sobre a Estrutura Organizacional do
+Instituto de Tecnologia em Informática d Enformação do Estado de Alagoas —
+TTEC, de acordo com o Decreto nº. 645, dj 03 de Maio de 2002, que dispõe sobce
+o Regimento Intemo,
+RESOLVE
+Artigo 1º. Designar o servidor NOÉ HIGINO DE LIMA FILHO matrícula
+O51-5, ocupante do cargo de Georefie Exccutiva Adminisirativa, para
+responder pelas atribuições da servidord MARIA ANUNCIADA OLIVEIRA
+GUIMARÃES matrícula 842-7, ccupante do cargo de Gerente Exceutiva de
+Plancjamento, Orçamento, Finanças e Qontabitidade durente suas férias eno
+2016/2017, no período de 06 de ro: de 2018 à 05 de dezembro de 2018,
+Artigo 2º. Esta portaria entra em vigor na deta de sua peblicação,
+Dê ciência € cumpra-se.
+Gabinece da Presidência, em H de selembão de 2018.
+José Luciano dos|Santos Júnior
+DIRETOR-PHESIDENTE
+  
+   
+  
+   
+   
+ 
+   
+ 
+  
+ 
+  
+PORTARIA ITEG Nº, I82/2018
+'O Diretor-Presidente do ITEC, no uso de duas atribuições que lhe confezem à Lei
+nº. 6.313 de 30 de Abril de 2002 que disphe sobre a Estruture Organizaciona! do
+Insúmwio de Tccenologia em Informártica d Informação do Estado de Alagoas —
+ITEC, de acordo com o Decreta nº. (45. dd 53 de Maio de 2092, que dispõe sobre
+o Regimento Intero,
+RESOLVE
+Attigo 1º. Designar o servidor NOÉ HIGINO DE LIMA FILHO mairicula 051-
+5, ecupante do cargo de Gerente Executivk Administraúva, para responder pelas
+ições da servidora ROZA ALICE CRUZ SILVA matícula 461-8, ocupante
+do eamo de Supervisor de Planejamento |e Orçamento durente suas féries ano
+201/720178, uo periodo de 05 de novemblo de 2618 à 04 de dezernbro de 2018.
+Astigo 2". Esta portaria entra em vigor na dbta de sua publicação.
+Dê ciência e cumpra-se.
+Gabinete da Presidência, em 05 de novembro de 2018.
+José Luciano dos
+DIRETOR-PI
+ 
+Edição Eletrônica Certificada Digitalmente -
+conforme LEI Nº 7.397/2012 Ô
+ 
+Maceio - quarta-feira
+7 da novembro de 2018
+PROCESSO: 41506-451/2018
+INTERESSADO: ITEC-GERÊNCIA EXECUTIVA ADMINISTRATIVA
+ASSUNTO: PAGAMENTO , ,
+TERMO DE RECONHECIMENTO DE DÍVIDA DE DESPESA DE EXERCÍCIO
+ANTERIOR
+Em atendimento 2o que freconiza o am 57 do Decreto nº 57.404, de 31 de
+janeiro de 2018, que nomllln:l os procetimentos de reconhecimento de dívida
+de exereícios anteríores, reconheço a dívida de exercício anverior em favor da
+empresa ASSOCIAÇÃO BRASILEIRA DE ENTIDADES DE TECNOLOGIA
+DA INFORMAÇÃO E COMUNICAÇÃO - ABEP, inserita no CNPJ sob nº.:
+77.639.433/0001-16, no valor de R$ 21.600,00 (vitte é um mil e seiscentos reais),
+ande deverá ocorrer no Programa de Trabalho 19.122.0004.2001 — Manutenção
+das Atividades do Órgão, no Elemento de Despesa 339092/despesas de exercicios
+ameriores, Fonte de Recursos 0100000000 — Recuzsos do Tesouro, com base nas
+informações contidas no processo administrativo nº 41501545 1/2018,
+ 
+ 
+Maçeió, 06 de novembro de 2018.
+José Lucíano dos Santos Júnior
+Diretor-Presidente do ITEC
+EXTRATO DO SEGUNDO TERMO ADITIVO AO CONTRATO ITEC
+Nº 00L20/6 PARA ?mrsrAcAo DE SERVIÇOS DE LIMPEZA E
+CONSERVAÇÃO QUE'ENTRE SI CELEBRAM O INSTITUTO DE
+TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS - TIEC E À EMPRESA SANTOS E SILVA COMÉRCIO E
+SERVIÇOS DOMÉSTICOS LTDA-ME.
+Processo Administrativo: 41506-233/2018
+Contrato: nº. ITEC-SO1/2016
+Exirato: nº,008/2018 — ,
+CONTRATANTE: O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA
+E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC, Autarquia Estadual,
+entidade da Administração Pública Indireta, inscrita no CNP? n.º 05.100.031/0001-
+38, com sede à Rua Dr. Cincinato Pinto, nº 503, ceatro, Maceió, Alagoas, CEP
+57.020-50, representado por seu Diretor Presidente, Sr. Josê Luciano dos Santos
+Júnior, inscrito no CPF sob a nº 670.734.845-00.
+CONTRATADA: À EMPRESA SANTOS E SILVA COMÉRCIO E SERVIÇOS
+DOMÉSTICOS LTDA-ME, inscrila no CNPJ sob nº G7.135.196/600)-49 «
+estabelocida na Rua Manoel Maia Nobre, 80, sula 15, Farol, Macei6-AL, CEP.
+S7050-120, fone: (82) 3221-9085, neste ato representada por seu representante
+Jegal, Sr. João do Nascimento da Silva, inscrito no CPFsob o nº 025.7)2.624-39,
+de acordo com a regresentação Tegal que Ihe é outorgada no contrato social ou
+procuração,
+Objeto: O objeto do presente Termo Aditivo é a alteração do Contreto 1TEC nº
+012016
+O prazo de vigência do Segúrdo Termo Aditivo ao Corrato LTEC nº GO1/2016 fica
+promrogado por mais 12 meses consecutivos e ininterruptos, contados a partir de 04
+(quatro) de novembro de 2018, data do têrmino do prezo anterionmente acordado.
+(Os preços do Segundo Termo Adilivo ao Contrato ITEC nº 001/20t6 ficam repac-
+1undos conforme « variação dos componcntes dos seus custos advinda da Conven-
+ção Coletiva de Trabalho 2017 da categoria profissional, passando o preço mensal
+à R$ 13.820,60 (eroze rail, pitocentos e vinte reais e sessenta centavos) e o preço
+Elobal à R$ 165.847,20 (cento e sessenta e cinco mil, oitoçentos e qarenta e sefe
+reais e vinte coniavos), conforme Planitha de Formação de Custos e Formação de
+Preços constante do presente Termo Aditivo.
+Data da Assinatura: 01 de novembro de 2018.
+Dotação Orçamentária: À despesa de que trata o presente termo aditivo corro à
+conta do seguinte crédilo orçamentário, constante do orçamento do Irstituty de
+Tecnologia em Informática e fnformação do Estado de Alagoas - ITEC para o
+exercício financeira de 2018: Programa de Trabalho 191220004200) — Manuter-
+1ão das Atividades do Ôrgão, Fonte de Reckrsos 0100000000 — recursos do tesouro
+&lou fomte de recursos N291000000 - recursos próprios. no Elemento de Despesa
+339037/MEN deobra. — >
+Macei6, 01 de
+ 
+ 
+ 
+ 
+ 
+mbrode 2018,
+[Santos Fúnior
+José Luciano
+- ITEC
+Presidente
+EXTRATO DO SEGUNDO TERMO umvo AO CONTRATO TTEC Nº
+002/2016 PARA PRESTAÇÃO DE SERVIÇOS DE COPEIRAGEM QUE ENTRE
+$1 CELEBRAM O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO DE ALAGDAS - ITEC E À EMPRESA ONIX
+CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO LTD-EPP.
+Processo Administrativo: 41506-228/2018
+Contrato: nº. ITEC-D02/2016
+Extrato: nº. 009/2018 e
+CONTRATANTE: O INSTITUTO DE TECNOLOGIA EM INFORMÁTICASECRETARIA
+INSTITUTO DE
+ 
+ 
+â &
+ESTADO DE ALAGOAS
+E ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+CNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+RUA MELO MORAES, 272 - CENTRO - MACEIÓ- AL — CEP 57.020-330
+email- gerea iteciaLitec.al.gov..br fone: (82) 3315-1542
+CNPJ: 05,100.031/0001-38
+ 
+SEGUNDO TERMO ADITIVO AO
+CONTRATO ITEC N.º 002/2016 PARA
+PRESTAÇÃO DE SERVIÇOS DE
+COPEIRAGEM QUE ENTRE SE
+CELEBRAM O INSTITUTO DE
+TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO ALAGOAS
+E A EMPRESA ONIX CONSTRUÇÕES E
+SERVIÇOS DE  TERCEIRIZAÇÃO
+LTDA-EPP,
+*
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITE
+05.100.031/0001-
+cidade, neste ato
+inscrito no CPF s
+D, entidade da Administração Pública Indireta, inscrito no CNPJ nº
+8, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+Fepresentado por seu Diretor Presidente, Sr. José Luciano dos Santos Júnior,
+ib o nº. 670.734.845-00;
+CONTRATADA: Empresa ONIX CONSTRUÇÕES E smí'vu;os DE TERCEIRIZAÇÃO
+LTDA — EPP,
+Monteiro de Meld,
+6644/(82) 98897
+Deorta Acioly, insd
+lhe é outorgada p
+Os CONTRAT,
+ao contrato ITE)
+nos autos do Pro:
+Nº 057/ITEC - 20
+nscrita no CNPJ sob n.º 40.934.903/0001-64 e estabelecida na Rua José
+104, Tabuleiro do Pinto, Rio Largo — AL, CEP: 57100-000, fone: (82) 3023-
+4631 neste ato mpresentada por ser reprgâeman'oe legal, Sr. João Augusto
+insgrito no CPF sob o nº 088.383.054-04, de acordo com a representação legal que
+T contrato social.
+S celebram, por força do presente instrumento, o Segundo Termo Aditivo
+n.º 002/2016, tendo em vista o interesse. do CONTRATANTE, justificado
+sso Administrativo nº 41506-345/2018, e éom base no Parecer Jurídico — PA
+8 e despacho Nº 003/2018 — CJUR/ITEC, mediante as seguintes cláusulas:
+CLÁUSULA PRÍMEIRA - DO OBJETO
+1.1. O presente te
+1.1.1. O prazo
+mo aditivo tem como objeto a alteração do Contrato nº 002/2016.
+le vigência do Contrato nº 002/2016 fica prorrogado por mais 12 meses
+consecutivos e irfinterruptos, contados a partir de 04 (qua!.ro) de novembro de 2018, data do
+término do prazo
+1.1.2. Os preço:
+componentes dos|
+profissional, cont:
+mensal a R$ R$2.
+interiormente acordado.
+do Contrato nº 002/2016 ficam repaciuddos conforme a variação dos
+seus custos advinda da Convenção Coletiva de Trabalho 2018 da categoria
+Espondentes ao exercício financeiro de j. _]ªnem) de 2018, passando o preço
+655,07 (dois mil, seiscentos e cinquenta e cmco Teais e sete centavos) e o preço
+PROCESSO N.º 415p6-228/2013 INSTITUTO DE TECNOLOGIA EM INFORI_&ÃTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+SEGUNDO TERMO ADITIVO AQ CONTRATO ITEC N.º 002/2016 Z
+PRESTAÇÃO DE SERVIÇOS DE oovinuuiãje
+ESTADO DE ALAGOAS..
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+INSTITUTO DE
+CNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA - GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+RUA MELO MORAES, 272 - CENTRO — MACEIO- AL - CEP 57.020-330
+e-mail - gerez.itec(8L.itec.al.2ov..br fonez (82) 3315-1542
+CNPJ: 05.100.031/0001-38 Ú
+ 
+global a R$ 31.86D,84 (trinta e um mil, oitocentos e sessenta reais e oitenta e quatro centavos),
+conforme Pl
+constante do pre:
+de Formação de Custos e Formação de Preços elaboradas pelo ITEC
+te termo aditivo, '
+CLÁUSULA SEGUNDA - DA DESPESA
+2.1. À despesa
+orçamentário, co:
+do Estado de Al
+1912200042001 4
+recursos do tesoy
+mão de obra.
+CLÁUSULA TE
+3.1. Ficam ratific:
+termo aditivo.
+Para firmeza e v
+igual teor e form:
+representantes d:
+Maceió (AL), em
+evs
+< JEONTRATANTH
+e que trata o presente termo aditivo corre à conta do seguinte crédito
+tante do orçamento do Instituto de Tecnoªqgia em Informática e Informação
+10as - ITEC para o exercício financeiro de 2018: Programa de Trabalho
+Manutenção das Atividades do Órgão, Fonte de Recursos 0100000000 —
+ro e/ou 0291000000 — recursos próprios, no elemento de despesa 339037-
+CEIRA — DA RATIFICAÇÃO
+las todas as cláusulas do Contrato nº 002/2016 não alteradas pelo presente
+dade do que foi pactuado, lavra-se o presenite instrumento em 3 (três) vias de
+para que surtam um só efeito, as quais, depois de lidas, são assinadas pelos
+partes, CONTRATANTE e CONTRATADA, e pelas testemunhas abaixo.
+6de ccl õÃe 2018.
+25D
+;
+ 
+Loibãra Qa'/»çy tsi Qu "
+GESTENECONT AL
+//G«-_% —
+JEA
+aa fA i
+É %STE&% ªA
+—
+&
+STEMUNHA
+PF Nº Dn,g_o'.l.?, q-5%o
+Q
+CPFNº b
++o
+T
+R
+o
+PROCESSO N.º 41566-228/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+SEGUNDO TERMO ADITIVO AO CONTRATO ITEC N.º 002/2016
+PRESTAÇÃO DE SERVIÇOS DE COPEIRAGEM*
+Diário Oficial
+Edição Eletrônica Cenificada Digita!mente
+ 
+Maceio - quarta-feira
+7 de novembro de 2018
+41
+ 
+ 
+  
+Estado de Alagoas conforme LEI Nº 7,397/2012
+Favorecido: a Empresa À Companhia de Edição, Impressão e Publicação de Ala- — PROCESSO: 41506-451/2018
+goas - CEPAL, inscrita no CNPJ sob o df 04.308.836/0001-09 c cstabelecida na — INTERESSADO: ITEC-GERÊNCIA EXECUTIVA ADMINISTRATIVA
+Avenida Fernandes Lima, sínº, Kra 7, de Lourdes, Macció/Al, CEP 57052- — ASSUNTO: PAGAMENTO
+ 
+(00, representada pelo seu Diretor Pres
+na, inscrito no CPF sob o nº 065.268.484-
+Valor; R$ 9.060;00 (aove mil reais).
+te, Sr. Dagoberto Costa Silva de Ome-
+o
+Fundamento Legal: Artigo 24, 11 da Lei Feieraf nº 8.656/93 e Súmula Administra-
+tiva nº 43/2016 da Procuradoria Geral do
+Maceió/AL, 31 de autubro de 2018.
+ELIZEU JO|
+istado.
+ÉRÊGO
+Diretor Prfsidente
+*Republicado por incorreção
+ 
+INMEQ - Instituto de Metrol|
+gia e Qualidade de Alagoas
+ 
+Instituro de Metrologia e Qualidads de
+Contrato de nº 007/2018 que entre si celel
+Partes: instituto de Metrologia e Quali
+AAtdo Luiz Sitva fúnior 04104292443 (TO
+Objeto: Contatação de empresa especial
+retiva dos equipamentos de condicionador
+Valor Global Anual: R$: 7.760,00 (sele
+Dotação Orçamentária: atividade 22.122
+fonte OI1.
+Vigência: 12 (doze) meses.
+Recursos: Convênio 07/2010 de 01/01/20]
+terveniência do Estado de Alagoas, are:
+Tecnologis e da inovação e o INMETRO.
+ 
+Data da Assinatura: 06 de novembro de 20
+ 
+    
+  
+ 
+  
+  
+a5 — INMEQ/AL,
+EM
+de Alagoas INMEQIAL e 2 Empresa
+[AL AR).
+cm manuteação preventiva c cor-
+é de ar pertencentes 80 INMEQ/AL.
+Sctecentos e sessenta reais),
+. 200 |; elemento de despesa 3339039,
+|O, celebrado entre o INMEQ com in-
+|da Secretaria Ge Estado da Ciência, da
+ 
+TTEC - Instituto de Tecnblagia em Informática
+e Informação do Estado de Alagoas
+PORTÁRIA ITE
+O Diretor-Presidente da ITEC, no uso de
+nº, 6313 de 30 de Abril de 2002 que di:
+. 1812018
+as atribuições que fhe conferem s Lei
+sobre à Estrutera Organizacionat do
+Instítuto de Tecnologia em Informática elinformação do Estado de Alapoas —
+TITEC, de acordo com o Decreto nº. 645, de|
+e Regimento Inteme,
+RESOLVE
+Artigo iº, Designar o servidor NOÉ Hl
+051-5, ccupante do cargo de Gerer
+responder pelas atribuições da servidora
+GUIMARÃES matrícula 842-7, ocupante|
+Planejamenta, Orçamento, Finanças e C.
+2016/2017, no pezíodo de 06 de naver
+Arligo 2º. Esta portaria entra em vígor na
+DE ciência e cumpra-se.
+Gabinete da Presidência, em 18 de setembra
+Tosêé Luciano dos
+DIRETOR-PRI
+PORTÁRIA ITEC
+13 de Maio de 2002, que dispõe sobre
+    
+    
+  
+   
+ 
+(O DE LIMA FILHO mutricula
+Exscutiva Administretiva, pera
+IARIA ANUNCIADA OLIVEIRA
+do cargo de Gerento Exceutiva de
+ilidade durante suas fêrias ano
+de 2018
+ntos Júnior
+SIDENTE
+[iº. IR2/2018
+(O Diretor-Presidente do JTEC, no uso de subs atribuições que lhe conferem a Lei
+nº. 6,313 de 36 de Abril de 2002 que dispM sobre a Estrutwra Organizaciona! do
+Instítuto d Tecnotogia em Infermática e [nformação do Estado de Alagoes —
+ITEC, de acordo cam o Decreto nº. 645, de À3 de Maio de 2092, que dispõe sobre
+o Regimento Intermo,
+RESOLVE
+Artigo 1º. Desigrar o servidor NOÉ HiG|
+S, ccupante do cargo de Gerente Exccutival
+atribuições da servidara ROZA ALICE CRI
+jO DE LIMA FILHO mairicula 051-
+|A deministraíva, para sesponder pelas
+[Z SILVA matrícula 461-8, ocupente
+ 
+do corgo de Supervisor de Plansiamento
+201/720178, no periodo de 05 de novem!
+AAnligo 9º. Esta postaria enira em vigor na
+Orçamento durante suas férias ano
+de 2018 é 04 de dezembro de 2018.
+de sua publicação,
+ 
+Dê ciência c cumpra-se.
+Gabinete da Presidência, em 05 de noveinbrd de 2018.
+Tosé Luciano dos Skntos Junior
+DIRETOR-PREBIDENTE
+ 
+TERMO DE RECONHECIMENTO DE DÍVIDA DE DESPESA DE EXERCÍCIO
+ANTERIOR
+Em arendimento aó que preconiza o àrt. 57 do Decreto 6º 57.404, de 31 de
+janeiro de 2018, que normatiza os procedimentos de reconhecimento de dívida
+de exercicios anteriores, reconheço a divida de exercicio anterior em favor da
+empresa ASSOCIAÇÃD BRASILEIRA DE ENTIDADES DE TECNOLOÓGIA
+DA I'NFDRMAÇÃD E mMUNlCAÇÃU - ABEP, inserita no CNPJ sob nº.:
+TT.539,433/0001-16, no valor de R$ 21.600,00 (vinte e um mil e seíscentos reais),
+onde deverá ocorrer no Programa de Trabalho 19.122 0004 2001 — Manutenção
+das Atividades do Órgão, no Elemento de Despesa 339092/despesas de exercícios
+'anteriores, Fonte de Recursos 0100600000 — Recursos do Tesouza, com base nos
+informações contidas no processo administrativo nº 41 556-451/201R,
+Maceió, 06 de novembro de 20189
+José Luciano dos Santos Júnior
+Diretor-Presidente do ITEC
+EXTRATO DO SEGUNDO TERMO ADITIVO AO CONTRATO ITEC
+Nº ODI20IS PARA PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E
+CONSERVAÇÃO QUE ENTRE SI CELEBRAM O INSTITUTO DE
+TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS - TTEC E À EMPRESA SANTOS E SILVA COMÉRCIO E
+SERVIÇOS DOMÉSTICOS LTDA-ME.
+Processo Administrativo: 41506-233/2018
+Cantráto: nº. ITEC-N01/2016
+Extrato: nº. 008/2018
+CONTRATANTE: O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA
+E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC, Auturquia Estadual,
+entidade da Administração Pública Indireta, inscritano CNPJ nº 05,100.031/000] -
+38, com sede à Rua Dr. Cincinato Pinto, nº 503, centro, Maceiá, Alagoas, CED
+57.020-50, repressatado por. seu Diretor Presidente, Sr. José Luciano dos Santos
+Júnior, inscrito no CPF sob o nº 670.734.845-00.
+CONTRATADA: A EMPRESA SANTOS E SILVA COMÉRCIO E SERVIÇOS
+DOMÉSTICOS . LTDA-ME, inscrita no CNPJ sob nº 07.135.196/0001-49 <
+estabelecida na Rua Manoe! Mais Nobre, 87, sela 15, Farol, Maceió-AL, CE?.
+57050-120, fone: (82) 3221-5085, neste ato representada por seu representante
+legal, Sr. João do Nascimento da Silva, inscrito no CPF sob a nº 025,712,924-39,
+de acordo com a representação Jegal que Ihe é outorgada no conirato social ou
+ 
+procuração.
+Objeto: O objeto do presente Termo Aditivo é a alleração do Contrato ITEC nº
+001/2016.
+O prazo de vigência do Segundo Termo Aditivo no Contrato ITEC 1nº 60172016 fica
+prorrogado por mais E2 meses consccutivos e inintermuptos, contados a partir de 04
+Tquatro) de novembro de 201R, data do têrmino do prazo anteriormente acoréado.
+DOs preços do Segundo Termo Aditivo ao Contrate 1TEC nº 001/2016 fizam repae-
+Tuados:conforme a variação dos componentes dos scus custos advinda de Conven-
+ção Coletiva de Trabalho 2017 da categoris profissional, passando o preço mensal
+à R$ 13.820,60 (treze mil, oitocentos c vinte reais e sessenta centavos) e o preço
+globai à R$ 165.847,20 (ceuta e sessema e cinco mil, oitocentos e quarenta « sete
+reais e;vinte centavos), conforme Plnnilha de Formação de Custos e Formação de
+Preços constante do presente Termo Aditivo,
+Data da Assinatura: 01 de novembro de 2018.
+Dotação Orçamentária: ÀA: despesa de que trata 6 presente termo aditivo come à
+conte do seguinte crédito orçamentário, constante do orçamento do Instituto de
+Tecnotogia em Informática c Informação do Estado de Alagoas - ITEC para o
+txcrcício financeiro de 2018: Programa de Trabalho 191220004200] — Manico-
+ção das Atividades do Órgão, Fonte de Recuzsos 610060000 - recursos do Iesouro
+e/ou fonte de recursos 0291000000 -- recursos próprios, no Elemento de Desposa
+339037/mão de obra,
+ 
+Maceiá, 01 de novembro de 2018.
+José Luciano dos Santos Júnior
+Presidemte do ITEC
+EXTRATO DO SEGUNDO TERMO ADITIVO AO CONTRATO ITEC Nº
+002/2016 PARA PRESTAÇÃO DE SERVIÇOS DECOPEIRAGEM QUE ENTRE
+SI CELEBRAM O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO DE ALAGOAS « [ITEC E A EMPRESA CNIX
+CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO LTD-EPP.
+Processo Administrativo: 411506-228/2018
+Contrato; nº, ITEC-002/2016.
+Extrato: nº. 009/2018
+CONTRATANTE: O INSTITUTO DE TECNOLOGIA EM INFORMÁTICA
+-ira
+2018
+.
+42 Maceio - quarta-fi
+7 de novembro de
+E INFORMAÇÃO DO ESTADO DE A|AGOAS - ITEC, Actarquia Estséual,
+entidade da Administiração Pública Indireth, inserita no CNPJ 2.º 0S.100,031/000]-
+38, com sede à Rua Dr. Cincinato Pinto]nº 503, cenro, Maceió, Alagoas, CEP
+$7.020-50, represcntado por seu Diretor Bresidento, Sr. José Luciano dos Samtos
+Tíúmior, inscrito no CPF sob o nº 670.734.445-00.
+CONTRATADA: À EMPRESA ONIX| conmuçor—;s E SERVIÇOS DE
+TERCEIRIZAÇÃO LTDA - EFP, inserfra no CNPS sob n.º 40,934.903/000!-
+64 e cstabelecida ra Rua José Manteiro de Melo, 104, Tabuleiro do Pinto, Rio
+Lazgo — AL, CEP: 57190-000, fone: (82] 3023-6644/(82) 98897-4681, neste nto
+da por ser representante Legal, Er, João Augusto Dorta Ácioly, inserito
+no CPF sob o nº 088.383.054-04, de acofo com a representação Ioga! que lhe €
+ourorgada por contrato socinl.
+Objeio: O objeto do presente Termo Adifivo é a alieráção do Contrato ITEC nº
+co2/0t6.
+Oprazo de vigência do Primeiro Termo A fitivo ao Conurato TTÊC nº 002/2016 fica
+promrogado pos mais 12 meses consecutivds c ininterruptos, contados a partir de 04
+(quatre) de novembro de 201 &, data do tédnino do prazo anteriormente acordado,
+Os preças do Contrato nº D02/2016 ficarf. repactuados conforme a variação dos
+componentes dos seus custos advinda da Qunvenção Coletiva de Trabelho 2018 da
+categoris profis exercício financeiro de jantiro de 2018,
+passando o preço mensel a R$ R$2.655,07]/(dois mil, seiscentos e cinquenta e cinco
+resis e sele centavos) e a preço global a Rs 31.860,84 (trinta e um mil, oitocentos
+& sessenta teais c oltenta e quatro contavps), conforme Pianilha de Formação de
+Custos e Formação de Preços elabaradas
+aditivo,
+ 
+ 
+    
+ 
+ 
+ 
+   
+ 
+  
+       
+  
+  
+    
+ 
+ 
+   
+   
+cone à
+conta do seguinte crédito orçamentário, fonstante do orçamento do Instíturo de
+Tecnologia em Informática e Informaçãd do Estado de Alsgoas - [TEC para o
+exercício financeiro de 2018: Programa de Frabalho 191 2200042001 — Manutonção
+das Arividades do Órgão, Fonte de Recurndos 0100000000 — recursos do tesouro &/
+ou 0291000000 — recursos próprios, no eidmento de despesa 339037-mão de obra.
+Maceig, 01 de nofembro de 2018
+José Luciano dod Santos Júnior
+PresidenieFo 1ITEC
+EXTRATO DO SEGUNDO TERMO ÁDITIVO AO CONTRATO ITEC Nº
+003/2016 PARA PRESTAÇÃO DE SERTIÇOS DE PORTARIA E RECEPÇÃO
+QUE ENTRE S[ CELEBRAM O INSTITUTO DE TECNOLOG!IA EM
+INFORMÁTICA E INFORMAÇÃO DO JESTADO DE ALAGOAS - ITECE À
+EMPRESA ONIX CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO LTD-
+EFP.
+Processo Administrativo: 41506-227/201
+Contrata: nº. ITEC-003/2016
+Extrato: nº. 010/2018
+CONTRATANTE: O INSTITUTO DE [TECNOLOGIA EM INFORMÁTICA
+E INFORMAÇÃO DO ESTADO DE ALAGOAS - ITEC, Autarquia Estadua!,
+entidade da Adminisiração Pública Indiretd, inserita no CNPJ n.º 05.100.031/000! -
+38, com sede é Rua Dr. Cincinato Piato,Jnº S03, ceraro, Maceió, Alegoas, CEP
+57.020-50, representado por seu Diretor Hresidente, Sr. Jasé Luciano dos Santos
+Júnior, inserito no CPF sob o nº 670.734.885-00.
+CONTRATADA: À EMPRESA ONIX [CONSTRUÇÕES E SERVIÇOS DE
+TERCEIRIZAÇÃO LTDA — EPP, inserta no CNPJ seb n.º 40.934.903/0001-
+44 e estobelecida na Rua fosé Monteiro fle Melo, 104, Tebuleiro do Pinto, Rio
+Largo — AL, CEP: 57150-000, fonc: (82)[ 3023-6544/(82) 98897-468|, neste eto
+representada por ser representante legal, $7, João Augusio Dorta Acioly, inscrito
+q CPF sob o nº 088383 s«w de acorffo com & represcntação legal que lhe é
+outorgada por contrsto social.
+Objeto: O objeta do presente Terno Adifivo é n alieração do Contrato ITEC nº
+003/,2016,
+|O prazo de vigência do Primeiro Tesmo Adftivo so Contrato ITEC rº 003/2016 fica
+prarrogado por inais 12 moses consccutívok c inintermuptos, contados a partir de 04
+(quatro) de novembro de 2018, data do térino do prazo anterionvente acardado.
+Os proços do Conirato nº 003/2016 fican| repactuados canforme a variação dos
+componentes dos seus custos sdvinda da Ponvenção Coleriva de Trabalho 2018
+da categoria profissional, correspondented so exercício firaneciro de janciro de
+ 
+€ quatro centavos), conforme Planilha
+ços elaboradas pelo ITEC constante do
+seiscentos e cinquenta ç três reais c
+de Formação de Custos e Formação de P
+presente termo aditivo.
+Data da Assinamure: 01 de novembro de 200 8.
+Dotação Orçamentária: À despesa de qudtrata o preseate 1enmo aditivo corre à
+tconta do seguinte erédito orçamentário, donstanie do orçamento do Instisuto de
+Tecnologis em Infocrnálica e Informação|do Estado de Alagoas - ITEC para o
+exereício financeiro de 2018: Programa de Trabalho 191220004200] - Manuienção
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7,397/2012
+Diário Ofícial
+Estado de Alagoas
+—
+das Atividades do Órgão, Fonte de Recursos 0100000000 — recursos do tesuro &/
+0u 5251000000 — recursos próprios, no elemento de despesa 339037-mão de obra.
+Maceió, 01 de novembro de 2018.
+José Euciano dos Santos Júnior
+<  Presidente do ITEC
+— PROCON - iInstítuto de Proteção e Defesa
+do Consumidor de Alagoas
+PORTARLA/PROCON Nº 227/2018*
+O DIRETOR-PRESIDENTE, no uso de suas atribuições legeis, com embasamonto
+no Decreto Nº 4,076, de 28 de novembro de 2008 c/c Decreto Nº 43,754, de 15 de
+setembro de 2015, e no Processo nº 540573-195/2018, RESOLVE conceder diárias
+em favor do servidor:
+ 
+Nome: Galba Novais de Castro Netto
+Cargo: Diretor-Presideate.
+CPF: 055,212.644-69
+TNº de Diárias: 1/2 diária(s)
+WVelor Unitário: R$ 100,00 (reais)
+WValor Total: R$ 50,00 (reais)
+Períado: de 1R/10/2018 até 18/10/2018
+ 
+ 
+ 
+As despesas decorrentes da presente portarie correrão através do Programa de Tra-
+Pbalho — 14.122.0004.200] - Manuicação des stividades do Órgão - Fonte D100,
+Elemento de Despesa 3390-14, diárias.
+ 
+INSTITUTO DE PROTEÇAÃO E DEFESA DO CONSUMIDOR - PROCON-AL,
+Maceiá/AL, 26 de outubro de 2018
+GALBA NOVAIS DE CASTRO NETTO
+Diretor-Presióente
+*Republicado por incorreção
+ 
+UNCISAL - Universidade Estadual de
+Ciências da Saúde de Alagoas
+HOMOLOGAÇÃO
+PROCESSO ADMINISTRATIVO Nº 4101-15045/2028
+Com fendamento no PARECER JURÍDICO COJUR-UNCISAL Nº 673/20!8, às
+fis. 324, aprovado pelo DESPACHO PGE-GAS Nº 3543/2018 emitido pela douta
+Procuradoria Geral do Estade de Alagoas, bcm como, nos poderes que nc foram
+conferidos pelo Decreto Governamenta! Nº 55.619, publicado no Diário Oficial do
+Estado de Alagoas em 21 de autubro de 2017 e com fulcro na Lei Delegada Nº 47
+de 10 de agosto de 2015, HOMOLOGO o procedimento licitatório realizado sob
+a modalidade Pregão Eletrôliico UNCISAL N.º 46/2018, objetivando o Regisiro
+de Preços para registro de percentual de desconto sobre a Tabela SINAPI pera
+eventual contratação de ermpresa de engenharia, especializada para, sob demanda,
+prestar serviços de manutenção predisl com fornecimento de peças, cquipamertos,
+mateziais e mão de obra, ná forme estabelocida nas planilhas de sorviços e insumos
+diversos descritos no Sistems Nacional de Pesquisa de Custos e Índices da Constru-
+gão Civil - SINAPI, que teve como vencedora a empresa: ÚNICA ENGENHARIA
+EEMPREENDIMENTOS !MOBILIARIOS LTDA EPP. CNPJ: 14554 K$5/000)-
+73, para o itera O1, com o valor tots] de R$ 259,000,00 (duzentos e cinquenta mi!
+resis), com descanto registrado de 19,0013% apiicável lineermente em todos os
+serviços prestados.
+Total do item adjudicado: R$.250.000,00 (duzentos e cinquenta mil resis).
+Publique-se. '
+Macci6, 06 de novembro de 2018.
+Prof. Dr. Henrique de Oliveira Costa
+Reitor/UNCISAL
+ 
+ERRATA AVISO DE COTAÇÃO - CONTRATAÇÃO EMERGENCIAL - PRO-
+CESSO 41010-18123,2013
+.A presento ERRATA é ora levada a efeito para retificar parcialmente o aviso de
+coção para contratação emergencial de alimentos publicada na edição nº 946,
+página 37, do Diário Oficial do Estado de Alagoas do dia 0l de noverbrode 2018,
+pertencerle ao processo admiinistrativo 41010-18123/2018, tornn público. que hotu-
+ve um equivoco, cabendo a seguinte correção:o
+ESTADO DE ALAGOAS .
+SECRETARIA DE ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+ITEC
+GERÊNCIA EXECUTIVA ADMINISTRATIVA — GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS - ASSTCC
+RUA MELO MORAES, 173 - CENTRO — MACEIÓ- AL — CEP 57,020-330
+enmail - gerca.HtooLitec.al.gov..br fone: (82) 3315-1542
+“CNPJ; 05,100,031/0001-38
+SEGUNDO TERMO ADITIVO AO
+CONTRATO ITEC N.º 003/2016 PARA
+PRESTAÇÃO DE SERVIÇOS DE
+PORTARIA E RECEPÇÃO QUE ENTRE
+SI CELEBRAM O INSTITUTO DE
+TECNOLOGIA EM INFORMÁTICA E
+INFORMAÇÃO DO ESTADO ALAGOAS
+E AÀ EMPRESA ONIX CONSTRUÇÕES E
+SERVIÇOS —DE  TERCEIRIZAÇÃO
+LTDA-EPF.
+CONTRATANTE: O Instituto de Tecnologia em Informática e Informação do Estado de
+Alagoas - ITEÇ, entidade da Administração Pública Indireta, inserito no CNPJ nº
+05.100.031/0001-B8, com sede à Rua Dr. Cincinato Pinto, 503, CEP: 57020-050, Centro, nesta
+cidade, neste ato tepresentado por seu Diretor Presidente, Sr. José Luciano dos Santos Júnior,
+inscrito no CPF sdb o nº. 670.734.845-00; u
+õ
+CONTRATADA| Empresa ONIX CONSTRUÇÕES E SERVIÇOS DE TERCEIRIZAÇÃO
+LTDA - EPP, inscrita no CNPJ sob n.º 40.934.903/0001-64 e estabelecida na Rua José
+Monteiro de Meld, 104, Tabuleiro do Pinto, Rio Largo — AL,.CEP: 57100-000, fone: (82) 3023-
+6644/(82) 98897H4681, neste ato representada por ser representante legal, Sr. João Augusto
+Dorta Acioly, insdrito no CPF sob o nº 088.383.054-04, de acordo com a representação legal que
+lhe é outorgada pdr contrato social. A
+Os CONTRATANTES celebram, por força do presente instrumento, o Segundo Termo Aditivo
+no contrato ITEC n.º 003/2016, tendo em vista o interesse do CONTRATANTE, justificado
+nos autos do Prodesso Administrativo nº 41506-227/2018, e com base no Parecer Jurídico — PA
+Nº OS8ITEC - 2018 do ITEC e despacho nº 004/2018 — CIUR/ITEC, mediante as seguintes
+cláusulas:
+s
+CLÁUSULA PRIMEIRA - DO OBJETO
+1.1. O presente tegmo aditivo tem como objeto a alteração do Contrato nº 003/2016.
+1.1.1. O prazo de vigência do Contrato nº 003/2016 ãc.á;,vpmrrogado por mais 12 meses
+consecutivos e ininterruptos, contados a partir de 04 (quatro) de novembro de 2018, data do
+término da prazo hnteriormente acordado.
+1,12. Os preçod do Contrato nº 003/2016 ficam repactuados conforme a variação dos
+componentes dos| seus custos advinda da Convenção Coletiva de Trabalho 2018 da categoria
+profissional, correspondentes no exercício financeiro de janeiro de 2018, passando o preço
+mensal! a R$ 14.304,47 (quatorze mil, trezentos e quatro reais e sete centavos) e o preço global a
+ 
+PROCESSO N.º 415b6-227/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS
+SEGUNDO TERMO ADITIVO AO CONTRATO ITEC N.º 003/2016 &
+PRESTAÇÃO DE SERVIÇOS DE PORT, E RECEPÇ% ;â/ ;
+< "SECRETARIA
+INSTITUTO DE
+ESTADO DE ALAGOAS:
+E ESTADO DA CIÊNCIA, DA TECNOLOGIA E DA INOVAÇÃO - SECTI
+;CNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE ALAGOAS —
+1ITEC º
+GERÊNCIA EXECUTIVA ADMINISTRATIVA — GEREA
+ASSESSORIA TÉCNICA DE CONTRATOS E CONVÊNIOS — ASSTCC
+RUA MELO MORAES, 272 - CENTRO — MAÇEIÓ- AL — CEP 57.020-330
+email - gerea.itec(a)itec.al.pov..br fones (87) 3315-154]
+CNPFJ: 05.100.031/0001-38
+ 
+centavos), confo
+ITEC constante d:
+orçamentário, co:
+do Estado de A
+1912200042001
+mão de obra.
+CLÁUSULA TE
+' termo aditivo.
+ 
+Para firmeza e vaí
+igual teor e forma
+representantes das
+Maceió (AL), em,
+R$ 171.653,64 (cdnto e setenta e um mil, seiscentos e cinquenta e três reais e sessenta e quatro
+in
+e Planilha de Formação de Custos e Formação de Preços elaboradas pelo
+presente termo aditivo.
+CLÁUSULA SE)T.UNDA — DA DESPESA
+itante do orçamento do Instituto de Tecnologia em Informática e Informação
+oas - ITEC para o exercício financeiro de 2018: Programa de Trabalho
+Manutenção das Atividades do Órgão, Fonte de Recursos 0100000000 —
+2.1. A despesa £ que trata o presente termo aditivo corre à conta do seguinte cerédito
+recursos do tesoúro e/ou 0291000000 — recursos próprios, no elemento de despesa 339037-
+s
+RCEIRA — DA RATIFICAÇÃO
+3.1. Ficam ratifichdas todas as cláusulas do Contrato nº 003/2016 não alteradas pelo presente
+idade do que foi pactuado, lavra-se o presente instrumento em 3 (três) vias de
+|, para que surtam um só cfeito, as quais, depois de lidas, são assinadas pelos
+partes, CONTRATANTE e CONTRATADA, e pelas testemunhas abaixo.
+ádemúvde 2018. +
+»n SS
+——
+ 
+ 
+ 
+La L
+CONTRATANTH
+d Fic
+" 1A
+N
+STEMUNHA
+PROCESSO N.º 415
+CPFNº (355,202.0 FY -GT
+CPFNº STB ”
+D6-227/2018 INSTITUTO DE TECNOLOGIA EM INFORMÁTICA E INFORMAÇÃO DO ESTADO DE
+ALAGOAS +
+SEGUNDO TERMO ADITIVO AO CONTRATO ITEC N.º 003/2016
+PRESTAÇÃO DE SERVIÇOS DE PORTARIA E RECEPÇÃO5
+o
+E INFORLMAÇÃO DO ESTADO DE
+centidade da Administração Pública Tndi
+38, com sede à Rua Dr. Cincinato Pinto]
+S$7.020-50, represantada por seu Diretor
+Júnior, inscrito no CPE sob o nº 670734
+CONTRATADA: À EMPRESA ONI
+TERCEIRIZAÇÃO LTDA — EFP, ivs
+64 e estabelecida na Run José Monteiro|
+Largo — AL, CEP: 57100-006, fone: 482
+Tepresentada por ser representente legal,
+ma CFF sob o nº 088.383.054-94, de
+outorgada por contrato socia).
+Objeta: O objeto do presente Termo Adj
+002/2016.
+“O prezo de vigência do Primeiro Temo
+prorrogado por mais 12 meses consceutiv
+7 de novembro di
+ 
+ 
+ 
+categoria profissional, correspondentes
+passando o preço mensal a R$ R$2.655,0
+Tesis e sete centovos) e o preço global a
+e sessenta reais e oitenta c quatro contas
+ 
+conta do scguinte crédita orçamentário,
+Tecnalegia em Informática e Informação
+exercício financeiro de 2018: Programa de
+das Atividndes do Órgão, Fonte de Recur
+ou 0291005000 - recursos próprias, no c
+Maceió, 01 de nos
+Jasé Luciano doj
+Presidente|
+EXTRATO DO SEGUNDO TERMO
+003/2016 PARA PRESTAÇÃO DE SER'
+Maceio - quana-ftlra
+  
+  
+    
+  
+    
+  
+     
+  
+ 
+20178
+LAGOAS - ITEC, Autarquia Estaduel,
+, inscrita no CNPJ n.º 05.100.031/0001-
+nº 503, centro, Maceió, Alagoes, CEP
+idente, Sr. José Luciano dos Santos
+ja5-00.
+CONSTRUÇÕES E SERVIÇOS DE
+s no CNPI sob nº 40.934.903/0001-
+lde Melo, 104, Tabuteiro do Pinto, Rio
+3023-6634/182) 9885T-468], neste ato
+. foão Augusto Dorta Acioly, ínserito
+la com a representação legal que Pc é
+livo é a alteração do Contrato TTEC nº
+itivo so Contrate ITEC nº 002/2016 fica
+eininterruptos, contados a partir de 04
+tino do prazo anteriormente acodado.
+Tepaciwados conforme a voriaçõo dos
+ivenção Coletiva de Trabalho 2018 da
+lexercício financeiro de janeiro de 2018,
+[(dois mil, seiscentos e cinquenta e cinco
+31.860,84 (trinta é um Mif, oitocentos
+). conforme Planitha de Formação de
+trata o presente termo aditivo corre à
+onstante do orçamento do TInstíturo de
+do Estado de Alagoas - ITEC para o
+rabalho L91220004200] — Manutenção
+0100000000 — recursas do tesouro &/
+Imento de despesa 335923 7-mão de odra.
+fermbro de 2018,
+Santos Jônios
+lo ITEC
+ÍDITIVO AO CONTRATO ITEC Nº
+VIÇOS DE PORTARIA E RECEPÇÃO
+QUE ENTRE SI CELEBRAM O INSTITUTO DE TECNOLOGIA EM
+INFORMÁTICA E INFORMAÇÃO DO |
+EMPRESA ONIX CONSTRUÇÕES E SH
+EPP,
+Procasso Administrativo: 41506-227/20]:
+Cantrato: nº. ITEC-003/2016
+Extrato: nº, 016/2018
+CONTRATANTE: O INSTITUTO DE
+E INFORMAÇÃO DO ESTADO DE A
+ESTADO DE ALAGOAS - ITECE À
+"VIÇOS DE TERCEIRIZAÇÃO LTD-
+FECNOLOGIA EM INFORMÁTICA
+AGOAS - ITEC, Autarquis Estaduzl,
+entidade da Administração Pública Indiretá, inscrita no CNP3 n.º 05.100.031/0001-
+38, com sede à Rua Dr. Cincinsto Pinto,
+57.020-50, representado por seu Diretoz
+Júnior, inscrito no CPF sob o nº 670.734
+CONTRATADA: A EMPRESA ONIX
+TERCEIRIZAÇÃO LTDA — EPP, inser;
+64 e estabeleçida na Rua Jocê Monteiro
+503, centro, Maceió, Alagoss, CEP
+idente, Sr. Josá Luciano dos Santos
+[5-00.
+ONSTRUÇÕES E SERVIÇOS DE
+la no CNPJ sob n.º 40.934.503/0001-
+le Melo, 104, Tabufeiro da Pinto, Rio
+ 
+Largo — AL, CEP: 57100-000, fone: (82)|3023-6644/182) 98857-468], nosto ato
+ 
+representada por ser representante legal,
+no CFF sob o nº 088.383.054-04, de acor
+“outargede por contrato sociul.
+E João Augusto Dorte Acioly, inscrito
+la com a representação fegal que lhe é
+“Objeto: O objeto do presente Termo Ádidvo é a alteração do Contrato ITEC nº
+NosAaDI6,
+O prazo de vigência do Primeiro Termo A:
+promogado por mais 12 meses caasceuth
+(quatro) de novembro de 2018, data do té:
+Os preços do Conirato nº 003/2016 fi
+componentes dos Seus custos advinda da
+da categosia profissional, correspendente:
+[tivo 20 Contrato [(TEC nº 003/2016 fica
+e ininterrapies, contados a partirde Q4
+10 do prazo anteriormente acordado.
+Tepactuados conforme a variação dos
+[onvenção Coletiva de Trabalho 2018
+20 exercício financeiro de janeiro de
+ 
+2018, passando o preço mensal a R$ F4,3]
+Trais e sete centavos) e o preça global a
+seiscontos a cinquenta e três rcais c sessen
+de Formação de Cusios € Formação de
+prescnte rerma aditivo,
+147 (quatorze mil, trezentos e quairo
+171.653,64 (cento e setenta e um coil,
+€ quatro contavos), conforme Planilha
+:s eleboradas pelo [TEC constonte do
+Edição Eletrênica Cerrificada Digitalmente
+conforme LEI Nº 7,.397/2012
+ 
+Deta da Assinatura: 01 de novembro de 20/8.
+ 
+Tecnologia em Informática e Informação[do Estado de Alagoas - LTEC pare o
+exercício financeiro de 2018: Programa de Trabalha 1912200042001 — Manutenção
+Diário Ofícial
+Estado de Alagoas
+das Atividades do Órgão. Fonte de Recursos 0100000000 — recursos do tessuro &/
+“ou 0251006000 - recursos próprios, no elemento de despesa 339037-mão de obre.
+Maceió, 01 de novembro de 2018
+José Luciano dos Santos Júnior
+Presidente do ITEC
+ 
+ 
+PROCON - Instituto de Proteção e Defesa
+de Consumidor de Alagoas
+PORTARIA/PROCON Nº 227/2018*
+O DIRETOR-PRESIDENTE, no uso de suas ztribuições Jegais, com embasamento
+no Decreto Nº 4.076, de 28 de novembro de 2008 c/e Decreto Nº 43,794, de 15 de
+setembro de 2015, e no Processo nº 540573-195/2018, RESOL VE conceder di
+em favor do servidor:
+ 
+Nome: Gelba Novais de Castro Netto
+Cargo: Diretor-Presidente
+CPF:085.212.644-45
+Nº de Diárias: 1/2 diário(s) -
+Valar Uritário: R$ 100,00 (reais)
+WValor Total: R$ 50,00 (rcais)
+Período: de 16/10/2018 até 18/10/2018
+Destino: Arapiraca-AL. é
+“Objetivo: Insuguração do Já Arapiraca.
+  
+As despesas decorrentes da presênte portaria correrão através do Programa de Tra-
+lho — 14.122.0004.200] - Manutenção das atividades do Órgão - Fonte 0100,
+Elemento de Despesa 3351E14, diárias.
+ 
+INSTITUTO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON-AL,
+MaceiórAL, 26 de outubro de 2018.
+GALBA NOVAIS DE CASTRO NETTO
+Diretos-Presidente
+*Republicado por incorreção
+ 
+—
+UNCISAL - Universidade Estadual de
+Ciências da Saúde de Alagoas
+HOMOLOGAÇÃO
+PROCESSO ADMINISTRATIVO Nº 4101-15045/2018
+Com fundamento no PARECER JURÍDICO COJUR-UNCISAL Nº 673/2018, às
+fis. 324, aprovado pelo DESPACHO PGE-GAB Nº 3943/2018 emitido pela douta
+Procuradoria Geral do Estado de Alageas, bem como, nos poderes que me foram
+conferiãos pelo Decreto Governamental Nº 55,619, publicado nu Diária Oficial do
+Estado de Alugoas em 21 dé oumubro de 2017 e com felero ne Lei Delegada Nº 47
+de LO de agosto de 2015, HOMOLOGO o procedimento licitatório realizado sob
+a modalidade Pregão Eletrônico UNCISAL N.º 46/2018, objetivando o Regisiro
+de Preços para registro de percentual de desconto sobre a Tabela SINAP! para
+eventual contratação de erifpresa de engenharia, especializada para, sob demanda,
+prestar serviços de manutenção predia! com fornecimento de peças, equipamentos,
+materiais c mão de obra, na forma cstabclocida nas planilhes de serviços e insumos
+diversos descritos no Sistema Nacional de Pesquisa de Custos c Índices da Constru-
+ção Civil - SINAPL que teve como vencedora a cnpresa: ÚNICA ENGENHARIA
+E EMPREENDIMENTOS IMOBILIARIOS LTDA E?P, CNPJ: 14.554,855/000]-
+79, para o ilem Ol, com o valor total de R$ 250.000,00 (duzentos e cinquenta mil
+reais), com desconto registrado de 19,0013% uplicável lineanmente em todos os
+serviços prestados, a
+Toul do item adjudicado: R$ 250.000,00 (duzentos e cinquenta mil reais).
+Publique-se.
+Macceiá, D6 de novembro de 2018.
+Prof. Dr. Henrique de Oliveira Costa
+Reitos/UNCISAL
+ 
+   
+ERRATA AVISO DE COTAÇÃO - CONTRATAÇÃO EMERGENCIAL - PRO-
+CESSO 41010-18123.2018, .
+AA presente ERRATA é ora levada n efeito para revificar parcialmente o aviso de
+colação para contratação eomergenciot de alimentos publicada na edição nº 946,
+página 37, do Diário Oficialdo Estado de Alagoss do dia 01 de novembro de 2018,
+pertencente ao processo administrativo 41010-18123/20138, torna público, que hou-
+Ve um equivoco, cabendo à seguinte correção:

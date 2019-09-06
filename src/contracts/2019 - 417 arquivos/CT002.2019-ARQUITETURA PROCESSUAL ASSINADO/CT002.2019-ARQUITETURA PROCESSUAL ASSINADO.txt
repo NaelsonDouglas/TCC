@@ -1,0 +1,708 @@
+“Gam te tángas 6h
+CONTRATO Nº 0022019 QUE ENTRE Si
+CELEBRAM GÁS DE ALAGOAS S.A. - ALGÁS
+E ARQUITETURA PROCESSUAL
+INTELIGENTE LTDA.
+Pelo presente instrumento particular, a GÁS DE ALAGOAS S/A - ALGÁS, com
+sede na Rua Artur Vital da Silva, n.º 04, Bairro Gruta de Lourdes, Maceió/AL,
+inscrita no CNPJ/MF sob o nº 69.983.484/0001-32, doravante denominada
+ALGÁS, representada neste ato pelos seus diretores que este subscrevem, na
+forma do seu Estatuto Social, e a Sociedade Empresária ARQUITETURA
+PROCESSUAL INTELIGENTE LTDA, estabelecida na rua Santa Luzia, nº 100 —
+Sala 112 — CEP: 88 036-540 — Trindade — Florianópolis/SC, inscrita no CNPJ/MF
+sob o nº 068.747 227/0001-07, doravante denominada CONTRATADO, neste ato
+representada por seu Sócio-Administrador, Joe Losso Parente Jr., divorciado,
+advogado, inscrito na OAB/SC sob o n. 6.927, residente e domiciliado na Rua Vera
+Linhares de Andrade, n.º 2.150, Casa 8, Itacorubi, Florianópolis/SC, CEP 88034-
+700, celebram o presente CONTRATO, oriundo da Dispensa de Licitação,
+Processo Administrativo n.º 336.2018 segundo as CLÁUSULAS E CONDIÇÕES
+abaixo dispostas:
+CLÁUSULA PRIMEIRA - OBJETO
+1.1- O presente Contrato tem por objeto a contratação de licenças de direito de
+uso de software jurídico integrado para gerenciamento de processos
+judiciais, incluíndo serviços de implantação, customização, migração de
+dados, treinamento e suporte técnico, em conformidade com o ANEXO Q4 -
+*Mernorial Descrítivo' e demais anexos.
+CLÁUSULA SEGUNDA - FORMA DE EXECUÇÃO E REGIME
+2.1- Os serviços a que se refere este Contrato serão executados sob a forma de
+execução indireta no regime de empreitada por preço unitário.
+CLÁUSULA TERCEIRA - PREÇOS E VALOR
+3.1- O valor do presente Contrato é de R$ 12.367,80 (doze mil, trezentos e oitenta
+e sete reais e oitenta centsvos) a preços referenciados ao mês da data de
+apresentação da proposta
+3.1.1- O valor a ser pago pela ALGÁS pela execução dos serviços será o valor
+estabelecido na proposta constante do ANEXO Q7 - “*Proposta Comercial do
+Contratado”, observando-se o disposto na Cláusula Quinta abaixo.
+3.2 - Nos preços estabelecidos no Contrato estão incluídas todas as despesas q
+onerem, direta ou indiretamente, os serviços contratados, bem como o lu&to
+1de 21
+Página
+CONTRATO Nº 002 2019
+_/ ã:>
+(bonificação), não cabendo quaisquer reivindicações do CONTRATADO, a título
+de revisão de preço ou reemboiso, seja a que título for.
+ 
+CLÁUSULA QUARTA - RECURSOS ORÇAMENTÁRIOS
+41 - Os recursos financeiros necessários aos pagamentos da execução dos
+serviços do objeto deste Contrato estão devidamente equacionados e assegurados
+especificamente no orçamento de 2019, na Rubrica: Suporte Tecnologia da
+Informação.
+CLÁUSULA QUINTA - CONDIÇÕES DE PAGAMENTO
+5,1 - Os serviços executados serão pagos ao CONTRATADO em até 10 (dez) dias
+contados da apresentação e aprovação dos documentos, observadas as seguintes
+condições:
+5.1.1 - Os documentos de cobrança deverão ser apresentados para pagamento
+no escrítório da ALGÁS, localizado, na Rua Artur Vital da Silva, nº O4,
+Maceió/AL, ou em outro local por ela indicado, emitindo separadamente, Nota
+Fiscal dos serviços e de eventual reajuste.
+5.1.2 - Os documentos de cobrança apresentados pelo CONTRATADO, bem
+como o documento de cobrança final, serão pagos deduzidas as importâncias
+que, a qualquer título, nas condições estipuladas no Contrato ou outras
+especialmente acordadas, sejam devidas à ALGÁS.
+513 - O CONTRATADO deverá indicar, obrigatoriamente, nos respectivos
+documentos de cobrança, o número do presente Contrato, o período de
+execução dos serviços a que se referem, do CONTRATADO em que serão
+creditados os pagamentos.
+5.14 - O documento de cobrança deve ser emiítido com base na proposta
+negociada que lhe deu origem, devidamente atestado.
+5.1.5 - Caso sejam constatadas irregularidades nos documentos de cobrança
+apresentados, o prazo para pagamento estabelecido será contado a partir da
+data da reapresentação, pelo CONTRATADO, dos documentos de cobrança
+devidamente corrigidos, sem prejuizo da continuidade dos serviços.
+516 - A ALGÁS efetuará as retenções tibutárias que lhe competirem,
+segundo as normas tributárias vigentes.
+52-0:Wpod.domtmmumlmmm-o
+CONTRATADO, até que este cumpra integralmente a condição Á
+infringida, nos seguintes casos:
+Página 2 66 21 /
+CONTRATO Nº 002 2015 /
+4a
+aa ds Atagnas EA
+ 
+5.3.1 - inobservância de condições e cláusuias contratuais;
+5.3.2 - danos causados à ALGÁS ou a terceiros.
+5.3 A ALGÁS poderá deduzir dos valores a serem pagos ao CONTRATADO:
+4) aàs quantias devidas pelo CONTRATADO a quailquer título;
+b) o valor das muitas porventura aplicadas pela ALGÁS, em decorrência de
+inadimplemento deste Contrato;
+c) o valor dos prejuízos causados pelo CONTRATADO à ALGÁS e/ou o valor
+do reemboiso de pagamentos feitos pela ALGÁS a terceiros, decorrentes de
+responsabilidade couber exclusivamente ao CONTRATADO,
+d) o equivalente aos valores das causas porventura intentadas contra a
+ALGÁS, decorrentes das relações trabalhistas e/ou cíveis cuja
+responsabilidade couber exclusivamente ao CONTRATADO, devendo tais
+valores ser liberados em favor do CONTRATADO, mediante comprovação da
+exclusão da responsabilidade, seja solidária ou subsidiaria, imputada à ALGÁS.
+54 — Caso a ALGÁS deixe de cumprir com o pagamento na data prevista (desde
+que tenham sido cumpridas pelo CONTRATADO àas exigências e datas de
+protocolo referente), o valor do pagamento será atualizado monetariamente peto
+INPC — pro rata tempore.
+CLÁUSULA SEXTA - REAJUSTE
+6.1 - Os preços contratados serão fixos e irreajustáveis pelo período de 12 (doze)
+meses, contados a partir da data limite para apresentação da proposta, após o que
+serão reajustados conforme o caso, de acordo com a seguinte fórmula:
+li=tlo
+lo
+ 
+R=( W
+Em cuja fórmula:
+R = Valor do reajuste;
+i = Décimo segundo mês após a data limite para apresentação da proposta (data
+base informada no item 3,1), ou, conforme o caso, vigésimo quarto mês, ou.
+Página 3 de 21
+CONTRATO Nº 002 20:9ES
+Gan e pangaas EA
+ 
+trigésimo sexto mês e assim por diante, após a mencionada data, nos contratos de
+maior prazo;
+o = Mês da data limite para apresentação da proposta;
+V = Valor de pagamento dos itens de serviço ou da etapa, a preços iniciais;
+/= Índice de Preços do Mercado — IGP-WFGV,
+6.2-Caso o indice de reajuste publicado pelo site httos//portalibre fav.br/ não
+esteja disponível, por não ter sido publicado até a data do faturamento, será
+utiizado para o cáiculo do reajuste o indice anterior disponíveil, ficando a diferença
+de reajuste a ser paga ou restituída junto com o primeiro pagamento após a
+8.3 - Os preços contratuais não serão reajustados em caso de atrasos verificados
+e não justificados por parte do CONTRATADO que influenciem no prazo contratual
+dos serviços, ou cujas justificativas não forem aceitas pela ALGÁS
+CLÁUSULA SÉTIMA — DA VIGÊNCIA
+71 = O prazo de vigência deste é de 60 meses, a partir da assinatura do contrato,
+sem possibilidade de prorrogação, exceto as hipóteses previstas na Lei mº
+13,303/2016,
+CLÁUSULA OITAVA — GARANTIA DE CUMPRIMENTO DAS OBRIGAÇÕES
+CONTRATUAIS E SEGUROS - NÃO APLICÁVEL
+CLÁUSULA NONA — DIREITOS, OBRIGAÇÕES E RESPONSABILIDADES DAS
+PARTES
+9.1 São, entre outras, obrigações do CONTRATADO:
+| — executar diretamente o objeto deste Contrato, sem transferência de
+WMNWWWWWWW:
+N — recrutar e selecionar os profissionais que serão alocados na prestação dos
+serviços;
+W — responder pelos encargos trabalhistas e previdenciários dos profissionais
+alocados na prestação dos serviços;
+1V — manter, durante toda a execução do contrato, as condições de habilitação e
+quasificação exigidas na licitação;
+V - acatar as determinações da FISCALIZAÇÃO do serviço contratado;
+Página 4 de 21
+CONTRATO Nº 002 2016
+Ào >
+Gm am lan 1A
+ 
+Vl — prestar os esclarecimentos que forem solicitados pelo ALGÁS, obrigando-
+se a atender prontamente as medidas requeridas e decorrentes de eventuais
+— responder por todos os danos causados por seus empregados e prepostos
+&AmAs Oou a terceiros, na prestação dos serviços contratados, inclusive por
+acidentes, mortes, perdas ou destruições isentando o ALGÁS de todas e
+quaisquer responsabilidades que possam surgir;
+VIll — repor, no prazo de setenta e duas horas, qualquer objeto
+comprovadamente danificado ou extraviado por seus empregados ou prepostos;
+1X — assumir todas as responsabilidades provenientes de encargos referentes a
+acidentes de que possam ser vítima seus empregados e tomar àas medidas
+necessárias ao atendimento dos empregados, acidentados ou com mal súbito,
+por meio de seus prepostos;
+X - fornecer todos os EPI's necessários ao desempenho da atividade objeto
+destes serviços.
+9.2 São, entre outras, obrigações da ALGÁS:
+| - utiizar-se dos serviços do CONTRATADO somente nos limites que o objeto
+do contrato permitir,
+1 - efetuar pagamento ao CONTRATADO de acordo com o estabelecido neste
+contrato;
+M — permitir o acesso do representante e empregados do CONTRATADO ao
+locail de prestação dos serviços, desde que devidamente identificados; e
+IV - proporcionar todas as facilidades para que o CONTRATADO possa
+executar seus serviços dentro do estabelecido neste contrato.
+CLÁUSULA DÉCIMA - PENALIDADES
+10.1 - Pela inexecução total ou parcial do Contrato, a ALGÁS poderá, garantida a
+prévia defesa, aplicar ao CONTRATADO as seguintes penalidades:
+a) advertência, aplicada ao CONTRATADO por escrito;
+b) multa, conforme itens 10.2 até 10.6 abaixo;
+c) suspensão temporária de participação em Licitação e impedimento /de
+mrmnmwomaum)muclum)m.e,
+de21
+7[,4/
+Pagra 3
+CONTRATO Nº 002 20192s
+10.2— A título de muita moratória, o CONTRATADO pagará à ALGÁS os valores
+caliculados segundo disposições a seguir
+ 
+1021 - Pelo não cumprimento dos prazos contratuais, será aplicado ao
+CONTRATADO mutita moratória de 0,5 % (cinco décimos por cento) do valor do
+Contrato, por dia de atraso, salvo se a justificativa do atraso for aceita pela
+ALGÁS.
+1022 - Em caso de não cumprimento, por parte do CONTRATADO, das
+exigências contratuais apontadas pela FISCALIZAÇÃO da ALGÁS, dentro do
+prazo por esta fixado, a ALGÁS poderá, em notificação por escrito, aplicar ao
+CONTRATADO, por dia de não cumprimento dessas exigências, os valores
+respectivos que forem estipuiados a seguir, conforme se trate de primeira faita,
+nova falta ou reincidência
+10221 - Pela primeira vez 0,5% (cinco décimos por cento) do valor do
+Contrato, por dia de atraso no cumprimento de exigência contratual apontado
+pela FISCALIZAÇÃO da ALGÁS, depois de esgotado o prazo por esta
+estabelecido.
+10,2.22 - Pela segunda vez e subsequentes, 1,0 % (um por cento) do valor do
+Contrato, por dia de atraso no cumprimento de exigência contratual apontado
+pela FISCALIZAÇÃO da ALGÁS, depois de esgotado o prazo por esta
+estabelecido.
+10.23 - O montante correspondente à soma dos valores básicos das muitas
+aplicadas fica limítado a 10 % (dez por cento) do valor do Contrato, a partir do
+qual poderá acarretar a rescisão do mesmo, a critério da ALGÁS, sem prejuíizo
+das indenizações aos eventuais prejuizos causados à ALGÁS
+1024 - O valor da muita, quando ultrapassado 12 meses da data limite da
+apresentação da proposta, será aplicado sobre o valor reajustado do contrato.
+10.3 - Em notificação escrita e sem prejuízo da facuidade de rescindir o Contrato,
+poderá a ALGÁS aplicar ao CONTRATADO multa compensatória de até 100 %
+(cem por cento) do vator do débito eventualmente atribuido à ALGÁS, em razão do
+inadimplemento de obrigações pelo CONTRATADO, sejam de ordem trabalhista,
+previdenciária, tributária, civel ou de terceiros.
+1031 - O pagamento da referida muita não eximirá o CONTRATADO da
+obrigação de restituir á ALGÁS o valor que a ela for imposto por força de
+eventual condenação solidária ou subsidiária proferida por autoridade judicial
+elou administrativa,
+  
+de 21
+Página 6
+CONTRATO Nº 202 2019 Ê:>
+10,3.2- O limite e o reajustamento, previstos respectivamente nos itens 1023 e
+10.2.4 desta Cláusula, não se aplicarão às muitas eventualmente aplicadas com
+base no item 103 acima
+ 
+10.4 - A(s) multa(s) a que porventura o CONTRATADO der causa será(ão)
+descontada(s/executada(s) da garantia contratual, caso existente, ou sendo
+insuficiente, serão descontadas dos pagamentos eventualmente devidos pela
+ALGÁS ou cobrada(s) judicialmente,
+10.5- As penalidades estabelecidas nesta Cláusula não excluem quaisquer outras
+previstas no Contrato ou seus anexos, nem a responsabilidade do CONTRATADO
+por perdas e danos que causar à ALGÁS, em consequência do inadimplemento
+destas Condições Gerais Contratuais e/ou das demais condições do Contrato.
+106 - A sanção de suspensão do direito de participar de licitação e impedimento
+de contratar com à ALGÁS será aplicada ao CONTRATADO rnas situações em
+que a conduta infracional:
+a) seja também prevista como crime pela legisiação penal, como ato de
+improbidade administrativa ou como ato lesivo á administração pública, nos
+termos da Lei 12.846, de 1º de agosto de 2013;
+b) resultar na rescisão do contrato,
+€) causar prejuíizo grave para a ALGÁS, inclusive de imagem
+10.7- O CONTRATADO poderá recorrer da aplicação de qualquer penalidade, no
+prazo de 10 (dez) dias úteis a partir da data do recebimento da notificação, caso
+mmanmmum'mprmmlmmndowmu
+muita
+10.8 - Na aplicação das penalidades previstas nesta cláusula e no respectivo
+procedimento administrativo, observar-se-á o disposto no Reguiamento Interno de
+Licitações e Contratos da ALGÁS, no que for compativel com o que
+expressamente estiver disposto no contrato.
+CLÁUSULA DÉCIMA PRIMEIRA - RESCISÃO
+11.1, A inexecução total ou parcial do Contrato pelo CONTRATADO ensejará sua
+rescisão pela ALGÁS, com as consequências previstas neste Contrato e na
+legislação aplicável
+obrgações assumidas neste contrato, independentemente de quaia
+interpelação judicial ou extrajudícial
+Págna 7 de 21
+CONTRATO Nº 002 2016d
+“Gavde Alsgoas SA
+ 
+11,3, Este contrato poderá ser rescindido:
+a) amigaveimente, por acordo entre as partes, reduzido a termo, desde que haja
+conveniência para a ALGÁS; e
+b) uniateralmente, mediante denúncia formal de uma parte a outra, nas hipóteses
+previstas neste contrato e seus anexos, especialmente no caso de inadimplemento
+contratual em que a parte inadimplente é notificada para reguiarizar suas
+obrigações e se mantém em mora pelo prazo de 10 (dez) dias;
+c) unilateralmente, mediante denúncia formal da ALGÁS, na hipótese de o
+CONTRATADO incorrer em quaiquer das hipóteses de infração contratual ou
+administrativa prevista no Regulamento Interno de Licitações e Contratos — RILC,
+Cuja pena seja a de suspensão licitar ou contratar com a ALGÁS;
+d) unilateraimente, mediante denúncia formal da ALGÁS com antecedência de 30
+(tinta) dias, por motivo de conveniência e oportunidade, independentemente de
+muita ou qualquer indenização ao CONTRATADO, ressaivado o valor devido pelos
+serviços prestados até a rescisão contratual
+11.4, A rescisão deste contrato implicará retenção de créditos decorrentes da
+contratação, até o limite dos prejuizos causados à ALGÁS, bem como na
+assunção dos serviços pela ALGÁS na forma que a mesma determinar
+CLÁUSULA DÉCIMA SEGUNDA - ALTERAÇÕES CONTRATUAIS
+121 — Este Contrato poderá ser alterado com as devidas justificativas, de acordo
+com os Artigos 72 e 81 da Lei nº 13.303/16, bem como em conformidade com o
+qwó&p&ooun—nmln—múLm.MmaALm
+122 - Se necessária uma determinada alteração, será adicionada a seguinte
+CLÁUSULA DE QUITAÇÃO ao Aditamento Contratual:
+O CONTRATADO DÁ À ALGÁS, NESTE ATO, PLENA, RASA E GERAL
+QUITAÇÃO DE TODOS OS SEUS DIREITOS CORRESPONDENTES AO
+PERÍODO COMPREENDIDO ENTRE O INÍCIO DA VIGÊNCIA CONTRATUAL
+ATÉ A PRESENTE DATA, RELATIVOS AO CONTRATO EM QUESTÃO
+RESSALVADAS AS FATURAS A VENCER, PARA NADA RECLAMAR, SOB
+QUALQUER TÍTULO OU PRETEXTO, COM FUNDAMENTO NO CONTRATO
+ORA ADITADO, EM JUÍZO OU FORA DELE
+CLÁUSULA DÉCIMA TERCEIRA - DOCUMENTOS COMPLEMENTARES
+7
+Página 6 de 21 é;
+CONTRATO Nº 002 2019:>
+13.1 - Os seguintes documentos, na ordem em que tiverem sido relacionados, são
+aAnexos deste Contrato Os termos deste Contrato, em caso de dúvidas,
+prevalecerão sobre os anexos:
+ 
+ANEXO Q1 - NÃO APLICÁVEL;
+ANEXO Q2 - NÃO APLICÁVEL;
+ANEXO Q3 - NÃO APLICÁVEL;
+ANEXO Q4 - Memorial Descritivo:
+ANEXO Q5 - NÃO APLICÁVEL;
+ANEXO Q6 - NÃO APLICÁVEL;
+ANEXO Q7 - Proposta do CONTRATADO datada de 11/02/2019
+CLÁUSULA DÉCIMA QUARTA — GERENCIAMENTO E FISCALIZAÇÃO DOS
+SERVIÇOS
+141 - A ALGÁS exercerá a FISCALIZAÇÃO dos serviços contratados por
+técnico(s) pertencente(s) ao seu quadro, e/ou de terceiros por ela contratados,
+designado(s) por escrito junto ao CONTRATADO, obrigando-se este a facilitar o
+pleno desempenho de suas atribuições.
+1411 - O GESTOR DO CONTRATO será o responsável pela Gerência
+Jurídica da ALGÁS, sendo os respectivos fiscais designados por meio de
+documento específico emitido pela ALGÁS.
+14.2 - O GESTOR DO CONTRATO ou FISCALIZAÇÃO da ALGÁS terá os mais
+amplos poderes, inclusive para:
+1421 - exigir a imediata substituição de empregado do CONTRATADO que
+dificultar sua ação fiscalizadora e/ou acompanhamento, ou cuja permanência no
+local de execução dos serviços, a seu exclusivo critério, julgar inconveniente,
+sem que esse fato acarrete qualquer ônus para a ALGÁS;
+14.2.2 - recusar serviço que não tenha sido executado de acordo com o projeto
+e/ou especificações:;
+1423 — recusar serviço executado ou suspender serviço em execução que
+esteja em desacordo com as especificações contratuais ou com a boa técnica,
+ou ainda que atente contra a segurança do pessoal ou bens da ALGÁS e/ou d
+terceiros;
+Página 9 de 21 /
+CONTRATO Nº 002 201514.2.4 — registrar as irregularidades ou falhas que encontrar na execução dos
+Serviços, neile anotando as observações que julgar necessárias.
+14.2.5- NÃO APLICÁVEL;
+1426 - além do direito de aplicação das sanções previstas no Contrato,
+também o de suspender a execução dos serviços contratados e sustar o
+pagamento de quaisquer documentos de cobrança, no caso de inobservância,
+pelo CONTRATADO, das exigências da FISCALIZAÇÃO da ALGÁS, garantido
+o contraditório e a ampla defesa;
+14.2.7 - NÃO APLICÁVEL
+1428 - exigir que sejam refeitos serviços executados em desacordo com as
+especificações contratuaís ou com vícios ocultos, correndo pelo CONTRATADO
+todas as despesas pelo refazimento dos serviços;
+14.2.9 - recusar materíais e/ou equipamentos que não atendam aos requisitos
+de qualidade e exigir a retirada dos mesmos do local dos serviços, dentro de um
+prazo determinado;
+14 210 - solicitar do CONTRATADO todas as informações e esclarecimentos
+necessários ao perfeito conhecimento e controle dos serviços.
+Nota: A ação ou omissão, total ou parcial, da FISCALIZAÇÃO da ALGÁS não
+exime o CONTRATADO dsa total responsabilidade pela execução dos serviços
+contratados.
+CLÁUSULA DÉCIMA QUINTA - CESSÃO, TRANSFERÊNCIA E
+SUBCONTRATAÇÃO
+15.1 - O CONTRATADO não poderá ceder ou transferir o Contrato, no todo ou em
+parte, sem autorização prévia e por escrito da ALGÁS
+CLÁUSULA DÉCIMA SEXTA — DISPOSIÇÕES FINAIS
+161 — Quaiquer tolerância de uma das partes na exigência do cumprimento do
+presente Contrato não constituirá novação, renúncia tácita ou extinção da
+respectiva obrigação, podendo a mesma ser exigida a qualquer tempo.
+CLÁUSULA DÉCIMA SÉTIMA — FORO
+Página 10 66 71
+CONTRATO Nº 002 2015 ss
+17.1 - Fica eleito o Foro da Comarca de Maceió, Estado de Alagoas, que será o
+competente para dirimir as questões decorrentes do cumprimento deste Contrato,
+renunciando as partes a qualquer outro por mais privilegiado que seja.
+ 
+Assim, por estarem de comum acordo, a ALGÁS e o CONTRATADO firmam este
+Instrumento, que reconhecem válido e eficaz, em 02 (duas) vias de igual teor e
+forma, para um só fim, na presença de 02 (duas) testemunhas capazes e idôneas.
+Maceió (AL) em 26  de maaga — de 2019
+ 
+   
+   
+Pela ALGÁS: ) ] E
+o
+= é »
+iAA ET ALP './M >
+Arnóbio Cavalcanti Filho ulka Ribas
+Diretor Presidento T /Diretoradm. Financeiro
+Gás de Alagoas S/A - ALGAS /Gh de Atacoas S/? * TÁS
+Pelo CONTRATADO:
+ 
+Rs G N W(WW
+% ( BA SS E 15
+116621
+CONTRATO Nº 002 2019ANEXO Q4 - MEMORIAL DESCRITIVO
+1 OBJETIVO
+Este documento tem por objetivo descrever as atividades e requisitos para software jurídico
+Integrado para gerenciamento de processos judiciais, incluindo serviços de implantação,
+customização, migração de dados, treinamento e suporte técnico, em conformidade com aàs
+diretrizes apontadas no Termo de Referência
+2 CONDIÇÕES GERAIS
+O software jurídico integrado deverá efetuar o controle de processos judiciais, com
+possibilidade de expansão para os processos internos (administrativos e consultoria),
+gerenciando de modo interligado: processos, serviços, agenda (controle de audiência e prazos
+com lembrete), financeiro, relatórios, controle de acessos e auditoria.
+A solução deve permitir o cadastramento completo dos processos de toda a ALGÁS, em todas
+25 fases € instâncias, bem como a vinculação de processos entre si, em banco de dados único.
+A ferramenta a ser fornecida deve ter capacidade para suportar no minimo 30 usuários
+simuitâneos, sem limites de conexão, base de dados, memória e CPU.
+A CONTRATADA deverá fornecer e considerar no custo da solução, todos os softwares,
+licenças, componentes, sistema operacional, banco de dados, materiais e documentação
+necessários para o correto funcionamento e uso da solução.
+3 REQUISITOS FUNCIONAIS MÍNIMOS
+A solução a ser contratada deve apresentar os seguíntes requisitos funcionais mínimos:
+31 Processos:
+311 Permitiro cadastramento e acompanhamento dos processos, em todas as fases e
+Iinstâncias, compresndendo às informações a seguir:
+s) — Númerodoprocesso judicial, conforme padrões nacionais;
+b) Campos (necessários) para cadastro por:
+* Instância;
+* Grupo
+* Dependência de distribuição;
+* Apensamento ou reunião de processos;
+» Ano do processo, com possibilidade de ser cadastrada à data do
+ajulzamento, com dia, mês e ano;
+[) Nome do relator;
+d) — lJuizo(separado por localidade e instância);
+e)  Natureradaação/área de atuação (civil, trabalhista, criminal etc );
+Página 12 de 21
+CONTRATO Nº 002 2019fl — Nomedaação (reclamação trabalhista, consignação em pagamento, ordinária,
+de indenização, de cobrança) - com possibilidade de cumulação de ações;
+s)  Nomecdaspartes;
+h) — Encarregado(s) pelo acompanhamento do processo;
+» Vaior da causa;
+n Vailor da execução;
+k) — Pedidoformulado;
+) — Prognóstico;
+m)  Contingência;
+n)  Datasde distribuição, sentença, execução, trânsito em julgado, encerramento
+do acompanhamento etc.
+o)  Observaçõesgerais.
+312 Permitirafiltragem de processos dos seguíntes modos:
+a) Pelos campos disponíveis no cadastramento, total ou parcial, sem que haja a
+necessidade do usuário informar o dado em sua totalidade;
+b) — Possíbiliteaousuárioa combinação de critérios e criação de filtros;
+c) — Possibilitequeousuáriosalve consultas pré-definidas,
+3.1.3 Permitir o controle de perdas contingentes (risco processual), possibilitando a
+classificação em perda possível, perda provável e perda remota;
+314 Permitira consulta dos valores discutidos no processo, corrigidos monetariamente
+até a data atual;
+315 Preservarohistórico de reavaliação de riscos dos processos;
+316 Permiítir a redistribuição de processos com alteração do seu responsável,
+possibilitando o processamento em lote;
+317 Permitira víinculação de processos entre si;
+318 Permiítir a identificação de possíveis litispendências, por meio de dados já
+cadastrados em outros processos;
+319 Permitir o lançamento de movimento processual (com separação por instância,
+conforme máscara dos tribunais) - neste campo deverá ser permitida a inserção de
+números, letras, simbolos e sinais sem restrição. Deverá ter compatibilidade com àas
+publicações de atos processuais dos tribunais, por meio do Diário Eletrônico da Justiça de
+tal forma que reproduza seu texto;
+3.1.10 Possibilitar customização de campos a fim de incluir eventuais informações não
+previstas acima.
+3.2. Ffinanceiro:
+3.21. Controlar as despesas relacionadas aos processos;
+Págra 13 de 21
+CONTRATO Nº 002 2016ALGAS
+3.22. Controlar as despesas dos processos e depósito judiciais (com atualização dos
+valores).
+ 
+3.3. Relotórios:
+3.31. Todos os relatórios gerados devem permitir impressão, visualização em tela ou
+salvamento em arquivos de diversas extensões como: PDF, XMLTIXT ou DOC, gravando,
+opcionalmente, sua saída em diretório configurável no servídor;
+332. O sistema deve possuir um conjunto de relatórios padronizados à disposição do
+usuário que deverá dispor (no mínimo) de relatórios por:
+* Todos 05 Processos;
+* Grupo;
+* Prazo;
+* Advogado responsável;
+* Classe;
+* Órgão Julgador;
+* Tipo de Ação;
+* Andamento;
++ Perda/ixito;
+* Data de Ajuizamento.
+33,3. O sistera deve possui um gerador de retatórios configuráveis pelo usuário, sem à
+necessidade de solicitar customizações, com possibilidade de exportação, em formato
+texto, PDF ou XLS das seguintes informações:
+3.3.3.1. Dos Processos Judiciais:
+a)  NúmerodoProcesso;
+b)  Agendamentos (audiências, prazos, acompanhamento etc.)
+e Nome do Autor;
+d) NomedoRéu;
+e) Grupo;
+Ni  Casse
+34 Agenda:
+341 Osistema deve disponibilizar uma agenda que permita registrar todos os eventos
+relacionados às ativíidades jurídicas, como audiências (em todas as instâncias e seções
+Judiciárias), prazos, tarefas e reuniões;
+34.2, Os eventos com origem no próprio sistema de vem ser gerados de forma
+automática;
+3.43, Permitirocontrole de prazos dos processos;
+344, Aagenda deve permitir o cadastro de contatos: pessoas físicas & jurídicas.
+Página 14 de 21
+CONTRATO Nº 002 2018Ls
+Gm a Alagees 1A
+ 
+3.45. Aoser realizado o agendamento de um compromisso pode-se, ainda, determinar
+sua forma de recorrência (diária, semanal, mensal ou anual), configurar a emissão de
+notificações programadas (lembretes).
+3.5. Auditoria/Seguranço:
+351. O sistema deverá estar apto à conceder acesso por perfis de usuários,
+contemplando:
+* Grupo de usuários - São usuários que têm as mesmas características de acesso ao
+software;
+* Por tipo de transação: inclusão, alteração, exclusão e consuita;
+* Privilégios diferenciados para o usuário gestor do sistema;
+* Permitir configurar permissões de grupos de usuários garantindo que eles (os
+usuários) tenham acesso apenas aos arquivos de sua área ou grupo de processos;
+* Controle hierárquico de acesso aos processos de acordo com à estrutura
+organizacional de empreta, divisão, grupo, área e escritórios terceirizados.
+3.6. Ferramenta de Acompanhamento Processuol por meio de pesquisas nos Diórios
+Oficiais e Sistema Push:
+371. O sistema deve prover ferramenta que permita o monitoramento díiário das
+informações publicadas, identificando se existem novas publicações dos processos
+registrados no sistema;
+3.72. Caso existam novas publicações o sistema deve fazer a atualizaçõo nas respectivas
+mb&wwmm&wàmmm;
+38.73. A ferramenta deve ser capaz de monitorar 200 » 400 processos, ou número
+supenor;
+3.7, Requísitos Técnicos:
+381. Ocente Web deverá ser compatível com navegadores (Browsers) no padrão W3C.
+38.2. O sistema deverá utilizar como padrão de banco de dados o Oracie 11G ou
+supernor;
+383. O sistema deverá suportar instalação em servidores com sistema operacional
+Microsoft Windows 7 Professional Servica Pack 1;
+3.84. O Módulo Cliente, se existir, deverá ser compatível com estações utilizando o
+sistema operacional Microsoft Windows 7 Professional, Service Pack 1 ou supertor;
+385. Seasoluçãofor liente/Servidor, com cliente Windows, deverá suportar acesso via
+Windows Terminal Services;
+386. Oscomponentes da solução deverão rodar em ambiente de virtualização VMWARE,
+limitada a cada máquina virtual com RAM máxima de 32 Gbytes e 04 processadores;
+387. Integração com ferramentas de email para notificação de ações registradas no
+sistema utilizando protocolo SMTP e POP3 ou IMAP;
+  
+15521
+CONTRATO Nº 002 2078:s
+Ganmmangem EA
+ 
+38.8. Deverá permitir as atualizações de versões de forma manual por meio de download
+do site do fornecedor ou automática via internet, sem custo adicional para a ALGÁS,
+mediante autorização do fiscal do contrato.
+38.9. Entendese como atualização da versão: Patches, Fixes, Correções, Updates,
+Servicepack;
+3.8.10. As novas versões e/ou atualizações deverm manter a compatibilidade com o sisterna
+inicialmente entregue, em conformidade com o cenário tecnológico disponibilizado peta
+ALGÁS.
+3.8. Gerenciamento Eletrônico de Documentos (GED)
+3.9.1. Permitir a armazenagem, recuperação, visualização e edição de documentos com
+criação de fluxos de tramitação de documentos;
+39.2. Permitir o arquivamento de e-mails e seus anexos na base para busca posterior.
+Possibilidade de pesquisa de palavras dentro dos documentos anexados;
+3.9.3. Permitir elaboração, revisão, cancelamento, distribuição, cópia controtada, controle
+de versões e conformidades dos processos e documentos;
+3.94. Possibilitar a verificação dos prazos de vencimento e a distribuição dos documentos
+controlados;
+3.9.5. Possibilitar o estabelecimento de ações e avisos de contingências, caso tarefas não
+Sejam executadas nos ternpos previstos ou determinadas situações ocorram;
+39.6. Possibilitar a auditoria das ações, permitindo que, a qualquer momento, sejam
+verificadas pendências, atrasos e o histórico dos fluxos e das comunicações geradas nas
+taretas executadas;
+3.9.7, Possibilitar o armazenamento de documentos no formato do Microsoft Office,
+Open Office, HTML, TIFF, GIF, IPEG, PNG, BMP, PDF, AVI nu MPEG,
+3.9. Corocterísticos Gerois:
+3.10.1. O sistema deve permitir acesso através da internet para os usuários que detenham
+autorização para tanto, inclusive em viagem e em domícilio;
+A contratada não poderá, em hipótese alguma, transferir para terceiros, para qualquer que
+seja o fim, as informações constantes da base de dados da ALGÁS, salvo prévia e expressa
+autorização da ALGÁS.
+3.10.7. Osistema deve ser capaz de armazenar arquivos digitalizados;
+3.103. O sistema deve possuir um campo específico tipo texto livre para registro de
+observações;
+3.104, O Sistema deve permitir a criação de novos campos, sem a necessidade de auxilio
+da contratada, bem como sem a cobrança em razão desta funcionalidade;
+3.10.5. O sistema deve permitir registrar as informações de armazenagem como número
+de pastas e caixas, possibilitando emítir etiquetas com código localizados;
+3106. O sistema deve permitir registrar as informações de contato da(s) parte(s) e do(s)
+advogado(s) envolvidos no processo, tais como telefone, endereço, endereço sletrônico
+etc.;
+3107, O sistema deve oferecer o controle de retiradas de pastas e outros documentos
+como empréstimos;
+3108  Permitiro arquivamento de modelos de documentos padronizados tais como:
+* Contrato,
+Página 15 de 21
+CONTRATO Nº 0022019* Carta;
+» Procuração;
+* Substabelecimento;
+* Despacho;
+* Guia de depósito judiícial.
+3109. Alicença deve permitir à ALGÁS total acesso às bases de dados;
+39.10,10. A CONTRATADA deverá fomecer no momento da instalação os seguintes
+documentos técnicos: dicionário de dados, modelo de entidade e relacionamentos (MER),
+manuail de instalação * configuração do software jurídico;
+3.10.11. Toda documentação fornecida pelas empresas deverá ser em português (Brasil);
+3.10,12. A documentação deverá ser pertinente tanto à versão contratada quanto às suas
+atualizações;
+3.10.13, A versão das licenças de uso deverá ser a última no mercado, conferida na data da
+entrega do produto;
+3.10.14. Todas as licenças fornecidas deverão permitir a instalação do produto em
+quantidade infinita de vezes e não poderão conter mecanismo de expiração, guardada »
+obediência ao quantitativo de licenças fornecidas;
+3I40.15. Deverá ser fornecido o cartão de registro e/ou licenças de uso, contendo todas as
+chaves, senhas, múmeros de identificação, série e demais informações necessárias para a
+identificação, Instalação, reinstalação e operação do produto;
+4 DA MIGRAÇÃO DE DADOS
+Atualmente o acervo de processos digitais desta Companhia conta com, aproximadamente,
+200 processos, geridos por meio do Sistema Integra, cujos dados compreendem àas
+informações inerentes ao grupo dos processos, números de referência no CNI, número do
+processo, status processual, área de atuação, objeto da ação, assunto, detalhes, prognóstico,
+resultado final, segredo de justiça, pasta, etiqueta, processo favorito, loca! de trâmite,
+comarca, fase, localizador, responsável, parceiro, origem, condenação possível, condenação
+final, data contratação, data tránsito julgado, valor da causa, data encerramento, data
+sentença, outro valor, data distribuição, data execução, contingência, pedido, observação,
+Parte Adversa, Litisconsortes, Processos Apensos, Agendamentos, Custas & Despesas,
+Honorários, Dados Adicionais, Dados Recursais, Terceiros, Retatórios, Documentos, Protocolo,
+Gerar Documento, Bens, entre outros;
+Caberá ao contratado realizar a migração de todos os dados referentes a tais cadastros, bem
+como de todos 05 documentos inseridos no atual sisterna desta Companhia, devendo o valor
+da contratação abranger todo o serviço.
+s. DO TREINAMENTO E DA IMPLANTAÇÃO
+Caberá 3o contratado promover a capacitação de tantos usuários quantas forem as licenças
+edquiridas, sendo que o treinamento poderá ser fornecido online, por teleconferência, ou
+presencial, á
+Página 17 de 21
+CONTRATO Nº 002 2019SAA
+“Ganas Atsgees EA
+Para a implantação do sisterna, serão fornecidas as condições para o acesso remoto dos dados,
+sendo o serviço acompanhado por pessoal da ALGÁS,
+Paágina 15 de 21
+GONTRATO Nº 002 2016ALGÁS
+Gendo fiagnas RA
+ 
+ANEXO Q7 - PROPOSTA COMERCIAL DO CONTRATADO
+PRONTºO
+PROPOSTA DE ORÇAMENTO PARA UTILIZAÇÃO DO SISTEMA INTEGRA
+SOUCTANTE
+11 tmoress GAS DE ALAGOAS 8/A ALGAS
+12 (Endoroço — maa ANT VAUAA DA BNA 96 - Qd d Liandos - Aúeaa 6
+13 / Comuo Acano Sento dor Sentis
+14 Tálonels) (AA TIIS
+15 / Emait) 2CaO santos Malgas com.br | adrnano chavesialgas com dbr
+PESQUISA DE PUSLICAÇÕES JURÍDICAS
+om  noME ESTADOS 0€ PESQUISA
+2 GAS DE ALAGOAS S/A ALGAS AL-SE-DE - TribSap:
+SERVIÇO
+) Ouponbíicação — Conceudode ficença de sso do seu Sestema oe Gestbo Processual
+Senominado INTEGRA acevareri via intrimet. através de venha própria para
+este en
+Sera qupornblizada uma enhta maste: tenha atrmunntradoja
+CONTHATANTE. que posferá (nar postenoemente tantas senhas ouantas
+forem mecessarias para utiicaçõo do Satema INTLGAA cabendo a
+CONTRATANTL. mediante orgarciação mterna. » ogisboa de distribução
+e renhas e uso cormeto do Sestema INTLGRA
+11 Privo * publicações serão emasdas para consulta no mesmo du da orcutação
+dor Diárior Judician talvo quendo houver atravo na dnpondelização oot
+tormau, podendo hevmm recunterêncio do dis posteno: a dnpornitilização
+(reconterência até 48 ta após a crouieção dos jornais)
+2 Oecnodos A pesquisa é completa (parte Estaíiual, Iranaího, Federal e taan
+Jomais Supenores - procesaos originanos nots) Lstadesás) contratadoti), Não
+verho erviadas publicações fefias atravds de outrom maios que não wejam
+n jornais Oficiaes da Justiça, Ou seja, quando a meinação é festa
+pessoskhmerte, Comveica, Projudi, Lorec. et:
+Página 19 de 21
+CONTRATO Nº 002 2019PRONTED
+VALOR DA PROPOSTA
+vALOA
+« Mensslivas "ssesas
+41 Anuslá vista? n$ 2417,76
+OUTROS SENVIÇOS
+S  Mpssiodedados n$299,00
+ 
+FORMA DE PAGAMENTO
+Soteto Bancáno
+Boieto Bancário
+Vator único — Boteto lancénio
+*O contrato comesponde à 17 meses de uso do Sotftware integra é O pagamento anual, à vesta,
+contermpla 8% de desconto.
+FMorianópoiia, 11 de feverniro de 2019
+Pagna 20 de 21
+CONTRATO Nº 002 2019PRONTED
+Principais características de nosso software jurídico e benefícios:
+- Layout simples é intultivo;
+- Cadastro ilimitado de clientes, processos e usuános;
+- Captura gratuite de andamentos processuais pera 100 processos (possibilidade de expandir se
+necessário, necessário contratação oneresa de pacote adicionaí);
+- Sistema 100% web, você pode acessar as informações de onde estiver (necessária a conexão
+com internet);
+- Armazenamento de documentos na nuvem inxciando em 2GB gratuito possíbilidade de expandir
+se necessário, necessário contratação onerosa de pacote adicional);
+- Permite que seus clentes acompanhem seus processos através do sistema;
+- Possibilidade de agendar o5 afazeres € vincular suas taretas com a ficha de processos;
+- Possibilidade de protocolar seus documentos, permitindo um meihar controle da documentação
+física;
+- Funcionalidade de I-maiis (envio de mensagens internas entre os usuários do sistema),
+- Perrrite o cadastro de cargas;
+- Contempia o fornecimento das Publicações Jurídicas com disponibílização em diário oficial;
+- Conta com uma Central de Atendimento sempre pronta para auxífiá-lo, telefone, chat enbne é
+e-mail (atendimento de Sagunda à Sexta dac 08:00 às 17:45);
+- Permite controiar o Financeiro (lançamento de contas à pagar, contas a receber, fluxo de caixa;
+controle de custas e despesas e faturamento);
+- Conta com um Gerador de documentos,
+- Possibifidade de extrair Reiatórios customizados com alguns cliques;
+- Disponibélizamos um Tutoriai completo com videos e textos explicativos dentro do sistema,
+- Parceria com OAB's e CAAS, garantindo assim maior segurança e qualidade nos serviços;
+- Aplicativo disponível para download na pilay store e apple store.
+Página 21 de 21
+CONTRATO Nº 002 2018

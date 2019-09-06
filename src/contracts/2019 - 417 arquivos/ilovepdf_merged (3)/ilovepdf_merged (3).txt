@@ -1,0 +1,608 @@
+ESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+TERMO DE CONTRATO Nº 02/2019, QUE
+ENTRE SI CELEBRAM O ESTADO DE
+ALAGOAS, POR INTERMÉDIO DA
+SECRETARIA DE ESTADO — DO
+PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+— SEPLAG E POR INTERMÉDIO DA
+UNIDADE GESTORA ÚNICA DO REGIME
+PRÓPRIO DE PREVIDÊNCIA SOCIAL DE
+ALAGOAS - ALAGOAS PREVIDÊNCIA, E À
+EMPRESA ELOGICA PROCESSAMENTO DE
+DADOS LTDA PARA AÀ PRESTAÇÃO DE
+SERVIÇOS.
+CONTRATANTE: O ESTADO DE ALAGOAS, por intermédio da SECRETARIA DE
+ESTADO DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO - SEPLAG, inscrita no
+CNPJ sob o nº 12.200.184/0001-12 e com sede à Rua Cincinato Pinto, nº 503, Centro, Maceió,
+Alagoas, CEP 57.020-050, representado por seu titular, o Sr. FABRÍCIO MARQUES
+SANTOS, inscrito no CPF sob o nº 003.642.895-70; e por intermédio da UNIDADE
+GESTORA ÚNICA DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DE
+ALAGOAS - ALAGOAS PREVIDÊNCIA, inscrita no CNPJ sob o nº 11.545.086/0001-54 e
+com sede na Avenida da Paz, nº 1864, Térreo, Edf. Terra Brasilis, Centro, Maceió, Alagoas,
+CEP 57020-440, representado por seu Diretor-Presidente, o Sr. ROBERTO MOISÉS DOS
+SANTOS, inscrito no CPF sob o nº 962.364.427- 20, conforme autorização governamental
+publicada no Diário Oficial do Estado de Alagoas de 09 de janeiro de 2019.
+CONTRATADA: A empresa ELÓGICA PROCESSAMENTO DE DADOS LTDA, inscrita
+no CNPJ sob o nº 11.376.753/0001-12 e estabelecida na Rua Domingos José Martins, nº 75,
+andar 6, sala 606/610, Recife, Pernambuco, CEP nº 50.030-200, representada pelo Sr. CLÊNIO
+PACHECO FRANCO, inscrito na OAB/AL sob o nº 1.697, de acordo com a representação
+legal que lhe é outorgada por procuração.
+Os CONTRATANTES, nos termos do Processo Administrativo E:1700.3377/2018, inclusive
+despacho PGE-PLIC nº 1.838/2018, aprovado pelo Despacho PGE-PLIC-CD nº 2.902/2018, e
+em observância às disposições da Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei nº
+8.078, de 1990 — Código de Defesa do Consumidor, celebram o presente Termo de Contrato,
+mediante as cláusulas e condições a seguir enunciadas:
+F
+d CLÁUSULA PRIMEIRA - OBJETO Q%;QY'“ /W
+l
+1.1. O objeto do presente Termo de Contrato é a contratação dos serviços de licença de uso de
+E
+L
+DISAK
+Y N
+V)
+DS
+ESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+software para gestão de recursos humanos do Estado de Alagoas, que será gerenciado pela
+Secretaria de Estado de Planejamento, Gestão e Patrimônio — SEPLAG e o Alagoas Previdência,
+contemplando a parametrização, adequação, migração da base legada, treinamento, manutenção,
+atendimento técnico especializado e fornecimento de atualizações do aplicativo e
+desenvolvimento de novas funcionalidades, que serão prestados nas condições estabelecidas no
+Termo de Referência e na proposta nele vencedora, os quais integram este instrumento,
+independente de transcrição.
+2. CLÁUSULA SEGUNDA - VIGÊNCIA E EXECUÇÃO
+2.1. Este Termo de Contrato tem prazo de vigência e execução de 12 (doze) meses, contados
+da data de publicação do extrato contratual no Diário Oficial do Estado, a partir de quando as
+obrigações assumidas pelas partes serão exigíveis, sendo prorrogável na forma do art. 57, da Lei
+nº 8.666, de 1993.
+2.1.1. —A Contratada não tem direito subjetivo à prorrogação contratual.
+2.1.2. A prorrogação de contrato deverá ser promovida mediante celebração de termo aditivo.
+ 
+8. CLÁUSULA TERCEIRA - PREÇO
+3.1. O valor mensal da contratação é de R$ 140.000,00 (cento e quarenta mil reais), perfazendo
+o valor total de R$ 1.680.000,00 (um milhão e seiscentos e oitenta mil reais).
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes
+da execução contratual, inclusive tributos ou impostos, encargos sociais, trabalhistas,
+previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros
+necessários ao cumprimento integral do objeto da contratação.
+4. CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA
+4.1. As despesas decorrentes desta contratação estão programadas em dotação orçamentária
+própria, prevista no orçamento do Estado de Alagoas, para o exercício de 2019, na classificação
+abaixo:
+Dotação Orçamentária nº 28 - SEPLAG
+Unidade Orçamentária: 13017
+Unidade Gestora: 410017
+Plano de Trabalho: 04122000420010000 — MANUTENÇÃO DAS ATIVIDADES DO ÓRGÃO
+P.1. 002001 &
+Fonte: 0100000000 — RECURSOS DO TESOURO " )WJ
+LGQOumfo” k(KÉ%_ E
+SE
+ 
+ESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GES.TÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+Elemento de despesa: 339040 — SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E
+COMUNICAÇÃO - SERV. PESSOA JURÍDICA
+Nota de Empenho nº 2019NE00076 — Alagoas Previdência
+Unidade Orçamentária: 13569
+Unidade Gestora: 130569
+Plano de Trabalho: 09.122.0004.2001 - MANUTENÇÃO DAS ATIVIDADES DO ÓRGÃO
+Plano Orçamentário: 000001 — NÃO DEFINIDO
+Fonte: 291 - RECURSOS DA ADMINISTRAÇÃO INDIRETA
+Natureza: 339040 - SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+— PESSOA JURÍDICA
+4.2. Nos exercícios seguintes, correrão à conta dos recursos próprios para atender às despesas
+da mesma natureza, cuja alocação será feita no início de cada exercício financeiro.
+5 CLÁUSULA QUINTA - PAGAMENTO
+5.1. O pagamento será efetuado pela Contratante no prazo de até 30 dias, contados da
+apresentação da Nota Fiscal/Fatura contendo o detalhamento dos serviços executados e os
+materiais empregados, através de ordem bancária, para crédito em banco, agência e conta
+corrente indicados pela Contratada.
+5.2. A apresentação da Nota Fiscal ou da Fatura pela Contratada, deverá ser emitida separada e
+proporcionalmente à quantidade de vidas da folha de pagamento, sendo devido à SEPLAG a
+folha de servidores ativos e ao AL Previdência a folha de servidores inativos e pensionistas.
+5.3. Ficará a cargo da Secretaria de Estado do Planejamento, Gestão e Patrimônio — SEPLAG
+as despesas relativas à emissão da folha de pagamento dos servidores ativos do Estado de
+Alagoas, que equivale a 52,99% do total de servidores, resultando no valor mensal de R$
+74.186,00 (setenta e quatro mil, cento e oitenta e seis reais) e do ALAGOAS PREVIDÊNCIA as
+despesas relativas à emissão da folha de pagamento dos servidores inativos e pensionistas, que
+equivale a 47,01% do total de servidores, resultando no valor mensal de R$ 65.814,00 (sessenta e
+cinco mil, oitocentos e quatorze reais).
+5.4. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata
+o inciso TI do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de até 5 (cinco) dias
+úteis, contados da data da apresentação da Nota Fiscal/Fatura, nos termos do art. 5º, $ 3º, da Lei
+nº 8.666, de 1993.
+5.5. A apresentação da Nota Fiscal/Fatura deverá ocorrer no prazo de 10 dias, contado da data,
+  
+final do período de adimplemento da parcela da contratação a que aquela se referir. V
+5.6. O pagamento somente será autorizado depois de efetuado o “atesto” pelo Yidor
+A
+Í
+VESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+competente, condicionado este ato à verificação da conformidade da Nota Fiscal/Fatura
+apresentada em relação aos serviços efetivamente prestados e materiais empregados.
+5.7. Havendo erro na apresentação da Nota Fiscal/Fatura ou dos documentos pertinentes à
+contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como por exemplo,
+obrigação financeira pendente, decorrente de penalidade imposta ou inadimplência, o pagamento
+ficará sobrestado até que a Contratada providencie as medidas saneadoras. Nesta hipótese, o
+prazo para pagamento iniciar-se-á após a comprovação da regularização da situação, não
+acarretando qualquer ônus para a Contratante.
+5.8. Será efetuada a retenção ou glosa no pagamento, proporcional à irregularidade verificada,
+sem prejuízo das sanções cabíveis, caso se constate que a Contratada:
+5.8.1. Não produziu os resultados acordados;
+5.8.2. Deixou de executar as atividades contratadas, ou não as executou com a qualidade mínima
+exigida;
+5.8.3. Deixou de utilizar os materiais e recursos humanos exigidos para a execução do serviço, ou
+utilizou-os com qualidade ou quantidade inferior à demandada.
+5.9. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária
+para pagamento.
+5.10. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para verificar a
+manutenção das condições de habilitação exigidas no edital.
+5.10.1. Não estando o contratado cadastrado no SICAF, deverão ser consultados os sítios
+oficiais emissores de certidões ou convocado o contratado a encaminhar documento válido que
+comprove o atendimento das exigências de habilitação.
+5.11. Constatando-se a situação de irregularidade da contratada, será providenciada sua
+notificação, por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou, no
+mesmo prazo, apresente sua defesa.
+5.12. Não havendo regularização ou sendo a defesa considerada improcedente, a contratante
+deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à
+inadimplência da contratada, bem como quanto à existência de pagamento a ser efetuado, para
+que sejam acionados. os meios pertinentes e necessários para garantir o recebimento de seus
+créditos.
+5.13. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à rescisão
+contratual nos autos do processo administrativo correspondente, assegurada à contratada a ampla
+defesa.
+5.14. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até
+que se decida pela rescisão do contrato, caso a contratada não regularize sua situação.
+5.15. Somente por motivo de economicidade, segurança nacional ou outro interesse público de
+alta relevância, devidamente justificado, em qualquer caso, pela máxima autoridade da
+contratante, não será rescindido o contrato em execução com a contratada inadimplente.
+5.16. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+aAESTADO DE ALAGOAS .
+SECRETARIA DO PLANEJAMENTO, GESITÃO E PATRIMÓNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+5.16.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a retenção
+tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o
+pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial,
+de que faz jus ao tratamento tributário favorecido previsto na Lei Complementar nº 123, de 2006.
+6. CLÁUSULA SEXTA - REAJUSTE
+6.1. O preço consignado no contrato será corrigido anualmente, observado o interregno mínimo
+de um ano, contado a partir da data limite para a apresentação da proposta, pela variação do
+IPCA da Fundação Getúlio Vargas.
+6.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a
+partir dos efeitos financeiros do último reajuste.
+6.3. Competirá à Contratada exercer, perante o Contratante, seu direito ao reajuste, sendo que,
+se não o fizer de forma tempestiva e, por via de consequência, prorrogar o contrato ou deixar
+expirar o prazo de vigência, ocorrerá a preclusão do seu direito ao reajuste.
+T CLÁUSULA SÉTIMA - EXECUÇÃO DOS SERVIÇOS E SEU RECEBIMENTO
+7.1. O regime de execução dos serviços a serem executados pela Contratada e os materiais que
+serão empregados são aqueles previstos no Termo de Referência e na proposta.
+7.2. A execução dos serviços será iniciada a partir do recebimento da Ordem de Execução.
+7.3. Os serviços serão recebidos provisoriamente no prazo de 10 (dez) dias, pelo(a) responsável
+pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua
+conformidade com as especificações constantes no Termo de Referência e na proposta.
+7.4. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes no Termo de Referência e na proposta, devendo ser corrigidos, refeitos
+ou substituídos no prazo fixado pelo fiscal do contrato, às custas da Contratada, sem prejuízo da )
+aplicação de penalidades. /Q/
+7.5. Os serviços serão recebidos definitivamente no prazo de 30 dias, contados do recebimento &
+provisório, após a verificação da qualidade e quantidade do serviço executado e materiais
+empregados, com a consequente aceitação mediante termo circunstanciado. d
+7.5.1. Na hipótese de não se proceder à verificação a que se refere o subitem anterior dentro do — R
+prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia dooêl)g
+esgotamento do prazo. 7
+7.6. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da
+Contratada pelos prejuízos resultantes da incorreta execução do contrato.ª_
+NE
+PS
+ESTADO DE ALAGOAS .
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+8. CLÁUSULA OITAVA — FISCALIZAÇÃO
+8.1. O acompanhamento e a fiscalização da execução do contrato consistem na verificação da
+conformidade da prestação dos serviços e da alocação dos recursos necessários, de forma a
+assegurar o perfeito cumprimento do ajuste, devendo ser exercidos por um ou mais
+representantes da Contratante, especialmente designados, na forma dos arts. 67 e 73 da Lei nº
+8.666, de 1993
+8.2. O representante.da Contratante deverá ter a experiência necessária para o acompanhamento
+e controle da execução dos serviços e do contrato.
+8.3. A verificação da adequação da prestação do serviço deverá ser realizada com base nos
+critérios previstos no Termo de Referência e na proposta.
+8.4. A execução dos contratos deverá ser acompanhada e fiscalizada por meio de instrumentos
+de controle, que compreendam a mensuração dos seguintes aspectos:
+8.4.1.Os resultados alcançados em relação ao objeto contratado, com a verificação dos prazos de
+execução e da qualidade demandada;
+8.4.2.Os recursos humanos empregados, em função da quantidade e da formação profissional
+exigidas;
+8.4.3. A qualidade e quantidade dos recursos materiais, equipamentos e utensílios utilizados;
+8.4.4. A adequação dos serviços prestados à rotina de execução estabelecida;
+8.4.5.O cumprimento das demais obrigações decorrentes do contrato; e
+8.4.6. A satisfação da Administração usuária.
+8.5. O fiscal ou gestor do contrato, ao verificar que houve subdimensionamento da
+produtividade pactuada, sem perda da qualidade na execução do serviço, deverá comunicar à
+autoridade responsável para que esta promova a adequação contratual à produtividade
+efetivamente realizada, respeitando-se os limites de alteração dos valores contratuais previstos
+no $ 1º do artigo 65 da Lei nº 8.666, de 1993,
+8.6. A conformidade do material a ser utilizado na execução dos serviços deverá ser verificada
+Jjuntamente com o documento da Contratada que contenha a relação detalhada dos mesmos, de
+acordo com o estabelecido no Termo de Referência e na proposta, informando as respectivas
+quantidades e especificações técnicas, tais como: marca, qualidade e forma de uso.
+8.7. O representante da Contratante deverá Promover o registro das ocorrências verificadas,
+adotando as providências necessárias ao fiel cumprimento das cláusulas contratuais, conforme o
+disposto nos $$ 1º e 2º do art. 67 da Lei nº 8.666, de 1993,
+8.8. O descumprimento total ou parcial das demais obrigações e responsabilidades assumidas
+pela Contratada ensejará a aplicação de sanções administrativas, previstas neste Termo de
+Referência e na legislação vigente, podendo culminar em rescisão contratual, conforme disposto
+nos artigos 77 e 80 da Lei nº 8.666, de 1993.
+8.9. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade da à
+Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de
+n A
+JEA Q) ;ESTADO DE ALAGOAS .
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12. 200.184/0001-12
+imperfeições técnicas, vícios redibitórios, ou emprego de material inadequado ou de qualidade
+inferior e, na ocorrência desta, não implica em corresponsabilidade da Contratante ou de seus
+agentes e prepostos, de conformidade com o art. 70 da Lei nº 8.666, de 1993.
+9. CLÁUSULA NONA - OBRIGAÇÕES DA CONTRATANTE E DA
+CONTRATADA
+9.1. São obrigações da Contratante:
+9.1.1. Exigir o cumprimento de todas as obrigações assumidas pela Contratada, de acordo com as
+cláusulas contratuais e os termos de sua proposta;
+9.1.2. Exercer o acompanhamento e a fiscalização dos serviços, por servidor especialmente
+designado, anotando em registro próprio as falhas detectadas, indicando dia, mês e ano, bem
+como o nome dos empregados eventualmente envolvidos, e encaminhando os apontamentos à
+autoridade competente para as providências cabíveis;
+9.1.3. Notificar a Contratada por escrito da ocorrência de eventuais imperfeições no curso da
+execução dos serviços, fixando prazo para a sua correção;
+9.1.4. Não permitir que os empregados da Contratada realizem horas extras, exceto em caso de
+comprovada necessidade de serviço, formalmente justificada pela autoridade do órgão para o
+qual o trabalho seja prestado e desde que observado o limite da legislação trabalhista;
+9.1.5.Pagar à Contratada o valor resultante da prestação do serviço, no prazo e condições
+estabelecidas no Edital e seus anexos;
+9.1.6. Efetuar as retenções tributárias devidas sobre o valor da Nota Fiscal/Fatura fornecida pela
+contratada;
+9.2. São obrigações da Contratada:
+9.2.1. Executar os serviços conforme especificações deste contrato e de sua proposta, com a
+alocação dos empregados necessários ao perfeito cumprimento das cláusulas contratuais, além de
+fornecer os materiais e equipamentos, ferramentas e utensílios necessários, na qualidade e
+quantidade especificadas neste Termo de Referência e em sua proposta.
+9.2.2. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo
+fixado pelo fiscal do contrato, os serviços efetuados em que se verificarem vícios, defeitos ou
+incorreções resultantes da execução ou dos materiais empregados;
+9.2.3. Manter o empregado nos horários predeterminados pela Administração;
+9.2.4. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo com
+os artigos 14 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990), ficando a
+Contratante autorizada a descontar da garantia, caso exigida no edital, ou dos pagamentos
+devidos à Contratada, o valor correspondente aos danos sofridos;
+N
+9.2.5.Utilizar empregados habilitados e com conhecimentos básicos dos serviços a serem&p'«“ '
+S
+executados, em conformidade com as normas e determinações em vigor
+9.2.6. Apresentar os empregados devidamente uniformizados e identificados por meio de crachá,ESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+além de provê-los com os Equipamentos de Proteção Individual - EPI, quando for o caso;
+9.2.7. Apresentar à Contratante, quando for o caso, a relação nominal dos empregados que
+adentrarão o órgão para a execução do serviço;
+9.2.8. Responsabilizar-se por todas as obrigações trabalhistas, sociais, previdenciárias, tributárias
+e as demais previstas na legislação específica, cuja inadimplência não transfere responsabilidade
+à Contratante;
+9.2.9. Atender as solicitações da Contratante quanto à substituição dos empregados alocados, no
+prazo fixado pelo fiscal do contrato, nos casos em que ficar constatado descumprimento das
+obrigações relativas à execução do serviço, conforme descrito no Termo de Referência;
+9.2.10. " Instruir seus empregados quanto à necessidade de acatar as normas internas da
+Administração;
+9.2.11. — Instruir seus empregados a respeito das atividades a serem desempenhadas, alertando-
+os a não executar atividades não abrangidas pelo contrato, devendo a Contratada relatar à
+Contratante toda e qualquer ocorrência neste sentido, a fim de evitar desvio de função;
+9.2.12. Relatar à Contratante toda e qualquer irregularidade verificada no decorrer da
+prestação dos serviços;
+9.2.13. — Não permitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na
+condição de aprendiz para os maiores de quatorze anos; nem permitir a utilização do trabalho do
+menor de dezoito anos em trabalho noturno, Perigoso ou insalubre;
+9.2.14. — Manter durante toda a vigência do contrato, em compatibilidade com as obrigações
+assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+9.2.15. . Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do
+contrato;
+9.2.16. Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos
+quantitativos de sua proposta, devendo complementá-los, caso o previsto inicialmente em sua
+proposta não seja satisfatório para o atendimento ao objeto da licitação, exceto quando ocorrer
+algum dos eventos arrolados nos incisos do $ 1º do art. 57 da Lei nº 8.666, de 1993,
+10. — CLÁUSULA DEZ - SANÇÕES ADMINISTRATIVAS
+10.1. Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Lei nº 10.520, de
+2002, e da Lei 12.846, de 2013,a Contratada que:
+10.1.1 Inexecutar total ou parcialmente qualquer das obrigações assumidas em decorrência da
+contratação;
+10.1.2 Ensejar o retardamento da execução do objeto;
+10.1.3 Fraudar na execução do contrato;
+10.1.4 Comportar-se de modo inidôneo;
+10.1.5 Cometer fraude fiscal; É
+10.1.6 Não mantiver a proposta;
+FJE o. &f'x
+ESTADO DE ALAGOAS .
+SECRETARIA DO PLANEJAMENTO, GES_TÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr., Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+10.1.7 Criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar contrato
+administrativo;
+10.1.8 Obtiver vantagem ou benefício indevido, de modo fraudulento, de modificações ou
+prorrogações de contratos celebrados com a administração pública, sem autorização em lei, no
+ato convocatório da licitação pública ou nos respectivos instrumentos contratuais;
+10.1.9 Manipular ou fraudar o equilíbrio econômico-financeiro dos contratos celebrados com a
+administração pública.
+10.1.10 A Contratada que cometer qualquer das infrações discriminadas no subitem acima ficará
+sujeita, sem prejuízo da responsabilidade civil e criminal, às sanções previstas Lei nº 8.666, de
+1993, da Lei nº 10.520, de 2002, e da Lei 12.846, de 2013, observado o Decreto nº 4.054, de 19
+de setembro de 2008.
+10.1.11 Também fica sujeita às penalidades do art. 87, UM e IV da Lei nº 8.666, de 1993, a
+Contratada que:
+10.1.12 Tenha sofrido condenação definitiva por praticar, por meio dolosos, fraude fiscal no
+recolhimento de quaisquer tributos;
+10.1.13 Tenha praticado atos ilícitos visando a frustrar os objetivos dalicitação;
+10.1.14 Demonstre não possuir idoneidade para contratar com a Administração em virtude de
+atos ilícitos praticados.
+10.1.15 A aplicação de qualquer das penalidades previstas realizar-se-á em processo
+administrativo que assegurará o contraditório e a ampla defesa à Contratada, observando-se o
+procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a Lei nº 6.161, de 2000.
+10.1.16 A autoridade competente, na aplicação das sanções, levará em consideração a gravidade
+da conduta do infrator, o caráter educativo da pena, bem como o dano causado à Administração,
+observado o princípio da proporcionalidade.
+1. CLÁUSULA ONZE — RESCISÃO
+11.1. O presente Termo de Contrato poderá ser rescindido nas hipóteses previstas no art. 78 da
+Lei nº 8.666, de 1993, com as consequências indicadas no art. 80 da mesma Lei, sem prejuízo
+das sanções aplicáveis.
+11.2. É admissível a fusão, cisão ou incorporação da Contratada com ou em outra pessoa
+jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de habilitação
+exigidos na licitação original; sejam mantidas as demais cláusulas e condições do contrato; não
+haja prejuízo à execução do objeto pactuado e haja a anuência expressa da Administração à
+continuidade do contrato.
+b
+É
+NM
+11.3. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à Contratada Çlpy
+o direito à prévia e ampla defesa. YV
+114. A Contratada reconhece os direitos da Contratante em caso de rescisão administrativa
+E
+/?7
+prevista no art. 77 da Lei nº 8.666, de 1993. «'XJ& b
+VW=
+S
+ESTADO DE ALAGOAS .
+SECRETARIA DO PLANEJAMENTO, GESTÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12.200.184/0001-12
+11.5. O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos,
+conforme o caso:
+11.5.1. Balanço dos eventos contratuais Jjá cumpridos ou parcialmente cumpridos;
+11.5.2. Relação dos pagamentos já efetuados e ainda devidos;
+11.5.3. Indenizações e multas.
+12. CLÁUSULA DOZE - VEDAÇÕES
+12.1. É vedado à Contratada:
+12.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação financeira;
+12.1.2. Interromper a execução dos serviços sob alegação de inadimplemento por parte da
+Contratante, salvo nos casos previstos em lei.
+13. CLÁUSULA TREZE - ALTERAÇÕES
+13.1. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei nº 8.666, de
+1993.
+13.2. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor
+inicial atualizado do contrato.
+13.3. As supressões resultantes de acordo celebrado entre as partes Contratantes poderão exceder
+o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+14. CLÁUSULA QUATORZE - DOS CASOS OMISSOS
+14.1. Os casos omissos serão decididos pela Contratante segundo as disposições contidas na Lei
+nº 8.666, de 1993, na Lei nº 10.520, de 2002, e nas demais normas de licitações e contratos
+administrativos, além de, subsidiariamente, as disposições contidas na Lei nº 8.078, de 1990 —
+Código de Defesa do Consumidor, e normas e princípios gerais dos contratos.
+15. CLÁUSULA QUINZE - PUBLICAÇÃO
+15.1. Incumbirá à Contratante providenciar a publicação deste instrumento, por extrato, no
+Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+16. CLÁUSULA DEZESSEIS - FORO
+ 
+16.1. O Foro para solucionar os litígios/ que decorrerem da execução deste Termo de Contrato
+ser;á o da Comarca de Maceió — AL. . Ó&
+;ª“lgz- N
+  
+ESTADO DE ALAGOAS
+SECRETARIA DO PLANEJAMENTO, GES:I'ÃO E PATRIMÔNIO
+GABINETE DO SECRETÁRIO
+R. Dr. Cincinato Pinto, 503 - Centro, Maceió - AL - CEP 57020-050
+Fone: (82) 3315-1511 - CNPJ.: 12. 200.184/0001-12
+do pactuado, o presente Termo de Contrato foi lavrado em 03 (três) vias
+Para firmeza e validade
+ado pelos contratantes.
+de igual teor, o qual, depois de lido e achado em ordem, vai assin:
+ 
+   
+   
+      
+ 
+Maceió/AL, em 23 de Mg;u;g de 2019.
+mv d
+. /& /
+%W W [A AEJUA [[
+FABRÍCIO MARQUES SANTOS I;ÍOÉERT;Í MOISÉS DOS SANTOS
+Secretário de/Es! ido do Planejam: Gestão iretor-Presidente do Alagoas Previdência
+/ /ePatrimôni CONTRATANTE
+ltl def
+(ºººi&ki/k Q«M o difhesto
+ELLE TIBÚRCIO DE ÁRAÚ
+Superintendente de Administração de
+Pessoas — Matrícula: 2224-1
+GESTORA — SEPLAG
+ã ij_/ W
+CECÍLIA MANZINI JATOBÁ
+Coordenadora de Informática — Matrícula:
+o
+HU3dax/co U(:u« Ex e ALZ
+RICARDO VENCESLAU BEZERRA
+Gerente de Operação e Processamento da
+Folha de Pagamento — Matrícula: 1087-1 176-2
+SUBGESTOR - SEPLAG GESTORA - ALAGOAS
+PREVIDÊNCIA
+TESTEMUNHAS n
+?Á?m? ?«lmmãw_ QWQ—«M«: (Zgw'(âwf);
+Williom d Sil Casbes
+Nome:
+Nome:
+CPF nº 113. 346 . 83h - 02 CPF nº 077 (75 44 78Diário Oficial
+Estado de Alagoas
+A SECRETARIA ESPECIAL DO TESOURO ESTADUAL DA SECRETARIA DA
+FAZENDA DE ALAGOAS DESPACHOU NO DIA 28 DE MARÇO DE 2019 OS
+SEGUINTES PROCESSOS:
+PROC. Nº. 1500-013415/2019 - SECRETARIA DE ESTAO DA EDUCAÇÃO-
+-SEDUC — À Superintendência Especial do Tesouro Estadual-SETE.
+PROC. Nº, 1500-013378/2019 - INSTITUTO DE TERRAS E REFORMA AGRÁ-
+RIA DE ALAGOAS-ITERAL — Idem.
+PROC. Nº. 1500-012856/2019 — SECRETARIA DE ESTADO DA COMUNICA-
+ÇÃO-SECOM - Idem,
+PROC. Nº. 1500-013393/2019 - SECRETARIA DE ESTADO DA AGRICULTU-
+RA, PECUÁRIA, PESCA E AQUICULTURA-SEAGRI — Idem.
+PROC. Nº. 1206-002300/2017 - POLÍCIA MILITAR DE ALAGOAS-PM - À
+Contadoria Geral do Estado.
+PROC. Nº. 1206-000691/2018 - POLÍCIA MILITAR DE ALAGOAS-PM — Idem.
+PROC. Nº, 1206-001926/2018 - POLÍCIA MILITAR DE ALAGOAS-PM — Idem.
+PROC. Nº, 1206-002250/2017 - POLÍCIA MILITAR DE ALAGOAS-PM — Idem.
+GSEF, em Maceió, 29 de março de 2019.
+Publique-se.
+NADIJA FERREIRA DE LIMA
+Responsável pela Resenha
+O SECRETÁRIO ESPECIAL DA RECEITA ESTADUAL DE ALAGOAS DES-
+PACHOU NO DIA 28 DE MARÇO DE 2019 O SEGUINTE PROCESSO:
+PROC. Nº. 1500-010191/2019 — GERÊNCIA DE PESQUISA E INVESTIGA-
+ÇÃO-GEPI — À Gerência de Pesquisa e Investigação-GEPI.
+PROC. Nº. 1500-006743/2019 — PODER JUDICIÁRIO — Á Chefia Exceutiva Ad-
+ministrativa-CEA,
+(GSEF, em Maceió, 29 de março de 2019
+Publique-se.
+NADIA FERREIRA DE LIMA
+Responsável pela Resenha
+.A CHEFE DE GABINETE DA SECRETARIA DA FAZENDA DE ALAGOAS
+DESPACHOU NO DIA 29 DE MARÇO DE 2019 OS SEGUINTES PROCESSOS:
+PROC. Nº. 1500-005099/2019 - GERÊNCIA DE PESQUISA E INVESTIGAÇÃO
+— À Chefia Exceutiva Administrativa-CEA,
+PROC. Nº, 1500-052957/2017 - AGÊNCIA DE MODERNIZAÇÃO DA GESTÃO
+DE PROCESSOS - Idem.
+PROC. Nº, 1500-040351/2018 - LUIZ MARCELO DUARTE MAIA - Idem.
+PROC. Nº. 1500-012484/2018 — YURI PATRICE ROCHA DE MIRANDA — À
+Chefia Exceutiva de Valorização de Pessoas.
+PROC. Nº. 1500-024768/2018 - UBIRACI CAVALCANTE — Idem.
+PROC. Nº, 1500-003830/2016 - MARIA IOLANDA CASADO DA ROCHA —
+Idem,
+PROC. Nº. 1500-004710/201] — ZENEIDE VERSSIMO BARROS - Idem.
+GSEF, em Maceió, 29 de março de 2019
+Publique-se.
+NADIJA FERREIRA DE LIMA
+Responsável pela Resenha
+O SECRETARIO DE ESTADO DA FAZENDA DE ALAGOAS DESPACHOU
+NO DIA 29 DE MARÇO DE 2019 OS SEGUINTES PROCESSOS:
+PROC. Nº. 1500-032262/2018 - ALAGOAS ATIVOS — Ao Alagoas Ativos.
+PROC. Nº. 1500-016300/2016 — FERNANDO MUNIZ COSTA - À
+Superintendência Especial do Tesouro Estadual-SETE,
+PROC. Nº. 1500-004098/2019 - PROCURADORIA GERAL DO ESTADO-PGE
+— À Seeretaria Administrativa.
+PROC. Nº. 1500-013525/2019 — JUÍZO DE DIREITO DA 17" VARA CRIMINAL
+DA CAPITAL — À Gerência de Pesquisa e Investigação-GEPI.
+GSEF, em Macceió, 29 de março de 2019
+Publique-se.
+NADIA FERREIRA DE LIMA
+Responsável pela Resenha
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+Maceió - segunda-feira
+1 de abril de 2019
+25
+—
+Secretaria de Estado do Planejamento, Gestão e Patrimônio
+- SEPLAG
+ 
+PROCESSO Nº 1700.3377/2018.
+ 
+CONTRATANTE: O ESTADO DE ALAGOAS, por intermédio da SECRETARIA
+DE ESTADO DO PLANEJAMENTO, GESTAO E PATRIMÔNIO - SEPLAG,
+inserita no CNPJ sob o nº 12,200.184/0001-12 e com sede na Rua Dr. Cincinato
+Pinto, 503, Centro, Maceió, Alagoas, CEP: 57020-050, neste ato representada pelo
+Secretário de Estado, Sr. FABRÍCIO MARQUES SANTOS, inscrito no CPF sob
+o nº 003.642.895-70; e por intermédio da UNIDADE GESTORA ÚNICA DO
+REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DE ALAGOAS - ALAGOAS
+PREVIDÊNCIA, inscrita no CNPJ sob o nº 11.545.086/0001-54 e com sede na
+Avenida da Paz, nº 1864, Térreo, Edf. Terra Brasilis, Centro, Maceió, Alagoas, CEP
+S7020-440, representado pelo seu Diretor-Presidente, o SR. ROBERTO MOISÉS
+DOS SANTOS, inscrito no CPF sob o nº 962.364.427-20, conforme autorização
+governamental publicada no Diário Oficial do Estado de Alagoas de 09 de janciro
+de 2019.
+CONTRATADA: A empresa ELÓGICA PROCESSAMENTO DE DADOS LTDA,
+inscrita no CNPJ sob o nº 11.376.753/0001-12 e estabelecida na Rua Domingos
+José Martins, nº 75, andar 6, sala 606/610, Recife, Pernambuco, CEP nº 50.030-
+200, representada pelo Sr. CLÊNIO PACHECO FRANCO, inscrito na OAB/
+AL sob o nº1 .697, de acordo com a representação legal que lhe é outorgada por
+procuração.
+OBJETO: O objeto do presente Termo de Contrato é à contratação dos serviços
+de licença de uso de software para gestão de recursos humanos do Estado de
+Alagoas, que será gerenciado pela Secretaria de Estado de Plancjamento, Ge:
+Patrimônio e o Alagoas Previdência, contemplando a parametrização, adequação,
+migração da base legada, treinamento, manutenção, atendimento técnico
+especializado e fornecimento de atualizações do aplicativo e desenvolvimento de
+novas funcionalidades, que serão prestados nas condições estabelecidas no Termo
+de Referência e na proposta nele vencedora, os quais integram este instrumento,
+independente de transcrição.
+DOTAÇÃO ORÇAMENTÁRIA: As despesas decorrentes desta contratação estão
+programadas em dotação orçamentária própria, prevista no orçamento do Estado de
+Alagoas, para o exercício de 2019, na classificação abaixo:
+Dotação Orçamentária nº 28 - SEPLAG; Unidade Orçamentária: 13017; Unidade
+Gestora: 410017; Fonte: 0100000000 - Recursos do Tesouro; Plano de Trabalho:
+04122000420010000 - Manutenção das Atividades do Órgão; Plano Inteo:
+002001; Elemento de Despesa: 339040 - Serviços de Terenologia da Informação e
+Comunicação - Serv. Pessoa Jurídica
+VIGÊNCIA: Este Termo de Contrato tem prazo de vigência de 12 (doze) meses,
+contados da data de publicação do extrato contratual no Diário Oficial do Estado,
+a partir de quando as obrigações assumidas pelas partes serão exigíveis, sendo
+prorrogável na forma do art. 57, $1º, da Lei nº 8.666, de 1993.
+DATA DA ASSINATURA: 29 de março de 2019.
+SIGNATÁRIOS: Os mesmos já citados.
+BASE LEGAL: Lei Federal nº 8.666/93.
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Protocolo 405700
+Secretaria de Estado da Infraestrutura - SEINFRA
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA INFRAESTRUTURA
+ 
+RESULTADO DE JULGAMENTO
+TOMADA DE PREÇOS Nº 01/2019 - TI = CPL/AL
+PROCESSO ADMINISTRATIVO Nº 3300-1954/2018
+.A Comissão Permanente de Licitações de Obras e Serviços de Engenharia do Esta-
+do de Alagoas — CPL/AL, instituída pelo Decreto nº 63.957 de 08.02.2019, na con-
+formidade com o Decreto nº 37.984 de 28.01.99, torna público o resultado do julga-
+mento da Tomada de Preços nº 01/2019 —T1 — CPL/AL, cujo objeto é a Exceução
+das Obras e Serviços de Conclusão de 50 (cinquenta) Unidades Habitacionais no
+Conjunto Habitacional Valdemar Farias, do Município de Olho D'água das Flores/

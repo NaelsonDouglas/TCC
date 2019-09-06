@@ -1,0 +1,878 @@
+Processo nº 1206-2854/2018
+ 
+Gab. Civil
+1s. 321
+viste:.
+ 
+ 
+ 
+/
+ESTADO DE ALAGOAS
+GABINETE DO GOVERNADOR
+Interessado: Polícia Militar de Alagoas - PMAL.
+Assunto: Convalidação. Adesão à Ata de Registro de Preços. Aquisição de equipamentos e
+LAUS
+softwares de rede wireless. Contrato nº 043/2018 - CPL/PMAL.
+Com fundamento no Despacho PGE-PLIC-CD nº
+3538/2018, aprovado pelo Despacho PGE/GAB nº
+3948/2018, às fls. 317/319, ambos da Procuradoria Geral
+do Estado — PGE, e com base no art. 55 da Lei Estadual nº
+6.161, de 26 de junho de 2000, convalido o Contrato nº
+043/2018 — CPL/PMAL, celebrado entre a Polícia Militar
+de Alagoas — PMAL e a empresa SUPRISERVI
+COMÉRCIO, REPRESENTA ÇÕES E SERVIÇOS
+LTDA.,, inscrita no CNPJ/MF sob o nº 12.707.105/0003-
+26, cujo objeto é a aquisição de equipamentos e softwares
+de rede wireless, resultante da adesão à Ata de Registro de
+Preços nº 015/2017, vinculada ao Pregão nº 026/2017 —
+JF/AL, originária da Justiça Federal/Seção Judiciária de
+Alagoas, de que trata o Processo Administrativo nº 1206-
+2854/2018.
+Publique-se.
+Após, retornem os autos à PMAL para as providências de
+estilo.
+Em 24/1/14
+ 
+LHEIROS FILHO
+ 
+ 
+Publiçado no DOE
+de 50/ J /2019.Processo nº 1206-2854/2018
+ 
+ 
+ESTADO DE ALAGOAS a
+GABINETE CIVIL
+Interessado: Polícia Militar de Alagoas — PM/AL.
+Assunto: Adesão à Ata de Registro de Preços. Aquisição de equipamentos e softwares de rede
+wireless.
+LAUS
+DESPACHO GC Nºª Í 2/2018.
+Considerando que na data de hoje já se encontra
+ultrapassada a vigência da Ata de Registro de Preços nº
+015/2017, vinculada ao Pregão nº 026/2017 — JF/AL,
+originária da Justiça Federal/Seção Judiciária de Alagoas,
+bem como que o presente Processo Administrativo
+aportou a este Órgão ainda dentro de sua data de vigência;
+e
+Considerando que a adesão à referida Ata foi aprovada
+pela Procuradoria Geral do Estado — PGE, por meio do
+Despacho PGE-PLIC-CD nº 3218/2018, aprovado pelo
+Despacho PGE/GAB nº 3685/2018, de fls. 259/266, o que
+revela o cumprimento dos procedimentos legais para a
+formalização da contratação e sua vantajosidade para a
+Administração Pública;
+Remeta-se o processo à Polícia Militar de Alagoas —
+PM/AL para análise e manifestação quanto à possibilidade
+e interesse na convalidação da contratação, caso
+concretizada tempestivamente, nos termos do art. 55 da
+Lei Estadual nº 6.16%33 26 de junho de 2000.
+em F// 0//
+ 
+ 
+ 
+Publj DOE
+E:C ÉÉZOI 8.Fis. º'ºí
+ 
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colpmal&hotmail.com
+ 
+TERMO DE CONTRATO - BENS
+TERMO DE CONTRATO Nº 043/2018,
+QUE ENTRE SI CELEBRAM O ESTADO
+DE ALAGOAS, POR INTERMÉDIO DA
+POLÍCIA MILITAR DE ALAGOAS, E À
+EMPRESA SUPRISERVI COMERCIO
+REPRESENTAÇÕES E  SERVIÇOS
+LTDA, PARA A AQUISIÇÃO DE BENS.
+CONTRATANTE: O Estado de Alagoas, por intermédio da Polícia Militar de Alagoas,
+inscrita(o) no CNPJ sob o nº 12.442.570/0001-10e com sede na Praça da Independência, nº
+067, Centro, Maceió/AL, CEP: 57.020-410, representado pelo Comandante-Geral da
+PMAL, Sr. Marcos Sampaio Lima, inscrito no CPF sob o nº 603.800.124-72.
+CONTRATADA: A empresa SUPRISERVI COMERCIO REPRESENTAÇÕES E
+SERVIÇOS LTDA, inscrita no CNPJ sob o nº 12.707.105/0003-26, estabelecida na Rua José
+Soares Sobrinho, nº 119, Sala nº 903, Edifício Empresarial Lemonde, Bairro Jatiúca, Maceió/AL,
+CEP: 57.036-640 e endereço eletrônico Junior(Qnewsupri.com.br, representada pelo seu
+representante legal, Sr. Sérgio Eugênio Muniz, inscrito no CPF sob o nº 469.847.204-00,
+de acordo com a representação legal que lhe é outorgada por Procuração.
+Os CONTRATANTES, nos termos do Processo nº 1206.2854/2018, inclusive Despacho
+PGE-PLIC-CD nº 3218/2018, aprovado Despacho PGE/GAB nº 3685/2018, e em
+observância às disposições da Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei nº
+8.078, de 1990 — Código de Defesa do Consumidor, celebram o presente Termo di
+Contrato, mediante as cláusulas e condições a seguir enunciadas. *0
+L CLÁUSULA PRIMEIRA - OBJETO
+1.1. O objeto do presente Termo de Contrato é a aquisição de equipamentos, serviços e
+softwares destinados a prover as soluções de balanceamento de carga, segurança de rede e
+acesso sem fio,visando atender as necessidades da Polícia Militar de Alagoas, conforme
+especificações e quantitativos estabelecidos na Ata de Registro de Preços nº 015/2017 — Q
+JF/AL, Pregão Eletrônico nº 026/2017-JF/AL — da Justiça Federal de Primeiro Grau —
+Seção Judiciário de Alagoas, na Proposta Comercial da Empresa vencedora, e Projeto 7
+Básico/PMAL, os quais integram este instrumento independente de transcrição. /A
+1h
+1Z
+1 Discriminação do objeto: &(7 (
+: ( í
+08 - Contrato - Bens 2018.1=
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colomal& hotmail.com
+ 
+ 
+08 - Contrato - Bens 2018.1t
+: //www.
+ 
+ 
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+1.algov.br E-mail: colomalhotmail.com
+08 - Contrato - Bens 2018.1ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+Praça da Independência, 67, Centro, Maceió/AL, CEP:. 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+L.gov E-mait: colomal& hotmail.com
+ 
+OR - Contrato - Bens 2018.1ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colomal& hotmail.com
+ 
+ 
+2 CLÁUSULA SEGUNDA - VIGÊNCIA
+2.1. O prazo de vigência deste Contrato será de 12 (doze) meses, contados da data de
+publicação do extrato contratual no Diário Ofícial do Estado, a partir de quando as
+obrigações assumidas pelas partes serão exigíveis, sendo prorrogável na forma do art. 57,
+$1º, da Lei nº 8.666, de 1993.
+3. CLÁUSULA TERCEIRA - PREÇO
+3.1. O valor do presente Termo de Contrato é de R$ 468.030,00 (Quatrocentos e
+sessenta e oito mil e trinta reais).
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas
+decorrentes da execução contratual, inclusive tributos ou impostos, encargos sociais,
+trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, frete,
+seguro e outros necessários ao cumprimento integral do objeto da contratação.
+4 CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA
+4.1. As despesas decorrentes desta contratação estão programadas em dotação orçamentária
+própria, prevista no orçamento do Estado de Alagoas, para o exercício de 2018, na
+classificação abaixo:
+Gestão/Unidade: POLÍCIA MILITAR DE ALAGOAS
+Fonte: 0110
+Programa de Trabalho: 11900003406122.02203112 &
+Elemento de Despesa: 4.4.90.52
+s. CLÁUSULA QUINTA - PAGAMENTO
+5.1. O pagamento será realizado no prazo máximo de até 30 (trinta) dias, contados a
+partir da data final do período de adimplemento a que se referir, através de ordem
+bancária, para crédito em banco, agência e conta corrente indicados pelo contratado.
+5.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de
+que trata o inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados no prazo de
+até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal, nos termos do
+art. 5º, $ 3º, da Lei nº 8.666, de 1993. l
+5.3. O pagamento somente será autorizado depois de efetuado o “atesto” pelo servidor
+competente na nota fiscal apresentada. %
+5.4. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes à 2
+contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como, por &
+exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou
+inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as
+medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a
+A
+OR - Contrato - Rens 2018 1Fls. "3T
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+bttp://www.pm.al.gov.br E-mail: colomal & hotmail.com
+ 
+comprovação da regularização da situação, não acarretando qualquer ônus para a
+Contratante.
+5.5. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento.
+5.6. Antes de cada pagamento à contratada, será realizada consulta ao SICAF para
+verificar a manutenção das condições de habilitação exigidas no edital. Não estando o
+contratado cadastrado no SICAF, deverão ser consultados os sítios oficiais emissores de
+certidões ou convocado o contratado a encaminhar documento válido que comprove o
+atendimento das exigências de habilitação.
+5.7. Constatando-se a situação de irregularidade da Contratada, será providenciada sua
+notificação, por escrito, para que, no prazo de 10 (dez) dias, regularize sua situação ou,
+no mesmo prazo, apresente sua defesa.
+5.8. Não havendo regularização ou sendo a defesa considerada improcedente, a
+Contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade
+fiscal quanto à inadimplência da Contratada, bem como quanto à existência de
+pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários
+para garantir o recebimento de seus créditos.
+5.9. Persistindo a irregularidade, a contratante deverá adotar as medidas necessárias à
+rescisão contratual nos autos do processo administrativo correspondente, assegurada à
+Contratada a ampla defesa.
+5.10. Havendo a efetiva execução do objeto, os pagamentos serão realizados
+normalmente, até que se decida pela rescisão do contrato, caso a Contratada não
+regularize sua situação.
+5.11. Somente por motivo de economicidade, segurança nacional ou outro interesse
+público de alta relevância, devidamente justificado, em qualquer caso, pela máxima
+autoridade da Contratante, não será rescindido o contrato em execução com a
+Contratada inadimplente.
+5.12. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável.
+5.12.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a
+retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime.
+No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio
+de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na Lei
+Complementar nº 123, de 2006.
+6. CLÁUSULA SEXTA - REAJUSTE E ALTERAÇÕES
+(F((
+6.2. Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei 32
+C
+08 - Contrato - Bens 2018.1
+6.1. O preço contratado é fixo e irreajustável.ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: 82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colomal&hotmail.com
+ 
+ 
+8.666, de 1993.
+6.3. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os
+acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e cinco
+por cento) do valor inicial atualizado do contrato.
+6.4. As supressões resultantes de acordo celebrado entre as partes Contratantes poderão
+exceder o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do
+contrato.
+7. CLÁUSULA SÉTIMA - ENTREGA E RECEBIMENTO DO OBJETO
+7.1. O prazo de entrega dos bens é de 60 (sessenta) dias, contados do recebimento da
+Ordem de Fornecimento, em remessa única, na 6º Seção/EMG, na sede do Quartel do
+Comando Geral da Polícia Militar de Alagoas, Praça da Independência, nº 67, Centro,
+Maceió, Alagoas, CEP: 57.020-410.
+7.2. No caso de produtos perecíveis, o prazo de validade na data da entrega não poderá ser
+inferior a 75% (setenta e cinco por cento) do prazo total recomendado pelo fabricante.
+7.3. Os bens serão recebidos provisoriamente no prazo de 05 (cinco) dias úteis, pelo
+responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior
+verificação de sua conformidade com as especificações constantes neste Termo de
+Referência.
+7.4. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes neste Termo de Referência, devendo ser substituídos no prazo
+de até 15 (quinze) dias, a contar da notificação da contratada, às suas custas, sem
+prejuízo da aplicação das penalidades.
+7.5. Os bens serão recebidos definitivamente no prazo de 10 (dez) dias úteis, contados
+do recebimento provisório, após a verificação da qualidade e quantidade do material e
+consequente aceitação mediante termo circunstanciado.
+7.5.1. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida
+dentro do prazo fixado, reputar-se-á como realizada, consumando-se o recebimento
+definitivo no dia do esgotamento do prazo.
+7.6. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da
+contratada pelos prejuízos resultantes da incorreta execução do contrato.
+8. CLÁUSULA OITAVA - FISCALIZAÇÃO
+8.1. Nos termos do art. 67 da Lei nº 8.666, de 1993, será designado representante para
+acompanhar e fiscalizar a entrega dos bens, anotando em registro próprio todas as
+ocorrências relacionadas com a execução e determinando o que for necessário à
+regularização de falhas ou defeitos observados. ec
+FE
+008 - Contrato - Bens 2018.1Fis.. 305
+ 
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colomal&hotmail.com
+ 
+ 
+8.1.1. O recebimento de material de valor superior a R$ 80.000,00 (oitenta mil reais)
+será confiado a uma comissão de, no mínimo, 3 (três) membros, designados pela
+autoridade competente.
+8.2. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da
+contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante
+de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não implica em
+co-responsabilidade da Administração ou de seus agentes e prepostos, de conformidade
+com o art. 70 da Lei nº 8.666, de 1993.
+8.3. O representante da Administração anotará em registro próprio todas as ocorrências
+relacionadas com a execução do contrato, indicando dia, mês e ano, bem como o nome
+dos funcionários eventualmente envolvidos, determinando o que for necessário à
+regularização das falhas ou defeitos observados e encaminhando os apontamentos à
+autoridade competente para as providências cabíveis.
+9 CLÁUSULA NONA - OBRIGAÇÕES DA CONTRATANTE
+9.1. São obrigações da contratante:
+9.1.1. Receber o objeto no prazo e condições estabelecidas no Edital e seus anexos;
+9.1.2. Verificar minuciosamente, no prazo fixado, a conformidade dos bens recebidos
+provisoriamente com as especificações constantes do Edital e da proposta, para fins de
+aceitação e recebimento definitivo;
+9.1.3. Comunicar à contratada, por escrito, sobre imperfeições, falhas ou irregularidades
+verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido;
+9.1.4. Acompanhar e fiscalizar o cumprimento das obrigações da contratada, através de
+comissão/servidor especialmente designado;
+9.1.5. Efetuar o pagamento à contratada no valor correspondente ao fornecimento do
+objeto, no prazo e forma estabelecidos no Edital e seus anexos;
+9.2. A Administração não responderá por quaisquer compromissos assumidos pela
+contratada com terceiros, ainda que vinculados à execução do presente Termo de
+Contrato, bem como por qualquer dano causado a terceiros em decorrência de ato da
+contratada, de seus empregados, prepostos ou subordinados.
+10. CLÁUSULA DÉCIMA - OBRIGAÇÕES DA CONTRATADA
+10.1. A contratada deve cumprir todas as obrigações constantes no Edital, seus anexos e
+sua proposta, assumindo como exclusivamente seus os riscos e as despesas decorrentes
+da boa e perfeita execução do objeto e, ainda:
+10.1.1. Efetuar a entrega do objeto em perfeitas condições, conforme especificações,
+prazo e local constantes no Contrato e seus anexos, acompanhado da respectiva nota
+08 - Contrato - Bens 2018.]1
+ 
+AAFs. o
+ 
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.pm.al.gov.br E-mail: colomal & hotmail.com
+fiscal, na qual constarão as indicações referentes a: marca, fabricante, modelo,
+procedência e prazo de garantia ou validade;
+10.1.1.1. O objeto deve estar acompanhado do manual do usuário, com uma versão em
+português e da relação da rede de assistência técnica autorizada, quando for o caso;
+10.1.2. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os
+artigos 12, 13 e 17 a 27, do Código de Defesa do Consumidor (Lei nº 8.078, de 1990);
+10.1.3. Substituir, reparar ou corrigir, às suas expensas, no prazo fixado neste Termo de
+Referência, o objeto com avarias ou defeitos;
+10.1.4. Comunicar à contratante, no prazo máximo de 24 (vinte e quatro) horas que
+antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo
+previsto, com a devida comprovação;
+10.1.5. Manter, durante toda a execução do contrato, em compatibilidade com as
+obrigações assumidas, todas as condições de habilitação e qualificação exigidas na
+licitação;
+10.1.6. Indicar preposto para representá-la durante a execução do contrato.
+11. CLÁUSULA ONZE - SANÇÕES ADMINISTRATIVAS
+11.1. Comete infração administrativa, nos termos da Lei nº 8.666, de 1993, e do art. 7º
+da Lei nº 10.520, de 2002, quem:
+11.1.1. Inexecutar total ou parcialmente qualquer das obrigações assumidas em
+decorrência da contratação;
+11.1.2. Convocado dentro do prazo de validade da sua proposta, não celebrar o contrato;
+11.1.3. Deixar de entregar ou apresentar documentação falsa exigida para o certame;
+11.1.4. Ensejar o retardamento da execução do objeto;
+11.1.5. Não mantiver a proposta;
+11.1.6. Falhar ou fraudar na execução do contrato;
+11.1.7. Comportar-se de modo inidôneo;
+11.1.8. Cometer fraude fiscal.
+11.2. A licitante ou a contratada que cometer qualquer das infrações discriminadas no
+subitem acima ficará sujeita, sem prejuízo da responsabilidade civil e criminal, às
+seguintes sanções:
+11.2.1. Advertência;
+11.2.2. Multa, nos termos da legislação estadual de regência;
+11.2.3. Impedimento de licitar e contratar com o Estado de Alagoas e
+descredenciamento ou proibição de credenciamento no sistema de cadastramento de
+fornecedores do Estado de Alagoas, pelo prazo de até cinco anos;
+<
+—
+ne aaa Rone IOIR 1
+LFls.. 3
+ 
+ 
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://www.prm.al.gov.br E-mail: colomal&hotmail.com
+ 
+11.2.4. Suspensão temporária de participação em licitação e impedimento de contratar
+com órgão ou entidade do Estado de Alagoas, por prazo não superior a 2 (dois) anos;
+11.2.5. Declaração de inidoneidade para licitar ou contratar com a Administração
+Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja
+promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será
+concedida sempre que a contratada ressarcir a contratante pelos prejuízos causados;
+11.3. A aplicação de qualquer das penalidades previstas realizar-se-á em processo
+administrativo que assegurará o contraditório e a ampla defesa à contratada,
+observando-se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente a
+Lei nº 6.161, de 2000.
+11.4. A autoridade competente, na aplicação das sanções, levará em consideração a
+gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano
+causado à Administração, observado o princípio da proporcionalidade.
+12. CLÁUSULA DOZE - RESCISÃO
+12.1. O presente Termo de Contrato poderá ser rescindido nas hipóteses previstas no art.
+78 da Lei nº 8.666, de 1993, com as consequências indicadas no art. 80 da mesma Lei,
+sem prejuízo das sanções aplicáveis.
+12.2. É admissível a fusão, cisão ou incorporação da Contratada com ou em outra
+pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os º*)
+requisitos de habilitação exigidos na licitação original; sejam mantidas as demais
+cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado e
+haja a anuência expressa da Administração à continuidade do contrato.
+12.3. Os casos de rescisão contratual serão formalmente motivados, assegurando-se à
+Contratada o direito à prévia e ampla defesa.
+124. A Contratada reconhece os direitos da Contratante em caso de rescisão
+administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+12.5. O termo de rescisão será precedido de Relatório indicativo dos seguintes aspectos,
+conforme o caso:
+12.5.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+12.5.2. Relação dos pagamentos já efetuados e ainda devidos;
+12.5.3. Indenizações e multas.
+13. CLÁUSULA TREZE - VEDAÇÕES TP
+13.1. É vedado à Contratada: ?C
+13.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação financeira;
+c
+P
+108 - Contrato - Bens 2018.1Fs 312—
+ESTADO DE ALAGOAS
+POLÍCIA MILITAR
+COMISSÃO PERMANENTE DE LICITAÇÃO
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+http://vwww.pm.al.gov.br E-mail: colpmal& hotmail.com
+ 
+13.1.2. Interromper a execução contratual sob alegação de inadimplemento por parte da
+Contratante, salvo nos casos previstos em lei.
+14. CLÁUSULA QUATORZE - DOS CASOS OMISSOS
+14.1. Os casos omissos serão decididos pela Contratante segundo as disposições
+contidas na Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, e nas demais normas de
+licitações e contratos administrativos, além de, subsidiariamente, as disposições
+contidas na Lei nº 8.078, de 1990 — Código de Defesa do Consumidor, e normas e
+princípios gerais dos contratos.
+15. CLÁUSULA QUINZE - PUBLICAÇÃO
+15.1. Incumbirá à Contratante providenciar a publicação deste instrumento, por extrato,
+no Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+16. CLÁUSULA DEZESSEIS - FORO
+16.1. O Foro para solucionar os litígios que decorrerem da execução deste Termo de
+Contrato será o da Comarca de Maceió — AL.
+Para firmeza e validade do pactuado, o presente Termo Aditivo foi lavrado em 03 (três)
+vias de igual teor, o qual, depois de lido e achado em ordem, vai assinado pelos
+contratantes.
+ 
+ 
+ 
+T i :
+COo! TADA Y
+ 
+   
+LA LLA LS SA
+TESTEMUNHA crFNº OÉ3330/27/r
+08 - Contrato - Bens 20181COMISSÃO PERMANENTE DE LICITAÇÃO
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+EXTRATO Nº 038/2018-CPL/PMAL DO CONTRATO Nº
+043/2018- CPL/PMAL.
+PROCESSO ADMINISTRATIVO Nº 1206-2854/2018.
+PROCEDIMENTO ADMINISTRATIVO: Adesão à Ata de
+Registro de Preço nº 015/2017 - JF/AL.
+CONTRATANTE: O Estado de Alagoas por intermédio da
+Polícia Militar de Alagoas, situada na Praça da Independência,
+nº 67, Centro, Maceió, CEP 57.020-410, CNPJ nº
+12.442.570/0001-10, representada pelo Cel QOC PM Marcos
+Sampaio Lima, inscrito no CPF sob o n.º 603.800.124-72.
+CONTRATADA: Supriservi Comércio Representações e
+Serviços Ltda, inscrita no CNPJ sob o nº 12.707.105/0003-26 e
+estabelecida na Rua José Soares Sobrinho, nº 119, Sala nº 903,
+Edifício Empresarial Lemonde, Bairro Jatiúca, Maceió/AL,
+CEP: 57.036-640. representada pelo seu representante legal Sr.
+Sérgio Eugênio Muniz, inserito no CPF sob o nº 469.847.204-
+00
+GESTOR DO CONTRATO: Chefe da 6º Seção da PMAL.
+OBJETO: Aquisição de equipamentos, serviços e softwares
+destinados a prover as soluções de balanceamento de carga,
+áscgurança de rede e acesso sem fio.
+IGÊNCIA: 12 (doze) meses, sendo os efeitos de sua eficácia
+álidos a partir da data da publicação do seu extrato no Diário
+Oficial do Estado.
+VALOR GLOBAL: R$ 468.030,00 (Quatrocentos e sessenta e
+oito mil e trinta reais).
+DATA DA ASSINATURA: 08/10/2018.
+ORIGEM DOS RECURSOS: Os recursos são provenientes do
+orçamento da PMAL, para o exercício de 2018.
+DOTAÇÃO ORÇAMENTÁRIA:
+Programa de Trabalho: 11900003406122.02203112, Elemento
+de Despesa: 4.4.90.52, Fonte: 0110, do orçamento vigente.
+SIGNATÁRIOS: Os mesmos acima citados.
+Fundamentação e Vinculação: Lei Federal nº 8.666/1993 e suas
+alterações; Despacho PGE-PLIC-CD Nº 3218/2018, aprovado
+pelo Despacho PGE/GAB nº 3685/2018.
+ 
+ 
+ 
+ 
+ 
+* Quartel em Macetó*AL, 08 de outubro de 2018.
+   
+ 
+hirley Elienai N. L. Licetti
+Responsável pela resenha.
+Fs. S 3Diário Oficial
+Estado de Alagoas
+  
+ 
+PORT: 1140/2018-G' P1
+A GERENTE DE POLÍCIA JUDICIÁRIA DA REGIÃO 1 — GPL1, no uso de
+suas atribuições legais e de acordo com a LEI DELEGADA N.º 47 de 10.08.2015
+e no que consta no Processo n.º 20105-007395/2018, RESOLVE:
+CONCEDER FÉRIAS de 20(vinte) dias, referentes ao período aquisitivo de
+2006, ao Delegado de Polícia, VINÍCIUS MARTINS FERRARI, matricula nº
+826 715-4, portador do CPF 031.413,346-17, lotado na Delegacia de Repressão
+o Narcotáfico da Capital, da POLÍCIA CIVIL. DO ESTADO DE ALAGOAS,
+no período de 21/06/19 até 10/07/19.
+Esta Portaria entra em vigor na data da sua publicação.
+Maceió/AL, 05 de outubro de 2018.
+Del. * ANA LUIZA NOGUEIRA DE ARAÚJO
+Gerente da GPJ-1
+*REPUBLICADA POR INCORREÇÃO
+*POI .O1&-GD-GPL-1 *
+ 
+A GERENTE DE POLÍCIA JUDICIÁRIA DA REGIÃO |— GPJ-1, no uso de
+suas atribuições legais e de acordo com a LEI DELEGADA N.º47 de 10.08.2015
+e no que consta no Processo n.º 20105-007396/2018, RESOLVE:
+CONCEDER FÉRIAS de l5(quinze) dias, referentes ao período aquisitivo de
+2013, ao Carcereiro, JOÃO PEREIRA DE MELO, matrícula nº 059.616-7, porta-
+dor do CPF 210.171.314-49, lotado na Diretoria de Polícia Judiciária da Região
+1-(HGE), da POLÍCIA CIVIL DO ESTADO DE ALAGOAS, no período de
+OVVAB até 15/11/18.
+Esta Portaria entra em vigor na data da sua publicação.
+Muaceió/AL, 05 de outubro de 2018.
+Del. * ANALUIZA NOGUEIRA DE ARAÚJO
+Gerente da GPJL-1
+ 
+*REPUBLICADA POR INCORRI
+PORTARIA Nº. 1142/2018-GD-GPJ-1*
+.A GERENTE DE POLÍCIA JUDICIÁRIA DA REGIÃO 1— GPJ-1, no uso de
+suas atribuições legais € de acordo com a LEI DELEGADA N.º47de 10.08.2015
+e no que consta no Processo n.º 20105-007396/2018, RESOLVE:
+CONCEDER FÉRIAS de 15(quinze) dias, referentes ao período aquisitivo de
+2013, ao Carcereiro, JOÃO PEREIRA DE MELO, matrícula nº 059.616-7, porta-
+dor do CPF 210.171.314-49, lotado na Diretoria de Polícia Judiciária da Região
+1-(HGE), da POLÍCIA CIVIL DO ESTADO DE ALAGOAS, no período de
+TIN208 até 3V12118
+— Esta Portaria entra em vigor na data da sua publicação.
+ 
+ 
+Macei6/AL, 05 de outubro de 2018
+Del.* ANA LUIZA NOGUEIRA DE ARAÚJO
+Gerente da GPL-1
+*REPUBLICAÇÃO POR INCORREÇÃO
+[iComando Geral da Policia Militar —
+m— Õ w — www w
+(COMISSÃO PERMANENTE DELICITAÇÃO É/
+EXTRATO Nº 038/2018-CPL/PMAL DO CONTRATO Nº 043/2018- CPL/
+PMAL.
+PROCESSO ADMINISTRATIVO Nº 1206-2854/2018,
+PROCEDIMENTO ADMINISTRATIVO: Adesão à Ata de Registro de Preço nº
+015/2017 — JF/AL.
+CONTRATANTE: O Estado de Alagoas por intermédio da Polícia Militar de Ala-
+goas, situada na Praça da Independência, nº 67, Centro, Maceió, CEP 57.020-410,
+CNPI nº 12.442.570/0001-10, representada pelo Cel QOC PM Marcos Sampaio
+Lima, inscrito no CPF sob o n.º 603.800.124-72.
+CONTRATADA: Supriservi Comércio Representações e Serviços | tda, inserita no
+CNPJ sob o nº 12.707.105/0003-26 e estabelecida na Rua José Soares Sobrinho, nº
+Edição Eletrônica Certificada Digitalmente
+conforme LEI Nº 7.397/2012
+ 
+    
+Maceio - terça-feira
+9 de outubro de 2018
+119, Sala nº 903, Edifício Empresarial Lemonde, Bairro Jatiúca, Maceió/AL, CEP:
+57.036-640, representada pelo seu representante legal Sr. Sérgio Eugênio Muniz,
+inserito no CPF sob o nº 469.847.204-00.
+Y : Chefe da 6º Seção da PMAL.
+OBJETO: Aquisição de equipamentos, serviços e softwares destinados a prover as
+soluções de balanceamento de carga, segurança de rede e acesso sem fio.
+VIGÊNCIA: 12 (doze) meses, sendo os efeitos de sua eficácia válidos a partir da
+data da publicação do scu extrato no Diário Oficial do Estado.
+VALOR GLOBAL: R$ 468.030,00 (Quatrocentos e sessenta e vito mil e trinta
+reais).
+DATA DA ASSINATURA: 08/10/2018.
+ORIGEM DOS RECURSOS: Os recursos são provenientes do orçamento da
+PMAL, para o exercício de 2018
+DOTAÇÃO ORÇAMENTÁRIA:
+Programa de Trabalho: 11900003406122.02203112, Elemento de Despesa:
+4.4.90.52, Fonte: 0119, do orçamento vigente.
+SIGNATÁRIOS: Os mesmos acima citados.
+Fundamentação e Vinculação: Lei Federal nº 8.666/1993 e suas alterações; Des-
+pacho PGE-PLIC-CD Nº 3218/2018, aprovado pelo Despacho PGE/GAB nº
+3685/2018,
+ 
+ 
+Quartel em Maceió/AL, 08 de outubro de 2018
+Mauricio Mendes de Morais - Maj Q0C PM
+Presidente da CPL/PMAL
+Shirley Elienai N. L. Liceti
+Responsável pela resenha.
+Comando Geral do Corpo de Bombeiros Militar
+a
+EXTRATO DO PRIMEIRO TERMO ADITIVO AO CONTRATO CBMAL Nº
+015/2017, QUE ENTRE SI CELEBRAM O ESTADO DE ALAGOAS, POR IN-
+TERMÉDIO DO CORPO DE BOMBEIROS MILITAR DE ALAGOAS E A EM-
+PRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) PARA A PRES-
+TAÇÃO DE SERVIÇOS CONTÍNUOS E VENDA DE FRODUTOS POSTAIS.
+CONTRATANTE: O Estado de Alagoas, por intermédio do CORPO DE BOMBEI-
+ROS MILITAR, inscrita no CNPI sob o no 69.977.817/0001-10 e com sede na Av.
+Siqueira Campos, 1739, CEP: 57.010-002 - Trapiche da Barra, Maceió, Alagoas,
+rTepresentado pelo Comandante Geral, o Sr. Cel BM ADRIANO AMARAL DA
+SILVA, inscrito no CPF sob o nº 550.773.314-72, conforme autorização governa-
+mental publicada no Diário Oficial do Fstado de Alagoas em 08 /09/2017;
+CONTRATADA: A empresa Brasileira de Correios e Telégrafos, inscrita no CNPJ
+sob o nº 34.028.316/0004-56 e estabelecida à Rua Antenor Gomes de Oliveira,
+144, Farol. Maceió, Alagoas, representada pelo Sr. Francisco Eiji Wakebe, portador
+da Carteira de identidade nº 12.322.580-2 São Paulo/SP, inscrito no CPF sob o nº
+(065.149.198-39, e pela Sta. Monica de Barros Nascimento, portadora da Carteira
+de identidade nº 051938264 DICRI, inscrita no CPF sob o nº 816 217 527-04, de
+acordo com a representação legal que Ihe é outorgada por PRT/PRESI-261/2018
+lastreada no Estatuto Social;
+Os CONTRATANTES, nos termos do Processo nº 1203.2003/2018, aprovado pelo
+Despacho PGE-PLIC nº 1966/2018, pelo Despacho PGE-PLIC-CD nº 3144/2018
+e pelo PGE-GAB nº 3624/2018, e em observância às disposições da Lei nº 8.666,
+de 1993, da Lei nº 10.520, de 2002, e da Lei nº 8.078, de 1990 — Código de Defesa
+do Consumidor, celebram o presente Termo de Contrato, mediante as cláusulas e
+condições a seguir enunciadas.
+DO OBJETO: O objeto do presente Termo Aditivo é a alteração do Contrato CB-
+MAL nº 015/2017.
+O prazo de vigência e execução contratual fica proirogado por mais 12 (doze) me-
+ses consecutivos e ininterruptos, contados a partir da data do término do prazo
+anteriormente acordado.
+DA DOTAÇÃO ORÇAMENTÁRIA: As despesas decorrentes do presente Termo
+Aditivo estão programadas em dotação orçamentária própria, prevista no orçamen-
+to do Estado de Alagoas, para o exercício de 2018, na classificação abaixo:
+Gestão/Unidade: Corpo de Bombeiros Militar de Alagoas.
+VO: 19036;
+Fonte: 0100 - Recursos Ordinários:
+Programa de Trabalho: 06.122.0004.2001 — Manutenção das Atividades do Órgão,CPL/PMAL
+n 515
+sa
+ 
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+POLÍCIA MILITAR
+ 
+ 
+Praça da Independência, 67, Centro, Maceió/AL, CEP: 57020-410
+Fone/Fax: (82) 3315-7267 ou (82) 8833-8847
+htto://www.pm.al.gov.br E-mail: colomalDhotmail.com
+ 
+PROCESSO: 1206-2854/2018.
+INTERESSADO: PMAL.
+ASSUNTO: Aquisição de Rede Wireless.
+DESPACHO Nº 370/2018
+Trata o presente feito acerca da aquisição de Rede Wireless, através da Ata
+d.e Registro de Preços nº 015/2017 - JF/AL - Pregão Eletrônico nº 026/2017 da Justiça Federal
+de Primeiro Grau - Seção Judiciário de Alagoas, que teve sua vigência até o dia 09.10.2018.
+E diante da grande necessidade deste Órgão, formalizamos a avença
+contratual, bem como a publicação de seu extrato no Diário Oficial do Estado, edição do dia
+09 de outubro de 2018, às fls. 302 a 314, ou seja, concretizada tempestivamente.
+Portanto, rogo os bons préstimos desse conceituado Gabinete, no sentido
+de que seja convalidada a contratação, conforme preceitua o art. 55, da Lei Estadual nº
+6.161, de 26 de junho de 2000.
+Quartel em Maceió/AL, 23 de outubro de 2018.Processo nº 1206-2854/2018
+Interessado: Polícia Militar de Alagoas - PM/AL.
+ESTADO DE ALAGOAS
+GABINETE CIVIL
+Assunto: Adesão à Ata de Registro de Preços. Aquisição de equipamentos e
+Ass
+wireless.
+  
+softwarês de rede
+DESPACHO GC. Nº;é 9222018.
+A Constituição Estadual, em seu art. 152, inciso II, bem
+como o art. 4º, inciso III, da Lei Complementar nº 7, de 18 de
+julho de 1991, determinam que é função institucional da
+Procuradoria Geral do Estado exercer a consultoria jurídica
+ao Chefe do Poder Executivo.
+Neste sentido, considerando as informações contidas nos
+autos, remeta-se o processo à Procuradoria Geral do Estado
+para análise e manifestação acerca da convalidação
+pretendida.
+emZ9 /0 // Á
+ 
+ 
+ 
+ 
+Publiçado no DOE
+em20/102018.
+PROTOCOLO
+TERMO DE ENTRADA
+- 30/101 14o
++
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO —À
+PROCURADORIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS - PLIC
+PROCESSO: 1206-2854/2018.
+INTERESSADO: POLICIA MILITAR DE ALAGOAS - PM/AL.
+ASSUNTO: CONVALIDAÇÃO.
+DESPACHO PGE-PLIC-CD Nº 3538/2018
+Versam os presentes autos acerca de consulta, formulada pela Policia Militar de
+Alagoas — PMAL, acerca da possibilidade  de CONVALIDAÇÃO do Contrato PMAL
+nº 043/2018, firmado, entre o Estado de Alagoas e a empresa Supriserv Comercio Representações
+e Serviços Ltda., para a aquisição de equipamentos, serviços e softwares, tendo em vista que o
+referido Contrato foi celebrado sem prévia autorização do Chefe do Poder Executivo Estadual.
+Ã O vício apontado consiste na afronta do que determina o art. 7º, $ 3º, Anexo 1, do
+Decreto Estadual nº 1.424/2003, art. 2º, $ 3º, do Decreto Estadual nº 33.860/2014 - já que o valor
+da contratação (R$ 468.030,00) ultrapassa o limite legal de R$ 350.000,00, sendo, portanto,
+necessária a prévia autorização pelo Chefe do Poder Executivo Estadual.
+3. Registra-se que a presente contratação já foi objeto de análise por esta
+Procuradoria Geral do Estado (fls. 259-266), tendo sido aprovada condicionalmente, não existindo
+mais dúvida jurídica a ser dirimida.
+4. É nesse contexto que se busca a convalidação dos atos de celebração desse
+Contrato, justamente pela ausência da necessária e prévia autorização do Chefe do Poder
+Executivo Estadual.
+- Num caso como esse, a Administração tem discricionariedade para decidir qual a
+melhor solução diante do interesse público em jogo: poderá simplesmente anular o ato ou
+convalidá-lo. Convalidação, portanto, é o ato administrativo pelo qual é suprido o vício existente
+em um ato ilegal, com efeitos retroativos à data em que este foi praticado.] É forma de aproveitar
+o ato já praticado, livrando-o posteriormente do defeito que o inquinava.
+6. Os atos praticados pela Administração, quando eivados de algum vício ligado à
+competência, à formalidades ou ao procedimento, podem e devem ser convalidados pela própria
+Administração, desde que não causem danos a terceiros nem prejuízo ao erário. Nesse sentido,
+então, o art. 55 da Lei Estadual nº 6.161/2000, que regula o processo administrativo no âmbito da
+Administração Pública Estadual:
+“Art. 55. Em decisão na qual se evidencie não acarretarem lesão ao interesse
+público nem prejuízo à terceiros, os atos que apresentarem defeitos sanáveis
+poderão ser convalidados pela própria Administração.”
+á Assim, a convalidação deve ter lugar sempre que o ato a comportar, uma vez que o
+próprio princípio da Legalidade, que demanda a restauração da ordem jurídica, inclusive por meio
+da convalidação, enseja respeito à segurança das relações jurídica. “Com efeito, a convalidação é
+um ato que não visa apenas à restauração do princípio da legalidade, mas também à estabilidade
+ 
+! DI PIETRO, Maria Sylvia Zanella. Direito administrativo. São Paulo: Atlas, 2002. Pág.234.2318
+ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+PROCURADORIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS - PLIC
+das relações constituídas, o que nos induz a concluir que se alicerça em dois princípios jurídicos:
+o princípio da legalidade e o da segurança jurídica. [...].”2
+8. Destarte, considerando o vício de competência sujeito à convalidação, constata-se
+a faculdade atribuída ao agente competente para prática do ato, no caso ao Governador do
+Estado, convalidar os atos nulos sanáveis que não acarretem lesão ao interesse público nem
+prejuízo a terceiros.
+9. Ante o exposto, pelas razões acima aduzidas, entendo possível a pretensa
+convalidação do Contrato PMAL nº 043/2018 presente nos autos.
+Ao Exmo. Sr. Procurador Geral do Estado.
+PROCURADORIA GERAL DO ESTADO DE ALAGOAS — PLIC — Maceió/AL,
+30 de outubro de 2018.
+YA SURUAGY DO AMARAL
+Procuradora do Estado
+COORDENADORA - PGE - PLIC
+——
+? ZANCANER, Weida. Da Convalidação e da Invalidação dos Atos Administrativos. São Paulo: Editora Revista dos Tribunais, 1990.ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+GABINETE DO PROCURADOR-GERAL
+ 
+Fls.
+PGE
+EM
+ 
+PROCESSO: 1206-2854/2018
+INTERESSADO: POLÍCIA MILITAR DE ALAGOAS - PWAL
+ASSUNTO: CONVALIDAÇÃO
+DESPACHO PGE/GAB;. Nº 3948/2018
+Aprovo o Despacho PGE-PLIC/CD nº 3538/2018, da lavra da
+Coordenação da Procuradoria de Licitações, Contratos e Convênios, por suas razões
+e fundamentos jurídicos, conclusivo pela possibilidade da convalidação pretendida.
+a Destarte, sigam o presente processo ao 6<e . para adoção das medidas
+pertinentes.
+PROCURADORIA GERAL DO ESTADO DE ALAGOAS, Gabinete
+do Procurador Geral, em Maceió, 1º de bro de 2018.
+   
+FRANCISG
+ 
+PUBLICADO NO DOE EM0Z / |( / 1B
+m—— TERMO DE SAÍDA. PGE EMO( /1 /18
+ 
+ 
+Www.pge.al.gov.br
+Av. Assis Chateaubriand, 2.578, Prado.
+Fone (82) 3315-1011 - Ramais — 2001/2002/2003/2015/2016ESTADO DE ALAGOAS
+PROCURADORIA GERAL DO ESTADO
+NÚCLEO ESPECIAL JUNTO AO GABINETE CIVIL
+PROCESSO Nº 1206-2854/2018
+INTERESSADO: Polícia Militar de Alagoas — PMAL.
+ASSUNTO: Convalidação. Adesão à Ata de Registro de Preços. Aquisição de
+equipamentos e softwares de rede wireless. Contrato nº 043/2018 —
+CPL/PMAL.
+DESPACHO NE Nº 292713-/2018
+DESFPACHU LRA 2222
+1. O Processo Administrativo foi analisado pela Procuradoria Geral do
+Estado, por meio dos Despachos de fis. 317/319.
+2. Sem condicionantes elencadas pela PGE, o processo está apto a ser
+submetido ao crivo do Chefe do Executivo Estadual, por intermédio do Secretário-
+Chefe do Gabinete Civil.
+3. Ao Gabinete Civil.
+PROCURADORIA GERAL DO ESTADO DE ALAGOAS, Núcleo
+Especial junto ao Gabinete Civil, Maceió, em 6 de novembro de 2018.
+ 
+  
+ 
+ 
+FRANCISCO M. M'EIDÃ JUNIOR
+Procurador-Gefal do Estado
+LAUSProcesso nº 1206-2854/2018
+ 
+Gab. Civil
+Fis. n“_3Z.L
+vc M.
+ 
+ 
+ 
+ 
+(
+ESTADO DE ALAGOAS
+GABINETE DO GOVERNADOR
+Interessado: Polícia Militar de Alagoas — PMAL.
+Assunto: Convalidação. Adesão à Ata de Registro de Preços. Aquisição de equipamentos e
+LAUS
+softwares de rede wireless. Contrato nº 043/2018 - CPL/PMAL.
+Com fundamento no Despacho PGE-PLIC-CD nº
+3538/2018, aprovado pelo Despacho PGE/GAB nº
+3948/2018, às fls. 317/319, ambos da Procuradoria Geral
+do Estado — PGE, e com base no art. 55 da Lei Estadual nº
+6.161, de 26 de junho de 2000, convalido o Contrato nº
+043/2018 — CPL/PMAL, celebrado entre a Polícia Militar
+de Alagoas — PMAL e a empresa SUPRISERVI
+COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS
+LTDA,, inscrita no CNPJ/MF sob o nº 12.707.105/0003-
+26, cujo objeto é a aquisição de equipamentos e softwares
+de rede wireless, resultante da adesão à Ata de Registro de
+Preços nº 015/2017, vinculada ao Pregão nº 026/2017 —
+JF/AL, originária da Justiça Federal/Seção Judiciária de
+Alagoas, de que trata o Processo Administrativo nº 1206-
+2854/2018.
+Publique-se.
+Após, retornem os autos à PMAL para as providências de
+estilo.
+Em Z'(/I/l?
+JOSÉ A CONCBLOS CALHEIROS FILHO
+iovérador
+ 
+ 
+Publiçado no DOE
+de 50/J /2019.
