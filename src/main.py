@@ -34,7 +34,7 @@ def plot_all(entity_classes, year_label):
                         print('\n')
                         print(str(c)+' '+str(y))
                         filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
-                        #WHen the min_freq == 1 sometimes the NLP framework catchs a scape word inside the text and goes savage
+                        #WHen the min_freq == 1 sometimes the NLP framework catchs a scape word inside the text and goes wild
                         try:
                                 filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
                                 filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
@@ -45,4 +45,4 @@ def plot_all(entity_classes, year_label):
                         filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
                         filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
 
-plot_all(entity_classes,[[f2017,"2017"]])
+plot_all(entity_classes,[[geral,"todos"]])
