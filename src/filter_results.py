@@ -105,6 +105,7 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
             
 
             fname = str('plots/'+entity_class+'/'+name+'-['+min_label+'-'+max_label+']'+str(exclude))            
+            print("Generated: "+fname)
             plt.tight_layout(pad=0.1)            
             plt.tick_params(labelsize=4)
             plt.savefig(fname,dpi=200)                         
