@@ -29,7 +29,7 @@ def get_jsons(contracts_dir):
             first_loop = False
     return jsons
 
-get_jsons(f2016)
+#get_jsons(f2016)
 
 def extract_categ(jsons,category):
     data = []
@@ -116,6 +116,9 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
         print("max_freq must be higher or equal to min_freq")
         return False
 
+
+
+'''
 geral = "/home/ndc/repos/TCC/src/contracts/"
 f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
 f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
@@ -124,11 +127,18 @@ f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
 f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"   
 year =[[f2015,"2015"],[f2016,"2016"],[f2017,"2017"],[f2018,"2018"],[f2019,"2019"],[geral,"todos"]]
 
-#plot_entityFreq(f2018,entity_class = "ORGANIZACAO",min_freq = 10,max_freq=300,exclude=["anvisa"],to_file=False,custom_name = "2018")
+year =[[f2017   ,"2017"],[geral,"todos"]]
+
 
 entity_classes = ['ORGANIZACAO','PESSOA','LOCAL','JURISPRUDENCIA','TEMPO','LEGISLACAO']
 for c in entity_classes:
     for y in year:
         plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
-        #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1]) Caos absoluto isso aqui
-        plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])        
+        plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
+'''

@@ -1,0 +1,766 @@
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+ 
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cplseds.al&hotmail.com
+TERMO DE CONTRATO Nº 055/(2017),
+QUE ENTRE SI CELEBRAM O ESTADO
+DE ALAGOAS, POR INTERMÉDIO DA
+SECRETARIA ESTADO DA SEGURANÇA
+PUBLICA DE ALAGOAS, E A EMPRESA
+ALLSEC SERVIÇOS EM TECNOLOGIA
+DA INFORMAÇÃO LTDA - ME PARA A
+AQUISIÇÃO DE RENOVAÇÃO DE 400
+(QUOTROCENTAS) LICENÇAS DE USO
+PARA O ANTIVIRUS KASPERSKY
+ENDPOINT SECURITY FOR BUSINESS
+SELECT E MDM.
+CONTRATANTE: O Estado de Alagoas, por intermédio da Secretaria de Estado da
+Segurança Pública de Alagoas, inscrita no CNPJ sob o nº 12.200.226/0001-15 e
+com sede na Rua Zadir Indio, 213, CEP 57.020-480, Centro, Maceió, Alagoas,
+representado pelo Secretário de Estado da Segurança Pública, o Sr. Paulo Domingos
+de Araújo de Lima Júnior, inscrito CPF sob o nº 495.708.894-20;
+CONTRATADA: A empresa Allsec Serviços em Tecnologia da Informação Ltda,
+inscrita no CNPJ sob o nº 13.497.079/0001-50 e estabelecida na Rua Agenor Lopes
+nº 277, Sala 901, Ed. Empresarial Iberbras Center, Boa Viagem, Recife/PE - CEP:
+51.021-110, representada pela Diretora, Sócia Administrativa, a Srã. Francisca
+Andrea Caminha Cirino, inscrito no CPF sob o nº 824.533.063-91, de acordo com a
+representação legal que lhe é outorgada por Contrato Social;
+Os CONTRATANTES, nos termos do Processo nº 2100-1772/2016, inclusive Parecer
+PGE-PLIC nº 1210/2017, aprovado pelos Despachos PGE-PLIC-CD nº 2410/2017, e
+em observância às disposições da Lei nº 8.666, de 1993, da Lei nº 10.520, de 2002,
+e da Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, celebram o presente
+Termo de Contrato, mediante as cláusulas e condições a seguir enunciadas.
+1. CLÁUSULA PRIMEIRA - OBJETO
+11, O objeto do presente Termo de Contrato é a Aquisição de Renovação de
+400 (quatrocentas) licenças de uso para o antivírus Kaspersky Endpoint
+Security for Business Select e MDM destinados a Secretaria de Estado da
+Segurança Pública, conforme especificações e quantitativos estabelecidos no Edital
+do Pregão Eletrônico SSP nº 031/2017 e na proposta nele vencedora, os quais
+integram este instrumento, independente de transcrição.
+FR Discriminação do objeto:
+ 
+ 
+ 
+ 
+ITEM ESPECIFICAÇÃO UND. | QUANT.
+ 
+ 
+ 
+ 
+ 
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+L Versão 2015.1
+f
+KESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+ 
+ 
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cpiseds.alGhotmail.com
+ 
+ 
+o1 Renovação de licença de uso para o antivírus Kaspersky oi 400
+Endpoint Security for Business Select e MDM
+ 
+ 
+ 
+ 
+ 
+2. CLÁUSULA SEGUNDA - VIGÊNCIA
+2.1. Este Termo de Contrato tem prazo de vigência até 31 de dezembro do
+corrente ano, contados da data de publicação do extrato contratual no Diário Oficial
+do Estado, a partir de quando as obrigações assumidas pelas partes serão exigíveis,
+sendo prorrogável na forma do art. 57, inciso 1, 81º, da Lei nº 8.666, de 1993,
+conforme PPA 2016-2019.
+3. CLÁUSULA TERCEIRA - PREÇO
+dL O valor do presente Termo de Contrato é de R$ 32.900,00 (trinta e dois mil
+e novecentos reais).
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e
+indiretas decorrentes da execução contratual, inclusive tributos ou impostos,
+encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa
+de administração, frete, seguro e outros necessários ao cumprimento integral do
+objeto da contratação.
+4 CLÁUSULA QUARTA - DOTAÇÃO ORÇAMENTÁRIA
+4.1. As despesas decorrentes desta contratação estão programadas em dotaçao
+orçamentária própria, prevista no orçamento do Estado de Alagoas, para o exercício
+de 2017, na classificação abaixo:
+Gestão/Unidade: Secretaria de Estado da Segurança Pública - SSP
+Fonter 0100
+Programa de Trabalho: 06.122.0004.2001.0000
+Elemento de Despesa: 33.90.39
+PI: 002265
+PTRES: 190001
+5. CLÁUSULA QUINTA - PAGAMENTO
+BI1//o pagamento será realizado no prazo máximo de até 30 (trinta) dias,
+contados a partir da data final do período de adimplemento a que se referir, através
+de ordem bancária
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+L Versão 2015.1
+SSP/CPLESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+. CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+5.2. Os pagamentos decorrentes de despesas cujos valores não ultrapassem o
+limite de que trata o inciso II do art. 24 da Lei 8.666, de 1993, deverão ser efetuados
+no prazo de até 5 (cinco) dias úteis, contados da data da apresentação da Nota Fiscal
+ue dever.
+,, nos termos do art. 5º, & 3º, da Lei nº 8.666, de 1993.
+5.3. O pagamento somente será autorizado depois de efetuado o “atesto” pelo
+servidor competente na nota fiscal apresentada.
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cplseds.alGhotmail.com
+5.4. Havendo erro na apresentação da Nota Fiscal ou dos documentos pertinentes
+à contratação, ou, ainda, circunstância que impeça a liquidação da despesa, como,
+por exemplo, obrigação financeira pendente, decorrente de penalidade imposta ou
+inadimplência, o pagamento ficará sobrestado até que a Contratada providencie as
+medidas saneadoras. Nesta hipótese, o prazo para pagamento iniciar-se-á após a
+comprovação da regularização da situação, não acarretando qualquer ônus para a
+Contratante.
+5.5. Será considerada data do pagamento o dia em que constar como emitida a
+ordem bancária para pagamento.
+56 Antes de cada pagamento à Contratada, será realizada consulta ao SICAF
+para verificar a manutenção das condições de habilitação exigidas na licitação.
+5.6.1. Não estando o contratado cadastrado no SICAF, deverão ser consultados os
+sítios oficiais emissores de certidões ou convocado o contratado a encaminhar
+documento válido que comprove o atendimento das exigências de habilitação.
+Sil Constatando-se a situação de irregularidade da Contratada, será
+providenciada sua notificação, por escrito, para que, no prazo de 10 (dez) dias,
+regularize sua situação ou, no mesmo prazo, apresente sua defesa.
+5.8. Não havendo regularização ou sendo a defesa considerada improcedente, a
+Contratante deverá comunicar aos órgãos responsáveis pela fiscalização da
+regularidade fiscal quanto à inadimplência da Contratada, bem como quanto à
+existência de pagamento a ser efetuado, para que sejam acionados os meios
+pertinentes e necessários para garantir o recebimento de seus créditos.
+58 Persistindo a irregularidade, a Contratante deverá adotar as medidas
+necessárias à rescisão contratual nos autos do processo administrativo
+correspondente, assegurada à Contratada a ampla defesa.
+5.10.  Havendo a efetiva execução do objeto, os pagamentos serão realizados
+normalmente, até que se decida pela rescisão do contrato, caso a Contratada não
+regularize sua situação.
+5.11. Somente por motivo de economicidade, segurança nacional ou outro
+interesse público de alta relevância, devidamente justificado, em qualquer caso, pela
+máxima autoridade da Contratante, não será rescindido o contrato em execução com
+a Contratada inadimplente.
+5.12. Quando do pagamento, será efetuada a retenção tributária prevista na
+legislação aplicável.
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+Versão 2015.1
+h
+—
+ 
+A AESTADO DE ALAGOAS -
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+=
+5.12.1. A Contratada regularmente optante pelo Simples Nacional não sofrerá a
+retenção tributária quanto aos impostos e contribuições abrangidos por aquele
+regime. No entanto, o pagamento ficará condicionado à apresentação de
+comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário
+favorecido previsto na Lei Complementar nº 123, de 2006.
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cplseds.alGhotmail.com
+6. CLÁUSULA SEXTA - REAJUSTE E ALTERAÇÕES
+6.1. O preço contratado é fixo e irreajustável.
+62 Eventuais alterações contratuais reger-se-ão pela disciplina do art. 65 da Lei
+nº 8.666, de 1993.
+6.53. A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os
+acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e
+cinco por cento) do valor inicial atualizado do contrato.
+6.4. As supressões resultantes de acordo celebrado entre as partes Contratantes
+poderão exceder o limite de 25% (vinte e cinco por cento) do valor inicial atualizado
+do contrato.
+7. CLÁUSULA SÉTIMA - ENTREGA E RECEBIMENTO DO OBJETO
+Tl O prazo de entrega dos bens é de 20 (vinte) dias, contados do recebimento
+da Ordem de Fornecimento e nota de empenho, em remessa única, na Secretaria de
+Segurança Pública, com sede na Rua Zadir Índio, 213, CEP 57.020-480, Centro,
+Maceió, Alagoas.
+7.2. O prazo de garantia não poderá ser inferior a 36 (trinta e seis) meses
+prazo, data em que finda o licenciamento do contrato nº 055/2016 para o mesmo produto.
+Regime de 8X5 (oito horas por dia, cinco dias por semana, dias úteis e horário comercial)
+a ser realizado por e-mail, via web ou contato telefônico gratuito com atendimento de no
+máximo 01 hora após a abertura do chamado, _
+Durante o período de garantia deverão ser fornecidas todas as correções, novas
+versões, releaser e atualizações mais recentes comercialmente disponíveis no
+mercado, tudo sem custo adicional ao CONTRATANTE.
+7.3. Os bens serão recebidos provisoriamente no prazo de 5 (cinco) dias
+úteis, pelo responsável pelo acompanhamento e fiscalização do contrato, para efeito
+de posterior verificação de sua conformidade com as especificações constantes no
+Termo de Referência e na proposta.
+7.4. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo
+com as especificações e quantitativos constantes no Edital e na proposta, devendo
+ser substituídos no prazo de 10 (dez) dias, a contar da notificação da Contratada,
+às suas custas, sem prejuízo da aplicação das penalidades.
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+v Versão 2015.1ESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+E
+7.5. Os bens serão recebidos definitivamente no prazo de 10 (dez) dias úteis,
+contados do recebimento provisório, após a verificação da qualidade e quantidade do
+material e consequente aceitação mediante termo circunstanciado.
+ 
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cplseds.al&hotmail.com
+7.5.1.  Na hipótese de a verificação a que se refere o subitem anterior não ser
+realizada dentro do prazo fixado, reputar-se-á como realizada, consumando-se o
+recebimento definitivo no dia do esgotamento do prazo.
+8. O recebimento provisório ou definitivo do objeto não exclui a
+responsabilidade da Contratada pelos prejuízos resultantes da incorreta execução do
+contrato.
+8. CLÁUSULA OITAVA - FISCALIZAÇÃO
+8.1. Nos termos do art. 67 da Lei nº 8.666, de 1993, será designado
+representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro
+próprio todas as ocorrências relacionadas com a execução e determinando o que for
+necessário à regularização de falhas ou defeitos observados.
+8.1.1. O recebimento de material de valor superior a R$ 80.000,00 (oitenta mil
+reais) será confiado a uma comissão de, no mínimo, 3 (três) membros, designados
+pela autoridade competente.
+8.2. A fiscalização de que trata este item não exclui nem reduz a responsabilidade
+da Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que
+resultante de imperfeições técnicas ou vícios redibitórios, e, na ocorrência desta, não
+implica corresponsabilidade da Administração ou de seus agentes e prepostos, de
+conformidade com o art. 70 da Lei nº 8.666, de 1993.
+8.3. O representante da Administração anotará em registro próprio todas as
+ocorrências relacionadas com a execução do contrato, indicando dia, mês e ano, bem
+como o nome dos funcionários eventualmente envolvidos, determinando o que for
+necessário à regularização das falhas ou defeitos observados e encaminhando os
+apontamentos à autoridade competente para as providências cabíveis.
+8.3.1. Durante a vigência deste contrato, a execução do objeto é acompanhada e
+fiscalizada pela Sr. Jacques Wolbeck Godoy Amorim - Ten Cel BM, designado
+Gestor.
+8.3.1.1. O gestor deste contrato terá, entre outras, as seguintes atribuições: expedir
+Ordens de Fornecimento; proceder ao acompanhamento técnico do fornecimento;
+fiscalizar a execução do contrato quanto à qualidade desejada; comunicar à
+CONTRATADA o descumprimento do contrato e indicar os procedimentos necessários
+ao seu correto cumprimento; solicitar ao CONTRATANTE a aplicação de penalidades
+por descumprimento de cláusula contratual; fornecer atestados de capacidade
+técnica quando solicitado, desde que atendidas às obrigações contratuais; atestar as
+notas fiscais para efeito de pagamentos; recusar os bens que estiverem fora das
+especificações e quantidades discriminadas no Anexo Unico deste contrato e solicitar
+sua substituição; solicitar à CONTRATADA e a seu preposto todas as providências
+necessárias ao bom fornecimento dos bens.
+8.3.2. O fiscal ou gestor do contrato, ao verificar que houve subdimensionamento da
+produtividade pactuada, sem perda da qualidade na execução do serviço, deverá
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+L/ Versão 2015.1ESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+comunicar à autoridade responsável para que esta promova a adequação contratual
+à produtividade efetivamente realizada, respeitando-se os limites de alteração dos
+valores contratuais previstos no & 1º do artigo 65 da Lei nº 8.666, de 1993.
+8.4. A conformidade do material a ser utilizado na execução dos serviços deverá ser
+verificada juntamente com o documento da Contratada que contenha a relação
+detalhada dos mesmos, de acordo com o estabelecido no Termo de Referência e na
+proposta, informando as respectivas quantidades e especificações técnicas, tais
+como: marca, qualidade e forma de uso.
+ 
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cpiseds.alG&hotmail.com
+8.5. O representante da Contratante deverá promover o registro das ocorrências
+verificadas, adotando as providências necessárias ao fiel cumprimento das cláusulas
+contratuais, conforme o disposto nos $$ 1º e 2º do art. 67 da Lei nº 8.666, de 1993.
+8.6. O descumprimento total ou parcial das demais obrigações e responsabilidades
+assumidas pela Contratada ensejará a aplicação de sanções administrativas,
+previstas neste Termo de Referência e na legislação vigente, podendo culminar em
+rescisão contratual, conforme disposto nos artigos 77 e 80 da Lei nº 8.666, de 1993.
+s. CLÁUSULA NONA - OBRIGAÇÕES DA CONTRATANTE E DA
+CONTRATADA
+a1 São obrigações da Contratante:
+9.1.1.  Receber o objeto no prazo e condições estabelecidas no Edital e seus anexos;
+9.1.2. Verificar minuciosamente, no prazo fixado, a conformidade dos bens
+recebidos provisoriamente com as especificações e quantitativos constantes do Edital
+e da proposta, para fins de aceitação e recebimento definitivo;
+9.1.3. . Comunicar à Contratada, por escrito, sobre imperfeições, falhas ou
+irregularidades verificadas no objeto fornecido, para que seja substituído, reparado
+ou corrigido;
+9.1.4. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada,
+através de comissão ou servidor especialmente designado;
+9.1.5. Efetuar o pagamento à Contratada no valor correspondente ao fornecimento
+do objeto, no prazo e forma estabelecidos no Edital e seus anexos.
+9.2. A Administração não responderá por quaisquer compromissos assumidos
+pela Contratada com terceiros, ainda que vinculados à execução do presente Termo
+de Contrato, bem como por qualquer dano causado a terceiros em decorrência de
+ato da Contratada, de seus empregados, prepostos ou subordinados.
+a3. A Contratada deve cumprir todas as obrigações constantes no Edital, seus
+anexos e sua proposta, assumindo como exclusivamente seus os riscos e as despesas
+decorrentes da boa e perfeita execução do objeto e, ainda:
+9.3.1. Efetuar a entrega do objeto em  perfeitas condições, conforme
+especificações, quantitativos, prazo e local constantes no Edital e seus anexos,
+acompanhado da respectiva nota fiscal, na qual constarão as indicações referentes
+a: marca, fabricante, modelo, procedência e prazo de garantia ou validade;
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+Versão 2015.1
+L
+ 
+ 
+chESTADO DE ALAGOAS -
+SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+9.3.1.1. O objeto deve estar acompanhado do manual do usuário, com uma versão
+em português e da relação da rede de assistência técnica autorizada, quando for o
+caso.
+ 
+ 
+Rua. Zadir Índio, 213 - Centro - Maceió — CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cplseds.alGhotmail.com
+9.3.2. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo
+com os artigos 12, 13 e17 a 27 do Código de Defesa do Consumidor (Lei nº 8.078,
+de 1990);
+9.3.3.  Substituir, reparar ou corrigir, às suas expensas, no prazo fixado neste
+Termo de Contrato, o objeto com avarias ou defeitos;
+9.3.4. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas
+que antecede a data da entrega, os motivos que impossibilitem o cumprimento do
+prazo previsto, com a devida comprovação;
+9.3.5. Manter, durante toda a execução do contrato, em compatibilidade com as
+obrigações assumidas, todas as condições de habilitação e qualificação exigidas na
+licitação;
+9.3.6. Indicar preposto para representá-la durante a execução do contrato.
+10. CLÁUSULA DEZ - SANÇÕES ADMINISTRATIVAS
+10.1. — Comete infração administrativa nos termos da Lei nº 8.666, de 1993, da Lei
+nº 10.520, de 2002, e da Lei 12.846, de 2013, a Contratada que:
+10.1.1. Inexecutar total ou parcialmente qualquer das obrigações assumidas em
+decorrência da contratação;
+10.1.2. Ensejar o retardamento da execução do objeto;
+10.1.3. Fraudar na execução do contrato;
+10.1.4. Comportar-se de modo inidôneo;
+10.1.5. Cometer fraude fiscal;
+10.1.6. Não mantiver a proposta;
+10.1.7. Criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar
+contrato administrativo;
+10.1.8. Obtiver vantagem ou benefício indevido, de modo fraudulento, de
+modificações ou prorrogações de contratos celebrados com a administração pública,
+sem autorização em lei, no ato convocatório da licitação pública ou nos respectivos
+instrumentos contratuais;
+10.1.9. Manipular ou fraudar o equilíbrio econômico-financeiro dos contratos
+celebrados com a administração pública.
+10.2. A Contratada que cometer qualquer das infrações discriminadas no subitem
+acima ficará sujeita, sem prejuízo da responsabilidade civil e criminal, as sanções
+previstas no Decreto nº 4.054, de 19 de setembro de 2008.
+10.3. — Também fica sujeita às penalidades do art. 87, III e IV da Lei nº 8.666, de
+1993, a Contratada que:
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+L Versão 2015.1ESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA
+. CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+10.3.1. Tenha sofrido condenação definitiva por praticar, por meio dolosos, fraude
+fiscal no recolhimento de quaisquer tributos;
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cpiseds.al&hotmail.com
+10.3.2. Tenha praticado atos ilícitos visando a frustrar os objetivos da licitação;
+10.3.3. Demonstre não possuir idoneidade para contratar com a Administração em
+virtude de atos ilícitos praticados.
+10.4. A aplicação de qualquer das penalidades previstas realizar-se-á em processo
+administrativo que assegurará o contraditório e a ampla defesa à Contratada,
+observando-se o procedimento previsto na Lei nº 8.666, de 1993, e subsidiariamente
+a Lei nº 6.161, de 2000.
+10.5. —A autoridade competente, na aplicação das sanções, levará em consideração
+a gravidade da conduta do infrator, o caráter educativo da pena, bem como o dano
+causado à Administração, observado o princípio da proporcionalidade.
+A CLÁUSULA ONZE - RESCISÃO
+11.1. O presente Termo de Contrato poderá ser rescindido nas hipóteses previstas
+no art. 78 da Lei nº 8.666, de 1993, com as consequências indicadas no art. 80 da
+mesma Lei, sem prejuízo das sanções aplicáveis.
+11.2. É admissível a fusão, cisão ou incorporação da Contratada com ou em outra
+pessoa jurídica, desde que sejam observados pela nova pessoa jurídica todos os
+requisitos de habilitação exigidos na licitação original; sejam mantidas as demais
+cláusulas e condições do contrato; não haja prejuízo à execução do objeto pactuado
+e haja a anuência expressa da Administração à continuidade do contrato.
+11.3. — Os casos de rescisão contratual serão formalmente motivados, assegurando-
+se à Contratada o direito à prévia e ampla defesa,
+11.4. A Contratada reconhece os direitos da Contratante em caso de rescisão
+administrativa prevista no art. 77 da Lei nº 8.666, de 1993.
+11.5. O termo de rescisão será precedido de Relatório indicativo dos seguintes
+aspectos, conforme o caso:
+11.5.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+11.5.2. Relação dos pagamentos já efetuados e ainda devidos;
+11.5.3. Indenizações e multas.
+12. — CLÁUSULA DOZE - VEDAÇÕES
+12.1. É vedado à Contratada:
+12.1.1. Caucionar ou utilizar este Termo de Contrato para qualquer operação
+financeira;
+12.1.2. Interromper a execução contratual sob alegação de inadimplemento por
+parte da Contratante, salvo nos casos previstos em lei.
+13. CLÁUSULA TREZE - DOS CASOS OMISSOS.
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+t Versão 2015.1
+ 
+ssP/cPL |ESTADO DE ALAGOAS ,
+SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA
+CHEFIA ESPECIAL DE PROCEDIMENTOS LICITATÓRIOS
+13.1. — Os casos omissos serão decididos pela Contratante segundo as disposições
+contidas na Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, e nas demais normas
+de licitações e contratos administrativos, além de, subsidiariamente, as disposições
+contidas na Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, e normas e
+princípios gerais dos contratos.
+14. CLÁUSULA QUATORZE - PUBLICAÇÃO
+14.1. — Incumbirá à Contratante providenciar a publicação deste instrumento, por
+extrato, no Diário Oficial do Estado, no prazo previsto na Lei nº 8.666, de 1993.
+15. CLÁUSULA QUINZE - FORO
+15.1. — O Foro para solucionar os litígios que decorrerem da execução deste Termo
+de Contrato será o da Comarca de Maceió - AL.
+   
+Rua. Zadir Índio, 213 - Centro - Maceió - CEP: 57020-480
+Fones (82)3315-2369 FAX (82)3315-2367
+http:// www.seds.al.gov.br E-mail: cpiseds.al&hotmail.com
+Para firmeza e validade do pactuado, o presente Termo de Contrato foi lavrado em
+4 (quatro) vias de igual teor, o qual, depois de lido e achado em ordem, vai
+assinado pelos contratantes.
+Maceió (AL), em AAde setembro de 2017.
+XMW
+Paulo Domingos de Araújo L| a Júnior - Cel QOC PM
+Secretaria de Estado da Segurança Pública
+CONTRATANTE
+EEero " Vem aa
+Allsec Serviços em Tecnologia da Informação Ltda - ME
+CONTRATADA
+/M%/(-fx
+TOR CONTRAZTUAL ;
+cques Wolbec Godoy Amorim
+TESTEMUNHA CPF Nº
+ 
+ 
+TESTEMUNHA CPF Nº
+PROCESSOS N.º 2100-1772/2016 - SECRETARIA DE SEGURANÇA PÚBLICA
+PREGÃO ELETRÔNICO SSP/AL N.º-031/2017
+AQUISIÇÃO DE RENOVAÇÃO DE LICENÇA DE ANTIVIRUS
+12 - Contrato - Bens
+Versão 2015.1Maceio - segunda-feira
+25 de setembro de 2017
+14
+Edição Eletrônica Certificada Digitalmente
+conforme LEI N
+Diário Oficial
+Estado de Alagoas
+ 
+7.397/2012
+ 
+ 
+ 
+Tentes à da Resolução nº 27/2000, que aprova o Regimento Interno do Conselho
+Superior, o Conselheiro e Secretário do Conselho Superior da Procuradoria Geral
+do Estado de Alagoas, LUÍS FERNANDO DEMARTINE SOUZA, organizou a
+presente pauta para a devida publicação. Conselho Superior da Procuradoria Geral
+do Estado de Alagoas, Maceió'/AL, 22 de setembro de 2017.
+   
+ 
+FRANCISCO MALAQUIAS DE ALMEIDA JÚNIOR
+Procurador Geral de Estado
+Conselheiro Presidente
+LUÍS FERNANDO DEMARTINE SOUZA
+Procurador de Estado
+Conselheiro / Secretário
+    
+Secretaria de Estado da Agricu ltura, Pecuaria, Pesca e A quicultura)
+———————— 0 u eo— —
+ESTADO DE ALAGOAS
+SECRETARIA DE ESTADO DA AGRICULTURA, PECUÁRIA, PESCA E
+AQUICULTURA - SEAGRI
+GABINETE DO SECRETÁRIO
+PORTARIA SEAGRI Nº 339 DE 22 DE SETEMBRO DE 2017
+O SECRETÁRIO EXECUTIVO DE G]::STÃO INTERNA DA SECRETARIA DE
+ESTADO DA. AGRICULTURA, PECUÁRIA, PESCA E AQUICULTURA, no uso
+de suas atribuições e prerrogativas legais.
+RESOLVE:
+Designar o servidor DENNIS CALHEIROS ANGELO , matricula funcional nº
+166-0, CPF nº 041.384.444-75, para responder pela Superintendência de Inclusão
+Produtiva- SUPIB por motivo de férias do Superintendente desta Pasia ISRAEL
+DEALCÂNTARA MOURA, noperiodo de 25 de setembro a 9 de outubro de 2017.
+, ADELMOJOSE MARTINS
+SECRETÁRIO EXECUTIVO DE GESTÃO INTERNA
+Secretaria de Estado da Cultura - SECULT/AL
+————»2—Jv aºnàÇ —— o———«c Am——. —
+PORTARIA ) 017 — Maceió 22 desetembrode2017.
+ 
+A SECRETÁRIA DE ESTADO DA CULTURA, nouso de suas atribuições e prer-
+Togatívas legais e tendo em vista o que estabelece o Decreto nº 43,794 de 15 de
+setembro de 2015, RESOLVE conceder em fav or do servidor abaixo discriminado:
+Nome: Perolina Henriques Lyra
+Cargo: Superintendente - SUP.2.
+Matricula: 77-9
+CIT nº: 469,098
+CPF nº: 411.832.234-04
+Quantidade de Diárias: 01 (uma)
+Valorunitário: R$ 80,00 (Oitenta reais)
+Valor Total: R$ 80,00 (Oitenta reais )
+Período: 02 a 03 de outubro de 2017
+Percurso: Maceió/Maragogi Maceió.
+Objetivo: Para o evento “Diário Municipalista Turismo e Cultura: Ações para o
+desenvolvimento Local”.
+Despesas à conta do elemento 3.3.90.14 — Fonte de Recurso 0100 (Estado) PI
+001384 do orçamento vigente,
+ 
+ 
+MELLINA TORRES FREITAS
+Secretária de Estado da Cultura
+de setembro de 2017.
+ 
+ASECRETÁRIA DE ESTADO DA CULTURA, no uso de suas atribuições e prer-
+Togativas legais e tendo em vista o que estabelece o Decreto nº 43.794, de 15 de
+setembro de 2015, RESOLVE conceder em favor do servidor abaixo discriminado-
+Nome: Alan Otávio Silva dos Santos
+Cargo: Assessor Técnico
+ 
+  
+CInº 1592342 - SSP/AL
+CPF nº: 045,.750.614-81
+Quantidade de Diárias: 01 (uma)
+Valor unitário: R$ 70,00 (setenta reais)
+Valor Total: R$ 70,00 (setenta reais)
+Período: 02 a 03 de outubro de 2017.
+Percurso: Maceió Maragogi Macei
+Objetivo: Para participar do Evento Diálogo Municipalista Turismo
+eCultura.
+Despesas à conta do elemento 3.3.90.14 — Fonte de Recurso 0100 (Estado) PI
+001384 do orçamento vigente.
+ 
+ 
+Rubrica
+   
+ 
+MELLINA TORRES FREITAS
+Secretária de Estado da Cultura
+  
+Secretário de Estado da Segurança Pública de Alagoas - SSP
+remeennene tee —Ww —
+ORDEMDE PARALIZAÇÃO DE SERVIÇOS DO LOTE 6
+O GESTOR DO CONTRATO, no uso de suas atribuições, por força da portaria nº
+026/GS/2017, art. 2º, item 1 e ainda descritas na Cláusula Segunda, item 2.4.1, do
+Contrato RDC — SSP/AL nº 03/2016, Lote 6, cujo objeto é a execução das obras e
+Serviços de Construção de 04(quatro) Sítios de Radiocomunicação Digital, AUTO-
+RIZA a empresa FSD CONSTRUÇÕES & ENGENHARIA LTDA - ME, A PARA-
+LIZAÇÃO da execução dos referidos serviços, EM TODOS OS SÍTIOS DESSE
+CONTRATO, na data infra mencionada, obedecendo rigorosamente às condições
+previstas no instrumento contratual.
+ 
+ 
+ 
+Gerência de Comunicações— SSP/AL, 20 de setembro de 2017.
+Celso Iran Souza Barbosa — Cay QOC PM
+Gestor do Contrato
+Mat. 120685
+EXIRATO DO TERMO DE CONTRATO SSP Nº 055/2017, QUE ENTRE
+SI CELEBRAM O ESTADO DE ALAGOAS, POR INTERMÉDIO DA
+SECRETARIA ESTADO DA SEGURANÇA PÚBLICA DE ALAGOAS, E À
+EMPRESAALLSEC SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO LTDA
+T ME. PARA A AQUISIÇÃO DE RENOVAÇÃO DE 400 (QUOTROCENTAS)
+LICENÇAS DE USO PARA O ANTIVÍRUS KASPERSKY ENDPOINT
+SECURITY FOR BUSINESS SELECT E MDM.
+Processo: 2100-1772/2016.
+Processo Licitatório: Pregão Eletrônico SSP 031/2017
+Contrato SSP Nº 055/2017.
+ 
+ 
+CONTRATANTE: O Estado de Alagoas, por intermédio da Secretaria de Estado
+da Segurança Pública de Alagoas, inscrita no CNPJ sob onº 12.200.226/0001-15 e
+com sede na Rua Zadir Índio, 213, CEP 57.020-480, Centro, Maceió, Alagoas, re-
+presentado pelo Secretário de Estado da Segurança Pública, o Sr. Paulo Domingos
+de Araújo de Lima Júnior, inscrito CPF sob o nº 495,708.894-20.
+ 
+CONTRATADA: A empresa ALLSEC SERVIÇOS EM TECNOLOGIA DA
+INFORMAÇÃO LIDA, inscrita no CNPJ sob o nº 13.497.079/0001-50 e
+estabelecida na Rua Agenor Lopes nº 277, Sala 901, Ed. Empresarial besbras
+Center, Boa Viagem, RecifePE — CEP: 51.021-110, representada pela Diretora,
+Sócia Administrativa, a S7º. Francisca Andrea Caminha Cirino, inscritono CPF sob
+07º 824.533.063-91, de acondo com a representação legal que lne é outorgada por
+Contrato Social;
+ 
+OBJETODO CONTRATO: O objeto do presente Terno de Contrato é a Aquisição
+de Renovação de 400 (quatrocentas) licenças de uso para o antiviras Kaspersky
+Endpoint Security for Business Select e MDM destinados a Secretaria de Estado da
+Segurança Pública, conforme especificações e quantitativos estabelecidos no Edital
+do Pregão Eletrônico SSP nº 031,2017 ena proposta nele vencedora.
+ 
+GESTOR CONTRATUAL: Sr. Jacques Wolbeck Godoy Amorim — Ten Cel BM,
+designado Gestor.
+VALOR CONTRATUAL: R$ 32.900,00 (trinta e dois mil e novecentos reais).
+DOTAÇÃO ORÇAMENTARIA: Secretaria de Estado da Segurança Pública - SSP
+para O exercício financeiro de 2017:PROCESSO Nº
+FLS ãg%;
+ 
+ 
+ 
+ 
+ 
+Diário Ofícial Edição Eletrônica Cenificada Digitalmente Maceio - segunda-feira 4 5
+Estado de Alagoas conforme LEI 397/2012 25 de setembro de 2017
+Gestão/Unidade: Secretaria de Estado da Segumaça Pública GESTOR CONTRATUAL: Sr. Ten PM Daniel Pita Amaral, Mat. 4.99Óí-'ª, desiz-
+Fonte: 0100 nado Gestor contratual.
+Programa de Trabalho: 06.122.0004.2001.0000 t
+0.39 VALOR CONTRATUAL: É de R$ 7.578,00 (sete mil
+TRES: 190001 Teais)
+       
+DOTAÇÃO ORÇAMENTARIA: Secretaria de Esindo da Segurança Pública - SSP
+icio financeiro de 2017: à
+idade: Fundo Especial de Segurança Pública
+º2: 0291
+grama de Trabalho: 06.181.0221.3248.0000 í
+Elemento de Despesa: 44.90.52, sub elemento 42 — Mobiliários em Geral
+PL: 004495; PTRES: 190100
+   
+ 
+BASE LEGAL: nos termos do Processonº2100-1772/2016, inclusiy e Parecer PGE
+PLIC nº 1110/2017, aprovado pelos Despachos PGE-PLIC-CD nº 2410/2017, e
+Em obserÁicia às disposições da Lei nº 8.666, de 1993, da Leinº 10.520, de 2002,
+2 daLein? lo78, de 1990 Código de Defesa do Consumidor, celebram o presente
+    
+VIGÊNCIA: O prazo de vigência até 31 de dezembro do comente ano, contados
+da data de publicação do extrato contratual no Diário Oficial ào Estado, a partiz de
+Temo défeeiato. s.. quendoas cbrigações assumidas pelas partes serão exigiveis, sendo proros elna
+forma do art. 57, $ 1º, da Lei nº 8.666/93, conforme o PPA — 2016-2012.
+RESULTADO DE LICITAÇÃO
+| — PREGÃO ELETRÔNICO Nº SSP — 043/2
+Processont2100-1824-2016
+sjeto: Aquisição de material Odontolózico desti:
+gurança Pública:AL, para atender o Sistema pri
+ 
+     
+   
+   
+DATA DA ASSI
+ 
+'URA: 22 de setembro de 2017.
+ 
+ 
+BASE LEGAL: nos termos do Processo nº 1105-088/2016, inclusive Despacho
+PGOE-PLIC nº 1.651/2017, aprovado pelos Despackos PGE-PLIC-CDnº?1834/2017,
+todos da Procuadoria Geral do Estado, e em observância às disposições da Lei nº
+8.666, de 1993, da Lei nº 10.520, de 2002, e da Lei nº 8.078, de 1990 Código de
+Defesa do Consemidor, celebram o presente Termo de Contrato.
+ddo à Secretaria de Estado da
+    
+    
+  
+  
+  
+ 
+   
+  
+PROPOSTA V
+ 
+ 
+EXTRATO DO TERMO DE CONTRATO SSP Nº 035/2017, QUE ENTRE
+ALVES NICESIO - EPP Sl CELEBRAM O ESTADO DE ALAGOAS, POR INTERMÉDIO DA
+SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DE ALAGOAS,
+il trezentos e vinte e dois resis e trinta e — E A EMPRESA IRMÃOS LOURENÇO COMÉRCIO ATACADISTA LTDA
+— ME PARA O FORNECIMENTO DE EQUIPAMENTOS DE PROTEÇÃO
+INDIVIDUAL (CAPACETE ARTICULADO.
+j Processo: 1105-088/2016.
+EMPRESA:HGC TAVEIRA COMÉRCIO DE MÓVEIS-EIRELI-EPP Processo Licitatório: PE AMGESP Nº 10217/2017.
+ 
+ 
+ 
+  
+CNPIJ: 05.258.798:/0001-90 Conirato SSP Nº 035/2017.
+VALOR GLOBAL: R$ 1.684,53 (Um mil e seiscentos e vinte e quatro reais e
+cinquenta é-vês centavos); CONTRATANTE: O Estado de Alagoas, por intermédio do Fundo Especial de Se-
+gurança Pública, inscrita no CNPJ sob o nº 16.901.841/0001-00 e com sede na Rua
+VALOR TOTAL ADJUDICADO NA LICITAÇÃO: Tadir indio, 213, CEP 57.020-480, Centro, Maceió, Alagoas, repressntado pelo
+R$ 5.006,82. (Cinco mil e seis reais e oitenta e nove centavos) Secretário de Estado, o Sz. Paulo Domingos de Araújo Lima Júnior, inserito CPF
+ 
+sob o nº 495.708.894-20.
+iô, 22 de setembro de 2017. *
+viz Costa Júnior — Pregosiro CONTRATADA :A empresa IRMÃOS LOURENÇO COMÉRCIO A ACADISTA
+i LTDA, inscrita no CNPJ sob onº 20.694.969/0001-17 e estabelecida naRua Natal,
+s S e & 066 nº 168, Baimro Nileroi, Betim/MG, CEP: 32.627-134, conta! 5 .
+EXTRATODO TERMO DE CONTRATO SSP Nº 036/2017, QUE ENTRE representadapelo seu RepresentanteLegal, Sr. Amon Henrique Monteiro Loureaço,
+SI CELEBRAM O ESTADO DE ALAGOAS, POR INTERMÉDIO DA * inseritono CPF sob anº 101. 16-12, de acordo com a representação legal que
+)ECRETASLA DE ESTADO DA SEGURANÇA PÚBLICA DE ALAGOAS; . Iheêontorgada por contrato social: ' T TAh
+E A EMPRESA SINGULAR COMERCIO E SERVIÇOS EIREL! - ME PARA ” :
+O FORNECGIMENTO DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL
+ 
+ 
+ 
+ 
+ 
+ 
+OBJETO DO CONTRATO: Fomecimento de Equipamentos de Profs
+dual (capacete articulado), conforme especificações e quantitativos
+no Edital do Pregão Eletrônico AMGESP nº 10.217/2017 e na prop
+cedora.
+  
+  
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+  
+ 
+ 
+88/2016.
+icitatório: PE AMGESP Nº 10217/2017,
+620
+ 
+GESTOR CONTRATUAL: $r. Ten PM Daniel Pita Amaral, Mat. 49
+nado Gestor contratual.
+ 
+CONTRATANTE: O Estado de Alagoas, por intermédio do Fuado Especial de Se-
+gurança Pública, inscrita no CNPJ sob o nº 16.901.841/0001-00 e com sedena Rua & d
+213, CEP 120-480, Centro, Maceió, Alagoas, Npíªãmdº pelo VALOR CONTRATUAL: de R$ 19.590,00 (dezenove mil quinhent
+Secretário dê Estado, o Sr. Paulo Domingos de Araújo Lima Jênior, inserito CPF. recs).
+18.894-.
+   
+ 
+ 
+DOTAÇÃO ORÇAMENTARIA: Secretaria de Estndo da Segurança
+empresa SINGULAR COMERCIO E SERVIÇOS EIREL! - para o exercicio financeiro de 2017:
+tano CNPTsob o nº 23.868.006:0001-80 e estabelecida na A Ferandes — GestioUnidade: Fundo Especial de Segurança Pública
+Lima, nº 3404, Loja B, Gruta de Lourdes , Macei6/AL, CEP: 57.052-403, conta- Fente: 0291
+vepresentada pelo seu Representante Legal, Sra. Bruna Nepo- Programa de Trabalho: 06.181.0221.3248.0000
+muceno Taigino de Andrade Costa, inscrito no CPF. sob Onº059.530.474-52eRG: — Elemento de Despesa: 44.9 )b elemento 42 — Mobiliários em g
+iL930-0SEDS/AT, de acordo com a representação legal que Ihe é outorgada por . PL: 004495; PTRES: 190100
+contrato social; VIGÊNCIA: O prazo de vigência até 31 de dezembro do comente
+ 
+ 
+     
+ 
+ 
+ 
+; da data de publicação do extrato contratual no Diário Oficial do Esta llh partiz de
+OBJETO DO CONTRATO: Formecimento de Equipamentos de Proteção Indivi- > quando as obrigações assumidas pelas partes serão exi do pififios ável na
+Gual (luvas): conforme especificações e quantitativos estabelecidos no Edital do — forma do art. 57, $ 1º, da Lei nº 8.666/93, conforme o PPA - 2016-2
+  
+ 
+Pregão Eletrônico AMGESPnº 10.2:
+ 
+1017 e na proposta nele vencedora. DATA DA ASSINATURA: 22 de setembro de 2017.

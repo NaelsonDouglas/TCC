@@ -61,15 +61,15 @@ def wipe_pdfs_dir(dirpath):
                                 pdftotxt(filename)
                                 counter = counter+1
 
-
-
+'''
 f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
 f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
 f2017 = "/home/ndc/repos/TCC/src/contracts/2017 - 641 arquivos"
 f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
 f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"
+'''
 
-wipe_pdfs_dir(f2015)
+#wipe_pdfs_dir(f2015)
 #wipe_pdfs_dir(f2016)
 #wipe_pdfs_dir(f2017)
 #wipe_pdfs_dir(f2018)

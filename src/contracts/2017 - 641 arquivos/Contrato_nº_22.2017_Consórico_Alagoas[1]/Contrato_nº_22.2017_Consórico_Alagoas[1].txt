@@ -1,0 +1,890 @@
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CONTRATO Nº 22/2017 - CASAL
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS QUE ENTRE SI
+CELEBRAM A COMPANHIA DE SANEAMENTO DE ALAGOAS —
+CASAL E A EMPRESA CONSÓRCIO ALAGOAS.
+PREÂMBULO - DAS PARTES E DO FUNDAMENTO:
+ 
+1) CONTRATANTE: COMPANHIA DE SANEAMENTO DE ALAGOAS - CASAL, Sociedade de Economia Mista Estadual, vinculada à
+Secretaria Coordenadora de Infraestrutura e Serviços, sediada na Rua Barão de Atalaia, nº. 200, Centro, Maceió/AL, doravante,
+denominada simplesmente CASAL, inscrita no CNPJ/MF sob o nº. 12.294.708/0001-81; neste ato, representada por seu Diretor
+Presidente WILDE CLÉCIO FALCÃO DE ALENCAR, brasileiro, casado, engenheiro civil, inscrito no CPF/MF sob o nº 091.578.673-
+72, RG 153.218-SSP/AL., e pelo seu Vice Presidente de Gestão Operacional FRANCISCO LUIZ BELTRÃO DE AZEVEDO
+CAVALCANTI, brasileiro, casado, engenheiro civil, inscrito no CPF/MF sob o nº 185.381.854-20, ambos residentes e domiciliados
+nesta Capital.
+2) CONTRATADA: CONSORCIO ALAGOAS, estabelecida Rua Major Vicente Sabino, 437, Gruta de Lourdes, Maceio/AL, CEP:
+57.052-485, inscrita no CNPJ/MF sob o nº 27.665.902/0001-01, doravante, denominada simplesmente CONTRATADA, neste ato,
+representada por ALESSANDRO SANTOS CRISTOVAM, brasileiro, casado, empresário, inscrito no CPF 984.548.206-63,
+RG137.350.272, JUAN FERNANDO ESCOBAR REMON, colombiano, engenheiro, RNE G22.446-i, passaporte nº An494720
+EXPEDIDO PELA República de Colombia em 20/01/2012, inscrito no CPF sob o nº 063.508.297-78, ambos residentes na cidade
+do Rio de Janeiro, Rio de Janeiro; ANTONIO VENANCIO DA SILVA JUNIOR, brasileiro, divorciado, CPF 226.037.271-68, RG
+633.571 SSP/DF, residente em Brasilia, Distrito Federal.
+3) FUNDAMENTO LEGAL DA ADJUDICAÇÃO: O presente Contrato decorre da licitação na modalidade de Pregão Presencial nº
+03/2017 — CASAL, devidamente homologado pelo Senhor Diretor Presidente da CASAL, tudo conforme consta no Processo
+Administrativo Protocolo nº 5457/2016, CI nº 09/2016-SUCOP, S.C. nº 17.977 e 17.978, em estrita observância à Lei nº
+10.520/2002, Lei Complementar nº 123/2006, alterada pela Lei Complementar nº 147/2014 e Lei nº 8.666/1993, obrigando as
+partes de acordo com as cláusulas e condições a seguir expressas:
+   
+1- CLÁUSULA PRIMEIRA — DO OBJETO: A contratação de serviços de leitura informatizada de hidrômetros, emissão e entrega
+simultânea de faturas de água / esgoto e de fatura de repasse por coletor de dados portátil, entrega de documentos nas
+residências dos usuários, alteração cadastral, fiscalização de consumos e de ligações inativas no âmbito das Unidades de
+Negócio da CASAL, conforme especificado no Projeto Básico e mediante condições contidas na Lei Federal nº 10.520 de 17 de
+julho de 2002, Decreto Estadual nº 3.548 de 01.01.2007, Decreto nº 5.450/2005 e Lei Complementar nº 123/2006, alterada pela
+Lei Complementar nº 147/2014, subsidiariamente pela Lei nº 8.666/1993 e suas alterações estabelecidas nas Leis Federais nº
+8.883/1994 e nº 9.648/1998.
+ 
+1.2 Osserviços a serem executados são os seguintes:
+* Leiturista;
+* — Apuraçãode volume de água fornecido com emissão simultânea de fatura;
+* — Apuraçãode volume de água fornecido sem emissão de fatura;
+º Apuração de volume de água fornecido com código de ocorrência;
+o Atendimento ao usuário;
+* — Atendimento comercial;
+º Auditoria de qualidade comercial;
+€ — Códigosde Ocorrência;
+º Coletor;
+ 
+* — Faturade Água/Esgoto;
+Contrato nº 22/2017 s
+º À Renata Freire G. de Castro
+Advogada
+Emissão S/A.
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+* Fatura Instantânea;
+* — Documento;
+* — EmissãodeFatura;
+* — Emissão defatura pela impressora do coletor portátil;
+e — Hidrômetro:
+º Impressora de faturas portátil;
+* — Ligação Cancelada;
+* — LigaçãoCortada;
+* Rota
+e Foto;
+º Coordenadas Geográficas;
+* FT
+º Unidade Usuária;
+L GSAN.
+1.2- Para todo e qualquer efeito jurídico, constituem partes integrantes e indissociáveis do presente contrato,
+independentemente de transcrição, os seguintes documentos:
+a) Processo Administrativo Protocolo nº 5457/2016 — C.|. nº 09/2016 — SUCOP, S.C. nº 17.977 e 17.978, com todas as
+suas instruções, documentos e anexos decorrentes, obrigando as partes em todos os seus termos naquilo que não
+contrariá-lo. Em caso de eventual contradição deverá ser consultada a Administração Pública para se manifestar.
+b) —Proposta comercial da CONTRATADA.
+2-CLÁUSULA SEGUNDA — DO VALOR E DOS RECURSOS: O presente contrato, tem valor total estimado em R$ 8.821.105,00 (oito
+milhões, oitocentos e vinte e um mil e cento e cinco reais).
+2.1- Os preços contratados são fixos e irreajustáveis durante o período de vigência do contrato.
+2.2- Fica expressamente estabelecido que os preços propostos pela CONTRATADA, incluem todos os custos diretos e indiretos,
+requeridos para execução dos serviços, objeto deste instrumento.
+2.3- As despesas decorrentes deste Contrato terão a seguinte classificação:
+UNIDADE ORÇAMENTÁRIA - 11.402 — GEROC
+GRUPO DE DESPESA 300.000 — Serviços de Terceiros
+RUBRICA ... .307.306 — Serviços de Leitura e Entrega de Contas
+ 
+ 
+ 
+ 
+3-CLÁUSULA TERCEIRA — DA GARANTIA: A Ordem de Serviço para dar início aos trabalhos ora contratados, só será assinada
+após entrega, por parte do licitante contratado, de Garantia no valor que corresponda a 5%(cinco por cento) do valor do
+contrato.
+PARÁGRAFO PRIMEIRO: A Contratada poderá optar por uma das seguintes modalidades de Garantia, nos termos do artigo 56
+da Lei nº 8.666/1993:
+a) Dinheiro;
+b) Seguro-garantia;
+c) Fiança bancária.
+3.1- Na hipótese de prorrogação do contrato, a garantia deve ser atualizada para o valor do contrato.
+3.2- A garantia será devolvida ao final do contrato, sendo que a garantia em dinheiro, esta será corrigi
+    
+   
+n
+|
+f'víN N
+Mm
+*
+Contrato nº 22/2017
+ 
+Renata Freire G.'de Castro
+n e Advogada
+Emissão S/A
+|ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+4-CLÁUSULA QUARTA: OBRIGAÇÕES DE CONFIDENCIALIDADE: A CONTRATADA deve incluir cláusula de confidencialidade da
+informação no contrato de pessoal.
+4.1- Quaisquer informações ou materiais que a CASAL ponha à disposição ou entregue à CONTRATADA para possibilitar a
+execução do serviço contratado, terão o caráter de confidencialidade e serão tratados como tal pela CONTRATADA, seus
+representantes e seu próprio pessoal, sendo vedada a revelação das mesmas a terceiros, comprometendo-se a CONTRATADA a
+adotar todos os dispositivos e medidas que forem necessárias para o estrito cumprimento da lei vigente em matéria de
+Propriedade Industrial, Intelectual e proteção de dados de caráter pessoal (privacidade).
+4.2- A CONTRATADA se obriga a destruir toda a informação e dados que forem manejados na execução do serviço após a
+finalização do mesmo, ou mediante o requerimento por escrito, puro e simples, da CASAL, reservando-se a esta o direito de
+verificar a total destruição dos mesmos.
+4.3- O compromisso de confidencialidade e as obrigações reconhecidas neste pacto subsistirão após o término do presente
+contrato, inclusive suas prorrogações, por 5 (cinco) anos.
+4.4- A utilização dos dados de caráter pessoal, provenientes da CASAL, para qualquer uso por parte da CONTRATADA ou
+terceiros que tenham entrado em contato com tais informações por intermédio da CONTRATADA, durante a execução do
+presente contrato e mesmo depois de seu término, se não for autorizada expressamente e por escrito pela CASAL,
+respectivamente, é taxativamente proibida e, em caso de revelação e/ou utilização da mesma, a CONTRATADA responderá
+perante a CASAL pelos danos e prejuízos ocasionados, resguardando a CASAL de possíveis ações judiciais e legais que vierem a
+surgir.
+5-CLÁUSULA QUINTA: DAS EQUIPES E DA EXECUÇÃO DOS SERVIÇOS: A estrutura básica de equipes será utilizada conforme o
+formato das rotas de leitura:
+5.1- O Leiturista poderá se deslocar até as rotas de leitura utilizando os meios de transportes:
+e Carro
+* — Motocicleta.
+* — Bicicleta.
+e — Ônibusou outro transporte coletivo.
+5.2- Todas as despesas com o deslocamento das equipes correrão por conta da CONTRATADA sem qualquer ônus para a CASAL.
+* — Supervisor;
+* — Controlador de Serviço/Revisor;
+e lLeiturista.
+5.3- A equipe da contratada executará as atividades abaixo relacionadas e será composta da seguinte forma:
+1) Supervisor - É a pessoa responsável pela comunicação entre a empresa e a CASAL, deverá:
+* — Participar de todas as reuniões conforme for estabelecido;
+* — Esclarecer quaisquer problemas relacionados com os serviços contratados;
+e — Coordenartodasas operações relacionadas;
+e Porseroeloentre a empresa contratada e a CASAL deverá estar em estreito contato com a mesma
+trazendo a seu conhecimento quaisquer dificuldades que surgirem.
+1.2) Qualificação mínima exigida:
+* — Escolaridade: Superior completo.
+ 
+Mat 174º
+v
+Contrato nº 22/2017 Renata Freir?g. de Castro
+Advogada
+Emissão S/A1.3) Perfil:
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+ 
+ 
+ 
+ 
+Ter conhecimentos em gerência de Projetos;
+Conhecer atividades de faturamento e arrecadação de empresas de Saneamento e/ou afins;
+Saber utilizar equipamentos de radiocomunicação;
+Possuir conhecimentos em microinformática (Processadores de Texto, Planilhas de Cálculo e acesso a
+internet, inclusive e-mail);
+Saber operar os coletores e impressoras;
+Falar português do Brasil fluentemente;
+Dinamismo;
+Habilidade no relacionamento interpessoal;
+Iniciativa;
+Saber conduzir trabalhos em equipe;
+2.0 Controlador de Serviço/Revisor - É a pessoa responsável pela recepção, distribuição e envio dos serviços sendo
+responsável por:
+Contrato nº 22/2017
+Informar a CASAL as irregularidades encontradas na análise, acompanhando a evolução das soluções
+encontradas e medidas adotadas para sanar as irregularidades apontadas.
+Efetuar a revisão das leituras.
+Encaminhar as contas, retificadas ou não, aos responsáveis pela entrega das mesmas.
+Prestar assistência às equipes de campo, através de rádio/telefone, auxiliando a tomada de decisão.
+Atuar como interlocutor técnico da CONTRATADA junto à CASAL, para contatos e esclarecimentos que se
+fizerem necessários, bem como notificar rapidamente a CASAL ocorrências que necessitem providências
+imediatas.
+Receber os serviços da CASAL.
+Identificar as rotas que deverão ser trabalhadas, efetuando os preparativos para sua execução.
+Carregar os dispositivos de memória em mídia removível tipo cartão ou similar preparados pela CASAL nos
+coletores, para os serviços do dia.
+Separar e preparar os equipamentos e suprimentos para o dia seguinte.
+Assessorar as equipes de campo para a tomada de decisão quando ao aspecto técnico dos coletores.
+Receber os rádios/telefones, impressoras, coletores e suprimentos do monitor, gerar relatórios de
+performance dos leituristas, encaminhando aos monitores e ao Supervisor.
+Proceder à carga das baterias dos equipamentos.
+Quantidade Mínima: um (1) para cada Unidade de Negócio, num total de O8 (oito), sendo três para a Capital — À ;
+e cinco para as demais Unidades de Negocio no Interior do Estado.
+Qualificação mínima exigida:
+Escolaridade: Ensino Médio Completo;
+ 
+ 
+Renata Freír(%? de Castro
+ª,;Xf»
+j Advogada
+Emissão S/AESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+Conhecer atividades de faturamento e arrecadação de empresas de Saneamento e/ou afins;
+Saber utilizar equipamentos de radiocomunicação;
+Possuir conhecimentos em microinformática (Processadores de Texto, Planilhas de Cálculo e acesso a
+internet, inclusive e-mail);
+Saber operar os coletores e impressoras;
+Falar português do Brasil fluentemente;
+2.1) Perfil:
+3.0) Leiturista -
+.
+* —Dinamismo;
+* — Iniciativa;
+É o responsável direto pela coleta dos dados de leitura e atualização cadastral do imóvel do usuário devendo:
+Receber do Monitor o rádio/telefone, coletor e impressora com a rota do dia. Verificar
+condições de uso do equipamento.
+Inicializar o coletor e conferir se os dados nele inseridos são compatíveis com os do imóvel. Identificar e
+registrar em campos específicos de transações no coletor (antes de efetuar a leitura do hidrômetro),
+ocorrências ou irregularidades observadas na ligação.
+Executar a leitura do hidrômetro registrando no coletor, acionando a impressão da conta, retirando e
+entregando-a ao usuário.
+Esclarecer ao usuário possíveis dúvidas quanto ao conteúdo da conta (ex: indicar a matrícula do usuário) e
+orientá-lo quanto aos procedimentos a adotar para cada ocorrência.
+Entrar em contato com o Monitor quando ocorrerem fatos que comprometam a leitura ou para dirimir
+dúvidas.
+Ao final da jornada, relatar ao Monitor os fatos relevantes ocorridos no dia, quanto ao não cumprimento da
+rota, problemas com o equipamento etc.
+Entregar ao Monitor o equipamento, bem como todas as contas emíitidas e não entregues ao usuário
+Quantidade mínima: Conforme estabelecido no ANEXO | - Produção Estimada de Leitura baseado no
+Porte/Unidade de Negócio.
+3.1.) Qualificação mínima exigida:
+3.2) Perfil
+Contrato nº 22/2017
+* — Escolaridade: Ensino Fundamental Completo;
+* — Possuir bom condicionamento físico;
+e  Saberinterpretar Mapas;
+* — Saberutilizar equipamentos de radiocomunicação;
+* — Saberoperar os coletores e impressoras;
+* —Dinamismo; . :
+* — Iniciativa; n
+n
+/ '
+/ *1'X Renata Frei;g?
+ 
+   
+Advogada
+Emissão S/A
+. de Castro&
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+* — Habilidade no Relacionamento Interpessoal;
+* — Boaexpressão verbal e facilidade de comunicação;
+6-PARÁGRAFO SEXTO - CRONOGRAMA DE LEITURA: O cronograma de leitura representa a data em que deverá ocorrer a
+leitura de cada rota. Desta forma será de total responsabilidade da contratada envidar todos os esforços para que tais datas
+sejam cumpridas de forma correta. Sendo o mesmo em anexo a este edital.
+6.1- O cronograma de leitura mensal está dividido em grupos de faturamento que possuem específicos períodos de trabalho,
+característicos de cada rota de leitura.
+7-PARÁGRAFO SÉTIMO: EXECUÇÃO DOS SERVIÇOS - O leiturista deve se empenhar ao máximo, na observação das situações
+encontradas em campo anormalidades e/ou irregularidades), e sua respectiva caracterização/registro através dos códigos de
+ocorrência de leitura fornecidos pela CASAL.
+7.1- Os serviços ora contratados deverão ser iniciados em até 30 (trinta) dias contados da data de assinatura do respectivo
+contrato, estando cumpridos todos os pré-requisitos exigidos no Edital e no TERMO DE REFERÊNCIA.
+8-PARÁGRAFO OITAVO - QUANTIDADE DIÁRIA DE SERVIÇOS: A CONTRATADA deverá estar preparada para executar a
+totalidade dos serviços contratados, constituída de monitor e leiturista, munidos dos materiais e equipamentos necessários a
+realização dos serviços constantes no TERMO DE REFERÊNCIA.
+8.1- A produtividade média diária estimada variará pelo número de leituraás previstas em cada Unidade de Negócio, conforme
+está projetado no Anexo | - Produção Leitura/Dia, constantes do TERMO DE REFERÊNCIA.
+8.2- As equipes deverão ser dimensionadas respeitando-se a quantidade de rotas de cada dia e as características das
+localidades de cada Unidade de Negócio.
+9-CLÁUSULA NONA - DA GESTÃO E DA FISCALIZAÇÃO: Gestão do contrato é de responsabilidade do empregado Samuel leite de
+Oliveira, matrícula nº 0429
+9.1- Na ausência ou substituição do empregado acima nominado GESTOR, por qualquer motivo, a gestão será feita por seu
+substituto imediato.
+9.2- A CASAL poderá em qualquer momento executar fiscalização junto à execução do contrato, visando veríficar se a
+CONTRATADA está executando os serviços integralmente em conformidade com as especificações contratadas.
+9.3- A CONTRATADA deverá proporcionar livre acesso à fiscalização da CASAL a todos os procedimentos e atividades
+pertinentes ao objeto do contrato.
+9.4- A CASAL poderá solicitar formalmente a CONTRATADA a substituição dos uniformes considerados inadequados, de veículos
+que não apresentem as condições de segurança e demais itens previstos neste edital;
+9.5- Eventualmente, os fiscais da CASAL farão pesquisa do nível de satisfação dos clientes com os serviços realizados e do nível
+de presteza dos empregados da CONTRATADA, quando solicitados a esclarecer dúvidas ou prestar informações.
+9.6- Eventualmente, os fiscais da CASAL poderão acompanhar a equipe de empregados da CONTRATADA, avaliando o conjunto
+de ações em desenvolvimento para execução dos serviços.
+9.7- A CONTRATADA terá o prazo de 48 (quarenta e oito horas) para atender as exigências da fiscalização, salvo prorrogação
+especialmente concedida pela CASAL. Esgotado esse prazo, a CASAL poderá promover as medidas previstas neste instrumento,
+inclusive a rescisão do contrato.
+9.8- Os fiscais do contrato de cada Unidade deverão acompanhar o contrato e apresentar mensalmente as considerações por
+escrito ao Gestor do contrato.
+9.9- Visando proporcionar plenas condições técnicas e operacionais a seus funcionários, a CONTRATADA deverá atender
+integralmente a toda legislação vigente pertinente à segurança e medicina do trabalho.
+9.10- Visando o melhor desenvolvimento dos serviços prestados, à CASAL, poderá a qualquer tem)
+condição total ou parcial o Software de Leitura, Impressão e Entrega Simultânea semudireito a indeniz;
+ixar de utilizar na
+p de qualquer das
+      
+ 
+    
+Contrato nº 22/2017 VN
+' i Renata Freite G. de Castrô
+| Advogada
+Emissão S/AESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+partes, em virtude dos investimentos aplicados. Cabendo a CONTRATADA se adequar nos termos da decisão no prazo máximo
+de 30 (trinta) dias, após cientificação formal
+9.11- A gestão de que trata o item anterior não exclui nem reduz a responsabilidade da CONTRATADA, por qualquer
+irregularidade ou em decorrência de imperfeições técnicas; vícios redibitórios ou emprego de equipamento inadequado ou de
+qualidade inferior, inexistindo, em qualquer circunstância, responsabilidade da CASAL ou de seus agentes e prepostos.
+ 
+10- CLÁUSULA DÉCIMA - ACORDO DE NÍVEL DE SERVIÇOS (ANS): A CONTRATADA estará sujeita à retenção ou glosa no
+pagamento, prevista neste Acordo de Nível de Serviço, sem prejuízo das sanções cabíveis, quando:
+10.1- Não produzir os resultados, deixar de executar, ou não executar com a qualidade mínima exigida as atividades
+contratadas; ou
+10.2- Deixar de utilizar materiais e recursos humanos exigidos para a execução da prestação de serviços, ou utilizá-los com
+qualidade ou quantidade inferior à demandada.
+11- CLÁUSULA DÉCIMA PRIMEIRA- INSTRUMENTO DE MEDIÇÃO: Será utilizado como instrumento de medição o Sistema
+Integrado de Gestão de Serviços de Saneamento (GSAN) em uso na Casal, que controla através de rotinas automáticas a
+quantidade e a qualidade dos serviços prestados, considerando o Layout Lógico de Dados descrito no Anexo || , devolvendo em
+tempo real as possíveis não conformidades dos serviços para imediata correção.
+12- CLÁUSULA DÉCIMA SEGUNDA - FORMA DE ACOMPANHAMENTO: O fiscal do Contrato deverá acompanhar diariamente a
+prestação do serviço (Conforme atividades descritas no Termo de Referência) observando os indicadores de desempenho
+(abaixo relacionados) registrando as ocorrências de não conformidade observadas. Cada ocorrência de não conformidade
+observada pelo fiscal do Contrato deverá ser registrada e informada na ocasião (via e-mail) ao Gestor do Contrato para ciência.
+12.1- Frequência e Regularidade da execução dos serviços: Número de leituras, disponibilizadas automaticamente pelos
+arquivos/massa de dados, as quais não foram efetivamente realizadas e aceitas.
+12.2- Prazo do Calendário/Cronograma de Faturamento: Número de leituras de cada grupo de faturamento que não for
+realizada seguindo os prazos pré-determinados no calendário/cronograma de faturamento, conforme data de início de leitura,
+data de fim de leitura, data de processamento (recebimento de todos os arquivos/massa de dados de retorno).
+12.3- Captura e Envio das Coordenadas - Posição da Leitura: Número de leituras realizadas sem a captura e envio das
+coordenadas geográficas do momento em que for realizada leitura de cada hidrômetro.
+12.4- Erros de Leitura ou Revisão: Número de faturas emitidas e/ou leituras realizadas com erros de medição ou imprecisão na
+leitura/volume medido/volume faturado.
+12.5-Códigos de Ocorrência de Leitura (Anormalidade/Irregularidades): Número de faturas emitidas com códigos de
+ocorrência de leitura informados indevidamente (não correspondentes ao encontrado em campo).
+12.6- Qualidade da Impressão das Faturas: Número de faturas impressas com má qualidade ou faturas onde código de barras
+não permita ser lido pelos leitores dos agentes arrecadadores.
+12.7- Utilização de Equipamentos não aprovados/homologados pela CASAL: Número de faturas emitidas com uso de
+impressoras e/ou coletores de dados que não estejam relacionados na lista de equipamentos aprovados, homologados e
+liberados pela CASAL.
+12.8- Apresentação e uso adequado de uniforme e EPIs: Número de leituras realizadas por leituristas sem uso de uniforme,
+identificação da empresa de vínculo ou equipamentos de proteção individual.
+12.9- PERIODICIDADE: Avaliação Mensal. l
+13- CLÁUSULA DÉCIMA TERCEIRA - PLANO DE CONTINGÊNCIA: A CONTRATADA deverá apresentar juntamente com sua
+proposta, "Plano de Contingência" que vise à continuidade dos serviços contratados nos casos de greve de funcionários ou
+quaisquer problemas operacionais, dela ou de terceiros, que porventura venham a comprometer os serviços.
+  
+13.1- Para tal deverão ser descritas as ações para os casos mínimos de:
+* — Impossibilidade de extrair a leitura, emitir e entregar as contas da tarefa recebida;
+Contrato n222/2017
+Renata Fre?(ifde Castro
+Advogada s
+Emissão S/AESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+* — Perdado ambiente operacional;
+* — Falha ou quebra de equipamentos (coletor e impressoras portáteis);
+* — Perdade arquivos de dados e programas;
+. Chuvas intermitentes, alagamentos e enchentes;
+. Local alternativo;
+. Greve de Funcionários;
+* — Grevedotransporte coletivo.
+. O descritivo das ações deverá conter, no mínimo:
+* — Operacionalização das ações corretivas;
+* — Formade mobilização de pessoal;
+* — Formade mobilização de veículos ou equipamentos;
+. Especialidade e procedência da mão de obra utilizada;
+* — Tiposdetransportes e equipamentos utilizados e sua procedência;
+13.2- Jornada de trabalho e dimensionamento da equipe utilizada.
+13.3- O Plano de Contingência deverá ser apresentado à CASAL até 20 (vinte) dias após a assinatura do contrato, ficando sujeito
+à aprovação da CASAL.
+13.4- O Plano de Contingência aprovado pelo Administrador do Contrato deverá obrigatoriamente ser cumprido, caso haja
+necessidade.
+13.5- Os custos adicionais do Plano estão diluídos nos preços dos serviços contratados.
+CLÁUSULA DÉCIMA QUARTA- DO TREINAMENTO: A CASAL se responsabiliza em ministrar treinamento básico aos empregados
+da CONTRATADA selecionados para atuarem como Supervisores e Controladores de Serviço (conteúdo geral explicitado neste
+Termo de Referência). O treinamento será realizado em 1 (um) dia úteis, antes do início da prestação dos serviços objeto do
+contrato ou sempre que a empresa possuir somente dois técnicos com este treinamento. Todo treinamento será comunicado
+com antecedência e comprovado pelo Gestor do Contrato.
+14.1- Os empregados da CONTRATADA treinados pela CASAL deverão efetuar o repasse do treinamento aos demais
+empregados alocados no contrato, conforme ficar estabelecido pela CASAL.
+14,2- Os treinamentos ministrados pela CASAL serão realizados nas dependências da Companhia.
+14.3- A CONTRATADA deve apresentar documentação comprobatória (listas de chamada, avaliações realizadas e certificados)
+do repasse do treinamento ministrado ao restante dos recursos humanos alocados no contrato, sempre que solicitado pela
+CASAL.
+14.4- O treinamento dos recursos humanos alocados no contrato deverá ser estruturado de forma a prever:
+e — Parteteórica: deve contemplar aspectos gerais e específicos dos assuntos a serem abordados.
+* — Parteprática: onde são efetuados simulações e exercícios práticos, em sala de aula e/ou em campo.
+* — Material: os treinados devem receber apostilas contendo os assuntos tratados no treinamento, possibilitando dirimir
+dúvidas e efetuar consultas futuras.
+: ata EQ e Castro &
+Reênata Freire.G. de Castro 2.
+Advogada Mat: SASAL
+Emissão S/A
+  
+Contrato nº 22/2017E
+ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+14.5- Sempre que necessário a CASAL poderá exigir a atualização/reciclagem do treinamento realizado devendo a contratada
+disponibilizar seus recursos humanos para tal, mediante comunicação formal com no mínimo 01 (um) mês de antecedência.
+CLÁUSULA DÉCIMA QUINTA - SOFTWARE DE LEITURA, IMPRESSÃO E ENTREGA SIMULTÂNEA: O Software Leitura, Impressão e
+Entrega Simultânea, deve possibilitar otimizar o serviço de leitura, emissão e entrega de faturas, comunicado de débito, aviso
+de corte do fornecimento e comunicado de excesso de volume fornecido ao cliente, tendo como princípio a maximização da
+produtividade dos colaboradores e o maior nível de qualidade possível no processo de faturamento. O objetivo final é garantir a
+qualidade no atendimento ao cliente final, a precisão do faturamento, e a antecipação da receita em razão da agilidade do
+processo. As especificações constam do Anexo IV, do Contrato.
+CLÁUSULA DÉCIMA SEXTA — DOS EQUIPAMENTOS: Os equipamentos coletores, impressoras e de comunicação, abaixo,
+deverão ser adquiridos pela CONTRATADA. Quanto aos veículos os mesmos poderão ser adquiridos ou locados pela contratada.
+As especificações constam do Anexo IIl, do Contrato.
+CLÁUSULA DÉCIMA SÉTIMA - DO PAGAMENTO: O valor da Nota Fiscal Fatura deverá corresponder aos serviços executados
+durante o período do contrato, conforme o quantitativo apurado pelo Gestor do Contrato e Cronograma Físico e Financeiro,
+Anexo deste Contrato.
+17.1- O pagamento será procedido após apresentação da Nota Fiscal Fatura protocolada e devidamente conferida e atestada
+pelo Gestor do Contrato, contando-se o prazo de 30 (trinta) dias a partir do seu lançamento no sistema de controle de
+pagamento da CASAL.
+17.2- A CONTRATADA quando do faturamento deverá apresentar, ao gestor do Contrato, os seguintes documentos, com data
+de validade atualizada:
+* — Certidão Negativa de Débito do INSS;
+* — Certidão Negativa de Débito do FGTS;
+* — Certidão Negativa atualizada de Débito junto as Fazendas Federal, Estadual e Municipal.
+* — Certidão Negativa de Débitos Trabalhistas - CNDT
+17.3- A não apresentação dos documentos acima elencados, ao gestor do Contrato, no prazo de 30 (trinta) dias, ensejará a
+rescisão deste contrato.
+17.4- Nenhum pagamento será feito sem que a CONTRATADA tenha recolhido o valor da multa eventualmente aplicada.
+17.5- A emissão antecipada do documento fiscal não implicará adiantamento para pagamento da obrigação. Havendo erro na
+Nota Fiscal a mesma será devolvida à CONTRATADA.
+17.6- Qualquer irregularidade que impeça a liquidação da despesa será comunicada à contratada, ficando o pagamento
+pendente até que se providenciem as medidas saneadoras, não acarretando ônus para a CASAL.
+17.7- No caso de pagamento não efetuado no prazo estabelecido no PARÁGRAFO PRIMEIRO, o valor em atraso será corrigido
+pelo Índice Nacional de Preços ao Consumidor Amplo — IPCA, desde o inadimplemento até a data do efetivo pagamento.
+17.8- Os pagamentos serão efetuados através de depósito bancário em conta corrente da CONTRATADA:
+Banco: BRADESCO (237). Agência: 2921 ( Shopping Nova América). C/C:7033-5.
+CLÁUSULA DÉCIMA OITAVA — DO PRAZO E DA PRORROGAÇÃO: O prazo de vigência do contrato é de 12 (doze) meses,
+contados a partir da assinatura da Ordem de Serviços emitida pela CONTRATANTE.
+PARÁGRAFO PRIMEIRO: O Contrato poderá ser prorrogado por iguais e sucessivos períodos, até o limite de 60 (sessenta)
+meses, tendo em vista que os serviços a serem contratados serão executados de forma contínua
+CLÁUSULA DÉCIMA NONA — DOS ACRÉSCIMOS E DO REAJUSTE: O Contrato pode ter acréscimos ou supressões até 25% (vinte
+e cinco por cento) do valor inicial atualizado do Contrato, conforme $1º do art. 65 da Lei nº 8.666/93;
+PARÁGRAFO PRIMEIRO: Os preços contratados são fixos e irreajustáveis durante o período de 12 (doze) meses. Caso ultrapasse
+o referido período, os mesmos poderão ser reajustados a cada aniversário pela variação do INCC.
+ 
+CLÁUSULA VIGÉSIMA- DAS OBRIGAÇÕES DA CONTRATADA: A CONTRATADA deverá possuir em seu quadro de pessoal, a
+estrutura mínima necessária à execução dos serviços.
+20.1- Comprovar que está mantendo durante toda a execução do contrato as mesmas condições de regularidade que
+apresentou quando da habilitação.
+20.2- A CONTRATADA executará os serviços para a CASAL obedecendo as Normas Técnicas, Especificações, Procedimentos e
+demais elementos que integrem o presente Projeto independente da transcrição.
+20.3- A CONTRATADA deverá ser a única empregadora de seu pessoal e comprometer-se a observar rig
+prescrições relativas às Leis de Trabalho e da Previdência ou correlata em vigor no País.
+9
+XXRenata Freª de Casti ó W/
+- Advogada í -
+ 
+     
+samente todas as
+ 
+Contrato nº,22/2017
+ 
+Emissão S/A é cESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+20.4- A CONTRATADA deverá manter, junto a CASAL, um profissional de nível superior como responsável técnico, devidamente
+credenciado como preposto, para representar a CONTRATADA e receber da CASAL as instruções, bem como proporcionar toda
+a assistência e facilidade necessária ao relacionamento CASAL/CONTRATADA.
+20.5- A CONTRATADA deverá assegurar que todos os empregados se apresentem para o trabalho devidamente fardados,
+portando crachá de identificação com fotografia.
+20.6- A CONTRATADA será responsável por quaisquer reclamações relativas a danos e prejuízos causados a terceiros em
+consequência dos serviços objeto deste Projeto, responsabilizando-se pelo pagamento, sem qualquer reembolso por parte da
+CASAL, de indenização decorrente de acidentes ou fatos que causem, prejuízos aos serviços ou a terceiros, quando resultantes
+de imprudência, imperícia ou negligência de seus empregados.
+20.7- A CONTRATADA deverá sinalizar com equipamento adequado, os locais de execução dos serviços, conforme a exigência
+do Código Nacional de Trânsito e Norma Interna da CASAL.
+20.8- A CONTRATADA deverá comunicar de imediato a CASAL qualquer ocorrência de impedimento ao andamento dos serviços,
+oficializando no prazo máximo de 24 (vinte e quatro) horas.
+20.9- A CONTRATADA deverá efetuar as suas próprias expensas, o reparo das falhas, de mão de obra que se verificarem durante
+€ após a execução dos serviços no prazo máximo de 48 (quarenta e oito) horas.
+20.10- A CONTRATADA deverá cumprir as normas legais, regulamentares e administrativas aplicáveis à segurança, higiene e
+medicina do trabalho, fornecendo aos seus empregados os equipamentos de proteção individual.
+20.11- A CONTRATADA deverá fornecer todos os equipamentos, ferramentas e materiais necessários à execução dos serviços.
+20.12- A CONTRATADA assumirá todas as responsabilidades quanto a acidentes ambientais provocados por falhas em seus
+equipamentos ou pela desatenção das equipes de trabalho.
+20.13- A CONTRATADA deverá permitir o pronto acesso da fiscalização da CASAL, a todas e quaisquer fontes de informações
+referentes aos serviços prestados, sempre que solicitada antecipadamente.
+20.14- A CONTRATADA deverá ser a única responsável pela execução e qualidade dos serviços dos quais trata a presente
+licitação.
+20.15- A Contratada deverá adquirir os equipamentos coletores, impressoras e de comunicação, abaixo, deverão ser adquiridos
+pela CONTRATADA. Quanto aos veículos os mesmos poderão ser adquiridos ou locados pela contratada.
+CLÁUSULA VIGÉSIMA PRIMEIRA — DAS OBRIGAÇÕES DA CONTRATANTE: Fornecer à CONTRATADA os procedimentos, normas,
+padrões e especificações necessários à correta execução dos serviços.
+21.1- Programar a execução dos serviços;
+21.2- Exigir a comprovação que a CONTRATADA mantenha durante toda a execução do contrato as mesmas condições de
+regularidade que apresentou quando da habilitação.
+21.3- Esclarecer toda e qualquer dúvida com referência à execução dos serviços, de imediato, se possível, quando solicitado
+verbalmente, ou no prazo máximo de 03 (três) dias úteis, quando oficializado por escrito;
+21.4- Comunicar à CONTRATADA, com antecedência de 72 (setenta e duas) horas, para os devidos ajustes, qualquer alteração
+efetuada nas normas de procedimento para execução dos serviços, que visem atender exclusivamente ao interesse público,
+desde que esta não implique em aumento de custos para a contratada;
+21.5- Abrir o “livro de ocorrências” e registrar todos os fatos relevantes acontecidos durante a vigência do contrato,
+principalmente aqueles que prejudiquem direta ou indiretamente a qualidade e a efetividade dos serviços.
+21.6- Intervir junto a outros órgãos, a fim de agilizar as autoridades dos serviços, caso estas sejam necessárias;
+21.7- Emitir o boletim de medição dos serviços executados mensalmente, autorizando o lançamento dos valores da fatura no
+Sistema de pagamento da CASAL, para que seja realizada o pagamento dos mesmos;
+21.8- Receber a fatura para comprovação da medição, acompanhada dos documentos de regularidade fiscal previstos em lei.
+21.9- A CASAL fornecerá os Mapas Cadastrais - Que servirão para a empresa contratada identificar os locais a serem realizadas
+as leituras;
+21.10- Na ausência deste a CASAL orientará a melhor forma para realização dos trabalhos.
+21.11- Será fornecido em formato PDF (Portable Document Format) os arquivos digital os mapas disponíveis no cadastro da
+CASAL, permitindo a impressão pela empresa CONTRATADA. Não poderá ser alegada em nenhum momento a falta do mesmo
+como empecilho para realização da leitura.
+21.12- Arquivos de dados contendo informações relativas às leituras a serem realizadas, conforme os layout's descritos no
+Anexo || do TERMO DE REFERÊNCIA.
+21.13- Manual do leiturista - Que orientará a empresa contratada quanto à forma correta de proceder à leitura. Será fornecido
+em PDF (formato padrão do ADOBE), sendo enviado sempre que necessário a contratada. Faz parte do material de uso
+obrigatório do leiturista. Sempre que houver atualização do mesmo ele deverá ser replicado e enviado aos leituristas.
+21.14- A Contratada está obrigada a adquirir equipamentos, para execução dos serviços conforme descriminado no Anexo V,
+deste Contrato
+  
+10 s
+Renata Freire G. de Castro »
+Advogada ;
+Emissão S/A -vASAL
+Contrato nº 17ESTADO DE ALAGOAS
+COMPANHIA DE SANEAMENTO DE ALAGOAS
+CLÁUSULA VIGÉSIMA SEGUNDA — DAS PENALIDADES: Pela inexecução total, parcial ou inadequada das obrigações assumidas
+pela contratada, poderão ser aplicadas as seguintes sanções, não cumulativas, assegurando o direito de defesa prévia por 05
+(cinco) dias úteis;
+a) ADVERTÊNCIA, por escrito, pela inexecução parcial do contrato, pelo cumprimento irregular das cláusulas contratuais, pela
+paralisação da prestação dos serviços;
+ 
+b)
+MULTA de 2% (dois por cento) sobre o valor da fatura mensal, limitada, por sua vez de incidência, a 10% (dez por cento) do
+valor global do contrato;
+<) IMPEDIMENTO DE CONTRATAR com a Administração, por prazo não superior a 02 (dois) anos.
+22.1- PARAGRAFO PRIMEIRO: Na hipótese de a proponente incorrer em multa, esta deverá ser paga dentro do prazo máximo
+de 15 (quinze) dias a contar do recebimento da notificação ou do não acolhimento da defesa, sob pena de a CASAL descontar o
+respectivo valor nos pagamentos vincendo.
+CLÁUSULA VIGÉSIMA TERCEIRA — DOS CASOS OMISSOS: Os casos omissos ou situações não explicitadas serão decididas pelas
+partes, segundo as disposições contidas na Lei nº 8.666/1993 e suas alterações e demais regulamentos e normas
+administrativas, federais e estaduais, que fazem parte integrante deste Contrato independentemente de suas transcrições.
+CLÁUSULA VIGÉSIMA QUARTA — DA RESCISÃO: O presente Contrato poderá ser rescindido, independente mente de notificação
+judicial ou extrajudicial, a critério da Diretoria da CASAL, sem que a CONTRATADA, tenha direito a qualquer indenização, salvo o
+pagamento dos serviços que estiverem regulares e efetivamente executados, ocorrendo quaisquer das seguintes hipóteses:
+a) Infringência de qualquer Cláusula deste Contrato;
+b) Em caso de falência ou concordata da CONTRATADA;
+c) Seeste Contrato for cedido ou transferido no todo ou em parte, sem previa autorização escrita da CASAL.
+d) O desatendimento total ou parcial de normas de segurança e medicina do trabalho.
+e) O presente contrato poderá ser rescindido também por acordo mútuo ou conveniência da CASAL
+f) O presente Contrato poderá ser rescindido quando ocorrer um dos motivos previstos nos Artigos 77 a 79 da Lei nº
+8.666/1993.
+CLÁUSULA VIGÉSIMA QUINTA — DO FORO: Quaisquer questões decorrentes deste Contrato serão dirimidas no Foro da Cidade
+de Maceió - AL, com renúncia expressa de qualquer outro por mais privilegiado que seja.
+E, por estarem justas e acordes, as partes assinam o presente contrato em 02 (duas) vias de igual teor e forma juntamente com
+as testemunhas a tudo presente.
+Maceió(AL) 26de maoto de2017.
+  
+ 
+ 
+  
+  
+TESTEMUNHAS:
+     
+RNANDO ESCOBAR REMON
+ftratada/ ) n
+n
+f
+| 'l' Á W
+- U | Al
+ALESSAN Xllsh'oxsí_cmsr 'AM .
+P/Contratal
+) . i
+: —
+AÍ ONÍÓ VENANCIO DA SILVA JUNIOR
+P/Contratada
+1 -
+Renata Frêire G. de Ca:
+Advogada
+Emissão S/A
+ 
+ 
+Contrato nº 22/2017À
+XÉZX NN à
+LTOZ/77 OLVYLNOO
+V/S oBsSsIWA
+epebonpy
+19863 9p 29 AIIaIM B3BEU9N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O0TsoT 9€9 e 885 vesc TO6 6tSST m:wc_ât 2189Pf - /E
+8808T 88v8 Lve B8hSST 885SS L69T L8STT 1deyul - 9€
+968£ bvsE Tm o7077 Ts67 67hh L9E6T enon efa/3| - se
+O0cE6 8919 98T 80EE 9ThS TozE TELLT BIBNdal9eq| - EE
+TENOT 9649 7o T8LV 895h 984T 60ThZ eyquosued-TE
+68TTT 8069 ve 806€ tvovs Test 6TT8T senaxa|1 - oE
+0866 0802 os 88Lv 0662 EST 0876T SROSe|y ap ejansa - 67
+098€ 006h 86T 0065 tvr6E 788 9967T SOU9EIH SIOA - 97
+o0sv 80866 069tty ELT 76079 TTEST tvhTI9T 0959ST BIBANOS O1IW|9A - ST
+Svbvv 7665 8ET 956€ tv66€ 9vet ETASA 02as oulanhos - zz
+vossT 92SET Syv 6268 TTVG6 Ovse 998hE euipjodoa euojos - TZ
+67EVT SE6S 60S B8vss 066€ TosT 9TOLT SOJ/9U12I - 8T
+tvh6vT OB8ETT 6T 7606 8vOTT T60S T6EEZ ejadeg - LT
+Otv6cT TOV6 se 066t tvesv TT8T T666T 1deueg - 97
+LEL TEES L8 9Th 7965 L8L 9L8ET a18a|y odwesg - yt
+T6E ETAITA 8et 8T9T 9E€67 9het ST8S Sequiqu1pes - T
+6759 9s97 867 tvogz Ts6Tt oez 8£69 OUOW /9A -6
+TI6 O0c78s 89L9T Lev vertt ETATAR s990 LosTE euieeg - z
+0O0vT oeTST TE86 vEVo 66v0T TETL T68 080tt Jan3IIW Oes ap eueg-9
+6599 989TT L6 T86L 008S 98YVT Ozvese epeuy-0
+tvesve tvoooe 9er LZ£OOT TT6S oE6E Oceeh eueig enfy - T
+enneu onneusayy o13eipauwr enua7 OBUEINWIS
+umum.n nap Jensepes ogseã o5a1apuz oHRa Ouawesnes UWas esonuz OIAUIBANTE 2907
+om.umN eas1d ossesauv | p ogóezuemy Wa elanuz SPSA uas esnua7 9 OBSSIWI Ewumwmam_mm_.e_ã
+ 
+ 
+L
+213 “seinjea ap edannua o OBssIW3 “SO1)aWIku|
+ 
+ 
+| oxauy
+LTOZ/T7 O9enuos
+SVODOVIV 3A OLNIINVINVS 3A VIHNVdINOO
+SVOOV1IVY 3A OAVISA
+ 
+ap epezinewsogu| esnua| ap soótnsas ap onnemnuenoLTOT/07 OLVYLNOD
+ 
+V/S OBSSIWA
+epebonpy
+NSB AP *
+191A EJBU9N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8eIs oEV8 LE vosL 00t9 ZEST 9EBTZ ( inber omneg - 1£
+OET6 0£0h BEE 0665 086E v66T 9EEET aqiBeltues ap ossed - OL
+05997 08/7T ozEv Ebh 8098 voze UIhLe esandued - 69
+9L0T BEZ ve 9p€ o6T oT S8TT e2nóy ap oBd - 89
+0955 08sE9 0889h LT 0095/ 6Th UT ZTLhOZ SsoIpul Sop eJlawW[ed - Z9
+90LL 088h L6E OB8E tvoEe SsLet 89ETT eunsajed - 99
+000bT ZTL9 Ez Ov6E OEES sE €99hT O2UBJA O1NQ - S9
+oeTh 089h os 9669 086h TI6 OEZ6T eESUSNHO - 69
+ovL9 00tv9 LE 00h zs9h THET BEEDT Opeseg op enfeg oulo - 29
+OEST vogoT vITHT 00E tvogez ZSEET ELVe Obbho Sauo|4 sep enfeg oulo - T9
+vo6ZT 9£09 8he zovs 0064 LE 890bT OUI OnON - 09
+ZUIhhe veTZT 66 o0TZT B89STT L6EZ EM UN - 65
+09€L z6bh U 0z8€ B8LVE v6s voTHT SilodotaquowW - 85
+Te6LT tvzos LE 00ZET 07lh 82SE VOEEE SeISSA|IN - 9
+00ZTT oovh oeT 0096 00LE SvoT O0EZ6Z PqIBesemes ap zInew - ss
+8h96T 9TZTT L8 z6T9 o6TL ESST 950ST apueio e19eW - ps
+009 062 o08E 00tvT 891T 807L OU|aGWIaA JEl - ES
+OvSL 9658 66 08L6 tvevo 69TT TSL8Z Opuoquew - zs
+OveS 0965 L8 958h 986€ LT6T 0TLLT BUIINEJEI - OS
+0OET tvesse 0O8TT 097 959ST 0087T vEe6Z 09SSh I8088sewW - 6h
+B88TT tvhoe ver E tvo66 TEST 00TZZ o1opIiz| 10/e - sy
+6L8T 9svh zo €60L TI6h o8v TE6ST o1tanbunrt- py
+978 9LST 98T voTZ 009T veT 8086 elpunt- Ep
+voEve 0968 EBh 9€TTT 8988 LT6T TLhoE Ssawog winbeor- z
+8969 voss os ZE8Z 9667 788 Z6TT Bsl9W|ed INnH 10peuas - Th
+66 888T 867 vesz oste 80S 9L5L eweser- op
+006L 9€6T tver o8Th 8007 9€TT TECTT eduneseder- 6e
+OvSsoT OcEE Ss8e 759€ EX 8voE 9SE8 adinser- ge
+ 
+ 
+ 
+ 
+ 
+ 
+SVOOVIV 3A OLNIWNVINVS 3A VIHNYdiNO9
+SVO9VIV 3A OAVLISI&«&N OLVYINOD
+—
+V/S oBssIW3
+epebonpy
+ON)SEI9 ap *
+1914 Byeuoy
+TIVYSVO/68/1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“
+“/Bdna euoz eu sepezijeas oBs “seinya| EgT ap wap1o ep “aued “ewioe oipenh oe aqueso) on :: BÍenIASAO
+00'SOT'TU8'8 1YY39 TV 101 |
+19'8h0'EZG6 86'Sb6'TTL TSVLELSL 09L67'9S 06LO0E'S80'T vL's0T'678 67668 LOE EESTOOLT'V ($4) 1101 OóIUd
+96'8T 190 8LO WT sSTT TT RT EET ($4) OIGIIW OóaUd
+v89'8 8IS'ESTT VvEITTL6 098'8E 9L'EVG6 v67'S89 6v0'hSZ TOBTUIT'E (apepnueno) IV1OL
+0058 OOSvET 0O0LLVT 7665 8coOsoT TL800T LveBgE 29E€T6h eBndeser apepiun - Eezy
+0000T 0080hT v8809T 8915 tvT80vT tvesoet T8vLE 00Z7ES 10183 apepiun - zzh
+008T 08C0S 0026h 009 0007T 008'97 T6L7T 0098TT sauag oupauag 'pluN - Teh
+860T vemr 079 95S6 9TOS 0087 9TO0ST ndieul - 86
+vESs oOTE LE vess 9TEE oEe6 95867 euesenhe! - /6
+ves8 008L LE 0668 9TOS SsELT zT eqnies - S6
+8897 00L€ 9vv 0896 vees 8ISE LTLIT oBÍNSegas Oes - p6
+o090T 80€ELT 00L8T E 08T9T 0886 EeLSv Ooo0tvtt Bade, ep asof oes - 68
+cosE TSscTe LESETZ 9677 08vO0v 80L6T 9€0v vv8ver ewaued| op eueques - sg
+0098 9ThE os vhLo 0807E ot9T €L6ST 91ON Op e1zN1 eues - p8
+0£0p 00LLS vo9os T60T ve6ho 081S TEl 0007LT 08187 OIM - 78
+oe9 vete TE6 T9 ZTos6 00h9 0£09 00697 ojnJueiganDo - 18
+oLTL TsTe 604 oLeh 9ETE TvTT €866 sespad ap o110d - 62
+91ES OLTE ve TTE o6TT LsL TBHTT sestayouu sep 050g - £L
+OS6T Ss9TET te66T 9€T 007LT 00€OT 2ZoEg TTETS seyuesdg-o,
+o6Tr [:747 TT 066 0607 TEET 0997 eqopuid - SZ
+TIsT 0068T 95c78T [45 [EIATA OOTVT 08/7 00075
+o07et TTOOT 00v 00E€ET 087E TE&E 006EE nóngeselg - Ez
+ 
+ 
+ 
+ 
+ 
+ 
+SVODVIV 3A OLNIWNVINVS 3A3 VIHNVdiNOO
+SVO9VIV 3A OAVISALTOZ/T7 OLVYLNOO
+V/S oBssIWZ IVSVO
+01189 apro SAPY
+1989 9prD 2loIy ejeuoy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<
+Éoamo.mmp 80T60'SEL — |80T60'SEL 80760'SEL —|80T6OSELZ [8OT6OSEL [80TEOSEL TVLOL
+odwes ap “Juena| so wos seyjuejd ap ouawnsauio, a oESEZITeNdia L
+Semia| ap sejos sep ap oyuasapas a no/a ogSeioqgeia | 77
+e1penh epeo ap sÁáejiano ap oestnas no/a ogóelogeia | 1T
+SIBL)5epes seuejd ap oesinaino/a ogóeiogeia | ot
+“ISepea/U SI9NQUI SOP a SajuamXIX3 E1| Seg "peo esed odwes 2Q JuBna] 6
+TÉS.WN T9'919'ST 19'919'ST T9'919'ST T9'919'ST T19'919'ST T9'919'ST esnua| was edanuaa euos apoessiwa| ç&
+7L076'9 7L0769L TL076'9L TL'076'9L TL'0769L TL'076'9L TL076'9L SeANBUI sagóeãI| sep ogSezieasia | ,
+TT'ostT' E9 TT9ST'E9 TT'9ST'E9 Te'9sT'E9 TeostE9 — [TZ9STEO TT'9sT E9 ogóeZI aposóezienv| g
+LTT9T'O9 LTT9TO9 LTT9ITO9 LTT9TO9 LI1T9IOS — |[/2TT9TOS LTT9TOO lensepeg ossesav | s
+LVT69T LVT69' LVT69'V LVT69'p LVT69'V Lv'T69'T Lv'T69'p OANIBUI21|E 0Ía1apua esed euos ap edanua a OESSIWZ v
+TEThI'O6 TEThh'o6 TETHI'OS TETHIO6 TETKhhOS — |[TETHiZOS TE Thh'06 OUAPpaposineapoessiwa| ç
+8h 00T'69 8h '00T'69 8h 00T'69 8h'00T'69 8h 00T'69 81 00T'69 81'00T'69 O13EIPaW| OUAWIBINJES Was SONJaWIEJLpiy apenat|
+TY'700'ShE TT'T00'ShE TT1'C00'ShE T1'c0O0ShE |TITOOSVE |TITOOSVE TT'T00'ShE OaUBNUWIS OJUaWEINJE! WIOI BPpEZIFEWLIOJUI eINHAT| T
+SIWN L SIWN .9 SIWN .S E mwM_MOS_.:MM SIWN .E SIW .T SIWN.T OVÍVNIWINOSIA W3
+1l OXINV
+OYIIONVNITF-OJIS|Id VINVYOONONO
+SVOOVTIV 3A OLNIINVINVS 3A VIHNVdINO9
+SVODVIV 3A OAVI1SALTOZ/07 OLVYLNOO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Í V/S oBSSIWA ;
+j epebonpy L t
+ON)SBI ap-'o) aIaI BJeUAN -. - 2.
+(
+V
+00SOT'TT8'8 80T60'SEL 80T60'seL — T80T6OSELZ [80T6SOSEL — [80THO'SEL 7VLOL
+odwes ap “Juena| so wos seyiuejd ap ojuauu ausora oeóezijentsia| TT
+SeJNS| àp SeJO SEP ap oyuasapas a no/a ogóeiogeia | 97
+epenh epeo ap sáejisno ap oesnas no/a oeSesoqgeia | ç&
+SIBJ)SPpeo sequejd ap ogsinasno/a OBSeloqge|; g
+“ISepes/U sISAQUI SOp a SajuaxXIx3 "B1l seg “peo esed odwesag uenaot| &
+6766ELOE 19'919'ST T9'919'ST 19'919'ST 8S5'9T19'ST 19'919'ST esnua| wos esanua a euos apoessiwa| g
+tv9'8h0'EZ6 TL'076'9L TL076'9L TL'076'9L TL'076'9L 7L'076'9L Senneu; saçóeã| sep oeóezieasia | ,
+TSVLELSL Te'9sT'E9 Te'9st'E9 TT'9ST'E9 TT9ST'E9 TT9ST'E9 oBÍe3I| ap oeóezijeny 9
+BS'SP6TTL LTT9T'09 LTT9T'O9 L179TO9 — [L2TT9TOS LTT9TO9 lensepeg oeóesaav| ç
+09L67'9S LVT69V LVyT69V Lvy'T69'V ÁTIRA LVT6SD ONNeusaje oósapua esed euos ap edannua a OESSIWZ v
+06'LO0E'S8O'T TEThh'o6 TETHI'O6 TEThhvOS — |TETHIOS TEThh'O6 O3APpaposineapoessiwa| ç
+VvL's0T'608 8h00T'69 8400T'69 8100T'69 8h00T'69 8h '00T'69 O)eIpawl oquawWesnjes Was soszawWolpiy apenan|
+EESTOOLT'V TTT00'ShE TT1TO0ShE [TITOOShE |TTTOOShE TTY'700'ShE OaUBNUWIS O9UaWIEJNJEY WOI EPezneuwuogur eintaT | q
+1YV10L EETARIAS SIW .TT S3W .OT S3IWN .6 SIW .8
+T&UTSIVOTVA OVYÍVWNIWISOSIA W3
+ 
+ 
+ 
+SVOOVTIV 3A OLNAIWNVINVS 3A VIHNVdiNOO
+SVOSVIV 3A OAVISA
