@@ -51,7 +51,7 @@ def dict_to_array(d,_min_freq= 0,_max_freq = 9999999999999999,_exclude=[]):
     for k in d.keys():
         for freq in range(0,d[k]):
             if  k not in _exclude:                               
-                if ((d[k] >= _min_freq) and (d[k] <= _max_freq)):                                        
+                if ((d[k] >= _min_freq) and (d[k] <= _max_freq)):
                     array.append(k)
                 else:
                     print(str(_min_freq)+" "+str(d[k])+" "+str(_max_freq))                    
@@ -104,7 +104,12 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
                 name = custom_name
             
 
-            fname = str('plots/'+entity_class+'/'+name+'-['+min_label+'-'+max_label+']'+str(exclude))            
+            #We cant add the excluded entities to the filename since there may be characters on the entity whose can't be used as filenaes. Like 's/a', we can't put it in a filename
+            exclude_list = ''
+            if len(exclude) > 0:
+                exclude_list = '[FILTERED]'
+            print("Exclude: "+exclude_list)
+            fname = str('plots/'+entity_class+'/'+entity_class.lower()+'-'+name+'-['+min_label+'-'+max_label+']'+exclude_list)
             print("Generated: "+fname)
             plt.tight_layout(pad=0.1)            
             plt.tick_params(labelsize=4)
@@ -119,7 +124,7 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
 
 
 
-'''
+
 geral = "/home/ndc/repos/TCC/src/contracts/"
 f2015 = "/home/ndc/repos/TCC/src/contracts/2015 - 204 arquivos"
 f2016 = "/home/ndc/repos/TCC/src/contracts/2016 - 1199 arquivos"
@@ -128,18 +133,19 @@ f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
 f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"   
 year =[[f2015,"2015"],[f2016,"2016"],[f2017,"2017"],[f2018,"2018"],[f2019,"2019"],[geral,"todos"]]
 
-year =[[f2017   ,"2017"],[geral,"todos"]]
 
+year =[[geral,"todos"]]
 
 entity_classes = ['ORGANIZACAO','PESSOA','LOCAL','JURISPRUDENCIA','TEMPO','LEGISLACAO']
 for c in entity_classes:
-    for y in year:
-        plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
-        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
-'''
+    for y in year:        
+        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1],exclude=["s/a"])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
+

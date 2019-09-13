@@ -45,4 +45,7 @@ def plot_all(entity_classes, year_label):
                         filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
                         filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
 
-plot_all(entity_classes,[[geral,"todos"]])
+
+temp = "/home/ndc/Desktop/temp"
+#plot_all(entity_classes,[[geral,"todos"]])
+ocr_all(temp)
