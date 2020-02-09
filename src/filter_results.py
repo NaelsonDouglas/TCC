@@ -110,12 +110,15 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
             if len(exclude) > 0:
                 exclude_list = '[FILTERED]'
             print("Exclude: "+exclude_list)
-            fname = str('plots/'+entity_class+'/'+entity_class.lower()+'-'+name+'-['+min_label+'-'+max_label+']'+exclude_list)
+            fname = str('plots/'+entity_class+'/'+name.upper()+'-['+min_label+'-'+max_label+']'+exclude_list)
             print("Generated: "+fname)
-            #plt.tight_layout(pad=0.1)            
+            plt.tight_layout(pad=0)            
             #plt.tick_params(labelsize=4)
-            plt.savefig(fname,dpi=200)   
-            lsize = round(len(labels)/10)
+            plt.savefig(fname,dpi=500)   
+            amount_labels = len(labels)
+            yticks_size = 15
+            if amount_labels > 10:
+                yticks_size = round(amount_labels/7)
             plt.tick_params(axis='y', which='major', labelsize=8)
         else:   
            plt.show()
@@ -136,15 +139,16 @@ f2018 = "/home/ndc/repos/TCC/src/contracts/2018 - 771 arquivos"
 f2019 = "/home/ndc/repos/TCC/src/contracts/2019 - 417 arquivos"   
 year =[[f2015,"2015"],[f2016,"2016"],[f2017,"2017"],[f2018,"2018"],[f2019,"2019"],[geral,"todos"]]
 
+year =[[f2015,"2015"],[f2016,"2016"],[f2017,"2017"],[f2018,"2018"],[f2019,"2019"]]
 
-year =[[geral,"todos"]]
 
 entity_classes = ['ORGANIZACAO','PESSOA','LOCAL','JURISPRUDENCIA','TEMPO','LEGISLACAO']
 for c in entity_classes:
     for y in year:        
-        plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1],exclude=["s/a"])
+        #plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1],exclude=["s/a"])
         #plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
         #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
+        plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=300,custom_name = y[1])
         #plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
         #plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])
         #plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])

@@ -30,20 +30,20 @@ def tag_all(year):
 
 def plot_all(entity_classes, year_label):
         for y in year_label:
-                for c in entity_classes:                
-                        print('\n')
+                for c in entity_classes:                        
                         print(str(c)+' '+str(y))
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
-                        #WHen the min_freq == 1 sometimes the NLP framework catchs a scape word inside the text and goes wild
-                        #try:
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=20,max_freq=200,custom_name = y[1])
+                        try:
                                 #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=10,custom_name = y[1])
                                 #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=2,custom_name = y[1])
-
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=800,custom_name = y[1])
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
-                        filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
+                                filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=1,max_freq=300,custom_name = y[1])                                
+                        except:
+                                print("Whatever")
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=5,max_freq=10,custom_name = y[1])                        
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=200,max_freq=350,custom_name = y[1])
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_Preq=800,custom_name = y[1])
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=10,max_freq=300,custom_name = y[1])
+                        #filter_results.plot_entityFreq(y[0],entity_class=c,min_freq=150,max_freq=350,custom_name = y[1])
 
 
 temp = "/home/ndc/Desktop/temp"
