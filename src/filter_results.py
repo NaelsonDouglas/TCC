@@ -88,6 +88,7 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
         
         plt.barh(range(len(j)), labels, align='center',color='cornflowerblue')
         plt.yticks(range(len(j)), list(j.keys()))
+        
 
         min_label = "="
         max_label = "="
@@ -111,9 +112,11 @@ def plot_entityFreq(directory=tags_parent_dir,entity_class = "PESSOA",min_freq=1
             print("Exclude: "+exclude_list)
             fname = str('plots/'+entity_class+'/'+entity_class.lower()+'-'+name+'-['+min_label+'-'+max_label+']'+exclude_list)
             print("Generated: "+fname)
-            plt.tight_layout(pad=0.1)            
-            plt.tick_params(labelsize=4)
-            plt.savefig(fname,dpi=200)                         
+            #plt.tight_layout(pad=0.1)            
+            #plt.tick_params(labelsize=4)
+            plt.savefig(fname,dpi=200)   
+            lsize = round(len(labels)/10)
+            plt.tick_params(axis='y', which='major', labelsize=8)
         else:   
            plt.show()
         plt.cla()
